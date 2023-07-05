@@ -68,7 +68,7 @@ if __name__ == '__main__':
     }
 
     year = None
-    while not year:
+    while year == None:
         yearIn = input('Please input a year of anime you want (ie. 2023)\n')
         try:
             year = int(yearIn)
@@ -77,7 +77,7 @@ if __name__ == '__main__':
             continue
 
     seasonNum = None
-    while not seasonNum:
+    while seasonNum == None:
         print('Please select a season of anime (0-3):')
         for s in seasons:
             print(f' - {s}: {seasons[s]}')
