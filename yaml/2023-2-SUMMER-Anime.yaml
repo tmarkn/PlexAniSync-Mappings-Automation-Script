@@ -14,12 +14,17 @@
   seasons:
     - season: 1
       anilist-id: 162893
-- title: "BLEACH: Thousand-Year Blood War - The Separation"
+# Bleach is weird...
+# the first 16 seasons in thetvdb is season 1 on Anilist
+- title: "Bleach"
   synonyms:
-    - "BLEACH: Thousand Year Blood War Part 2"
-    - "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan"
+    - "BLEACH"
   seasons:
     - season: 1
+      anilist-id: 269
+    - season: 17
+      anilist-id: 116674
+    - season: 18
       anilist-id: 159322
 - title: "BanG Dream! It's MyGO!!!!!"
   seasons:
@@ -103,6 +108,7 @@
   synonyms:
     - "Mono no Gatari"
     - "Mononogatari"
+    - "Malevolent Spirits"
   seasons:
     - season: 1
       anilist-id: 141785
@@ -116,13 +122,16 @@
       anilist-id: 21857
     - season: 2
       anilist-id: 146953
-- title: "Mushoku Tensei: Jobless Reincarnation Cour 2"
+- title: "Mushoku Tensei: Jobless Reincarnation"
   synonyms:
-    - "Mushoku Tensei: Jobless Reincarnation Part 2"
-    - "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2"
+    - "Mushoku Tensei"
+    - "Mushoku Tensei: Isekai Ittara Honki Dasu"
   seasons:
     - season: 1
+      anilist-id: 108465
+    - season: 1
       anilist-id: 127720
+      start: 12
     - season: 2
       anilist-id: 146065
 - title: "My Happy Marriage"
@@ -137,7 +146,6 @@
     - "Story of a Small Senior in My Company"
     - "My Company's Small Senpai"
     - "My Tiny Senpai From Work"
-    - "A Veterana Pitica da Firma"
     - "Uchi no Kaisha no Chiisai Senpai no Hanashi"
   seasons:
     - season: 1
@@ -191,9 +199,13 @@
   seasons:
     - season: 1
       anilist-id: 150972
-- title: "Shadowverse Flame: Seven Shadows-hen"
+- title: "Shadowverse"
   seasons:
     - season: 1
+      anilist-id: 112325
+    - season: 2
+      anilist-id: 140085
+    - season: 3
       anilist-id: 163136
 - title: "Spy Classroom"
   synonyms:
@@ -218,13 +230,14 @@
       anilist-id: 153339
 - title: "TenPuru"
   synonyms:
+    - "TenPuru -No One Can Live on Loneliness-"
+    - "No one can live on loneliness"
     - "Temple"
   seasons:
     - season: 1
       anilist-id: 160447
 - title: "The Devil is a Part-Timer!"
   synonyms:
-    - "Raja Iblis Nyambi!"
     - "Hataraku Maou-sama!"
   seasons:
     - season: 1
