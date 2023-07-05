@@ -1,317 +1,318 @@
-- title: "AYAKA"
-  seasons:
-    - season: 1
-      anilist-id: 155982
-- title: "Am I Actually the Strongest?"
-  synonyms:
-    - "Jitsu wa Ore, Saikyou Deshita?"
-  seasons:
-    - season: 1
-      anilist-id: 154391
-- title: "Atelier Ryza: Ever Darkness & the Secret Hideout The Animation"
-  synonyms:
-    - "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega"
-  seasons:
-    - season: 1
-      anilist-id: 162893
-# Bleach is weird...
-# the first 16 seasons in thetvdb is season 1 on Anilist
-- title: "Bleach"
-  synonyms:
-    - "BLEACH"
-  seasons:
-    - season: 1
-      anilist-id: 269
-    - season: 17
-      anilist-id: 116674
-    - season: 18
-      anilist-id: 159322
-- title: "BanG Dream! It's MyGO!!!!!"
-  seasons:
-    - season: 1
-      anilist-id: 163571
-- title: "Bungo Stray Dogs"
-  synonyms:
-    - "Bungou Stray Dogs"
-  seasons:
-    - season: 1
-      anilist-id: 21311
-    - season: 2
-      anilist-id: 21679
-    - season: 3
-      anilist-id: 103223
-    - season: 4
-      anilist-id: 141249
-    - season: 5
-      anilist-id: 163263
-- title: "Cardfight!! Vanguard overDress"
-  synonyms:
-    - "Cardfight!! Vanguard: overDress"
-  seasons:
-    - season: 1
-      anilist-id: 121962
-    - season: 2
-      anilist-id: 128827
-    - season: 3
-      anilist-id: 139212
-    - season: 4
-      anilist-id: 139213
-    - season: 5
-      anilist-id: 150970
-- title: "Classroom for Heroes"
-  synonyms:
-    - "Eiyuu Kyoushitsu"
-  seasons:
-    - season: 1
-      anilist-id: 139606
-- title: "Dark Gathering"
-  seasons:
-    - season: 1
-      anilist-id: 152802
-- title: "Helck"
-  seasons:
-    - season: 1
-      anilist-id: 145140
-- title: "Horimiya: The Missing Pieces"
-  synonyms:
-    - "Horimiya -piece-"
-  seasons:
-    - season: 1
-      anilist-id: 163132
-- title: "Hyakushou Kizoku"
-  seasons:
-    - season: 1
-      anilist-id: 155971
-- title: "JUJUTSU KAISEN"
-  synonyms:
-    - "JJK"
-    - "Jujutsu Kaisen"
-  seasons:
-    - season: 1
-      anilist-id: 113415
-    - season: 2
-      anilist-id: 145064
-- title: "Level 1 Demon Lord and One Room Hero"
-  synonyms:
-    - "Lv1 Demon Lord and One Room Hero"
-    - "Lv1 Maou to One Room Yuusha"
-  seasons:
-    - season: 1
-      anilist-id: 146836
-- title: "Liar, Liar"
-  synonyms:
-    - "Liar Liar"
-  seasons:
-    - season: 1
-      anilist-id: 131863
-- title: "Malevolent Spirits: Mononogatari"
-  synonyms:
-    - "Mono no Gatari"
-    - "Mononogatari"
-    - "Malevolent Spirits"
-  seasons:
-    - season: 1
-      anilist-id: 141785
-    - season: 2
-      anilist-id: 163205
-- title: "Masamune-kun's Revenge"
-  synonyms:
-    - "Masamune-kun no Revenge"
-  seasons:
-    - season: 1
-      anilist-id: 21857
-    - season: 2
-      anilist-id: 146953
-- title: "Mushoku Tensei: Jobless Reincarnation"
-  synonyms:
-    - "Mushoku Tensei"
-    - "Mushoku Tensei: Isekai Ittara Honki Dasu"
-  seasons:
-    - season: 1
-      anilist-id: 108465
-    - season: 1
-      anilist-id: 127720
-      start: 12
-    - season: 2
-      anilist-id: 146065
-- title: "My Happy Marriage"
-  synonyms:
-    - "WataKon"
-    - "Watashi no Shiawase na Kekkon"
-  seasons:
-    - season: 1
-      anilist-id: 147103
-- title: "My Tiny Senpai"
-  synonyms:
-    - "Story of a Small Senior in My Company"
-    - "My Company's Small Senpai"
-    - "My Tiny Senpai From Work"
-    - "Uchi no Kaisha no Chiisai Senpai no Hanashi"
-  seasons:
-    - season: 1
-      anilist-id: 155730
-- title: "My Unique Skill Makes Me OP even at Level 1"
-  synonyms:
-    - "Level 1 dakedo Unique Skill de Saikyou desu"
-  seasons:
-    - season: 1
-      anilist-id: 148465
-- title: "Reborn as a Vending Machine, I Now Wander the Dungeon"
-  synonyms:
-    - "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou"
-  seasons:
-    - season: 1
-      anilist-id: 153360
-- title: "Reign of the Seven Spellblades"
-  synonyms:
-    - "Seven Magic Swords Rule"
-    - "Nanatsu no Maken ga Shihai Suru"
-  seasons:
-    - season: 1
-      anilist-id: 142598
-- title: "Rent-a-Girlfriend"
-  synonyms:
-    - "I'd like to Borrow a Girlfriend"
-    - "Kanokari"
-    - "Kanojo, Okarishimasu"
-  seasons:
-    - season: 1
-      anilist-id: 113813
-    - season: 2
-      anilist-id: 124410
-    - season: 3
-      anilist-id: 154745
-- title: "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
-  synonyms:
-    - "Rurouni Kenshin (2023)"
-  seasons:
-    - season: 1
-      anilist-id: 142877
-- title: "SYNDUALITY Noir"
-  seasons:
-    - season: 1
-      anilist-id: 154643
-- title: "Saint Cecilia and Pastor Lawrence"
-  synonyms:
-    - "The White Holy Woman and the Black Priest"
-    - "White Saint and Black Pastor"
-    - "Shiro Seijo to Kuro Bokushi"
-  seasons:
-    - season: 1
-      anilist-id: 150972
-- title: "Shadowverse"
-  seasons:
-    - season: 1
-      anilist-id: 112325
-    - season: 2
-      anilist-id: 140085
-    - season: 3
-      anilist-id: 163136
-- title: "Spy Classroom"
-  synonyms:
-    - "Spy Room"
-    - "Spy Kyoushitsu"
-  seasons:
-    - season: 1
-      anilist-id: 146323
-    - season: 2
-      anilist-id: 163542
-- title: "Sugar Apple Fairy Tale"
-  seasons:
-    - season: 1
-      anilist-id: 139821
-    - season: 2
-      anilist-id: 163079
-- title: "Sweet Reincarnation"
-  synonyms:
-    - "Okashi na Tensei"
-  seasons:
-    - season: 1
-      anilist-id: 153339
-- title: "TenPuru"
-  synonyms:
-    - "TenPuru -No One Can Live on Loneliness-"
-    - "No one can live on loneliness"
-    - "Temple"
-  seasons:
-    - season: 1
-      anilist-id: 160447
-- title: "The Devil is a Part-Timer!"
-  synonyms:
-    - "Hataraku Maou-sama!"
-  seasons:
-    - season: 1
-      anilist-id: 15809
-    - season: 2
-      anilist-id: 130592
-    - season: 3
-      anilist-id: 155168
-- title: "The Dreaming Boy is a Realist"
-  synonyms:
-    - "My Dreamy Realist"
-    - "Yumemiru Danshi wa Genjitsushugisha"
-  seasons:
-    - season: 1
-      anilist-id: 157397
-- title: "The Duke of Death and His Maid"
-  synonyms:
-    - "Shinigami Bocchan to Kuro Maid"
-  seasons:
-    - season: 1
-      anilist-id: 129277
-    - season: 2
-      anilist-id: 139435
-- title: "The Gene of AI"
-  synonyms:
-    - "AI no Idenshi"
-  seasons:
-    - season: 1
-      anilist-id: 158530
-- title: "The Girl I Like Forgot Her Glasses"
-  synonyms:
-    - "Sukinako ga Megane wo Wasureta"
-    - "Sukimega"
-    - "Suki na Ko ga Megane wo Wasureta"
-  seasons:
-    - season: 1
-      anilist-id: 160188
-- title: "The Great Cleric"
-  synonyms:
-    - "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi"
-  seasons:
-    - season: 1
-      anilist-id: 155418
-- title: "The Masterful Cat is Depressed Again Today"
-  synonyms:
-    - "DekiNeko"
-    - "Dekiru Neko wa Kyou mo Yuuutsu"
-  seasons:
-    - season: 1
-      anilist-id: 149883
-- title: "The Most Heretical Last Boss Queen: From Villainess to Savior"
-  synonyms:
-    - "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu."
-  seasons:
-    - season: 1
-      anilist-id: 156040
-- title: "Undead Murder Farce"
-  synonyms:
-    - "Undead Girl Murder Farce"
-  seasons:
-    - season: 1
-      anilist-id: 162983
-- title: "YOHANE THE PARHELION -SUNSHINE in the MIRROR"
-  synonyms:
-    - "YOHANE THE PARHELION -SUNSHINE in the MIRROR-"
-    - "Genjitsu no Yohane: SUNSHINE in the MIRROR"
-  seasons:
-    - season: 1
-      anilist-id: 151513
-- title: "Zom 100: Bucket List of the Dead"
-  synonyms:
-    - "Zombie 100 ~100 Things I Want to do Before I Become a Zombie~"
-    - "Zombie 100 ~Zombie ni Naru Made ni Shitai 100 no Koto~"
-    - "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto"
-  seasons:
-    - season: 1
-      anilist-id: 159831
+entries:
+  - title: "AYAKA"
+    seasons:
+      - season: 1
+        anilist-id: 155982
+  - title: "Am I Actually the Strongest?"
+    synonyms:
+      - "Jitsu wa Ore, Saikyou Deshita?"
+    seasons:
+      - season: 1
+        anilist-id: 154391
+  - title: "Atelier Ryza: Ever Darkness & the Secret Hideout The Animation"
+    synonyms:
+      - "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega"
+    seasons:
+      - season: 1
+        anilist-id: 162893
+  # Bleach is weird...
+  # the first 16 seasons in thetvdb is season 1 on Anilist
+  - title: "Bleach"
+    synonyms:
+      - "BLEACH"
+    seasons:
+      - season: 1
+        anilist-id: 269
+      - season: 17
+        anilist-id: 116674
+      - season: 18
+        anilist-id: 159322
+  - title: "BanG Dream! It's MyGO!!!!!"
+    seasons:
+      - season: 1
+        anilist-id: 163571
+  - title: "Bungo Stray Dogs"
+    synonyms:
+      - "Bungou Stray Dogs"
+    seasons:
+      - season: 1
+        anilist-id: 21311
+      - season: 2
+        anilist-id: 21679
+      - season: 3
+        anilist-id: 103223
+      - season: 4
+        anilist-id: 141249
+      - season: 5
+        anilist-id: 163263
+  - title: "Cardfight!! Vanguard overDress"
+    synonyms:
+      - "Cardfight!! Vanguard: overDress"
+    seasons:
+      - season: 1
+        anilist-id: 121962
+      - season: 2
+        anilist-id: 128827
+      - season: 3
+        anilist-id: 139212
+      - season: 4
+        anilist-id: 139213
+      - season: 5
+        anilist-id: 150970
+  - title: "Classroom for Heroes"
+    synonyms:
+      - "Eiyuu Kyoushitsu"
+    seasons:
+      - season: 1
+        anilist-id: 139606
+  - title: "Dark Gathering"
+    seasons:
+      - season: 1
+        anilist-id: 152802
+  - title: "Helck"
+    seasons:
+      - season: 1
+        anilist-id: 145140
+  - title: "Horimiya: The Missing Pieces"
+    synonyms:
+      - "Horimiya -piece-"
+    seasons:
+      - season: 1
+        anilist-id: 163132
+  - title: "Hyakushou Kizoku"
+    seasons:
+      - season: 1
+        anilist-id: 155971
+  - title: "JUJUTSU KAISEN"
+    synonyms:
+      - "JJK"
+      - "Jujutsu Kaisen"
+    seasons:
+      - season: 1
+        anilist-id: 113415
+      - season: 2
+        anilist-id: 145064
+  - title: "Level 1 Demon Lord and One Room Hero"
+    synonyms:
+      - "Lv1 Demon Lord and One Room Hero"
+      - "Lv1 Maou to One Room Yuusha"
+    seasons:
+      - season: 1
+        anilist-id: 146836
+  - title: "Liar, Liar"
+    synonyms:
+      - "Liar Liar"
+    seasons:
+      - season: 1
+        anilist-id: 131863
+  - title: "Malevolent Spirits: Mononogatari"
+    synonyms:
+      - "Mono no Gatari"
+      - "Mononogatari"
+      - "Malevolent Spirits"
+    seasons:
+      - season: 1
+        anilist-id: 141785
+      - season: 2
+        anilist-id: 163205
+  - title: "Masamune-kun's Revenge"
+    synonyms:
+      - "Masamune-kun no Revenge"
+    seasons:
+      - season: 1
+        anilist-id: 21857
+      - season: 2
+        anilist-id: 146953
+  - title: "Mushoku Tensei: Jobless Reincarnation"
+    synonyms:
+      - "Mushoku Tensei"
+      - "Mushoku Tensei: Isekai Ittara Honki Dasu"
+    seasons:
+      - season: 1
+        anilist-id: 108465
+      - season: 1
+        anilist-id: 127720
+        start: 12
+      - season: 2
+        anilist-id: 146065
+  - title: "My Happy Marriage"
+    synonyms:
+      - "WataKon"
+      - "Watashi no Shiawase na Kekkon"
+    seasons:
+      - season: 1
+        anilist-id: 147103
+  - title: "My Tiny Senpai"
+    synonyms:
+      - "Story of a Small Senior in My Company"
+      - "My Company's Small Senpai"
+      - "My Tiny Senpai From Work"
+      - "Uchi no Kaisha no Chiisai Senpai no Hanashi"
+    seasons:
+      - season: 1
+        anilist-id: 155730
+  - title: "My Unique Skill Makes Me OP even at Level 1"
+    synonyms:
+      - "Level 1 dakedo Unique Skill de Saikyou desu"
+    seasons:
+      - season: 1
+        anilist-id: 148465
+  - title: "Reborn as a Vending Machine, I Now Wander the Dungeon"
+    synonyms:
+      - "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou"
+    seasons:
+      - season: 1
+        anilist-id: 153360
+  - title: "Reign of the Seven Spellblades"
+    synonyms:
+      - "Seven Magic Swords Rule"
+      - "Nanatsu no Maken ga Shihai Suru"
+    seasons:
+      - season: 1
+        anilist-id: 142598
+  - title: "Rent-a-Girlfriend"
+    synonyms:
+      - "I'd like to Borrow a Girlfriend"
+      - "Kanokari"
+      - "Kanojo, Okarishimasu"
+    seasons:
+      - season: 1
+        anilist-id: 113813
+      - season: 2
+        anilist-id: 124410
+      - season: 3
+        anilist-id: 154745
+  - title: "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
+    synonyms:
+      - "Rurouni Kenshin (2023)"
+    seasons:
+      - season: 1
+        anilist-id: 142877
+  - title: "SYNDUALITY Noir"
+    seasons:
+      - season: 1
+        anilist-id: 154643
+  - title: "Saint Cecilia and Pastor Lawrence"
+    synonyms:
+      - "The White Holy Woman and the Black Priest"
+      - "White Saint and Black Pastor"
+      - "Shiro Seijo to Kuro Bokushi"
+    seasons:
+      - season: 1
+        anilist-id: 150972
+  - title: "Shadowverse"
+    seasons:
+      - season: 1
+        anilist-id: 112325
+      - season: 2
+        anilist-id: 140085
+      - season: 3
+        anilist-id: 163136
+  - title: "Spy Classroom"
+    synonyms:
+      - "Spy Room"
+      - "Spy Kyoushitsu"
+    seasons:
+      - season: 1
+        anilist-id: 146323
+      - season: 2
+        anilist-id: 163542
+  - title: "Sugar Apple Fairy Tale"
+    seasons:
+      - season: 1
+        anilist-id: 139821
+      - season: 2
+        anilist-id: 163079
+  - title: "Sweet Reincarnation"
+    synonyms:
+      - "Okashi na Tensei"
+    seasons:
+      - season: 1
+        anilist-id: 153339
+  - title: "TenPuru"
+    synonyms:
+      - "TenPuru -No One Can Live on Loneliness-"
+      - "No one can live on loneliness"
+      - "Temple"
+    seasons:
+      - season: 1
+        anilist-id: 160447
+  - title: "The Devil is a Part-Timer!"
+    synonyms:
+      - "Hataraku Maou-sama!"
+    seasons:
+      - season: 1
+        anilist-id: 15809
+      - season: 2
+        anilist-id: 130592
+      - season: 3
+        anilist-id: 155168
+  - title: "The Dreaming Boy is a Realist"
+    synonyms:
+      - "My Dreamy Realist"
+      - "Yumemiru Danshi wa Genjitsushugisha"
+    seasons:
+      - season: 1
+        anilist-id: 157397
+  - title: "The Duke of Death and His Maid"
+    synonyms:
+      - "Shinigami Bocchan to Kuro Maid"
+    seasons:
+      - season: 1
+        anilist-id: 129277
+      - season: 2
+        anilist-id: 139435
+  - title: "The Gene of AI"
+    synonyms:
+      - "AI no Idenshi"
+    seasons:
+      - season: 1
+        anilist-id: 158530
+  - title: "The Girl I Like Forgot Her Glasses"
+    synonyms:
+      - "Sukinako ga Megane wo Wasureta"
+      - "Sukimega"
+      - "Suki na Ko ga Megane wo Wasureta"
+    seasons:
+      - season: 1
+        anilist-id: 160188
+  - title: "The Great Cleric"
+    synonyms:
+      - "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi"
+    seasons:
+      - season: 1
+        anilist-id: 155418
+  - title: "The Masterful Cat is Depressed Again Today"
+    synonyms:
+      - "DekiNeko"
+      - "Dekiru Neko wa Kyou mo Yuuutsu"
+    seasons:
+      - season: 1
+        anilist-id: 149883
+  - title: "The Most Heretical Last Boss Queen: From Villainess to Savior"
+    synonyms:
+      - "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu."
+    seasons:
+      - season: 1
+        anilist-id: 156040
+  - title: "Undead Murder Farce"
+    synonyms:
+      - "Undead Girl Murder Farce"
+    seasons:
+      - season: 1
+        anilist-id: 162983
+  - title: "YOHANE THE PARHELION -SUNSHINE in the MIRROR"
+    synonyms:
+      - "YOHANE THE PARHELION -SUNSHINE in the MIRROR-"
+      - "Genjitsu no Yohane: SUNSHINE in the MIRROR"
+    seasons:
+      - season: 1
+        anilist-id: 151513
+  - title: "Zom 100: Bucket List of the Dead"
+    synonyms:
+      - "Zombie 100 ~100 Things I Want to do Before I Become a Zombie~"
+      - "Zombie 100 ~Zombie ni Naru Made ni Shitai 100 no Koto~"
+      - "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto"
+    seasons:
+      - season: 1
+        anilist-id: 159831

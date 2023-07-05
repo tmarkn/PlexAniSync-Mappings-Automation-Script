@@ -15,15 +15,15 @@ class anilistEntry:
         self.synonyms = []
         self.seasons = dict()
     def __repr__(self) -> str:
-        string = f'- title: "{self.title}"\n'
+        string = f'  - title: "{self.title}"\n'
         if len(self.synonyms):
-            string += '  synonyms:\n'
+            string += '    synonyms:\n'
             for syn in self.synonyms:
-                string += f'    - "{syn}"\n'
-        string += '  seasons:\n'
+                string += f'      - "{syn}"\n'
+        string += '    seasons:\n'
         for season in self.seasons:
-            string += f'    - season: {season}\n'
-            string += f'      anilist-id: {self.seasons[season]}\n'
+            string += f'      - season: {season}\n'
+            string += f'        anilist-id: {self.seasons[season]}\n'
         return string
 
 

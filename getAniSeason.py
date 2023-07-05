@@ -98,8 +98,9 @@ if __name__ == '__main__':
     anilist.sort(key=lambda x: x.title)
 
     ## export output
-    output = ''.join([str(a) for a in anilist])
+    output = 'entries:\n'
+    output += ''.join([str(a) for a in anilist])
     print(output)
     ## write to file
-    with open(f'yaml/{year}-{seasonNum}-{seasons[seasonNum]}-Anime.yaml', 'w', encoding='utf-8') as f:
+    with open(f'yaml/{year}-{seasonNum}-{seasons[seasonNum]}-Anime1.yaml', 'w', encoding='utf-8') as f:
         f.write(output)
