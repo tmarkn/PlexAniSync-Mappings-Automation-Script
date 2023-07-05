@@ -15,6 +15,8 @@ The program has only been tested on Python 3.11.0. Other versions may have varyi
 
 ## How to use
 
+### Running manually
+
 First, clone the repository with the green button in the top right hand side where it says ```<> Code```. Then install the requirements above.
 
 Single Entry:
@@ -28,6 +30,20 @@ Entire Season:
 * Run the script by using ```python getAniSeason.py``` then following the prompts.
 * The script will automatically retrieve prequels ***seasons*** if it can detect them.
 * This can be disabled by setting ```getPrequel=False``` at the end of ```getAniSeasonData()``` function.
+
+### Importing
+
+For full information, [read this section](https://github.com/RickDB/PlexAniSync#community-mappings).
+
+Example `custom_mappings.yaml` with [The Movie Database](https://www.themoviedb.org/), which is the default provider using the built-in Plex agent:
+
+```yaml notranslate position-relative overflow-auto
+remote-urls:
+  - https://raw.githubusercontent.com/tmarkn/PlexAniSync-Mappings-Automation-Script/main/yaml/2023-0-WINTER-Anime.yaml
+  - https://raw.githubusercontent.com/tmarkn/PlexAniSync-Mappings-Automation-Script/main/yaml/2023-1-SPRING-Anime.yaml
+  - https://raw.githubusercontent.com/tmarkn/PlexAniSync-Mappings-Automation-Script/main/yaml/2023-2-SUMMER-Anime.yaml
+```
+
 
 ## How to contribute
 
