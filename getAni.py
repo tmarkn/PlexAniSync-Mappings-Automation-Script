@@ -1,12 +1,13 @@
+import json
 import re
 import requests
 from bs4 import BeautifulSoup as bs
 from thefuzz import fuzz
 from urllib import parse
 
-anilistExp = re.compile(r'\/anime\/([0-9]+)')
-seasonExp1 = re.compile(r'([0-9]+)(?:st|nd|rd|th) Season')
-seasonExp2 = re.compile(r'Season ([0-9]+)')
+anilistExp = re.compile(r'\/anime\/([0-9]+)', re.IGNORECASE)
+seasonExp1 = re.compile(r'([0-9]+)(?:st|nd|rd|th) Season', re.IGNORECASE)
+seasonExp2 = re.compile(r'Season ([0-9]+)', re.IGNORECASE)
 romajiExp = re.compile(r'([aeiou]|[bkstgzdnhpmr]{1,2}[aeiou]|(?:sh|ch|j|ts|f|y|w|k)(?:y[auo]|[aeiou])|n|\W|[0-9])+', re.IGNORECASE)
 
 class anilistEntry:
@@ -15,11 +16,11 @@ class anilistEntry:
         self.synonyms = []
         self.seasons = dict()
     def __repr__(self) -> str:
-        string = f'  - title: "{self.title}"\n'
+        string = f'  - title: {json.dumps(self.title)}\n'
         if len(self.synonyms):
             string += '    synonyms:\n'
             for syn in self.synonyms:
-                string += f'      - "{syn}"\n'
+                string += f'      - {json.dumps(syn)}\n'
         string += '    seasons:\n'
         for season in self.seasons:
             string += f'      - season: {season}\n'
@@ -100,20 +101,17 @@ def getAniData(url: str, getPrequel: bool = False) -> anilistEntry:
     
         for syn in synList:
             synTitle = syn.text.strip()
-            # check if is english characters
-            if not synTitle.isascii():
-                continue
             # check fuzzy match or romaji
             if fuzz.ratio(synTitle, engName) > 30 or fuzz.ratio(synTitle, romajiName) > 30 or romajiExp.fullmatch(synTitle):
                 alEntry.synonyms.append(synTitle)
-
+            
             # check for season number in synonyms
             search = seasonExp1.search(synTitle)
             if search is not None:
-                season = max(int(search.groups()[0]), season)
+                season = max(int(search.group(1)), season)
             search2 = seasonExp2.search(synTitle)
             if search2 is not None:
-                season = max(int(search2.groups()[0]), season)
+                season = max(int(search2.group(1)), season)
 
     ## add Romaji as synonym
     ## check if different from English name
