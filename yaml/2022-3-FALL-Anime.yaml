@@ -34,6 +34,9 @@ entries:
     synonyms:
       - "Princess of the Bibliophile"
       - "Mushikaburi-hime"
+    seasons:
+      - season: 1
+        anilist-id: 144533
   - title: "Bleach"
     synonyms:
       - "BLEACH"
@@ -42,9 +45,6 @@ entries:
         anilist-id: 269
       - season: 17
         anilist-id: 116674
-    seasons:
-      - season: 1
-        anilist-id: 144533
   - title: "BOCCHI THE ROCK!"
     synonyms:
       - "Bocchi the Rock!"
