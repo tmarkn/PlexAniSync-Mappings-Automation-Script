@@ -34,9 +34,16 @@ entries:
       - season: 4
         anilist-id: 131681
         start: 17
-  - title: "Bakugan: Evolutions"
+  - title: "Bakugan: Battle Planet"
+    synonyms:
+      - "Bakugan"
+      - "Bakugan Battle Planet"
     seasons:
       - season: 1
+        anilist-id: 108852
+      - season: 2
+        anilist-id: 116415
+      - season: 3
         anilist-id: 146885
   - title: "CUE!"
     seasons:
