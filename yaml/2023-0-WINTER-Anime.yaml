@@ -139,7 +139,10 @@ entries:
       - season: 3
         anilist-id: 112124
       - season: 4
+        anilist-id: 129196
+      - season: 4
         anilist-id: 155211
+        start: 12
   - title: "Kaina of the Great Snow Sea"
     synonyms:
       - "Ooyukiumi no Kaina"
