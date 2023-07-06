@@ -1,12 +1,17 @@
 import json
 import re
 import requests
+import roman
+import sys
 from bs4 import BeautifulSoup as bs
 from thefuzz import fuzz
 from urllib import parse
 
+sys.stdout.reconfigure(encoding='utf-8')
+
 anilistExp = re.compile(r'\/?anime\/([0-9]+)', re.IGNORECASE)
 seasonExp = re.compile(r'(?:([0-9]+)(?:st|nd|rd|th) Season)|(?:Season ([0-9]+))|(?:Part ([0-9])+)|(?:Cour ([0-9]+))', re.IGNORECASE)
+endNumExp = re.compile(r'[a-z0-9 ]+ ((?:(?:[0-9]+)$)|(?:(?=[MDCLXVI])M*(?:C[MD]|D?C{0,3})(?:X[CL]|L?X{0,3})(?:I[XV]|V?I{0,3})$))', re.IGNORECASE)
 romajiExp = re.compile(r'([aeiou]|[bkstgzdnhpmr]{1,2}[aeiou]|(?:sh|ch|j|ts|f|y|w|k)(?:y[auo]|[aeiou])|n|\W|[0-9])+', re.IGNORECASE)
 
 class anilistEntry:
@@ -15,11 +20,13 @@ class anilistEntry:
         self.synonyms = []
         self.seasons = []
     def __repr__(self) -> str:
-        string = f'  - title: {json.dumps(self.title)}\n'
+        title = self.title.replace('"', '\\"')
+        string = f'  - title: "{title}"\n'
         if len(self.synonyms):
             string += '    synonyms:\n'
             for syn in self.synonyms:
-                string += f'      - {json.dumps(syn)}\n'
+                synonym = syn.replace('"', '\\"')
+                string += f'      - "{synonym}"\n'
         string += '    seasons:\n'
         for season in self.seasons:
             string += f'      - season: {season[0]}\n'
@@ -35,6 +42,8 @@ def first(iterable, func=lambda L: L is not None, **kwargs):
 def getAniData(url: str, getPrequel: bool = False) -> anilistEntry:
     season = 1
     anilistId = None
+    endNum = None
+    matchPercentage = 30
     ## check valid link
     parsed_uri = parse.urlparse(url)
     
@@ -90,6 +99,22 @@ def getAniData(url: str, getPrequel: bool = False) -> anilistEntry:
     search = seasonExp.search(romajiName)
     if search is not None:
         season = max(int(first(search.groups())), season)
+    
+    ## check for ending number
+    search2 = endNumExp.search(engName)
+    if search2 is not None:
+        try:
+            endNum = int(first(search2.groups())) or endNum
+        except ValueError:
+            ## roman numeral
+            endNum = roman.fromRoman(first(search2.groups()).upper()) or endNum
+    search2 = endNumExp.search(romajiName)
+    if search2 is not None:
+        try:
+            endNum = int(first(search2.groups())) or endNum
+        except ValueError:
+            ## roman numeral
+            endNum = roman.fromRoman(first(search2.groups()).upper()) or endNum
 
     ## create new entry 
     alEntry = anilistEntry(engName)
@@ -101,33 +126,46 @@ def getAniData(url: str, getPrequel: bool = False) -> anilistEntry:
     
         for syn in synList:
             synTitle = syn.text.strip()
-            # check fuzzy match or romaji
-            if fuzz.ratio(synTitle, engName) > 50 or fuzz.ratio(synTitle, romajiName) > 50 or romajiExp.fullmatch(synTitle):
+            # check fuzzy match or romaji (only ascii characters)
+            if synTitle.isascii() and (fuzz.ratio(synTitle, engName) > matchPercentage or fuzz.ratio(synTitle, romajiName) > matchPercentage or romajiExp.fullmatch(synTitle)):
                 alEntry.synonyms.append(synTitle)
             
             # check for season number in synonyms
             search = seasonExp.search(synTitle)
             if search is not None:
                 season = max(int(first(search.groups())), season)
+            
+            # check for ending number in synonyms
+            search2 = endNumExp.search(synTitle)
+            if search2 is not None:
+                try:
+                    endNum = int(first(search2.groups())) or endNum
+                except ValueError:
+                    ## roman numeral
+                    endNum = roman.fromRoman(first(search2.groups()).upper()) or endNum
 
     ## add Romaji as synonym
     ## check if different from English name
     if romajiName != engName:
         alEntry.synonyms.append(romajiName)
 
-    alEntry.seasons.append((season, anilistId))
+    alEntry.seasons.append((season, anilistId, endNum))
 
     ## recursively find the prequels until the first season
     if getPrequel == True:
-        if season > 1:
+        if season > 1 or endNum:
             ## find link of prequel
-            link = soup.find('div', string="Prequel").find_parent('a', {'class': 'cover'}, href=True)['href']
-            fullLink = 'https://anilist.co' + link
-            ## get prequel entry and append
-            newAlEntry = getAniData(url=fullLink, getPrequel=True) 
-            newAlEntry.seasons.extend(alEntry.seasons)
+            linkParent = soup.find('div', string="Prequel")
+            if linkParent:
+                link = linkParent.find_parent('a', {'class': 'cover'}, href=True)['href']
+                fullLink = 'https://anilist.co' + link
+                ## get prequel entry and append
+                newAlEntry = getAniData(url=fullLink, getPrequel=True) 
+                newAlEntry.seasons.extend(alEntry.seasons)
 
-            return newAlEntry
+                return newAlEntry
+            ## no prequels
+            return alEntry
 
     ## no prequels
     return alEntry
