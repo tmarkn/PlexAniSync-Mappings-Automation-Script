@@ -14,7 +14,7 @@ seasonExp = re.compile(r'(?:([0-9]+)(?:st|nd|rd|th) Season)|(?:Season ([0-9]+))|
 endNumExp = re.compile(r'[a-z0-9 ]+ ((?:(?:[0-9]+)$)|(?:(?=[MDCLXVI])M*(?:C[MD]|D?C{0,3})(?:X[CL]|L?X{0,3})(?:I[XV]|V?I{0,3})$))', re.IGNORECASE)
 romajiExp = re.compile(r'([aeiou]|[bkstgzdnhpmr]{1,2}[aeiou]|(?:sh|ch|j|ts|f|y|w|k)(?:y[auo]|[aeiou])|n|\W|[0-9])+', re.IGNORECASE)
 
-class anilistEntry:
+class AnilistEntry:
     def __init__(self, title: str) -> None:
         self.title = title
         self.synonyms = []
@@ -39,7 +39,7 @@ def first(iterable, func=lambda L: L is not None, **kwargs):
         return next(it, kwargs['default'])
     return next(it) # no default so raise `StopIteration`
 
-def getAniData(url: str, getPrequel: bool = False) -> anilistEntry:
+def getAniData(url: str, getPrequel: bool = False) -> AnilistEntry:
     season = 1
     anilistId = None
     endNum = None
@@ -117,7 +117,7 @@ def getAniData(url: str, getPrequel: bool = False) -> anilistEntry:
             endNum = roman.fromRoman(first(search2.groups()).upper()) or endNum
 
     ## create new entry 
-    alEntry = anilistEntry(engName)
+    alEntry = AnilistEntry(engName)
 
     ## find synoynms
     synHeader = soup.find('div', {'class': 'type'}, string='Synonyms')
