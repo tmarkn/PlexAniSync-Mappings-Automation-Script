@@ -25,8 +25,9 @@ entries:
         anilist-id: 269
       - season: 17
         anilist-id: 116674
-      - season: 18
+      - season: 17
         anilist-id: 159322
+        start: 14
   - title: "BanG Dream! It's MyGO!!!!!"
     seasons:
       - season: 1
