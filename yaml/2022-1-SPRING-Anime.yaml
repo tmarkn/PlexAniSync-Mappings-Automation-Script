@@ -85,9 +85,19 @@ entries:
     seasons:
       - season: 1
         anilist-id: 132351
-  - title: "Duel Masters King MAX"
+  - title: "Duel Masters (2017)"
     seasons:
       - season: 1
+        anilist-id: 98378
+      - season: 2
+        anilist-id: 101425
+      - season: 3
+        anilist-id: 113242
+      - season: 4
+        anilist-id: 118630
+      - season: 5
+        anilist-id: 130584
+      - season: 6
         anilist-id: 146865
   - title: "Fanfare of Adolescence"
     synonyms:
