@@ -106,20 +106,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 143653
-  - title: "Kaiketsu Zorori"
-    synonyms:
-      - "Incredible Zorori"
-    seasons:
-      - season: 1
-        anilist-id: 3638
-      - season: 2
-        anilist-id: 2707
-      - season: 3
-        anilist-id: 116793
-      - season: 4
-        anilist-id: 126835
-      - season: 5
-        anilist-id: 140787
   - title: "KamiKatsu: Working for God in a Godless World"
     synonyms:
       - "What God Does in a World Without Gods"

@@ -143,6 +143,18 @@ entries:
         anilist-id: 112641
       - season: 3
         anilist-id: 125367
+  - title: "Kaiketsu Zorori"
+    synonyms:
+      - "Incredible Zorori"
+    seasons:
+      - season: 1
+        anilist-id: 3638
+      - season: 2
+        anilist-id: 2707
+      - season: 3
+        anilist-id: 116793
+      - season: 4
+        anilist-id: 126835
   - title: "Kingdom"
     seasons:
       - season: 1
@@ -200,16 +212,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 135384
-  - title: "Motto! Majime ni Fumajime Kaiketsu Zorori"
-    synonyms:
-      - "More! Seriously Unserious Incredible Zorori"
-    seasons:
-      - season: 1
-        anilist-id: 116793
-      - season: 2
-        anilist-id: 126835
-      - season: 3
-        anilist-id: 140787
   - title: "RPG Real Estate"
     synonyms:
       - "RPG Fudousan"
