@@ -1,4 +1,2 @@
-beautifulsoup4==4.12.2
 roman==4.1
-selenium==4.10.0
 thefuzz==0.19.0

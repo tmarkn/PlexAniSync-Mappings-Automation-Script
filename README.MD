@@ -4,7 +4,7 @@ This is a web-scraping script for [custom-mappings](https://github.com/RickDB/Pl
 
 The script is not 100% accurate with mappings and each mapping may need to be adjusted. This is meant to be a baseline to start from.
 
-The script uses Selenium and BeautifulSoup4 to retrieve info from [Anilist.co](https://anilist.co).
+The script uses the [Anilist.co](https://anilist.co) API. [API Documentation can be found here.](https://anilist.gitbook.io/anilist-apiv2-docs/)
 
 ## Requirements
 
