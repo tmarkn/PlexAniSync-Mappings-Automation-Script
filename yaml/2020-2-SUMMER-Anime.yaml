@@ -1,0 +1,125 @@
+entries:
+  - title: "DECA-DENCE"
+    synonyms:
+      - "Deca-Dence"
+    seasons:
+      - season: 1
+        anilist-id: 110353
+  - title: "Fire Force"
+    synonyms:
+      - "Enen no Shouboutai"
+    seasons:
+      - season: 1
+        anilist-id: 105310
+      - season: 2
+        anilist-id: 114236
+  - title: "GIBIATE"
+    synonyms:
+      - "Gibiate"
+    seasons:
+      - season: 1
+        anilist-id: 110446
+  - title: "Lapis Re:LiGHTs"
+    seasons:
+      - season: 1
+        anilist-id: 104937
+  - title: "Monster Girl Doctor"
+    synonyms:
+      - "Monster Musume no Oisha-san"
+    seasons:
+      - season: 1
+        anilist-id: 113286
+  - title: "Mr Love: Queen's Choice"
+    synonyms:
+      - "Love and Producer"
+      - "Koi to Producer: EVOL×LOVE"
+    seasons:
+      - season: 1
+        anilist-id: 110371
+  - title: "Muhyo & Roji's Bureau of Supernatural Investigation"
+    synonyms:
+      - "Muhyo to Rouji no Mahouritsu Soudan Jimusho"
+    seasons:
+      - season: 1
+        anilist-id: 101340
+      - season: 2
+        anilist-id: 110028
+  - title: "My Teen Romantic Comedy SNAFU"
+    synonyms:
+      - "Oregairu"
+      - "My youth romantic comedy is wrong as I expected."
+      - "Yahari Ore no Seishun Love Come wa Machigatteiru."
+    seasons:
+      - season: 1
+        anilist-id: 14813
+      - season: 2
+        anilist-id: 20698
+      - season: 3
+        anilist-id: 108489
+  - title: "No Guns Life"
+    seasons:
+      - season: 1
+        anilist-id: 108478
+      - season: 2
+        anilist-id: 112803
+  - title: "Re:ZERO -Starting Life in Another World-"
+    synonyms:
+      - "Re: Life in a different world from zero"
+      - "ReZero"
+      - "Re Zero"
+      - "Re:Zero kara Hajimeru Isekai Seikatsu"
+    seasons:
+      - season: 1
+        anilist-id: 21355
+      - season: 2
+        anilist-id: 108632
+  - title: "Rent-a-Girlfriend"
+    synonyms:
+      - "I'd like to Borrow a Girlfriend"
+      - "Kanokari"
+      - "Kanojo, Okarishimasu"
+    seasons:
+      - season: 1
+        anilist-id: 113813
+  - title: "SUPER HXEROS"
+    synonyms:
+      - "Dokyuu Hentai HxEros"
+    seasons:
+      - season: 1
+        anilist-id: 112818
+  - title: "Sword Art Online"
+    synonyms:
+      - "SAO"
+    seasons:
+      - season: 1
+        anilist-id: 11757
+      - season: 2
+        anilist-id: 20594
+      - season: 3
+        anilist-id: 100182
+      - season: 4
+        anilist-id: 108759
+      - season: 4
+        anilist-id: 114308
+        start: 13
+  - title: "The God of High School"
+    synonyms:
+      - "The God of Highschool"
+      - "THE GOD OF HIGH SCHOOL"
+    seasons:
+      - season: 1
+        anilist-id: 116006
+  - title: "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants"
+    synonyms:
+      - "Maou Gakuin no Futekigousha"
+      - "The Misfit of Demon King Academy"
+      - "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
+    seasons:
+      - season: 1
+        anilist-id: 112301
+  - title: "Uzaki-chan Wants to Hang Out!"
+    synonyms:
+      - "Uzaki-chan wa Asobitai!"
+    seasons:
+      - season: 1
+        anilist-id: 115113
