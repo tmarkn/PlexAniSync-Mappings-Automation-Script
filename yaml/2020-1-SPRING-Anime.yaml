@@ -1,0 +1,298 @@
+entries:
+  - title: "APPARE-RANMAN!"
+    synonyms:
+      - "Appare Ranman!"
+      - "Appare-Ranman!"
+    seasons:
+      - season: 1
+        anilist-id: 112444
+  - title: "ARGONAVIS from BanG Dream!"
+    synonyms:
+      - "ARGONAVIS from Bandori!"
+    seasons:
+      - season: 1
+        anilist-id: 113051
+  - title: "Arte"
+    seasons:
+      - season: 1
+        anilist-id: 110547
+  - title: "Ascendance of a Bookworm"
+    synonyms:
+      - "Ascendance of a Bookworm: I'll do anything to become a librarian"
+      - "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
+    seasons:
+      - season: 1
+        anilist-id: 108268
+      - season: 2
+        anilist-id: 113693
+  - title: "Bakugan: Battle Planet"
+    synonyms:
+      - "Bakugan Battle Planet"
+    seasons:
+      - season: 1
+        anilist-id: 108852
+      - season: 2
+        anilist-id: 116415
+  - title: "Bungo and Alchemist -Gears of Judgement-"
+    synonyms:
+      - "Literary Greats and Alchemists: The Gears of Judgment"
+      - "Bungou to Alchemist: Shinpan no Haguruma"
+    seasons:
+      - season: 1
+        anilist-id: 114411
+  - title: "Cardfight!! Vanguard Extra Story -if-"
+    synonyms:
+      - "Cardfight!! Vanguard Gaiden: if"
+    seasons:
+      - season: 1
+        anilist-id: 115656
+  - title: "Diary of Our Days at the Breakwater"
+    synonyms:
+      - "Houkago Teibou Nisshi"
+    seasons:
+      - season: 1
+        anilist-id: 109019
+  - title: "Digimon Adventure:"
+    seasons:
+      - season: 1
+        anilist-id: 114811
+  - title: "Duel Masters (2017)"
+    seasons:
+      - season: 1
+        anilist-id: 98378
+      - season: 2
+        anilist-id: 101425
+      - season: 3
+        anilist-id: 113242
+      - season: 4
+        anilist-id: 118630
+  - title: "Food Wars!"
+    synonyms:
+      - "Food Wars! The First Plate"
+      - "Shokugeki no Souma"
+    seasons:
+      - season: 1
+        anilist-id: 20923
+      - season: 2
+        anilist-id: 21518
+      - season: 3
+        anilist-id: 99255
+      - season: 3
+        anilist-id: 100773
+        start: 13
+      - season: 4
+        anilist-id: 109963
+      - season: 5
+        anilist-id: 114043
+  - title: "Fruits Basket (2019)"
+    synonyms:
+      - "Fruits Basket (Zenpen)"
+      - "Furuba"
+      - "Fruba"
+      - "Fruits Basket: 1st Season"
+    seasons:
+      - season: 1
+        anilist-id: 105334
+      - season: 2
+        anilist-id: 111762
+  - title: "Gal & Dino"
+    synonyms:
+      - "GAL and Dinosaur"
+      - "Gyaru and Dinosaur"
+      - "Gal to Kyouryuu"
+    seasons:
+      - season: 1
+        anilist-id: 111323
+  - title: "Genie Family 2020"
+    synonyms:
+      - "The Genie Family 2020"
+      - "Hakushon Daimaou 2020"
+    seasons:
+      - season: 1
+        anilist-id: 114402
+  - title: "Gleipnir"
+    seasons:
+      - season: 1
+        anilist-id: 108241
+  - title: "IDOLiSH7"
+    seasons:
+      - season: 1
+        anilist-id: 87495
+      - season: 2
+        anilist-id: 103110
+  - title: "Kaguya-sama: Love is War"
+    synonyms:
+      - "Kaguya Wants to be Confessed To: The Geniuses' War of Love and Brains"
+      - "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
+      - "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen"
+    seasons:
+      - season: 1
+        anilist-id: 101921
+      - season: 2
+        anilist-id: 112641
+  - title: "Kaiketsu Zorori"
+    synonyms:
+      - "Incredible Zorori"
+    seasons:
+      - season: 1
+        anilist-id: 3638
+      - season: 2
+        anilist-id: 2707
+      - season: 3
+        anilist-id: 116793
+  - title: "Kakushigoto"
+    seasons:
+      - season: 1
+        anilist-id: 113311
+  - title: "Kingdom"
+    seasons:
+      - season: 1
+        anilist-id: 12031
+      - season: 2
+        anilist-id: 17389
+      - season: 3
+        anilist-id: 113108
+  - title: "Kiratto Pri☆chan"
+    synonyms:
+      - "Kiratto Pri☆Chan"
+    seasons:
+      - season: 1
+        anilist-id: 101097
+      - season: 2
+        anilist-id: 108625
+      - season: 3
+        anilist-id: 113990
+  - title: "Listeners"
+    synonyms:
+      - "LISTENERS"
+    seasons:
+      - season: 1
+        anilist-id: 109856
+  - title: "MAJOR 2nd"
+    seasons:
+      - season: 1
+        anilist-id: 100306
+      - season: 2
+        anilist-id: 112302
+  - title: "Mewkledreamy"
+    seasons:
+      - season: 1
+        anilist-id: 111310
+  - title: "My Next Life as a Villainess: All Routes Lead to Doom!"
+    synonyms:
+      - "I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags.."
+      - "Hamefura"
+      - "Hamehura"
+      - "Bakarina"
+      - "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…"
+    seasons:
+      - season: 1
+        anilist-id: 104647
+  - title: "Oshiri Tantei"
+    seasons:
+      - season: 1
+        anilist-id: 100790
+      - season: 2
+        anilist-id: 132694
+      - season: 3
+        anilist-id: 132695
+      - season: 4
+        anilist-id: 132696
+  - title: "Princess Connect! Re:Dive"
+    synonyms:
+      - "Priconne"
+    seasons:
+      - season: 1
+        anilist-id: 107871
+  - title: "SING \"YESTERDAY\" FOR ME"
+    synonyms:
+      - "Sing Yesterday for Me"
+      - "Yesterday wo Utatte"
+    seasons:
+      - season: 1
+        anilist-id: 109020
+  - title: "Sakura Wars the Animation"
+    synonyms:
+      - "New Sakura Wars"
+      - "Shin Sakura Taisen the Animation"
+    seasons:
+      - season: 1
+        anilist-id: 111500
+  - title: "Shachibato! President, It's Time for Battle!"
+    synonyms:
+      - "Shachou, Battle no Jikan desu!"
+    seasons:
+      - season: 1
+        anilist-id: 113570
+  - title: "Shadowverse"
+    seasons:
+      - season: 1
+        anilist-id: 112325
+  - title: "Shironeko Project ZERO CHRONICLE"
+    synonyms:
+      - "Shironeko Project: ZERO CHRONICLE"
+    seasons:
+      - season: 1
+        anilist-id: 110458
+  - title: "TAMAYOMI: The Baseball Girls"
+    synonyms:
+      - "Tamayomi"
+    seasons:
+      - season: 1
+        anilist-id: 110130
+  - title: "The 8th Son? Are You Kidding Me?"
+    synonyms:
+      - "Hachi-nan tte, Sore wa Nai deshou!"
+    seasons:
+      - season: 1
+        anilist-id: 106319
+  - title: "The Millionaire Detective - Balance: UNLIMITED"
+    synonyms:
+      - "Fugou Keiji: Balance:UNLIMITED"
+    seasons:
+      - season: 1
+        anilist-id: 114888
+  - title: "Tomica Kizuna Mode Combine Earth Granner"
+    synonyms:
+      - "Tomica Bond Combination: Earth Granner"
+      - "Tomica Kizuna Gattai: Earth Granner"
+      - "Tomika Kizuna Gattai: Earth Granner"
+    seasons:
+      - season: 1
+        anilist-id: 114717
+  - title: "Tower of God"
+    synonyms:
+      - "Kami no Tou"
+      - "Kami no Tou: Tower of God"
+    seasons:
+      - season: 1
+        anilist-id: 115230
+  - title: "Tsugumomo"
+    seasons:
+      - season: 1
+        anilist-id: 97625
+      - season: 1
+        anilist-id: 108266
+  - title: "Watanuki-san Chi no"
+    seasons:
+      - season: 1
+        anilist-id: 115142
+      - season: 1
+        anilist-id: 115654
+  - title: "Wave, Listen to Me!"
+    synonyms:
+      - "Born to Be On Air!"
+      - "Nami yo Kiitekure"
+    seasons:
+      - season: 1
+        anilist-id: 112353
+  - title: "Woodpecker Detective’s Office"
+    synonyms:
+      - "Kitsutsuki Tantei Dokoro"
+    seasons:
+      - season: 1
+        anilist-id: 108629
+  - title: "Yu☆Gi☆Oh! SEVENS"
+    seasons:
+      - season: 1
+        anilist-id: 114072
