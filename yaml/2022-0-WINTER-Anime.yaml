@@ -44,6 +44,8 @@ entries:
       - season: 2
         anilist-id: 116415
       - season: 3
+        anilist-id: 131096
+      - season: 4
         anilist-id: 146885
   - title: "CUE!"
     seasons:
