@@ -68,6 +68,8 @@ entries:
       - season: 1
         anilist-id: 131182
   - title: "Golden Kamuy"
+    synonyms:
+      - "Golden Kamui"
     seasons:
       - season: 1
         anilist-id: 99699
