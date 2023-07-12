@@ -61,12 +61,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 152523
-  - title: "D4DJ Double Mix"
+  - title: "D4DJ First Mix"
     synonyms:
-      - "Dig Delight Direct Drive DJ Double Mix"
+      - "D4DJ"
+      - "Dig Delight Direct Drive DJ"
     seasons:
       - season: 1
-        anilist-id: 146321
+        anilist-id: 115069
       - season: 2
         anilist-id: 147216
   - title: "DON'T TOY WITH ME, MISS NAGATORO"
