@@ -82,6 +82,7 @@ entries:
         anilist-id: 21698
       - season: 4
         anilist-id: 106625
+        start: 14
   - title: "Hatena Illusion"
     synonyms:
       - "Hatena☆Illusion"
@@ -136,6 +137,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104051
+      - season: 2
+        anilist-id: 117002
+      - season: 3
+        anilist-id: 136080
   - title: "Nekopara"
     seasons:
       - season: 1
@@ -185,6 +190,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101367
+      - season: 2
+        anilist-id: 117085
   - title: "The Case Files of Jeweler Richard"
     synonyms:
       - "Housekishou Richard-shi no Nazo Kantei"
@@ -209,13 +216,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113472
-  - title: "number24"
+  - title: "Number 24"
     synonyms:
-      - "Number 24"
+      - "number 24"
     seasons:
       - season: 1
         anilist-id: 108628
-  - title: "pet"
+  - title: "Pet"
+    synonyms: 
+      - "pet"
     seasons:
       - season: 1
         anilist-id: 101350
