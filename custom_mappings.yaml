@@ -77,6 +77,19 @@ entries:
         anilist-id: 107651
       - season: 2
         anilist-id: 111145
+  - title: "Ace of the Diamond"
+    synonyms:
+      - "Ace of Diamond"
+      - "Daiya no A"
+      - "Daiya no Ace"
+      - "Diamond no Ace"
+    seasons:
+      - season: 1
+        anilist-id: 18689
+      - season: 2
+        anilist-id: 21085
+      - season: 3
+        anilist-id: 105749
   - title: "Actors: Songs Connection"
     synonyms:
       - "ACTORS: Songs Connection"
@@ -105,6 +118,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104115
+  - title: "AFTERLOST"
+    synonyms:
+      - "Shoumetsu Toshi"
+    seasons:
+      - season: 1
+        anilist-id: 101814
   - title: "Aharen-san wa Hakarenai"
     synonyms:
       - "Aharen Is Indecipherable"
@@ -116,6 +135,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101239
+  - title: "Aikatsu Friends!"
+    seasons:
+      - season: 1
+        anilist-id: 101043
+      - season: 2
+        anilist-id: 107447
   - title: "Aikatsu on Parade!"
     seasons:
       - season: 1
@@ -316,6 +341,14 @@ entries:
         anilist-id: 131096
       - season: 4
         anilist-id: 146885
+  - title: "BAKUMATSU"
+    synonyms:
+      - "BAKUMATSU: Renai Bakumatsu Kareshi Gaiden"
+    seasons:
+      - season: 1
+        anilist-id: 101373
+      - season: 2
+        anilist-id: 106568
   - title: "BanG Dream!"
     synonyms:
       - "Bandori"
@@ -585,6 +618,13 @@ entries:
         anilist-id: 139213
       - season: 5
         anilist-id: 150970
+  - title: "Carole & Tuesday"
+    synonyms:
+      - "C&T"
+      - "Carole and Tuesday"
+    seasons:
+      - season: 1
+        anilist-id: 101281
   - title: "Case File nº221: Kabukicho"
     synonyms:
       - "Kabukichou Sherlock"
@@ -652,6 +692,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 144858
+  - title: "Cinderella Nine"
+    synonyms:
+      - "Hachigatsu no Cinderella Nine"
+    seasons:
+      - season: 1
+        anilist-id: 104989
   - title: "Classroom for Heroes"
     synonyms:
       - "Eiyuu Kyoushitsu"
@@ -1254,6 +1300,14 @@ entries:
         anilist-id: 114446
       - season: 2
         anilist-id: 131149
+  - title: "Hitoribocchi no Marumaruseikatsu"
+    synonyms:
+      - "Bocchi Seikatsu"
+      - "Hitoribocchi"
+      - "Hitoribocchi no Marumaru Seikatsu"
+    seasons:
+      - season: 1
+        anilist-id: 101386
   - title: "Horimiya"
     seasons:
       - season: 1
@@ -1585,6 +1639,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 110810
+  - title: "Kedama no Gonjirou"
+    seasons:
+      - season: 1
+        anilist-id: 108734
   - title: "Keep Your Hands Off Eizouken!"
     synonyms:
       - "Don't mess with the Motion Picture Club!"
@@ -1607,6 +1665,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 107339
+  - title: "King of Prism: Shiny Seven Stars"
+    synonyms:
+      - "KING OF PRISM -Shiny Seven Stars-"
+    seasons:
+      - season: 1
+        anilist-id: 103870
   - title: "KING's RAID: Successors of the Will"
     synonyms:
       - "King's Raid: Ishi wo Tsugumonotachi"
@@ -1936,12 +2000,28 @@ entries:
         anilist-id: 111310
       - season: 2
         anilist-id: 130777
+  - title: "Midnight Occult Civil Servants"
+    synonyms:
+      - "Mayonaka no Occult Koumuin"
+    seasons:
+      - season: 1
+        anilist-id: 102939
   - title: "Mieruko-chan"
     synonyms:
       - "Girl That Can See It"
     seasons:
       - season: 1
         anilist-id: 131083
+  - title: "Million Arthur"
+    synonyms:
+      - "Hangyaku-sei Million Arthur"
+      - "Hangyakusei Million Arthur"
+      - "Operation Han-Gyaku-Sei Million Arthur"
+    seasons:
+      - season: 1
+        anilist-id: 101359
+      - season: 2
+        anilist-id: 104071
   - title: "Miss Kobayashi's Dragon Maid"
     synonyms:
       - "Kobayashi-san Chi no Maid Dragon"
@@ -1965,9 +2045,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 135384
-  - title: "MIX"
+  - title: "MIX: MEISEI STORY"
     synonyms:
-      - "MIX: MEISEI STORY"
+      - "MIX"
     seasons:
       - season: 1
         anilist-id: 103555
@@ -1981,6 +2061,13 @@ entries:
         anilist-id: 101338
       - season: 3
         anilist-id: 140439
+  - title: "Mobile Suit Gundam: The Origin - Advent of the Red Comet"
+    synonyms:
+      - "Kidou Senshi Gundam: THE ORIGIN - Zenya Akai Suisei"
+      - "Mobile Suit Gundam: The Origin (TV)"
+    seasons:
+      - season: 1
+        anilist-id: 108039
   - title: "Mobile Suit Gundam: The Witch from Mercury"
     synonyms:
       - "Kidou Senshi Gundam: Suisei no Majo"
@@ -2190,6 +2277,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 148465
+  - title: "Namuamidabutsu! -UTENA-"
+    synonyms:
+      - "Namu Amida Butsu!: Rendai UTENA"
+    seasons:
+      - season: 1
+        anilist-id: 104212
   - title: "Nekopara"
     seasons:
       - season: 1
@@ -2259,6 +2352,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128547
+  - title: "One-Punch Man"
+    synonyms:
+      - "OPM"
+      - "One Punch Man"
+      - "Wanpanman"
+    seasons:
+      - season: 1
+        anilist-id: 21087
+      - season: 2
+        anilist-id: 97668
   - title: "ONIMAI: I'm Now Your Sister!"
     synonyms:
       - "Onii-chan is Done For!"
@@ -2598,6 +2701,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 155202
+  - title: "RobiHachi"
+    seasons:
+      - season: 1
+        anilist-id: 105928
   - title: "Rokudo's Bad Girls"
     synonyms:
       - "Rokudou no Akujo-tachi"
@@ -2683,6 +2790,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 140502
+  - title: "Sarazanmai"
+    seasons:
+      - season: 1
+        anilist-id: 101261
   - title: "Sasaki and Miyano"
     synonyms:
       - "Sasaki to Miyano"
@@ -3379,6 +3490,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 122807
+  - title: "The Helpful Fox Senko-san"
+    synonyms:
+      - "Sewayaki Kitsune no Senko-san"
+    seasons:
+      - season: 1
+        anilist-id: 105914
   - title: "The Hidden Dungeon Only I Can Enter"
     synonyms:
       - "Ore dake Haireru Kakushi Dungeon"
@@ -3811,6 +3928,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 109964
+  - title: "Ultramarine Magmell"
+    synonyms:
+      - "Gunjou no Magmell"
+      - "Magmel of the Sea Blue"
+    seasons:
+      - season: 1
+        anilist-id: 101597
   - title: "Umamusume: Pretty Derby"
     synonyms:
       - "Uma Musume: Pretty Derby"
@@ -3981,6 +4105,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 151847
+  - title: "Wise Man’s Grandchild"
+    synonyms:
+      - "Kenja no Mago"
+      - "Magi's Grandson"
+      - "Philosopher's Grandson"
+      - "The Sage's Grandson"
+      - "The Wise Grandson"
+    seasons:
+      - season: 1
+        anilist-id: 100112
   - title: "WIXOSS DIVA(A)LIVE"
     seasons:
       - season: 1
@@ -4040,6 +4174,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 151513
+  - title: "Youkai Watch ♪"
+    seasons:
+      - season: 1
+        anilist-id: 130445
+      - season: 4
+        anilist-id: 101555
+      - season: 5
+        anilist-id: 108767
   - title: "Yowamushi Pedal Limit Break"
     synonyms:
       - "YowaPeda 5"
@@ -4055,6 +4197,13 @@ entries:
         anilist-id: 99476
       - season: 5
         anilist-id: 142481
+  - title: "YU-NO: A Girl Who Chants Love at the Bound of This World"
+    synonyms:
+      - "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO"
+      - "YU-NO: A girl who chants love at the bound of this world."
+    seasons:
+      - season: 1
+        anilist-id: 97995
   - title: "Yuki Yuna is a Hero: The Hero Chapter"
     synonyms:
       - "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"

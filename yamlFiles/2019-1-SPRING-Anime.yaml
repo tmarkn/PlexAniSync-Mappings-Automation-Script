@@ -1,0 +1,273 @@
+entries:
+  - title: "Ace of the Diamond"
+    synonyms:
+      - "Ace of Diamond"
+      - "Daiya no A"
+      - "Diamond no Ace"
+      - "Daiya no Ace"
+    seasons:
+      - season: 1
+        anilist-id: 18689
+      - season: 2
+        anilist-id: 21085
+      - season: 3
+        anilist-id: 105749
+  - title: "AFTERLOST"
+    synonyms:
+      - "Shoumetsu Toshi"
+    seasons:
+      - season: 1
+        anilist-id: 101814
+  - title: "Aikatsu Friends!"
+    seasons:
+      - season: 1
+        anilist-id: 101043
+      - season: 2
+        anilist-id: 107447
+  - title: "Attack on Titan"
+    synonyms:
+      - "AoT"
+      - "Shingeki no Kyojin"
+    seasons:
+      - season: 1
+        anilist-id: 16498
+      - season: 2
+        anilist-id: 20958
+      - season: 3
+        anilist-id: 99147
+      - season: 3
+        anilist-id: 104578
+        start: 13
+  - title: "Bakugan: Battle Planet"
+    synonyms:
+      - "Bakugan"
+      - "Bakugan Battle Planet"
+    seasons:
+      - season: 1
+        anilist-id: 108852
+  - title: "BAKUMATSU"
+    synonyms:
+      - "BAKUMATSU: Renai Bakumatsu Kareshi Gaiden"
+    seasons:
+      - season: 1
+        anilist-id: 101373
+      - season: 2
+        anilist-id: 106568
+  - title: "Bungo Stray Dogs"
+    synonyms:
+      - "Bungou Stray Dogs"
+    seasons:
+      - season: 1
+        anilist-id: 21311
+      - season: 2
+        anilist-id: 21679
+      - season: 3
+        anilist-id: 103223
+  - title: "Cardfight!! Vanguard"
+    synonyms:
+      - "Cardfight Vanguard"
+    seasons:
+      - season: 1
+        anilist-id: 9539
+      - season: 2
+        anilist-id: 13145
+      - season: 3
+        anilist-id: 15611
+      - season: 4
+        anilist-id: 20564
+      - season: 5
+        anilist-id: 20921
+      - season: 6
+        anilist-id: 21345
+      - season: 7
+        anilist-id: 21664
+      - season: 8
+        anilist-id: 87476
+      - season: 9
+        anilist-id: 99733
+      - season: 10
+        anilist-id: 101594
+      - season: 11
+        anilist-id: 109260
+  - title: "Carole & Tuesday"
+    synonyms:
+      - "C&T"
+      - "Carole and Tuesday"
+    seasons:
+      - season: 1
+        anilist-id: 101281
+  - title: "Cinderella Nine"
+    synonyms:
+      - "Hachigatsu no Cinderella Nine"
+    seasons:
+      - season: 1
+        anilist-id: 104989
+  - title: "Demon Slayer: Kimetsu no Yaiba"
+    synonyms:
+      - "Kimetsu no Yaiba: Kyoudai no Kizuna"
+      - "KnY"
+      - "Kimetsu no Yaiba"
+      - "Demon Slayer: Kimetsu no Yaiba: Bonds of Siblings"
+    seasons:
+      - season: 1
+        anilist-id: 101922
+  - title: "Duel Masters (2017)"
+    seasons:
+      - season: 1
+        anilist-id: 98378
+      - season: 2
+        anilist-id: 101425
+      - season: 3
+        anilist-id: 113242
+  - title: "Fairy gone"
+    synonyms:
+      - "Fairy Gone"
+    seasons:
+      - season: 1
+        anilist-id: 107418
+  - title: "Fruits Basket (2019)"
+    synonyms:
+      - "Fruits Basket: 1st Season"
+      - "Furuba"
+      - "Fruits Basket (Zenpen)"
+      - "Fruba"
+    seasons:
+      - season: 1
+        anilist-id: 105334
+  - title: "Hitoribocchi no Marumaruseikatsu"
+    synonyms:
+      - "Bocchi Seikatsu"
+      - "Hitoribocchi no Marumaru Seikatsu"
+      - "Hitoribocchi"
+    seasons:
+      - season: 1
+        anilist-id: 101386
+  - title: "Kedama no Gonjirou"
+    seasons:
+      - season: 1
+        anilist-id: 108734
+  - title: "King of Prism: Shiny Seven Stars"
+    synonyms:
+      - "KING OF PRISM -Shiny Seven Stars-"
+    seasons:
+      - season: 1
+        anilist-id: 103870
+  - title: "Kiratto Pri☆chan"
+    synonyms:
+      - "Kiratto Pri☆Chan"
+    seasons:
+      - season: 1
+        anilist-id: 101097
+      - season: 2
+        anilist-id: 108625
+  - title: "Kono Oto Tomare!: Sounds of Life"
+    synonyms:
+      - "Stop at this Sound!"
+      - "Kono Oto Tomare!"
+    seasons:
+      - season: 1
+        anilist-id: 103302
+  - title: "Midnight Occult Civil Servants"
+    synonyms:
+      - "Mayonaka no Occult Koumuin"
+    seasons:
+      - season: 1
+        anilist-id: 102939
+  - title: "Million Arthur"
+    synonyms:
+      - "Hangyakusei Million Arthur"
+      - "Operation Han-Gyaku-Sei Million Arthur"
+      - "Hangyaku-sei Million Arthur"
+    seasons:
+      - season: 1
+        anilist-id: 101359
+      - season: 2
+        anilist-id: 104071
+  - title: "MIX: MEISEI STORY"
+    synonyms:
+      - "MIX"
+    seasons:
+      - season: 1
+        anilist-id: 103555
+  - title: "Mobile Suit Gundam: The Origin - Advent of the Red Comet"
+    synonyms:
+      - "Kidou Senshi Gundam: THE ORIGIN - Zenya Akai Suisei"
+      - "Mobile Suit Gundam: The Origin (TV)"
+    seasons:
+      - season: 1
+        anilist-id: 108039
+  - title: "Namuamidabutsu! -UTENA-"
+    synonyms:
+      - "Namu Amida Butsu!: Rendai UTENA"
+    seasons:
+      - season: 1
+        anilist-id: 104212
+  - title: "One-Punch Man"
+    synonyms:
+      - "OPM"
+      - "One Punch Man"
+      - "Wanpanman"
+    seasons:
+      - season: 1
+        anilist-id: 21087
+      - season: 2
+        anilist-id: 97668
+  - title: "RobiHachi"
+    seasons:
+      - season: 1
+        anilist-id: 105928
+  - title: "Sarazanmai"
+    seasons:
+      - season: 1
+        anilist-id: 101261
+  - title: "The Helpful Fox Senko-san"
+    synonyms:
+      - "Sewayaki Kitsune no Senko-san"
+    seasons:
+      - season: 1
+        anilist-id: 105914
+  - title: "Ultramarine Magmell"
+    synonyms:
+      - "Gunjou no Magmell"
+      - "Magmel of the Sea Blue"
+    seasons:
+      - season: 1
+        anilist-id: 101597
+  - title: "Watanuki-san Chi no"
+    seasons:
+      - season: 1
+        anilist-id: 115142
+  - title: "We Never Learn: BOKUBEN"
+    synonyms:
+      - "We Can't Study"
+      - "BokuBen"
+      - "Bokutachi wa Benkyou ga Dekinai"
+      - "Boku-tachi wa Benkyou ga Dekinai"
+    seasons:
+      - season: 1
+        anilist-id: 103900
+  - title: "Wise Man’s Grandchild"
+    synonyms:
+      - "The Sage's Grandson"
+      - "Philosopher's Grandson"
+      - "Magi's Grandson"
+      - "The Wise Grandson"
+      - "Kenja no Mago"
+    seasons:
+      - season: 1
+        anilist-id: 100112
+  - title: "Youkai Watch ♪"
+    seasons:
+      - season: 1
+        anilist-id: 130445
+      - season: 4
+        anilist-id: 101555
+      - season: 5
+        anilist-id: 108767
+  - title: "YU-NO: A Girl Who Chants Love at the Bound of This World"
+    synonyms:
+      - "YU-NO: A girl who chants love at the bound of this world."
+      - "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO"
+    seasons:
+      - season: 1
+        anilist-id: 97995
