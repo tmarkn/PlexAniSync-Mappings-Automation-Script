@@ -12,23 +12,37 @@ romajiExp = re.compile(r'([aeiou]|[bkstgzdnhpmr]{1,2}[aeiou]|(?:sh|ch|j|ts|f|y|w
 
 MATCH_PERCENTAGE = 30
 
+class SeasonEntry:
+    def __init__(self, id: int, seasonNum: int, episodes: int = 0, start: int = 1):
+        self.id = id
+        self.seasonNum = seasonNum
+        self.episodes = episodes
+        self.start = start
+
 class AnilistEntry:
     def __init__(self, title: str) -> None:
         self.title = title
-        self.synonyms = []
-        self.seasons = []
+        self.synonyms = set()
+        self.seasons = {}
     def __repr__(self) -> str:
+        ## title
         title = self.title.replace('"', '\\"')
         string = f'  - title: "{title}"\n'
+        ## synonyms
         if len(self.synonyms):
             string += '    synonyms:\n'
             for syn in self.synonyms:
                 synonym = syn.replace('"', '\\"')
                 string += f'      - "{synonym}"\n'
+        # seasons
         string += '    seasons:\n'
-        for season in self.seasons:
-            string += f'      - season: {season[0]}\n'
-            string += f'        anilist-id: {season[1]}\n'
+        for seasonId in self.seasons:
+            season = self.seasons[seasonId]
+            string += f'      - season: {season.seasonNum}\n'
+            string += f'        anilist-id: {season.id}\n'
+            if season.start > 1:
+                string += f'        start: {season.start}\n'
+        
         return string
 
 def first(iterable, func=lambda L: L is not None, **kwargs):
@@ -80,7 +94,7 @@ def makeEntryFromAnilistData(anilistDict: dict, id: int) -> AnilistEntry:
         synTitle = syn.strip()
         # check fuzzy match or romaji (only ascii characters)
         if synTitle.isascii() and (fuzz.ratio(synTitle, engName) > MATCH_PERCENTAGE or fuzz.ratio(synTitle, romajiName) > MATCH_PERCENTAGE or romajiExp.fullmatch(synTitle)):
-            alEntry.synonyms.append(synTitle)
+            alEntry.synonyms.add(synTitle)
         
         # check for season number in synonyms
         search = seasonExp.search(synTitle)
@@ -90,9 +104,16 @@ def makeEntryFromAnilistData(anilistDict: dict, id: int) -> AnilistEntry:
     ## add Romaji as synonym
     ## check if different from English name
     if romajiName != engName:
-        alEntry.synonyms.append(romajiName)
+        alEntry.synonyms.add(romajiName)
 
-    alEntry.seasons.append((season, id))
+    ## number of episodes
+    numEpisodes = 0
+    if entry['episodes']:
+        numEpisodes = int(entry['episodes']) 
+
+    ## add new season
+    newSeason = SeasonEntry(id, season, episodes=numEpisodes)
+    alEntry.seasons[id] = newSeason
 
     return alEntry
 
@@ -127,8 +148,8 @@ def getAniData(ids: str | int | list, getPrequels: bool = False) -> list:
     if isinstance(ids, int) or isinstance(ids, str):
         anilistIds = [getAnilistId(ids)]
     else:
-        for i in ids:
-            anilistIds.append(getAnilistId(i))
+        for seasonId in ids:
+            anilistIds.append(getAnilistId(seasonId))
 
     ## do requests 
     anilistDict = {}
@@ -137,8 +158,8 @@ def getAniData(ids: str | int | list, getPrequels: bool = False) -> list:
         url = 'https://graphql.anilist.co/'
         q1 = 'query q { '
 
-        for i in queue:
-            q1 += f'id{i}: Media(id: {i}) '
+        for seasonId in queue:
+            q1 += f'id{seasonId}: Media(id: {seasonId}) '
             q1 += '''
                 {
                     id
@@ -146,6 +167,7 @@ def getAniData(ids: str | int | list, getPrequels: bool = False) -> list:
                         romaji
                         english
                     }
+                    episodes
                     format
                     synonyms
                     relations {
@@ -194,9 +216,6 @@ def getAniData(ids: str | int | list, getPrequels: bool = False) -> list:
         
         anilistDict |= newDict       
 
-    print (anilistDict)
-    # print(json.dumps(anilistDict, ensure_ascii=False, indent=4))
-    # return
     anis = []
 
     for id in anilistIds:
@@ -228,17 +247,31 @@ def getAniData(ids: str | int | list, getPrequels: bool = False) -> list:
                             break
                 ## get prequel entry and append
                 if prequelID:
+                    ## prevent circular references
                     if prequelID in visited:
                         break
                     if anilistDict[prequelID]['format'] == "TV":
                         print(prequelID)
+                        ## new entry for prequel
                         newAlEntry = makeEntryFromAnilistData(anilistDict, prequelID)
-                        newAlEntry.seasons.extend(alEntry.seasons)
+                        newAlEntry.seasons |= alEntry.seasons
                         alEntry = newAlEntry
                     currentId = prequelID
                 else:
                     break
         
+        ## update season numbers and start numbers
+        oldSeasonNum = 0
+        previousId = None
+        for seasonId in alEntry.seasons:
+            if alEntry.seasons[seasonId].seasonNum <= oldSeasonNum:
+                ## update season numbers
+                alEntry.seasons[seasonId].seasonNum = oldSeasonNum
+                ## update start numbers
+                alEntry.seasons[seasonId].start = alEntry.seasons[previousId].start + alEntry.seasons[previousId].episodes
+            oldSeasonNum = alEntry.seasons[seasonId].seasonNum
+            previousId = seasonId
+
         ## no prequels
         anis.append(alEntry)
     return anis

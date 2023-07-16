@@ -9,7 +9,7 @@ VALIDSEASONS = {
     3: 'FALL'
 }
 
-def getAniSeasonData(year: int, season: str) -> tuple:
+def getAniSeasonData(year: int, season: str) -> list:
     url = 'https://graphql.anilist.co/'
     query = '''
     query q($season: MediaSeason!, $year: Int){
@@ -38,6 +38,7 @@ def getAniSeasonData(year: int, season: str) -> tuple:
         entries.append(id)
     
     print(entries)
+    ## too many requests ## split into seperate queries
     first = entries[:len(entries)//2]
     second = entries[len(entries)//2:]
     final = getAni.getAniData(first, getPrequels=True) + getAni.getAniData(second, getPrequels=True)
@@ -73,12 +74,12 @@ if __name__ == '__main__':
     ## run script
     anilist = getAniSeasonData(year=year, season=VALIDSEASONS[seasonNum])
     ## sort by English title
-    anilist.sort(key=lambda x: x.title)
+    anilist.sort(key=lambda x: (x.title.casefold(), x.title))
 
     ## export output
     output = 'entries:\n'
     output += ''.join([str(a) for a in anilist])
     print(output)
     ## write to file
-    with open(f'yaml/{year}-{seasonNum}-{VALIDSEASONS[seasonNum]}-Anime.yaml', 'w', encoding='utf-8') as f:
+    with open(f'yamlFiles/{year}-{seasonNum}-{VALIDSEASONS[seasonNum]}-Anime.yaml', 'w', encoding='utf-8') as f:
         f.write(output)
