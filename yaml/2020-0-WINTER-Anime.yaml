@@ -155,15 +155,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112293
-  - title: "Show By Rock!!"
-    synonyms:
-      - "SHOW BY ROCK!!"
+  - title: "Show by Rock!! Mashumairesh!!"
     seasons:
       - season: 1
-        anilist-id: 20843
-      - season: 2
-        anilist-id: 21476
-      - season: 3
         anilist-id: 113470
   - title: "Smile Down the Runway"
     synonyms:
@@ -185,6 +179,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101367
+      - season: 2
   - title: "The Case Files of Jeweler Richard"
     synonyms:
       - "Housekishou Richard-shi no Nazo Kantei"
@@ -209,13 +204,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113472
-  - title: "number24"
+  - title: "Number 24"
     synonyms:
-      - "Number 24"
+      - "number 24"
+      - "number24"
     seasons:
       - season: 1
         anilist-id: 108628
-  - title: "pet"
+  - title: "Pet"
+    synonyms: 
+      - "pet"
     seasons:
       - season: 1
         anilist-id: 101350

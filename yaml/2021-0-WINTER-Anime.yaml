@@ -211,17 +211,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 123785
-  - title: "Show By Rock!!"
-    synonyms:
-      - "SHOW BY ROCK!!"
+  - title: "Show By Rock!! Stars!!"
     seasons:
       - season: 1
-        anilist-id: 20843
-      - season: 2
-        anilist-id: 21476
-      - season: 3
-        anilist-id: 113470
-      - season: 4
         anilist-id: 113476
   - title: "Skate-Leading Stars"
     synonyms:
