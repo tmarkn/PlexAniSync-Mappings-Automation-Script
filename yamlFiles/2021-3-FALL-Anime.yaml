@@ -122,9 +122,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 133965
-  - title: "Lupin ZERO"
+  - title: "Lupin III"
     synonyms:
-      - "LUPIN ZERO"
+      - "Rupan Sansei"
+      - "Lupin the 3rd"
     seasons:
       - season: 1
         anilist-id: 1412

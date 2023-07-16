@@ -33,6 +33,18 @@ entries:
         anilist-id: 108852
       - season: 2
         anilist-id: 116415
+  - title: "Beyblade Burst"
+    seasons:
+      - season: 1
+        anilist-id: 21236
+      - season: 2
+        anilist-id: 98289
+      - season: 3
+        anilist-id: 101115
+      - season: 4
+        anilist-id: 108853
+      - season: 5
+        anilist-id: 116786
   - title: "Bungo and Alchemist -Gears of Judgement-"
     synonyms:
       - "Literary Greats and Alchemists: The Gears of Judgment"

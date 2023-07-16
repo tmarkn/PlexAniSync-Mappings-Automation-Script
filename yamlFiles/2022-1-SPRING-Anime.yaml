@@ -175,6 +175,17 @@ entries:
         anilist-id: 133965
       - season: 2
         anilist-id: 142984
+  - title: "Legend of the Galactic Heroes: Die Neue These"
+    synonyms:
+      - "Ginga Eiyuu Densetsu: Die Neue These - Kaikou"
+      - "Legend of the Galactic Heroes: The New Thesis - Encounter"
+    seasons:
+      - season: 1
+        anilist-id: 20628
+      - season: 2
+        anilist-id: 100780
+      - season: 3
+        anilist-id: 124032
   - title: "Love After World Domination"
     synonyms:
       - "Koiseka"

@@ -66,9 +66,10 @@ entries:
         anilist-id: 103301
   - title: "Forest of Piano"
     synonyms:
-      - "Piano no Mori (TV)"
-      - "The Perfect World of Kai"
       - "Piano Forest"
+      - "The Perfect World of Kai"
+      - "Piano no Mori"
+      - "Piano no Mori (TV)"
     seasons:
       - season: 1
         anilist-id: 100401

@@ -138,6 +138,19 @@ entries:
     seasons:
       - season: 1
         anilist-id: 136150
+  - title: "Legend of the Galactic Heroes: Die Neue These"
+    synonyms:
+      - "Ginga Eiyuu Densetsu: Die Neue These - Kaikou"
+      - "Legend of the Galactic Heroes: The New Thesis - Encounter"
+    seasons:
+      - season: 1
+        anilist-id: 20628
+      - season: 2
+        anilist-id: 100780
+      - season: 3
+        anilist-id: 124032
+      - season: 4
+        anilist-id: 148970
   - title: "Management of a Novice Alchemist"
     synonyms:
       - "Management of Novice Alchemist: Get My Shop!"

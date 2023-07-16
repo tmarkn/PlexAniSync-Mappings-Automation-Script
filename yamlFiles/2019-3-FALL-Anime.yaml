@@ -170,6 +170,15 @@ entries:
         anilist-id: 103302
       - season: 2
         anilist-id: 108891
+  - title: "Legend of the Galactic Heroes: Die Neue These"
+    synonyms:
+      - "Ginga Eiyuu Densetsu: Die Neue These - Kaikou"
+      - "Legend of the Galactic Heroes: The New Thesis - Encounter"
+    seasons:
+      - season: 1
+        anilist-id: 20628
+      - season: 2
+        anilist-id: 100780
   - title: "My Hero Academia"
     synonyms:
       - "Boku no Hero Academia"

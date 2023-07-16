@@ -53,6 +53,16 @@ entries:
         anilist-id: 101373
       - season: 2
         anilist-id: 106568
+  - title: "Beyblade Burst"
+    seasons:
+      - season: 1
+        anilist-id: 21236
+      - season: 2
+        anilist-id: 98289
+      - season: 3
+        anilist-id: 101115
+      - season: 4
+        anilist-id: 108853
   - title: "Bungo Stray Dogs"
     synonyms:
       - "Bungou Stray Dogs"
@@ -256,10 +266,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 100112
-  - title: "Youkai Watch ♪"
+  - title: "Yo-kai Watch"
+    synonyms:
+      - "Youkai Watch"
     seasons:
       - season: 1
-        anilist-id: 130445
+        anilist-id: 19157
       - season: 4
         anilist-id: 101555
       - season: 5
