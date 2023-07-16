@@ -5,6 +5,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 148098
+  - title: "alice gear aegis Expansion"
+    synonyms:
+      - "Alice Gear Aegis Expansion"
+    seasons:
+      - season: 1
+        anilist-id: 144188
   - title: "Ao no Orchestra"
     synonyms:
       - "The Blue Orchestra"
@@ -203,11 +209,36 @@ entries:
     seasons:
       - season: 1
         anilist-id: 150957
-  - title: "Pokémon Horizons: The Series"
+  - title: "Pokémon"
     synonyms:
-      - "Pocket Monsters (2023)"
+      - "Pocket Monsters"
+      - "Pokemon"
     seasons:
       - season: 1
+        anilist-id: 527
+      - season: 6
+        anilist-id: 1564
+      - season: 10
+        anilist-id: 1565
+      - season: 14
+        anilist-id: 9107
+      - season: 15
+        anilist-id: 14093
+      - season: 15
+        anilist-id: 17115
+        start: 25
+      - season: 15
+        anilist-id: 17873
+        start: 39
+      - season: 16
+        anilist-id: 19291
+      - season: 17
+        anilist-id: 21356
+      - season: 18
+        anilist-id: 97634
+      - season: 19
+        anilist-id: 112153
+      - season: 20
         anilist-id: 158871
   - title: "Ranking of Kings"
     synonyms:
@@ -369,9 +400,3 @@ entries:
     seasons:
       - season: 1
         anilist-id: 149028
-  - title: "alice gear aegis Expansion"
-    synonyms:
-      - "Alice Gear Aegis Expansion"
-    seasons:
-      - season: 1
-        anilist-id: 144188

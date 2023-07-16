@@ -15,8 +15,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 162893
-  # Bleach is weird...
-  # the first 16 seasons in thetvdb is season 1 on Anilist
   - title: "Bleach"
     synonyms:
       - "BLEACH"

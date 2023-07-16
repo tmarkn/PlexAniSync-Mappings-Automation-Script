@@ -196,6 +196,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 127412
+  - title: "takt op.Destiny"
+    seasons:
+      - season: 1
+        anilist-id: 131565
   - title: "Tesla Note"
     seasons:
       - season: 1
@@ -265,7 +269,3 @@ entries:
         anilist-id: 97769
       - season: 3
         anilist-id: 122292
-  - title: "takt op.Destiny"
-    seasons:
-      - season: 1
-        anilist-id: 131565

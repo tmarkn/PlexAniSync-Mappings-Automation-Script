@@ -183,12 +183,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 147864
-  # - title: "Pokémon Ultimate Journeys: The Series Part 4"
-  #   synonyms:
-  #     - "Pocket Monsters: Mezase Pokémon Master"
-  #   seasons:
-  #     - season: 1
-  #       anilist-id: 158870
+  - title: "Pokémon: Aim to be a Pokémon Master"
+    synonyms:
+      - "Pokémon Ultimate Journeys: The Series Part 4"
+      - "Pocket Monsters: Mezase Pokémon Master"
+    seasons:
+      - season: 1
+        anilist-id: 158870
   - title: "Reborn to Master the Blade: From Hero-King to Extraordinary Squire"
     synonyms:
       - "Eiyuuou, Bu wo Kiwameru Tame Tenseisu"
