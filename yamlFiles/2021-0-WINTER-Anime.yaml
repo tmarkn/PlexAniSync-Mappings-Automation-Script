@@ -32,8 +32,6 @@ entries:
       - season: 1
         anilist-id: 114307
   - title: "BEASTARS"
-    synonyms:
-      - "BEASTARS - O Lobo Bom"
     seasons:
       - season: 1
         anilist-id: 107660
