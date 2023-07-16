@@ -310,6 +310,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104159
+  - title: "B-PROJECT: Kodou*Ambitious"
+    synonyms:
+      - "B-PROJECT"
+      - "B-Project: Kodo Ambitious"
+      - "B-Project: Kodou Ambitious"
+    seasons:
+      - season: 1
+        anilist-id: 21751
+      - season: 2
+        anilist-id: 100186
   - title: "BABYLON"
     synonyms:
       - "Babylon"
@@ -400,6 +410,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 107876
+  - title: "Bermuda Triangle ~ Colorful Pastorale"
+    synonyms:
+      - "Bermuda Triangle: Colorful Pastrale"
+      - "Colorful Pastrale ~from Bermuda Triangle~"
+    seasons:
+      - season: 1
+        anilist-id: 104102
   - title: "Berserk: The Golden Age Arc - Memorial Edition"
     synonyms:
       - "Berserk: Ougon Jidai-hen - MEMORIAL EDITION"
@@ -479,6 +496,13 @@ entries:
         anilist-id: 106479
       - season: 2
         anilist-id: 116867
+  - title: "Boogiepop and Others"
+    synonyms:
+      - "Boogiepop wa Warawanai"
+      - "Boogiepop wa Warawanai (2019)"
+    seasons:
+      - season: 1
+        anilist-id: 101283
   - title: "Bottom-Tier Character Tomozaki"
     synonyms:
       - "Jaku-Chara Tomozaki-kun"
@@ -698,6 +722,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104989
+  - title: "Circlet Princess"
+    seasons:
+      - season: 1
+        anilist-id: 104008
   - title: "Classroom for Heroes"
     synonyms:
       - "Eiyuu Kyoushitsu"
@@ -839,6 +867,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 137309
+  - title: "Dimension High School"
+    seasons:
+      - season: 1
+        anilist-id: 104750
   - title: "Do It Yourself!!"
     synonyms:
       - "DIY!!"
@@ -854,6 +886,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104723
+  - title: "Domestic Girlfriend"
+    synonyms:
+      - "DomeKano"
+      - "Domestic na Kanojo"
+    seasons:
+      - season: 1
+        anilist-id: 103139
   - title: "DON'T TOY WITH ME, MISS NAGATORO"
     synonyms:
       - "Ijiranaide, Nagatoro-san"
@@ -872,6 +911,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 105228
+  - title: "Dororo"
+    seasons:
+      - season: 1
+        anilist-id: 101347
   - title: "Dr. Ramune -Mysterious Disease Specialist-"
     synonyms:
       - "Kai Byoui Ramune"
@@ -960,6 +1003,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 143064
+  - title: "ENDRO!"
+    synonyms:
+      - "Endro~!"
+    seasons:
+      - season: 1
+        anilist-id: 103301
   - title: "Engage Kiss"
     synonyms:
       - "Project Engage"
@@ -1069,6 +1118,16 @@ entries:
         anilist-id: 109963
       - season: 5
         anilist-id: 114043
+  - title: "Forest of Piano"
+    synonyms:
+      - "Piano Forest"
+      - "Piano no Mori (TV)"
+      - "The Perfect World of Kai"
+    seasons:
+      - season: 1
+        anilist-id: 100401
+      - season: 2
+        anilist-id: 103049
   - title: "Fruits Basket (2019)"
     synonyms:
       - "Fruba"
@@ -1148,6 +1207,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128828
+  - title: "Girly Air Force"
+    seasons:
+      - season: 1
+        anilist-id: 101930
   - title: "given"
     synonyms:
       - "Given"
@@ -1184,6 +1247,12 @@ entries:
         anilist-id: 21361
       - season: 2
         anilist-id: 107346
+  - title: "Grimm's Notes The Animation"
+    synonyms:
+      - "Grimms Notes The Animation"
+    seasons:
+      - season: 1
+        anilist-id: 103735
   - title: "Gunma Chan"
     synonyms:
       - "GUNMACHAN"
@@ -1612,6 +1681,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 144144
+  - title: "Kakegurui"
+    synonyms:
+      - "Kakegurui - Compulsive Gambler"
+      - "Kakegurui: Das Leben ist ein Spiel"
+    seasons:
+      - season: 1
+        anilist-id: 98314
+      - season: 2
+        anilist-id: 100876
   - title: "Kakushigoto"
     seasons:
       - season: 1
@@ -1651,6 +1729,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 109298
+  - title: "Kemono Friends"
+    seasons:
+      - season: 1
+        anilist-id: 87496
+      - season: 2
+        anilist-id: 99624
   - title: "Kemono Jihen"
     synonyms:
       - "Kemono Incidents"
@@ -1665,6 +1749,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 107339
+  - title: "kemurikusa."
+    synonyms:
+      - "Kemurikusa"
+    seasons:
+      - season: 1
+        anilist-id: 101123
   - title: "King of Prism: Shiny Seven Stars"
     synonyms:
       - "KING OF PRISM -Shiny Seven Stars-"
@@ -1935,6 +2025,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 134131
+  - title: "Magical Girl Spec-Ops Asuka"
+    synonyms:
+      - "Mahou Shoujo Tokushusen Asuka"
+    seasons:
+      - season: 1
+        anilist-id: 103222
   - title: "MAJOR 2nd"
     seasons:
       - season: 1
@@ -1994,6 +2090,12 @@ entries:
         anilist-id: 87502
       - season: 2
         anilist-id: 142541
+  - title: "Meiji Tokyo Renka"
+    synonyms:
+      - "Meikoi"
+    seasons:
+      - season: 1
+        anilist-id: 99000
   - title: "Mewkledreamy"
     seasons:
       - season: 1
@@ -2234,6 +2336,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 146234
+  - title: "My Roommate is a Cat"
+    synonyms:
+      - "Doukyonin wa Hiza, Tokidoki, Atama no Ue."
+      - "Hizaue"
+    seasons:
+      - season: 1
+        anilist-id: 103874
   - title: "My Senpai is Annoying"
     synonyms:
       - "Senpai ga Uzai Kouhai no Hanashi"
@@ -2458,6 +2567,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 136707
+  - title: "Pastel Memories"
+    seasons:
+      - season: 1
+        anilist-id: 101379
   - title: "Peach Boy Riverside"
     seasons:
       - season: 1
@@ -2481,6 +2594,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 142095
+  - title: "PILI Fantasy: War of Dragons"
+    synonyms:
+      - "Pili Yingxiong Zhan Ji: Dao Shuo Yi Shu"
+    seasons:
+      - season: 1
+        anilist-id: 110619
   - title: "Platinum End"
     seasons:
       - season: 1
@@ -2628,6 +2747,16 @@ entries:
       - season: 2
         anilist-id: 119661
         start: 14
+  - title: "Real Girl"
+    synonyms:
+      - "3D Girlfriend"
+      - "3D Kanojo: Real Girl"
+      - "Three D Kanojo Real Girl"
+    seasons:
+      - season: 1
+        anilist-id: 100526
+      - season: 2
+        anilist-id: 102882
   - title: "Reborn as a Vending Machine, I Now Wander the Dungeon"
     synonyms:
       - "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou"
@@ -2701,6 +2830,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 155202
+  - title: "Rinshi!! Ekodachan"
+    synonyms:
+      - "Rinshi!! Ekoda-chan"
+    seasons:
+      - season: 1
+        anilist-id: 104009
   - title: "RobiHachi"
     seasons:
       - season: 1
@@ -3107,6 +3242,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104052
+  - title: "Star☆Twinkle Precure"
+    seasons:
+      - season: 1
+        anilist-id: 105857
   - title: "Stella of the Theater: World Dai Star"
     synonyms:
       - "World Dai Star"
@@ -3577,6 +3716,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 153629
+  - title: "The Magnificent KOTOBUKI"
+    synonyms:
+      - "Kouya no Kotobuki Hikoutai"
+    seasons:
+      - season: 1
+        anilist-id: 104253
   - title: "The Maid I Hired Recently is Mysterious"
     synonyms:
       - "Saikin Yatotta Maid ga Ayashii"
@@ -3610,6 +3755,14 @@ entries:
         anilist-id: 112301
       - season: 2
         anilist-id: 130588
+  - title: "The Morose Mononokean"
+    synonyms:
+      - "Fukigen na Mononokean"
+    seasons:
+      - season: 1
+        anilist-id: 21643
+      - season: 2
+        anilist-id: 102949
   - title: "The Most Heretical Last Boss Queen: From Villainess to Savior"
     synonyms:
       - "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu."
@@ -3629,6 +3782,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 102926
+  - title: "The Price of Smiles"
+    synonyms:
+      - "Egao no Daika"
+      - "The Cost of Smiles"
+    seasons:
+      - season: 1
+        anilist-id: 104674
   - title: "The Prince of Tennis II: U-17 World Cup"
     synonyms:
       - "New Prince of Tennis: U-17 WORLD CUP"
@@ -4007,6 +4167,12 @@ entries:
         anilist-id: 101348
       - season: 2
         anilist-id: 136430
+  - title: "VIRTUALSAN - LOOKING"
+    synonyms:
+      - "Virtual-san wa Miteiru"
+    seasons:
+      - season: 1
+        anilist-id: 106433
   - title: "VISUAL PRISON"
     synonyms:
       - "Visual Prison"
@@ -4019,6 +4185,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128546
+  - title: "W'z"
+    seasons:
+      - season: 1
+        anilist-id: 101337
   - title: "Waccha PriMagi!"
     seasons:
       - season: 1
@@ -4053,6 +4223,14 @@ entries:
         anilist-id: 115142
       - season: 1
         anilist-id: 115654
+  - title: "WATATEN!: an Angel Flew Down to Me"
+    synonyms:
+      - "An Angel Swooped Down on Me!"
+      - "Watashi ni Tenshi ga Maiorita!"
+      - "Wataten"
+    seasons:
+      - season: 1
+        anilist-id: 102680
   - title: "WAVE!! -Let's go surfing!!- (TV)"
     synonyms:
       - "WAVE!! Surfing Yappe!! (TV)"
