@@ -759,7 +759,10 @@ entries:
         anilist-id: 104252
   - title: "Demon Slayer: Kimetsu no Yaiba"
     synonyms:
+      - "Demon Slayer: Kimetsu no Yaiba: Bonds of Siblings"
       - "Kimetsu no Yaiba"
+      - "Kimetsu no Yaiba: Kyoudai no Kizuna"
+      - "KnY"
     seasons:
       - season: 1
         anilist-id: 101922
@@ -1852,6 +1855,7 @@ entries:
         anilist-id: 117755
   - title: "Magia Record: Puella Magi Madoka Magica Side Story"
     synonyms:
+      - "Magia Record"
       - "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden"
     seasons:
       - season: 1
@@ -2040,6 +2044,7 @@ entries:
         anilist-id: 110028
   - title: "Mushoku Tensei: Jobless Reincarnation"
     synonyms:
+      - "Jobless Reincarnation: I Will Seriously Try If I Go To Another World"
       - "Mushoku Tensei"
       - "Mushoku Tensei: Isekai Ittara Honki Dasu"
     seasons:
@@ -2483,6 +2488,7 @@ entries:
         anilist-id: 108040
   - title: "Ranking of Kings"
     synonyms:
+      - "King Ranking"
       - "Ousama Ranking"
     seasons:
       - season: 1
@@ -2953,6 +2959,9 @@ entries:
       - season: 2
         anilist-id: 163542
   - title: "SPY x FAMILY"
+    synonyms:
+      - "SPY×FAMILY"
+      - "SxF"
     seasons:
       - season: 1
         anilist-id: 140960
@@ -3474,7 +3483,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 114888
-  - title: "The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants"
+  - title: "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants"
     synonyms:
       - "Maou Gakuin no Futekigousha"
       - "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
@@ -3484,14 +3493,6 @@ entries:
         anilist-id: 112301
       - season: 2
         anilist-id: 130588
-  - title: "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants"
-    synonyms:
-      - "Maou Gakuin no Futekigousha"
-      - "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
-      - "The Misfit of Demon King Academy"
-    seasons:
-      - season: 1
-        anilist-id: 112301
   - title: "The Most Heretical Last Boss Queen: From Villainess to Savior"
     synonyms:
       - "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu."
@@ -4005,6 +4006,13 @@ entries:
         anilist-id: 114087
       - season: 3
         anilist-id: 127400
+  - title: "Y School Heroes"
+    synonyms:
+      - "Yo-kai Gakuen Y: Encounter With N"
+      - "Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu"
+    seasons:
+      - season: 1
+        anilist-id: 113472
   - title: "Ya Boy Kongming!"
     synonyms:
       - "Paripi Kongming"
@@ -4032,12 +4040,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 151513
-  - title: "Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu"
-    synonyms:
-      - "Yo-kai Gakuen Y: Encounter With N"
-    seasons:
-      - season: 1
-        anilist-id: 113472
   - title: "Yowamushi Pedal Limit Break"
     synonyms:
       - "YowaPeda 5"

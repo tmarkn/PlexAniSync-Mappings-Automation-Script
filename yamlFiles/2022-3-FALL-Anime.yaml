@@ -228,6 +228,9 @@ entries:
       - season: 1
         anilist-id: 139587
   - title: "SPY x FAMILY"
+    synonyms:
+      - "SPY×FAMILY"
+      - "SxF"
     seasons:
       - season: 1
         anilist-id: 140960

@@ -18,8 +18,9 @@ def mergeYaml(directory: str) -> None:
     for yamlObj in yamlList:
         entries = yamlObj['entries']
         for entry in entries:
-            print(entry)
-            baseId = entry['seasons'][0]['season']
+            ## get id
+            baseId = entry['seasons'][0]['anilist-id']
+            print(baseId)
             ## seasons
             newSeasons = {}
             for season in entry['seasons']:
@@ -35,7 +36,7 @@ def mergeYaml(directory: str) -> None:
                 if 'synonyms' in entry:
                     anilistEntries[baseId].synonyms |= set(entry['synonyms'])
                 ## add seasons
-                anilistEntries[baseId] = newSeasons
+                anilistEntries[baseId].seasons = newSeasons
             ## doesn't exist ## create entry
             else:
                 ## synonymns
@@ -44,7 +45,7 @@ def mergeYaml(directory: str) -> None:
                     newEntry.synonyms = set(entry['synonyms'])
                 ## add seasons
                 newEntry.seasons = newSeasons
-                anilistEntries[entry['title']] = newEntry
+                anilistEntries[baseId] = newEntry
 
     anilist = []
     ## sort Entry components
