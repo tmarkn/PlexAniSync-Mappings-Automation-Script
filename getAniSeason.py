@@ -42,7 +42,9 @@ def getAniSeasonData(year: int, season: str) -> list:
     first = entries[:len(entries)//2]
     second = entries[len(entries)//2:]
     final = getAni.getAniData(first, getPrequels=True) + getAni.getAniData(second, getPrequels=True)
-    return final
+    ## sort by English title
+    finalSorted = sorted(final, key=lambda x: (x.title.casefold(), x.title))
+    return finalSorted
 
 
 if __name__ == '__main__':
@@ -73,8 +75,6 @@ if __name__ == '__main__':
 
     ## run script
     anilist = getAniSeasonData(year=year, season=VALIDSEASONS[seasonNum])
-    ## sort by English title
-    anilist.sort(key=lambda x: (x.title.casefold(), x.title))
 
     ## export output
     output = 'entries:\n'
@@ -83,3 +83,5 @@ if __name__ == '__main__':
     ## write to file
     with open(f'yamlFiles/{year}-{seasonNum}-{VALIDSEASONS[seasonNum]}-Anime.yaml', 'w', encoding='utf-8') as f:
         f.write(output)
+    
+    exit(1)

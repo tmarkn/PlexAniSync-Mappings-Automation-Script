@@ -2,13 +2,6 @@ import os
 import yaml
 
 from getAni import AnilistEntry, SeasonEntry
-    
-class SeasonEntry:
-    def __init__(self, id: int, seasonNum: int, episodes: int = 0, start: int = 1):
-        self.id = id
-        self.seasonNum = seasonNum
-        self.episodes = episodes
-        self.start = start
 
 def mergeYaml(directory: str) -> None:
     ## read all yaml files
@@ -54,20 +47,19 @@ def mergeYaml(directory: str) -> None:
                 anilistEntries[entry['title']] = newEntry
 
     anilist = []
-    ## sort seasons of titles
+    ## sort Entry components
     for title in anilistEntries:
         alEntry = anilistEntries[title]
 
-        ## sort
-        # newSeasons = alEntry.seasons
-        # for n in newSeasons:
-        #     print(n)
-        # print()
-        newSeasons = {k:v for k, v in sorted(alEntry.seasons.items(), key=lambda x:(x[1].seasonNum, x[1].start))}
+        ## sort seasons of titles
+        newSeasons = {k:v for k, v in sorted(alEntry.seasons.items(), key=lambda x:(x[1].seasonNum, x[1].start, x[1].id))}
 
         alEntry.seasons = newSeasons
 
-        ## end sort
+        ## sort synonyms
+        newSynonyms = sorted(alEntry.synonyms, key=lambda x: x)
+
+        alEntry.synonyms = newSynonyms
 
         anilist.append(alEntry)
 
@@ -76,6 +68,16 @@ def mergeYaml(directory: str) -> None:
     return sortedYaml
 
 if __name__ == '__main__':
+    while True:
+        print('This script takes every yaml file in the ./yamlFiles/ folder and create a custom_mappings.yaml file from those files.')
+        print('It is recommended that you name the files by date, with the most recent entries being last.')
+        print('WARNING: THIS WILL OVERRIDE YOUR custom_mappings.yaml file in this directory. \nDo you wish to proceed? Y/N')
+        resp = input().strip().lower()
+        if resp == 'n':
+            exit(0)
+        elif resp == 'y':
+            break
+
     anilist = mergeYaml('./yamlFiles')
 
     ## export output
@@ -85,3 +87,5 @@ if __name__ == '__main__':
     ## write to file
     with open('custom_mappings.yaml', 'w', encoding='utf-8') as f:
         f.write(output)
+    
+    exit(1)

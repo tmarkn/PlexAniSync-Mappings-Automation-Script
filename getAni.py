@@ -196,7 +196,6 @@ def getAniData(ids: str | int | list, getPrequels: bool = False) -> list:
         for x in data:
             entry = data[x]
             id = entry['id']
-            # print(entry['title']['romaji'])
 
             relationNodes = entry['relations']['nodes']
             relationsEdges = entry['relations']['edges']
@@ -286,3 +285,5 @@ if __name__ == '__main__':
             break
         ids.append(idIn)
     print(getAniData(ids=ids, getPrequels=True))
+    
+    exit(1)

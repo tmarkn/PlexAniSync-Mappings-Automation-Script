@@ -21,9 +21,9 @@ entries:
         anilist-id: 150909
   - title: "86 EIGHTY-SIX"
     synonyms:
-      - "86: Eighty Six"
       - "86"
       - "86--EIGHTY-SIX"
+      - "86: Eighty Six"
     seasons:
       - season: 1
         anilist-id: 116589
@@ -86,16 +86,16 @@ entries:
         anilist-id: 109287
   - title: "Africa Salaryman"
     synonyms:
-      - "African Office Worker"
       - "Africa no Salaryman (TV)"
+      - "African Office Worker"
       - "Businessman in Africa"
     seasons:
       - season: 1
         anilist-id: 110867
   - title: "After School Dice Club"
     synonyms:
-      - "Houkago Saikoro Kurabu"
       - "Houkago Saikoro Club"
+      - "Houkago Saikoro Kurabu"
     seasons:
       - season: 1
         anilist-id: 104115
@@ -120,16 +120,16 @@ entries:
         anilist-id: 128872
   - title: "Akebi’s Sailor Uniform"
     synonyms:
-      - "Akebi-chan no Sailor Fuku"
       - "Akebi's School Uniform"
+      - "Akebi-chan no Sailor Fuku"
       - "Akebi-chan no Serafuku"
     seasons:
       - season: 1
         anilist-id: 131548
   - title: "Akiba Maid War"
     synonyms:
-      - "Akiba Meido Sensou"
       - "Akiba Maid Sensou"
+      - "Akiba Meido Sensou"
     seasons:
       - season: 1
         anilist-id: 151379
@@ -205,8 +205,8 @@ entries:
         anilist-id: 110547
   - title: "Ascendance of a Bookworm"
     synonyms:
-      - "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
       - "Ascendance of a Bookworm: I'll do anything to become a librarian"
+      - "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
     seasons:
       - season: 1
         anilist-id: 108268
@@ -293,8 +293,8 @@ entries:
         anilist-id: 125839
   - title: "Bakugan: Battle Planet"
     synonyms:
-      - "Bakugan Battle Planet"
       - "Bakugan"
+      - "Bakugan Battle Planet"
     seasons:
       - season: 1
         anilist-id: 108852
@@ -321,8 +321,8 @@ entries:
   - title: "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside"
     synonyms:
       - "Banished from the Heroes' Party, I Decided to Live a Quiet Life in the Countryside"
-      - "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita"
       - "Banished from the brave man's group, I decided to lead a slow life in the back country."
+      - "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita"
     seasons:
       - season: 1
         anilist-id: 126213
@@ -334,8 +334,8 @@ entries:
         anilist-id: 120534
   - title: "Battle Game in 5 Seconds"
     synonyms:
-      - "Deatte 5-byou de Battle"
       - "Battle in 5 seconds after meeting."
+      - "Deatte 5-byou de Battle"
     seasons:
       - season: 1
         anilist-id: 126047
@@ -376,9 +376,9 @@ entries:
         anilist-id: 151606
   - title: "BLACK ROCK SHOOTER DAWN FALL"
     synonyms:
+      - "BRS DF"
       - "Black Rock Shooter: Apokalipsa"
       - "Black★★Rock Shooter: DAWN FALL"
-      - "BRS DF"
     seasons:
       - season: 1
         anilist-id: 139303
@@ -425,8 +425,8 @@ entries:
         anilist-id: 130003
   - title: "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
     synonyms:
-      - "bofuri"
       - "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
+      - "bofuri"
     seasons:
       - season: 1
         anilist-id: 106479
@@ -444,8 +444,8 @@ entries:
         anilist-id: 155907
   - title: "BUILD-DIVIDE -#000000- CODE BLACK"
     synonyms:
-      - "Build Divide: Code Black"
       - "Build Divide"
+      - "Build Divide: Code Black"
     seasons:
       - season: 1
         anilist-id: 132525
@@ -480,32 +480,32 @@ entries:
         anilist-id: 120859
   - title: "By the Grace of the Gods"
     synonyms:
-      - "The man picked up by the gods"
+      - "Kami-tachi ni Hirowareta Otoko"
       - "Kamihiro"
       - "Kamitachi ni Hirowareta Otoko"
-      - "Kami-tachi ni Hirowareta Otoko"
+      - "The man picked up by the gods"
     seasons:
       - season: 1
         anilist-id: 115740
   - title: "By the Grace of the Gods 2"
     synonyms:
-      - "Kamitachi ni Hirowareta Otoko 2"
       - "Kami-tachi ni Hirowareta Otoko 2"
+      - "Kamitachi ni Hirowareta Otoko 2"
     seasons:
       - season: 1
         anilist-id: 135102
   - title: "Call of the Night"
     synonyms:
       - "Night Owl Song"
-      - "Yofukashi no Uta"
       - "Song of the Night Walkers"
+      - "Yofukashi no Uta"
     seasons:
       - season: 1
         anilist-id: 141391
   - title: "Campfire Cooking in Another World with my Absurd Skill"
     synonyms:
-      - "Regarding the Display of an Outrageous Skill Which Has Incredible Powers"
       - "Gourmet Adventure of Legendary Tamer"
+      - "Regarding the Display of an Outrageous Skill Which Has Incredible Powers"
       - "Tondemo Skill de Isekai Hourou Meshi"
     seasons:
       - season: 1
@@ -560,8 +560,8 @@ entries:
         anilist-id: 117533
   - title: "CESTVS -The Roman Fighter-"
     synonyms:
-      - "Cestvs: The Roman Fighter"
       - "Cestus: The Roman Fighter"
+      - "Cestvs: The Roman Fighter"
     seasons:
       - season: 1
         anilist-id: 125867
@@ -605,10 +605,10 @@ entries:
         anilist-id: 139606
   - title: "Classroom of the Elite"
     synonyms:
-      - "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
-      - "You-Zitsu"
       - "Cote"
+      - "You-Zitsu"
       - "Youjitsu"
+      - "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
     seasons:
       - season: 1
         anilist-id: 98659
@@ -683,10 +683,10 @@ entries:
         anilist-id: 136947
   - title: "Delicious Party Pretty Cure"
     synonyms:
-      - "DeliPre"
       - "DePaPre"
-      - "Delicious Party♡Precure"
       - "DeliPa"
+      - "DeliPre"
+      - "Delicious Party♡Precure"
     seasons:
       - season: 1
         anilist-id: 142080
@@ -787,8 +787,8 @@ entries:
         anilist-id: 124641
   - title: "Dropout Idol Fruit Tart"
     synonyms:
-      - "Ochikobore Fruit Tart"
       - "OchiFuru"
+      - "Ochikobore Fruit Tart"
     seasons:
       - season: 1
         anilist-id: 108713
@@ -922,8 +922,8 @@ entries:
         anilist-id: 155997
   - title: "Food Wars!"
     synonyms:
-      - "Shokugeki no Souma"
       - "Food Wars! The First Plate"
+      - "Shokugeki no Souma"
     seasons:
       - season: 1
         anilist-id: 20923
@@ -941,8 +941,8 @@ entries:
   - title: "Fruits Basket (2019)"
     synonyms:
       - "Fruba"
-      - "Fruits Basket: 1st Season"
       - "Fruits Basket (Zenpen)"
+      - "Fruits Basket: 1st Season"
       - "Furuba"
     seasons:
       - season: 1
@@ -965,8 +965,8 @@ entries:
   - title: "Gal & Dino"
     synonyms:
       - "GAL and Dinosaur"
-      - "Gyaru and Dinosaur"
       - "Gal to Kyouryuu"
+      - "Gyaru and Dinosaur"
     seasons:
       - season: 1
         anilist-id: 111323
@@ -976,16 +976,16 @@ entries:
         anilist-id: 124131
   - title: "Genie Family 2020"
     synonyms:
-      - "The Genie Family 2020"
       - "Hakushon Daimaou 2020"
+      - "The Genie Family 2020"
     seasons:
       - season: 1
         anilist-id: 114402
   - title: "Getter Robo"
     synonyms:
       - "Getta Robo"
-      - "Space Robot"
       - "Getta Robot"
+      - "Space Robot"
     seasons:
       - season: 1
         anilist-id: 3579
@@ -1005,9 +1005,9 @@ entries:
         anilist-id: 110446
   - title: "Girlfriend, Girlfriend"
     synonyms:
-      - "She is also my Girlfriend"
-      - "Kanojo mo Kanojo"
       - "KanoKano"
+      - "Kanojo mo Kanojo"
+      - "She is also my Girlfriend"
     seasons:
       - season: 1
         anilist-id: 126192
@@ -1052,8 +1052,8 @@ entries:
         anilist-id: 160173
   - title: "HAIKYU!!"
     synonyms:
-      - "High Kyuu!!"
       - "Haikyuu!!"
+      - "High Kyuu!!"
     seasons:
       - season: 1
         anilist-id: 20464
@@ -1090,8 +1090,8 @@ entries:
         anilist-id: 112748
   - title: "Heaven’s Design Team"
     synonyms:
-      - "Tendebu"
       - "Tenchi Souzou Design-bu"
+      - "Tendebu"
     seasons:
       - season: 1
         anilist-id: 117696
@@ -1107,8 +1107,8 @@ entries:
         anilist-id: 128893
   - title: "Heroines Run the Show"
     synonyms:
-      - "To Become a Real Heroine! The Unpopular Girl and the Secret Task"
       - "Heroine Tarumono!: Kiraware Heroine to Naisho no Oshigoto"
+      - "To Become a Real Heroine! The Unpopular Girl and the Secret Task"
     seasons:
       - season: 1
         anilist-id: 138459
@@ -1120,9 +1120,9 @@ entries:
         anilist-id: 108581
   - title: "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway"
     synonyms:
+      - "Hige wo Soru. Soshite Joshikousei wo Hirou."
       - "Higehiro"
       - "I Shaved My Beard Then Picked Up a High School Girl."
-      - "Hige wo Soru. Soshite Joshikousei wo Hirou."
     seasons:
       - season: 1
         anilist-id: 114232
@@ -1132,17 +1132,17 @@ entries:
         anilist-id: 135778
   - title: "High School Prodigies Have It Easy Even In Another World"
     synonyms:
-      - "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!"
       - "CHOYOYU!"
+      - "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!"
     seasons:
       - season: 1
         anilist-id: 108388
   - title: "Higurashi: When They Cry - GOU"
     synonyms:
-      - "Higurashi: When They Cry - NEW"
-      - "Higurashi: When They Cry"
-      - "Higurashi no Naku Koro ni Gou"
       - "Higurashi no Naku Koro ni (2020)"
+      - "Higurashi no Naku Koro ni Gou"
+      - "Higurashi: When They Cry"
+      - "Higurashi: When They Cry - NEW"
       - "When the Cicadas Cry"
     seasons:
       - season: 1
@@ -1173,9 +1173,9 @@ entries:
         anilist-id: 146475
   - title: "How a Realist Hero Rebuilt the Kingdom"
     synonyms:
-      - "Genjitsushugisha no Oukokukaizouki"
-      - "Genjitsu Shugi Yuusha no Oukoku Saikenki"
       - "A Realist's Kingdom Reform Chronicles"
+      - "Genjitsu Shugi Yuusha no Oukoku Saikenki"
+      - "Genjitsushugisha no Oukokukaizouki"
       - "Genkoku"
     seasons:
       - season: 1
@@ -1184,8 +1184,8 @@ entries:
         anilist-id: 139648
   - title: "How NOT to Summon a Demon Lord"
     synonyms:
-      - "The King of Darkness Another World Story"
       - "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
+      - "The King of Darkness Another World Story"
     seasons:
       - season: 1
         anilist-id: 101004
@@ -1203,24 +1203,24 @@ entries:
         anilist-id: 113652
   - title: "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too"
     synonyms:
-      - "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta"
-      - "Isekai de Cheat Nouryoku Ote ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru"
       - "I Got a Cheat Ability in a Different World, and Became Extraordinary Even in the Real World"
+      - "Isekai de Cheat Nouryoku Ote ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru"
+      - "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta"
     seasons:
       - season: 1
         anilist-id: 153845
   - title: "I'm Quitting Heroing"
     synonyms:
-      - "Yuusha, Yamemasu"
       - "Yamemasu Tsugi No Shokuba Ha Mao Jo"
+      - "Yuusha, Yamemasu"
       - "yuuyame"
     seasons:
       - season: 1
         anilist-id: 140457
   - title: "I'm Standing on a Million Lives"
     synonyms:
-      - "I'm standing on 1,000,000 lives."
       - "100-man no Inochi no Ue ni Ore wa Tatteiru"
+      - "I'm standing on 1,000,000 lives."
     seasons:
       - season: 1
         anilist-id: 116242
@@ -1241,8 +1241,8 @@ entries:
         anilist-id: 112608
   - title: "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills"
     synonyms:
-      - "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta."
       - "I Somehow Got Strong By Raising Skills Related To Farming"
+      - "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta."
     seasons:
       - season: 1
         anilist-id: 145815
@@ -1296,15 +1296,15 @@ entries:
         anilist-id: 147571
   - title: "In the Heart of Kunoichi Tsubaki"
     synonyms:
-      - "Kunoichi Tsubaki no Mune no Uchi"
       - "Inside Tsubaki Kunoichi's Heart"
+      - "Kunoichi Tsubaki no Mune no Uchi"
     seasons:
       - season: 1
         anilist-id: 141350
   - title: "In the Land of Leadale"
     synonyms:
-      - "World of Leadale"
       - "Leadale no Daichi nite"
+      - "World of Leadale"
     seasons:
       - season: 1
         anilist-id: 130166
@@ -1322,8 +1322,8 @@ entries:
         anilist-id: 107420
   - title: "Insomniacs after school"
     synonyms:
-      - "Kimi wa Houkago Insomnia"
       - "Insomniaques"
+      - "Kimi wa Houkago Insomnia"
     seasons:
       - season: 1
         anilist-id: 143653
@@ -1348,9 +1348,9 @@ entries:
         anilist-id: 131019
   - title: "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
     synonyms:
+      - "Danmachi"
       - "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth"
       - "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
-      - "Danmachi"
     seasons:
       - season: 1
         anilist-id: 20920
@@ -1365,8 +1365,8 @@ entries:
         start: 12
   - title: "Is the Order a Rabbit?"
     synonyms:
-      - "Gochuumon wa Usagi desu ka?"
       - "Gochiusa"
+      - "Gochuumon wa Usagi desu ka?"
     seasons:
       - season: 1
         anilist-id: 20517
@@ -1388,8 +1388,8 @@ entries:
         anilist-id: 109010
   - title: "JUJUTSU KAISEN"
     synonyms:
-      - "Jujutsu Kaisen"
       - "JJK"
+      - "Jujutsu Kaisen"
     seasons:
       - season: 1
         anilist-id: 113415
@@ -1438,9 +1438,9 @@ entries:
         anilist-id: 113311
   - title: "KamiKatsu: Working for God in a Godless World"
     synonyms:
+      - "KamiKatsu"
       - "Kaminaki Sekai no Kamisama Katsudou"
       - "What God Does in a World Without Gods"
-      - "KamiKatsu"
     seasons:
       - season: 1
         anilist-id: 148048
@@ -1461,9 +1461,9 @@ entries:
         anilist-id: 110810
   - title: "Keep Your Hands Off Eizouken!"
     synonyms:
-      - "Hands off the Motion Picture Club!"
       - "Don't mess with the Motion Picture Club!"
       - "Eizouken ni wa Te wo Dasu na!"
+      - "Hands off the Motion Picture Club!"
     seasons:
       - season: 1
         anilist-id: 109298
@@ -1476,8 +1476,8 @@ entries:
         anilist-id: 114085
   - title: "Kemono Michi: Rise Up"
     synonyms:
-      - "Rise Up! Animal Road"
       - "Hataage! Kemono Michi"
+      - "Rise Up! Animal Road"
     seasons:
       - season: 1
         anilist-id: 107339
@@ -1509,8 +1509,8 @@ entries:
         anilist-id: 113990
   - title: "Kiyo in Kyoto: From the Maiko House"
     synonyms:
-      - "The caterer at the Maiko Manor"
       - "Maiko-san Chi no Makanai-san"
+      - "The caterer at the Maiko Manor"
     seasons:
       - season: 1
         anilist-id: 117067
@@ -1521,8 +1521,8 @@ entries:
   - title: "Komi Can’t Communicate"
     synonyms:
       - "Comi san ha Comyusho desu"
-      - "Komi-san wa, Komyushou desu."
       - "Komi-san wa, Comyushou desu."
+      - "Komi-san wa, Komyushou desu."
     seasons:
       - season: 1
         anilist-id: 133965
@@ -1578,9 +1578,9 @@ entries:
         anilist-id: 119123
   - title: "League of Nations Air Force Aviation Magic Band Luminous Witches"
     synonyms:
-      - "Renmei Kuugun Koukuu Mahou Ongakutai: Luminous Witches"
       - "Luminous Witches"
       - "Ongakutai Witches"
+      - "Renmei Kuugun Koukuu Mahou Ongakutai: Luminous Witches"
     seasons:
       - season: 1
         anilist-id: 103118
@@ -1650,8 +1650,8 @@ entries:
         anilist-id: 146676
   - title: "Love Live! Nijigasaki High School Idol Club"
     synonyms:
-      - "Love Live! Perfect Dream Project"
       - "Love Live! Nijigasaki Gakuen School Idol Doukoukai"
+      - "Love Live! Perfect Dream Project"
     seasons:
       - season: 1
         anilist-id: 113970
@@ -1727,8 +1727,8 @@ entries:
         anilist-id: 136080
   - title: "Magical Destroyers"
     synonyms:
-      - "Mahou Shoujo Magical Destroyers"
       - "Magical Girl Destroyers"
+      - "Mahou Shoujo Magical Destroyers"
     seasons:
       - season: 1
         anilist-id: 134131
@@ -1740,9 +1740,9 @@ entries:
         anilist-id: 112302
   - title: "Malevolent Spirits: Mononogatari"
     synonyms:
-      - "Mononogatari"
-      - "Mono no Gatari"
       - "Malevolent Spirits"
+      - "Mono no Gatari"
+      - "Mononogatari"
     seasons:
       - season: 1
         anilist-id: 141785
@@ -1805,8 +1805,8 @@ entries:
         anilist-id: 131083
   - title: "Miss Kobayashi's Dragon Maid"
     synonyms:
-      - "Kobayashi-san Chi no Maidragon"
       - "Kobayashi-san Chi no Maid Dragon"
+      - "Kobayashi-san Chi no Maidragon"
     seasons:
       - season: 1
         anilist-id: 21776
@@ -1844,8 +1844,8 @@ entries:
         anilist-id: 140439
   - title: "Mobile Suit Gundam: The Witch from Mercury"
     synonyms:
-      - "Mobile Suit Gundam: Penyihir dari Mercury"
       - "Kidou Senshi Gundam: Suisei no Majo"
+      - "Mobile Suit Gundam: Penyihir dari Mercury"
     seasons:
       - season: 1
         anilist-id: 139274
@@ -1905,8 +1905,8 @@ entries:
         anilist-id: 110028
   - title: "Mushoku Tensei: Jobless Reincarnation"
     synonyms:
-      - "Mushoku Tensei: Isekai Ittara Honki Dasu"
       - "Mushoku Tensei"
+      - "Mushoku Tensei: Isekai Ittara Honki Dasu"
     seasons:
       - season: 1
         anilist-id: 108465
@@ -1943,8 +1943,8 @@ entries:
         anilist-id: 132405
   - title: "My Happy Marriage"
     synonyms:
-      - "Watashi no Shiawase na Kekkon"
       - "WataKon"
+      - "Watashi no Shiawase na Kekkon"
     seasons:
       - season: 1
         anilist-id: 147103
@@ -1978,8 +1978,8 @@ entries:
   - title: "My Love Story with Yamada-kun at Lv999"
     synonyms:
       - "Loving Yamada at LV999!"
-      - "Yamada-kun to Lv999 no Koi wo Suru"
       - "My Lv999 Love for Yamada-kun"
+      - "Yamada-kun to Lv999 no Koi wo Suru"
     seasons:
       - season: 1
         anilist-id: 154965
@@ -1991,11 +1991,11 @@ entries:
         anilist-id: 137341
   - title: "My Next Life as a Villainess: All Routes Lead to Doom!"
     synonyms:
-      - "Hamehura"
-      - "Hamefura"
       - "Bakarina"
-      - "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…"
+      - "Hamefura"
+      - "Hamehura"
       - "I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags.."
+      - "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…"
     seasons:
       - season: 1
         anilist-id: 104647
@@ -2017,17 +2017,17 @@ entries:
     synonyms:
       - "Mamahaha no Tsurego ga Motokano datta"
       - "Motokano"
-      - "Tsurekano"
       - "My Stepsister is My Ex-Girlfriend"
       - "Step-Exes"
+      - "Tsurekano"
     seasons:
       - season: 1
         anilist-id: 136934
   - title: "My Teen Romantic Comedy SNAFU"
     synonyms:
       - "My youth romantic comedy is wrong as I expected."
-      - "Yahari Ore no Seishun Love Come wa Machigatteiru."
       - "Oregairu"
+      - "Yahari Ore no Seishun Love Come wa Machigatteiru."
     seasons:
       - season: 1
         anilist-id: 14813
@@ -2037,10 +2037,10 @@ entries:
         anilist-id: 108489
   - title: "My Tiny Senpai"
     synonyms:
-      - "Uchi no Kaisha no Chiisai Senpai no Hanashi"
-      - "My Tiny Senpai From Work"
       - "My Company's Small Senpai"
+      - "My Tiny Senpai From Work"
       - "Story of a Small Senior in My Company"
+      - "Uchi no Kaisha no Chiisai Senpai no Hanashi"
     seasons:
       - season: 1
         anilist-id: 155730
@@ -2114,8 +2114,8 @@ entries:
         anilist-id: 128547
   - title: "ONIMAI: I'm Now Your Sister!"
     synonyms:
-      - "Onii-chan wa Oshimai!"
       - "Onii-chan is Done For!"
+      - "Onii-chan wa Oshimai!"
     seasons:
       - season: 1
         anilist-id: 147864
@@ -2226,8 +2226,8 @@ entries:
         anilist-id: 108358
   - title: "Phantom of the Idol"
     synonyms:
-      - "Kami Kuzu☆Idol"
       - "Kami Kuzu Idol"
+      - "Kami Kuzu☆Idol"
     seasons:
       - season: 1
         anilist-id: 142095
@@ -2241,8 +2241,8 @@ entries:
         anilist-id: 101168
   - title: "Pokémon"
     synonyms:
-      - "Pokemon"
       - "Pocket Monsters"
+      - "Pokemon"
     seasons:
       - season: 1
         anilist-id: 527
@@ -2272,8 +2272,8 @@ entries:
         anilist-id: 158871
   - title: "Pokémon: Aim to be a Pokémon Master"
     synonyms:
-      - "Pokémon Ultimate Journeys: The Series Part 4"
       - "Pocket Monsters: Mezase Pokémon Master"
+      - "Pokémon Ultimate Journeys: The Series Part 4"
     seasons:
       - season: 1
         anilist-id: 158870
@@ -2285,8 +2285,8 @@ entries:
         anilist-id: 137312
   - title: "Pop Team Epic"
     synonyms:
-      - "Poptepipic"
       - "PTE"
+      - "Poptepipic"
       - "Poputepipikku"
     seasons:
       - season: 1
@@ -2392,30 +2392,30 @@ entries:
         anilist-id: 113425
   - title: "Reign of the Seven Spellblades"
     synonyms:
-      - "Seven Magic Swords Rule"
       - "Nanatsu no Maken ga Shihai Suru"
+      - "Seven Magic Swords Rule"
     seasons:
       - season: 1
         anilist-id: 142598
   - title: "Reincarnated as a Sword"
     synonyms:
-      - "Tensei Shitara Ken Deshita"
-      - "TenKen"
       - "I Became the Sword by Transmigrating"
+      - "TenKen"
+      - "Tensei Shitara Ken Deshita"
     seasons:
       - season: 1
         anilist-id: 139587
   - title: "Remake Our Life!"
     synonyms:
-      - "Bokutachi no Remake"
       - "Bokurema"
+      - "Bokutachi no Remake"
     seasons:
       - season: 1
         anilist-id: 114065
   - title: "Rent-a-Girlfriend"
     synonyms:
-      - "Kanojo, Okarishimasu"
       - "I'd like to Borrow a Girlfriend"
+      - "Kanojo, Okarishimasu"
       - "Kanokari"
     seasons:
       - season: 1
@@ -2446,8 +2446,8 @@ entries:
         anilist-id: 155202
   - title: "Rokudo's Bad Girls"
     synonyms:
-      - "Rokudou no Onna-tachi"
       - "Rokudou no Akujo-tachi"
+      - "Rokudou no Onna-tachi"
     seasons:
       - season: 1
         anilist-id: 160442
@@ -2496,9 +2496,9 @@ entries:
         anilist-id: 128715
   - title: "Saint Cecilia and Pastor Lawrence"
     synonyms:
+      - "Shiro Seijo to Kuro Bokushi"
       - "The White Holy Woman and the Black Priest"
       - "White Saint and Black Pastor"
-      - "Shiro Seijo to Kuro Bokushi"
     seasons:
       - season: 1
         anilist-id: 150972
@@ -2510,16 +2510,16 @@ entries:
         anilist-id: 128400
   - title: "SAKUGAN"
     synonyms:
+      - "Sacks&Guns!!"
       - "Sakugan"
       - "Sakugan Labyrinth Marker"
-      - "Sacks&Guns!!"
     seasons:
       - season: 1
         anilist-id: 108987
   - title: "Sakura Wars the Animation"
     synonyms:
-      - "Shin Sakura Taisen the Animation"
       - "New Sakura Wars"
+      - "Shin Sakura Taisen the Animation"
     seasons:
       - season: 1
         anilist-id: 111500
@@ -2537,15 +2537,15 @@ entries:
         anilist-id: 126288
   - title: "Saving 80,000 Gold in Another World for My Retirement"
     synonyms:
-      - "Roukin"
       - "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu"
+      - "Roukin"
     seasons:
       - season: 1
         anilist-id: 152765
   - title: "Scar on the Praeter"
     synonyms:
-      - "Praeter no Kizu"
       - "PROJECT SCARD: Praeter no Kizu"
+      - "Praeter no Kizu"
     seasons:
       - season: 1
         anilist-id: 123785
@@ -2557,8 +2557,8 @@ entries:
         anilist-id: 131150
   - title: "Science Fell in Love, So I Tried to Prove It"
     synonyms:
-      - "Rikei ga Koi ni Ochita no de Shoumei shitemita."
       - "RikeKoi"
+      - "Rikei ga Koi ni Ochita no de Shoumei shitemita."
     seasons:
       - season: 1
         anilist-id: 107067
@@ -2572,15 +2572,15 @@ entries:
         anilist-id: 126546
   - title: "Selection Project"
     synonyms:
-      - "selepro"
       - "SELECTION PROJECT"
+      - "selepro"
     seasons:
       - season: 1
         anilist-id: 126790
   - title: "Seton Academy: Join the Pack!"
     synonyms:
-      - "Murenase! Shiiton Gakuen"
       - "Murenase! Seton Gakuen"
+      - "Murenase! Shiiton Gakuen"
     seasons:
       - season: 1
         anilist-id: 112293
@@ -2598,8 +2598,8 @@ entries:
         anilist-id: 113570
   - title: "SHADOWS HOUSE"
     synonyms:
-      - "Shadows House"
       - "Shadow House"
+      - "Shadows House"
     seasons:
       - season: 1
         anilist-id: 125038
@@ -2687,15 +2687,15 @@ entries:
         anilist-id: 113476
   - title: "SING \"YESTERDAY\" FOR ME"
     synonyms:
-      - "Yesterday wo Utatte"
       - "Sing Yesterday for Me"
+      - "Yesterday wo Utatte"
     seasons:
       - season: 1
         anilist-id: 109020
   - title: "SK8 the Infinity"
     synonyms:
-      - "SK∞"
       - "SK Eight"
+      - "SK∞"
     seasons:
       - season: 1
         anilist-id: 124153
@@ -2719,10 +2719,10 @@ entries:
         anilist-id: 141911
   - title: "Sleepy Princess in the Demon Castle"
     synonyms:
-      - "Maoujou de Oyasumi"
+      - "Maou Jou de Oyasumi"
       - "Maou-jou de Oyasumi"
       - "MaouYasu"
-      - "Maou Jou de Oyasumi"
+      - "Maoujou de Oyasumi"
     seasons:
       - season: 1
         anilist-id: 111428
@@ -2751,16 +2751,16 @@ entries:
         anilist-id: 103632
   - title: "Soaring Sky! Pretty Cure"
     synonyms:
+      - "Hirogaru Sky! Precure"
       - "Hirogaru Sky! Pretty Cure"
       - "Soaring Sky! Precure"
-      - "Hirogaru Sky! Precure"
     seasons:
       - season: 1
         anilist-id: 157883
   - title: "Somali and the Forest Spirit"
     synonyms:
-      - "Somari and the Guardian of the Forest"
       - "Somali to Mori no Kamisama"
+      - "Somari and the Guardian of the Forest"
     seasons:
       - season: 1
         anilist-id: 108617
@@ -2797,8 +2797,8 @@ entries:
         anilist-id: 108554
   - title: "Spy Classroom"
     synonyms:
-      - "Spy Room"
       - "Spy Kyoushitsu"
+      - "Spy Room"
     seasons:
       - season: 1
         anilist-id: 146323
@@ -2823,8 +2823,8 @@ entries:
         anilist-id: 104158
   - title: "Stars Align"
     synonyms:
-      - "Star-Crossing Skies"
       - "Hoshiai no Sora"
+      - "Star-Crossing Skies"
     seasons:
       - season: 1
         anilist-id: 104052
@@ -2853,8 +2853,8 @@ entries:
         start: 13
   - title: "Summer Time Rendering"
     synonyms:
-      - "Summertime Render"
       - "Summer Time Render"
+      - "Summertime Render"
     seasons:
       - season: 1
         anilist-id: 129201
@@ -2949,15 +2949,15 @@ entries:
         anilist-id: 141062
   - title: "Tengoku Daimakyo"
     synonyms:
-      - "Tengoku Daimakyou"
       - "Heavenly Delusion"
+      - "Tengoku Daimakyou"
     seasons:
       - season: 1
         anilist-id: 155783
   - title: "TenPuru"
     synonyms:
-      - "Temple"
       - "No one can live on loneliness"
+      - "Temple"
       - "TenPuru -No One Can Live on Loneliness-"
     seasons:
       - season: 1
@@ -2974,8 +2974,8 @@ entries:
         anilist-id: 132071
   - title: "That Time I Got Reincarnated as a Slime"
     synonyms:
-      - "Tensei Shitara Slime Datta Ken"
       - "TenSura"
+      - "Tensei Shitara Slime Datta Ken"
     seasons:
       - season: 1
         anilist-id: 101280
@@ -2992,8 +2992,8 @@ entries:
         anilist-id: 106319
   - title: "The Ancient Magus' Bride"
     synonyms:
-      - "Mahoutsukai no Yome"
       - "Mahou Tsukai no Yome"
+      - "Mahoutsukai no Yome"
       - "Mahoyome"
     seasons:
       - season: 1
@@ -3016,10 +3016,10 @@ entries:
         anilist-id: 128545
   - title: "The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far"
     synonyms:
-      - "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito"
-      - "Noble New World Adventures"
       - "Chronicles of an Aristocrat Reborn in Another World"
       - "Die Parallelwelt-Chroniken des Aristokraten"
+      - "Noble New World Adventures"
+      - "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito"
     seasons:
       - season: 1
         anilist-id: 153332
@@ -3037,8 +3037,8 @@ entries:
         anilist-id: 111951
   - title: "The Case Study of Vanitas"
     synonyms:
-      - "Vanitas no Karte"
       - "Vanitas no Carte"
+      - "Vanitas no Karte"
     seasons:
       - season: 1
         anilist-id: 131646
@@ -3075,8 +3075,8 @@ entries:
         anilist-id: 123330
   - title: "The Detective Is Already Dead"
     synonyms:
-      - "Tantei wa mou, Shindeiru."
       - "Tanmoshi"
+      - "Tantei wa mou, Shindeiru."
     seasons:
       - season: 1
         anilist-id: 128712
@@ -3092,8 +3092,8 @@ entries:
         anilist-id: 155168
   - title: "The Dreaming Boy is a Realist"
     synonyms:
-      - "Yumemiru Danshi wa Genjitsushugisha"
       - "My Dreamy Realist"
+      - "Yumemiru Danshi wa Genjitsushugisha"
     seasons:
       - season: 1
         anilist-id: 157397
@@ -3158,16 +3158,16 @@ entries:
         anilist-id: 129190
   - title: "The Girl I Like Forgot Her Glasses"
     synonyms:
+      - "Suki na Ko ga Megane wo Wasureta"
       - "Sukimega"
       - "Sukinako ga Megane wo Wasureta"
-      - "Suki na Ko ga Megane wo Wasureta"
     seasons:
       - season: 1
         anilist-id: 160188
   - title: "The God of High School"
     synonyms:
-      - "The God of Highschool"
       - "THE GOD OF HIGH SCHOOL"
+      - "The God of Highschool"
     seasons:
       - season: 1
         anilist-id: 116006
@@ -3198,15 +3198,15 @@ entries:
         anilist-id: 122807
   - title: "The Hidden Dungeon Only I Can Enter"
     synonyms:
-      - "Special training in the Secret Dungeon!"
       - "Ore dake Haireru Kakushi Dungeon"
+      - "Special training in the Secret Dungeon!"
     seasons:
       - season: 1
         anilist-id: 118375
   - title: "The Honor at Magic High School"
     synonyms:
-      - "The Honor Student at Magic High School"
       - "Mahouka Koukou no Yuutousei"
+      - "The Honor Student at Magic High School"
     seasons:
       - season: 1
         anilist-id: 127688
@@ -3237,8 +3237,8 @@ entries:
         anilist-id: 122434
   - title: "THE IDOLM@STER CINDERELLA GIRLS U149"
     synonyms:
-      - "THE iDOLM@STER Cinderella Girls: U149"
       - "PROJECT U149"
+      - "THE iDOLM@STER Cinderella Girls: U149"
     seasons:
       - season: 1
         anilist-id: 146975
@@ -3252,8 +3252,8 @@ entries:
         anilist-id: 112300
   - title: "The Legend of Heroes: Trails of Cold Steel - Northern War"
     synonyms:
-      - "The Legend of Heroes: Sen no Kiseki - Northern War"
       - "Eiyuu Densetsu: Sen no Kiseki - Northern War"
+      - "The Legend of Heroes: Sen no Kiseki - Northern War"
     seasons:
       - season: 1
         anilist-id: 130696
@@ -3271,9 +3271,9 @@ entries:
         anilist-id: 146962
   - title: "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady"
     synonyms:
-      - "Tensei Oujo to Tensai Reijou no Mahou Kakumei"
-      - "TenTen Kakumei"
       - "TenTen"
+      - "TenTen Kakumei"
+      - "Tensei Oujo to Tensai Reijou no Mahou Kakumei"
     seasons:
       - season: 1
         anilist-id: 153629
@@ -3289,8 +3289,8 @@ entries:
         anilist-id: 156854
   - title: "The Masterful Cat is Depressed Again Today"
     synonyms:
-      - "Dekiru Neko wa Kyou mo Yuuutsu"
       - "DekiNeko"
+      - "Dekiru Neko wa Kyou mo Yuuutsu"
     seasons:
       - season: 1
         anilist-id: 149883
@@ -3339,8 +3339,8 @@ entries:
         anilist-id: 140187
   - title: "The Promised Neverland"
     synonyms:
-      - "Yakusoku no Neverland"
       - "YakuNeba"
+      - "Yakusoku no Neverland"
     seasons:
       - season: 1
         anilist-id: 101759
@@ -3348,8 +3348,8 @@ entries:
         anilist-id: 108725
   - title: "The Quintessential Quintuplets"
     synonyms:
-      - "Go-toubun no Hanayome"
       - "5-toubun no Hanayome"
+      - "Go-toubun no Hanayome"
       - "The Five Wedded Brides"
     seasons:
       - season: 1
@@ -3418,15 +3418,15 @@ entries:
         anilist-id: 142914
   - title: "The World Ends with You The Animation"
     synonyms:
-      - "Subaseka"
       - "Subarashiki Kono Sekai The Animation"
+      - "Subaseka"
     seasons:
       - season: 1
         anilist-id: 120376
   - title: "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat"
     synonyms:
-      - "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
       - "Ansatsu Kizoku"
+      - "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
     seasons:
       - season: 1
         anilist-id: 129898
@@ -3444,9 +3444,9 @@ entries:
         anilist-id: 122348
   - title: "Thunderbolt Fantasy: Sword Travels in the East"
     synonyms:
-      - "Thunderbolt Fantasy: Touriken Yuuki"
       - "Thunderbolt Fantasy"
       - "Thunderbolt Fantasy: Sword Seekers"
+      - "Thunderbolt Fantasy: Touriken Yuuki"
     seasons:
       - season: 1
         anilist-id: 98143
@@ -3492,9 +3492,9 @@ entries:
         anilist-id: 142853
   - title: "Tomica Kizuna Mode Combine Earth Granner"
     synonyms:
-      - "Tomika Kizuna Gattai: Earth Granner"
       - "Tomica Bond Combination: Earth Granner"
       - "Tomica Kizuna Gattai: Earth Granner"
+      - "Tomika Kizuna Gattai: Earth Granner"
     seasons:
       - season: 1
         anilist-id: 114717
@@ -3507,18 +3507,18 @@ entries:
         anilist-id: 151806
   - title: "TONIKAWA: Over The Moon For You"
     synonyms:
-      - "Tonikaku Cawaii"
       - "Fly Me to the Moon"
+      - "Tonikaku Cawaii"
       - "Tonikaku Kawaii"
     seasons:
       - season: 1
         anilist-id: 116267
   - title: "TONIKAWA: Over The Moon For You ~Uniform~"
     synonyms:
-      - "Tonikaku Kawaii"
-      - "Tonikaku Kawaii: Seifuku"
       - "Fly Me to the Moon"
       - "TONIKAWA: Over The Moon For You - Uniform"
+      - "Tonikaku Kawaii"
+      - "Tonikaku Kawaii: Seifuku"
     seasons:
       - season: 1
         anilist-id: 141212
@@ -3532,9 +3532,9 @@ entries:
         anilist-id: 155070
   - title: "Tousouchuu: Great Mission"
     synonyms:
+      - "Run for Money: The Great Mission"
       - "Tosochu"
       - "Tousouchuu: The Great Mission"
-      - "Run for Money: The Great Mission"
     seasons:
       - season: 1
         anilist-id: 159560
@@ -3547,9 +3547,9 @@ entries:
         anilist-id: 115230
   - title: "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs"
     synonyms:
-      - "mobseka"
       - "Otome Game Sekai wa Mob ni Kibishii Sekai desu"
       - "Otomege Sekai wa Mob ni Kibishii Sekai desu"
+      - "mobseka"
     seasons:
       - season: 1
         anilist-id: 142074
@@ -3605,9 +3605,9 @@ entries:
         anilist-id: 105244
   - title: "Tsurune: For Better or Worse"
     synonyms:
-      - "Tsurune: Kazemai Koukou Kyuudoubu Episode 14"
-      - "Tsurune: Kazemai Koukou Kyuudou-bu - Yabai"
       - "Tsurune: Dangerous Shoot"
+      - "Tsurune: Kazemai Koukou Kyuudou-bu - Yabai"
+      - "Tsurune: Kazemai Koukou Kyuudoubu Episode 14"
     seasons:
       - season: 1
         anilist-id: 100402
@@ -3666,9 +3666,9 @@ entries:
         anilist-id: 124395
   - title: "Val x Love"
     synonyms:
-      - "Vallove"
-      - "Valkyrie X Love"
       - "Ikusa x Koi"
+      - "Valkyrie X Love"
+      - "Vallove"
     seasons:
       - season: 1
         anilist-id: 109321
@@ -3716,8 +3716,8 @@ entries:
         anilist-id: 112609
   - title: "Warlords of Sigrdrifa"
     synonyms:
-      - "Sigururi"
       - "Senyoku no Sigrdrifa"
+      - "Sigururi"
     seasons:
       - season: 1
         anilist-id: 116173
@@ -3742,10 +3742,10 @@ entries:
         anilist-id: 112353
   - title: "We Never Learn: BOKUBEN"
     synonyms:
-      - "We Can't Study"
-      - "Bokutachi wa Benkyou ga Dekinai"
-      - "BokuBen"
       - "Boku-tachi wa Benkyou ga Dekinai"
+      - "BokuBen"
+      - "Bokutachi wa Benkyou ga Dekinai"
+      - "We Can't Study"
     seasons:
       - season: 1
         anilist-id: 103900
@@ -3753,8 +3753,8 @@ entries:
         anilist-id: 110229
   - title: "Welcome to Demon School! Iruma-kun"
     synonyms:
-      - "Welcome to Demon School, Iruma-kun!"
       - "Mairimashita! Iruma-kun"
+      - "Welcome to Demon School, Iruma-kun!"
     seasons:
       - season: 1
         anilist-id: 107693
@@ -3764,17 +3764,17 @@ entries:
         anilist-id: 139092
   - title: "When Will Ayumu Make His Move?"
     synonyms:
-      - "Soredemo Ayumu wa Yosetekuru"
-      - "Shogi Senpai"
       - "Even so, Ayumu draws closer to the endgame"
+      - "Shogi Senpai"
+      - "Soredemo Ayumu wa Yosetekuru"
     seasons:
       - season: 1
         anilist-id: 128223
   - title: "Why Raeliana Ended Up at the Duke’s Mansion"
     synonyms:
+      - "Geunyeoga Gongjagjeolo Gaya Haessdeon Sajeong"
       - "Kanojo ga Koushaku-tei ni Itta Riyuu"
       - "Raeliana: Warum sie die Verlobte des Dukes wurde"
-      - "Geunyeoga Gongjagjeolo Gaya Haessdeon Sajeong"
       - "The Reason Why Raeliana Ended up at the Duke's Mansion"
     seasons:
       - season: 1
@@ -3826,8 +3826,8 @@ entries:
         anilist-id: 131264
   - title: "YOHANE THE PARHELION -SUNSHINE in the MIRROR"
     synonyms:
-      - "YOHANE THE PARHELION -SUNSHINE in the MIRROR-"
       - "Genjitsu no Yohane: SUNSHINE in the MIRROR"
+      - "YOHANE THE PARHELION -SUNSHINE in the MIRROR-"
     seasons:
       - season: 1
         anilist-id: 151513
@@ -3907,8 +3907,8 @@ entries:
         anilist-id: 159831
   - title: "ZOMBIE LAND SAGA"
     synonyms:
-      - "Zombieland Saga"
       - "Zombie Land Saga"
+      - "Zombieland Saga"
     seasons:
       - season: 1
         anilist-id: 103871
