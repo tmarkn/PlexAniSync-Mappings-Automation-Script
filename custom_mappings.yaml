@@ -30,6 +30,12 @@ entries:
       - season: 1
         anilist-id: 131586
         start: 12
+  - title: "A Certain Scientific Accelerator"
+    synonyms:
+      - "Toaru Kagaku no Accelerator"
+    seasons:
+      - season: 1
+        anilist-id: 104463
   - title: "A Certain Scientific Railgun"
     synonyms:
       - "Toaru Kagaku no Choudenjihou"
@@ -234,6 +240,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108092
+  - title: "ASTRA LOST IN SPACE"
+    synonyms:
+      - "Kanata no Astra"
+    seasons:
+      - season: 1
+        anilist-id: 107663
   - title: "Atelier Ryza: Ever Darkness & the Secret Hideout The Animation"
     synonyms:
       - "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega"
@@ -351,6 +363,10 @@ entries:
         anilist-id: 107660
       - season: 2
         anilist-id: 114194
+  - title: "BEM"
+    seasons:
+      - season: 1
+        anilist-id: 107876
   - title: "Berserk: The Golden Age Arc - Memorial Edition"
     synonyms:
       - "Berserk: Ougon Jidai-hen - MEMORIAL EDITION"
@@ -476,6 +492,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 120859
+  - title: "Business Fish"
+    seasons:
+      - season: 1
+        anilist-id: 110124
   - title: "By the Grace of the Gods"
     synonyms:
       - "Kami-tachi ni Hirowareta Otoko"
@@ -661,6 +681,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116588
+  - title: "Cop Craft"
+    synonyms:
+      - "Cop Craft: Dragnet Mirage Reloaded"
+    seasons:
+      - season: 1
+        anilist-id: 106893
   - title: "CUE!"
     seasons:
       - season: 1
@@ -731,6 +757,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 142080
+  - title: "Demon Lord, Retry!"
+    synonyms:
+      - "Maou-sama, Retry!"
+    seasons:
+      - season: 1
+        anilist-id: 104252
   - title: "Demon Slayer: Kimetsu no Yaiba"
     synonyms:
       - "Kimetsu no Yaiba"
@@ -770,6 +802,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 131516
+  - title: "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?"
+    synonyms:
+      - "Do You Like Your Mom? Her Normal Attack is Two Attacks at Full Power"
+      - "Okaasuki"
+      - "Tsuujou Kougeki ga Zentai Kougeki de 2-kai Kougeki no Okaasan wa Suki desu ka?"
+      - "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?"
+    seasons:
+      - season: 1
+        anilist-id: 104723
   - title: "DON'T TOY WITH ME, MISS NAGATORO"
     synonyms:
       - "Ijiranaide, Nagatoro-san"
@@ -882,6 +923,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 146625
+  - title: "Ensemble Stars!"
+    synonyms:
+      - "Enstars!"
+    seasons:
+      - season: 1
+        anilist-id: 21512
   - title: "Eternity: Shinya no Nurekoi Channel♡"
     seasons:
       - season: 1
@@ -1058,6 +1105,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128828
+  - title: "given"
+    synonyms:
+      - "Given"
+    seasons:
+      - season: 1
+        anilist-id: 108430
   - title: "Gleipnir"
     seasons:
       - season: 1
@@ -1074,6 +1127,12 @@ entries:
         anilist-id: 110355
       - season: 4
         anilist-id: 142343
+  - title: "GRANBELM"
+    synonyms:
+      - "Granbelm"
+    seasons:
+      - season: 1
+        anilist-id: 108147
   - title: "Granblue Fantasy: The Animation"
     synonyms:
       - "GRANBLUE FANTASY The Animation"
@@ -1146,6 +1205,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128893
+  - title: "Hensuki: Are you willing to fall in love with a pervert, as long as she’s a cutie?"
+    synonyms:
+      - "Kawaiikereba Hentai demo Suki ni Natte Kuremasu ka?"
+      - "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?"
+      - "Would you even fall in love with a pervert as long as it's a cutie?"
+    seasons:
+      - season: 1
+        anilist-id: 107961
   - title: "Heroines Run the Show"
     synonyms:
       - "Heroine Tarumono!: Kiraware Heroine to Naisho no Oshigoto"
@@ -1223,6 +1290,14 @@ entries:
         anilist-id: 117612
       - season: 2
         anilist-id: 139648
+  - title: "How Heavy Are the Dumbbells You Lift?"
+    synonyms:
+      - "Danberu Nan Kiro Moteru?"
+      - "Dumbbell Nan Kilo Moteru?"
+      - "How Many Kilograms are the Dumbbells You Lift?"
+    seasons:
+      - season: 1
+        anilist-id: 107226
   - title: "How NOT to Summon a Demon Lord"
     synonyms:
       - "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
@@ -1308,6 +1383,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113814
+  - title: "If It's for My Daughter, I'd Even Defeat a Demon Lord"
+    synonyms:
+      - "For My Daughter, I'd Even Defeat a Demon Lord"
+      - "Uchi no Ko no Tame Naraba, Ore wa Moshikashitara Maou mo Taoseru Kamo Shirenai."
+      - "UchiMusume"
+      - "Uchinoko"
+    seasons:
+      - season: 1
+        anilist-id: 107956
   - title: "If My Favorite Pop Idol Made It to the Budokan, I Would Die"
     synonyms:
       - "Oshi ga Budoukan Ittekuretara Shinu"
@@ -1415,6 +1499,10 @@ entries:
         anilist-id: 104198
       - season: 2
         anilist-id: 21034
+  - title: "Isekai Cheat Magician"
+    seasons:
+      - season: 1
+        anilist-id: 101547
   - title: "Iwakakeru -Sport Climbing Girls-"
     synonyms:
       - "Iwa Kakeru!: Sport Climbing Girls"
@@ -1559,6 +1647,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 156896
+  - title: "Kochoki"
+    synonyms:
+      - "Kochoki: Wakaki Nobunaga"
+    seasons:
+      - season: 1
+        anilist-id: 106894
   - title: "Komi Can’t Communicate"
     synonyms:
       - "Comi san ha Comyusho desu"
@@ -1671,6 +1765,12 @@ entries:
         anilist-id: 20671
       - season: 3
         anilist-id: 114862
+  - title: "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note"
+    synonyms:
+      - "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note"
+    seasons:
+      - season: 1
+        anilist-id: 106918
   - title: "Love After World Domination"
     synonyms:
       - "Koi wa Sekai Seifuku no Ato de"
@@ -2143,6 +2243,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108628
+  - title: "O Maidens in Your Savage Season"
+    synonyms:
+      - "AraOto"
+      - "Araburu Kisetsu no Otome-domo yo."
+    seasons:
+      - season: 1
+        anilist-id: 105932
   - title: "Oda Cinnamon Nobunaga"
     seasons:
       - season: 1
@@ -2398,6 +2505,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 130549
+  - title: "Re:Stage! Dream Days"
+    synonyms:
+      - "Re:Stage! Dream Days♪"
+    seasons:
+      - season: 1
+        anilist-id: 103048
   - title: "Re:ZERO -Starting Life in Another World-"
     synonyms:
       - "Re Zero"
@@ -2862,6 +2975,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104158
+  - title: "STARMYU"
+    synonyms:
+      - "High School Star Musical"
+      - "Star Mu"
+    seasons:
+      - season: 1
+        anilist-id: 21118
+      - season: 2
+        anilist-id: 97820
+      - season: 3
+        anilist-id: 100280
   - title: "Stars Align"
     synonyms:
       - "Hoshiai no Sora"
@@ -2917,6 +3041,21 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112818
+  - title: "Superb Song of the Valkyries: Symphogear"
+    synonyms:
+      - "Senki Zesshou Symphogear"
+      - "Symphogear"
+    seasons:
+      - season: 1
+        anilist-id: 11751
+      - season: 2
+        anilist-id: 15793
+      - season: 3
+        anilist-id: 20560
+      - season: 4
+        anilist-id: 21672
+      - season: 5
+        anilist-id: 21673
   - title: "Suppose a Kid from the Last Dungeon Boonies moved to a starter town?"
     synonyms:
       - "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari"
@@ -3371,6 +3510,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 126897
+  - title: "The Ones Within"
+    synonyms:
+      - "Naka no Hito Genome [Jikkyouchuu]"
+      - "Nakanohito Genome [Jikkyouchuu]"
+    seasons:
+      - season: 1
+        anilist-id: 102926
   - title: "The Prince of Tennis II: U-17 World Cup"
     synonyms:
       - "New Prince of Tennis: U-17 WORLD CUP"
@@ -3495,6 +3641,12 @@ entries:
         anilist-id: 99557
       - season: 3
         anilist-id: 119806
+  - title: "To the Abandoned Sacred Beasts"
+    synonyms:
+      - "Katsute Kami Datta Kemono-tachi e"
+    seasons:
+      - season: 1
+        anilist-id: 107672
   - title: "To Your Eternity"
     synonyms:
       - "Fumetsu no Anata e"
@@ -3618,6 +3770,10 @@ entries:
         anilist-id: 107666
       - season: 2
         anilist-id: 114304
+  - title: "Try Knights"
+    seasons:
+      - season: 1
+        anilist-id: 108444
   - title: "Tsugumomo"
     seasons:
       - season: 1
@@ -3755,6 +3911,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112609
+  - title: "Waresho! Warera! Shodobutsu Aigo Iinkai"
+    seasons:
+      - season: 1
+        anilist-id: 110201
   - title: "Warlords of Sigrdrifa"
     synonyms:
       - "Senyoku no Sigrdrifa"
@@ -3762,6 +3922,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116173
+  - title: "Wasteful Days of High School Girls"
+    synonyms:
+      - "Joshikousei no Mudazukai"
+    seasons:
+      - season: 1
+        anilist-id: 105081
   - title: "Watanuki-san Chi no"
     seasons:
       - season: 1
