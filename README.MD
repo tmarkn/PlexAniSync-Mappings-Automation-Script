@@ -37,13 +37,25 @@ For full information, [read this section](https://github.com/RickDB/PlexAniSync#
 
 Example `custom_mappings.yaml` with [The Movie Database](https://www.themoviedb.org/), which is the default provider using the built-in Plex agent:
 
+#### Easy Importing
+
+Just add the merged yaml file to your custom mappings:
+
 ```yaml notranslate position-relative overflow-auto
 remote-urls:
-  - https://raw.githubusercontent.com/tmarkn/PlexAniSync-Mappings-Automation-Script/main/yaml/2023-0-WINTER-Anime.yaml
-  - https://raw.githubusercontent.com/tmarkn/PlexAniSync-Mappings-Automation-Script/main/yaml/2023-1-SPRING-Anime.yaml
-  - https://raw.githubusercontent.com/tmarkn/PlexAniSync-Mappings-Automation-Script/main/yaml/2023-2-SUMMER-Anime.yaml
+  - https://raw.githubusercontent.com/tmarkn/PlexAniSync-Mappings-Automation-Script/main/custom_mappings.yaml
 ```
 
+#### Individual Seasons:
+
+Add the season you want with individual links:
+
+```yaml notranslate position-relative overflow-auto
+remote-urls:
+  - https://raw.githubusercontent.com/tmarkn/PlexAniSync-Mappings-Automation-Script/main/yamlFiles/2023-0-WINTER-Anime.yaml
+  - https://raw.githubusercontent.com/tmarkn/PlexAniSync-Mappings-Automation-Script/main/yamlFiles/2023-1-SPRING-Anime.yaml
+  - https://raw.githubusercontent.com/tmarkn/PlexAniSync-Mappings-Automation-Script/main/yamlFiles/2023-2-SUMMER-Anime.yaml
+```
 
 ## How to contribute
 
