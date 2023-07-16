@@ -30,6 +30,17 @@ entries:
       - season: 1
         anilist-id: 131586
         start: 12
+  - title: "A Certain Magical Index"
+    synonyms:
+      - "Toaru Majutsu no Index"
+      - "Toaru Majutsu no Kinsho Mokuroku"
+    seasons:
+      - season: 1
+        anilist-id: 4654
+      - season: 2
+        anilist-id: 8937
+      - season: 3
+        anilist-id: 100185
   - title: "A Certain Scientific Accelerator"
     synonyms:
       - "Toaru Kagaku no Accelerator"
@@ -77,6 +88,14 @@ entries:
         anilist-id: 107651
       - season: 2
         anilist-id: 111145
+  - title: "Ace Attorney"
+    synonyms:
+      - "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!"
+    seasons:
+      - season: 1
+        anilist-id: 21360
+      - season: 2
+        anilist-id: 101313
   - title: "Ace of the Diamond"
     synonyms:
       - "Ace of Diamond"
@@ -189,6 +208,10 @@ entries:
       - season: 1
         anilist-id: 143203
         start: 14
+  - title: "Anima Yell!"
+    seasons:
+      - season: 1
+        anilist-id: 101013
   - title: "Ao no Orchestra"
     synonyms:
       - "The Blue Orchestra"
@@ -234,6 +257,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 110547
+  - title: "As Miss Beelzebub Likes it."
+    synonyms:
+      - "Beelzebub-jou no Okinimesu mama."
+    seasons:
+      - season: 1
+        anilist-id: 101505
   - title: "Ascendance of a Bookworm"
     synonyms:
       - "Ascendance of a Bookworm: I'll do anything to become a librarian"
@@ -359,6 +388,10 @@ entries:
         anilist-id: 101373
       - season: 2
         anilist-id: 106568
+  - title: "Bakutsuri Bar Hunter"
+    seasons:
+      - season: 1
+        anilist-id: 102927
   - title: "BanG Dream!"
     synonyms:
       - "Bandori"
@@ -423,6 +456,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 155011
+  - title: "Between the Sky and Sea"
+    synonyms:
+      - "Sora to Umi no Aida"
+      - "The Space Between the Sky and the Sea"
+    seasons:
+      - season: 1
+        anilist-id: 99639
   - title: "Bibliophile Princess"
     synonyms:
       - "Mushikaburi-hime"
@@ -469,6 +509,13 @@ entries:
       - season: 17
         anilist-id: 159322
         start: 14
+  - title: "Bloom Into You"
+    synonyms:
+      - "YagaKimi"
+      - "Yagate Kimi ni Naru"
+    seasons:
+      - season: 1
+        anilist-id: 101573
   - title: "Blue Reflection Ray"
     synonyms:
       - "BLUE REFLECTION RAY"
@@ -481,6 +528,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 137822
+  - title: "Boarding School Juliet"
+    synonyms:
+      - "Kishuku Gakkou no Juliet"
+    seasons:
+      - season: 1
+        anilist-id: 101310
   - title: "BOCCHI THE ROCK!"
     synonyms:
       - "Bocchi the Rock!"
@@ -749,6 +802,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116588
+  - title: "Conception"
+    synonyms:
+      - "CONCEPTION"
+      - "Conception: Ore no Kodomo wo Undekure!"
+    seasons:
+      - season: 1
+        anilist-id: 101609
   - title: "Cop Craft"
     synonyms:
       - "Cop Craft: Dragnet Mirage Reloaded"
@@ -772,6 +832,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 130997
+  - title: "DAKAICHI! -I'm being harassed by the sexiest man of the year"
+    synonyms:
+      - "Dakaretai Otoko 1-i ni Odosarete Imasu."
+    seasons:
+      - season: 1
+        anilist-id: 101381
   - title: "Dance Dance Danseur"
     seasons:
       - season: 1
@@ -915,6 +981,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101347
+  - title: "DOUBLE DECKER! DOUG & KIRILL"
+    synonyms:
+      - "DOUBLE DECKER! Doug & Kirill"
+    seasons:
+      - season: 1
+        anilist-id: 101318
   - title: "Dr. Ramune -Mysterious Disease Specialist-"
     synonyms:
       - "Kai Byoui Ramune"
@@ -1049,6 +1121,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128399
+  - title: "Fairy Tail"
+    synonyms:
+      - "FAIRY TAIL"
+    seasons:
+      - season: 1
+        anilist-id: 6702
+      - season: 5
+        anilist-id: 20626
+      - season: 8
+        anilist-id: 99749
   - title: "Fanfare of Adolescence"
     synonyms:
       - "Gunjou no Fanfare"
@@ -1152,6 +1234,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112719
+  - title: "Gakuen Basara: Samurai High School"
+    synonyms:
+      - "Gakuen BASARA"
+    seasons:
+      - season: 1
+        anilist-id: 101470
   - title: "Gal & Dino"
     synonyms:
       - "GAL and Dinosaur"
@@ -1221,6 +1309,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108241
+  - title: "GOBLIN SLAYER"
+    synonyms:
+      - "Goblin Slayer"
+    seasons:
+      - season: 1
+        anilist-id: 101165
   - title: "Golden Kamuy"
     synonyms:
       - "Golden Kamui"
@@ -1262,6 +1356,15 @@ entries:
         anilist-id: 133510
       - season: 2
         anilist-id: 160173
+  - title: "Gurazeni: Money Pitch"
+    synonyms:
+      - "Gurazeni"
+      - "Money Diamond"
+    seasons:
+      - season: 1
+        anilist-id: 98479
+      - season: 2
+        anilist-id: 102974
   - title: "HAIKYU!!"
     synonyms:
       - "Haikyuu!!"
@@ -1369,6 +1472,12 @@ entries:
         anilist-id: 114446
       - season: 2
         anilist-id: 131149
+  - title: "Hinomaru Sumo"
+    synonyms:
+      - "Hinomaru-Zumou"
+    seasons:
+      - season: 1
+        anilist-id: 100990
   - title: "Hitoribocchi no Marumaruseikatsu"
     synonyms:
       - "Bocchi Seikatsu"
@@ -1561,6 +1670,17 @@ entries:
         anilist-id: 107201
       - season: 2
         anilist-id: 126529
+  - title: "Inazuma Eleven Ares & Orion"
+    synonyms:
+      - "Inazuma Eleven Ares"
+      - "Inazuma Eleven Balance of Ares"
+      - "Inazuma Eleven: Ares no Tenbin"
+      - "Super Onze: Ares no Tenbin"
+    seasons:
+      - season: 1
+        anilist-id: 21879
+      - season: 2
+        anilist-id: 104077
   - title: "Infinite Dendrogram"
     seasons:
       - season: 1
@@ -1591,6 +1711,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 131019
+  - title: "IRODUKU: The World in Colors"
+    synonyms:
+      - "Iroduku"
+      - "Irozuku Sekai no Ashita kara"
+      - "So Many Colors In The Future What A Wonderful World"
+    seasons:
+      - season: 1
+        anilist-id: 101316
   - title: "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
     synonyms:
       - "Danmachi"
@@ -1635,6 +1763,23 @@ entries:
     seasons:
       - season: 1
         anilist-id: 109010
+  - title: "JoJo's Bizarre Adventure (2012)"
+    synonyms:
+      - "JoJo no Kimyou na Bouken (TV)"
+      - "JoJo no Kimyou na Bouken: Sentou Chouryuu"
+      - "JoJo's Bizarre Adventure: Battle Tendency"
+      - "JoJo's Bizarre Adventure: Phantom Blood"
+    seasons:
+      - season: 1
+        anilist-id: 14719
+      - season: 2
+        anilist-id: 20474
+      - season: 3
+        anilist-id: 20799
+      - season: 4
+        anilist-id: 21450
+      - season: 5
+        anilist-id: 102883
   - title: "JUJUTSU KAISEN"
     synonyms:
       - "JJK"
@@ -1717,6 +1862,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 110810
+  - title: "Karakuri Circus"
+    seasons:
+      - season: 1
+        anilist-id: 101336
   - title: "Kedama no Gonjirou"
     seasons:
       - season: 1
@@ -1777,6 +1926,12 @@ entries:
         anilist-id: 113108
       - season: 4
         anilist-id: 140350
+  - title: "Kirakira Happy★Hirake! Cocotama"
+    synonyms: 
+      - "Kira Kira Happy ★ Hirake! Cocotama"
+    seasons:
+      - season: 1
+        anilist-id: 102604
   - title: "Kiratto Pri☆chan"
     synonyms:
       - "Kiratto Pri☆Chan"
@@ -2096,6 +2251,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99000
+  - title: "Merc Storia: The Apathetic Boy and the Girl in a Bottle"
+    synonyms:
+      - "Merc Storia: Mukiryoku Shounen to Bin no Naka no Shoujo"
+    seasons:
+      - season: 1
+        anilist-id: 101125
   - title: "Mewkledreamy"
     seasons:
       - season: 1
@@ -2223,6 +2384,12 @@ entries:
         anilist-id: 98565
       - season: 3
         anilist-id: 120851
+  - title: "Ms. vampire who lives in my neighborhood."
+    synonyms:
+      - "Tonari no Kyuuketsuki-san"
+    seasons:
+      - season: 1
+        anilist-id: 101371
   - title: "Muhyo & Roji's Bureau of Supernatural Investigation"
     synonyms:
       - "Muhyo to Rouji no Mahouritsu Soudan Jimusho"
@@ -2349,6 +2516,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 120646
+  - title: "My Sister, My Writer"
+    synonyms:
+      - "ImoImo"
+      - "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai"
+    seasons:
+      - season: 1
+        anilist-id: 100382
   - title: "My Stepmom's Daughter is My Ex"
     synonyms:
       - "Mamahaha no Tsurego ga Motokano datta"
@@ -2717,6 +2891,13 @@ entries:
         anilist-id: 113717
       - season: 2
         anilist-id: 153452
+  - title: "Rascal Does Not Dream of Bunny Girl Senpai"
+    synonyms:
+      - "AoButa"
+      - "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+    seasons:
+      - season: 1
+        anilist-id: 101291
   - title: "Raven of the Inner Palace"
     synonyms:
       - "Koukyuu no Karasu"
@@ -2791,6 +2972,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 139587
+  - title: "RELEASE THE SPYCE"
+    seasons:
+      - season: 1
+        anilist-id: 101014
   - title: "Remake Our Life!"
     synonyms:
       - "Bokurema"
@@ -2859,6 +3044,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 131878
+  - title: "Run with the Wind"
+    synonyms:
+      - "Kaze ga Tsuyoku Fuiteiru"
+      - "KazeTsuyo"
+    seasons:
+      - season: 1
+        anilist-id: 101903
   - title: "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
     synonyms:
       - "Rurouni Kenshin (2023)"
@@ -2977,6 +3169,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 126790
+  - title: "Senran Kagura"
+    synonyms:
+      - "Senran Kagura: Ninja Flash!"
+    seasons:
+      - season: 1
+        anilist-id: 15119
+      - season: 2
+        anilist-id: 102822
   - title: "Seton Academy: Join the Pack!"
     synonyms:
       - "Murenase! Seton Gakuen"
@@ -3218,6 +3418,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113950
+  - title: "SSSS.GRIDMAN"
+    seasons:
+      - season: 1
+        anilist-id: 99424
   - title: "Stand My Heroes: Piece of Truth"
     synonyms:
       - "Stand My Heroes: PIECE OF TRUTH"
@@ -3597,6 +3801,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 160188
+  - title: "The Girl in Twilight"
+    synonyms:
+      - "Akane Sasu Shoujo"
+      - "Akanesasu Shoujo"
+    seasons:
+      - season: 1
+        anilist-id: 101360
   - title: "The God of High School"
     synonyms:
       - "THE GOD OF HIGH SCHOOL"
@@ -3901,10 +4112,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 122348
-  - title: "Thunderbolt Fantasy: Sword Travels in the East"
+  - title: "Thunderbolt Fantasy"
     synonyms:
-      - "Thunderbolt Fantasy"
       - "Thunderbolt Fantasy: Sword Seekers"
+      - "Thunderbolt Fantasy: Sword Travels in the East"
       - "Thunderbolt Fantasy: Touriken Yuuki"
     seasons:
       - season: 1
@@ -3941,6 +4152,19 @@ entries:
     seasons:
       - season: 1
         anilist-id: 140643
+  - title: "Tokyo Ghoul"
+    synonyms:
+      - "Tokyo Kushu"
+    seasons:
+      - season: 1
+        anilist-id: 20605
+      - season: 2
+        anilist-id: 20850
+      - season: 3
+        anilist-id: 100240
+      - season: 3
+        anilist-id: 102351
+        start: 13
   - title: "TOKYO MEW MEW NEW"
     synonyms:
       - "Tokyo Mew Mew New~♡"
@@ -4072,11 +4296,11 @@ entries:
         anilist-id: 20950
       - season: 2
         anilist-id: 105244
-  - title: "Tsurune: For Better or Worse"
+  - title: "Tsurune"
     synonyms:
       - "Tsurune: Dangerous Shoot"
+      - "Tsurune: Kazemai Koukou Kyuudou-bu"
       - "Tsurune: Kazemai Koukou Kyuudou-bu - Yabai"
-      - "Tsurune: Kazemai Koukou Kyuudoubu Episode 14"
     seasons:
       - season: 1
         anilist-id: 100402
@@ -4095,6 +4319,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101597
+  - title: "Ulysses: Jeanne d'Arc and the Alchemist Knight"
+    synonyms:
+      - "Ulysses: Jeanne d'Arc to Renkin no Kishi"
+      - "Ulysses: Jehanne Darc to Renkin no Kishi"
+    seasons:
+      - season: 1
+        anilist-id: 100432
   - title: "Umamusume: Pretty Derby"
     synonyms:
       - "Uma Musume: Pretty Derby"
@@ -4140,6 +4371,12 @@ entries:
         anilist-id: 115113
       - season: 2
         anilist-id: 124395
+  - title: "UzaMaid!"
+    synonyms:
+      - "Uchi no Maid ga Uzasugiru!"
+    seasons:
+      - season: 1
+        anilist-id: 101506
   - title: "Val x Love"
     synonyms:
       - "Ikusa x Koi"
@@ -4318,6 +4555,14 @@ entries:
         anilist-id: 114087
       - season: 3
         anilist-id: 127400
+  - title: "Xuan Yuan Sword Luminary"
+    synonyms:
+      - "Ken En Ken: Aoki Kagayaki"
+      - "Xuan-Yuan Sword: Aoki Kagayaki"
+      - "Xuan-Yuan Sword: Lights of the Bleak"
+    seasons:
+      - season: 1
+        anilist-id: 104103
   - title: "Y School Heroes"
     synonyms:
       - "Yo-kai Gakuen Y: Encounter With N"
