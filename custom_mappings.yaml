@@ -571,12 +571,6 @@ entries:
       - season: 15
         anilist-id: 150970
         start: 26
-  - title: "Cardfight!! Vanguard Extra Story -if-"
-    synonyms:
-      - "Cardfight!! Vanguard Gaiden: if"
-    seasons:
-      - season: 1
-        anilist-id: 115656
   - title: "Cardfight!! Vanguard overDress"
     synonyms:
       - "Cardfight!! Vanguard: overDress"

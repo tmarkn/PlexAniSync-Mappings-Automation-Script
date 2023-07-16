@@ -70,12 +70,6 @@ entries:
         anilist-id: 111144
       - season: 13
         anilist-id: 115656
-  - title: "Cardfight!! Vanguard Extra Story -if-"
-    synonyms:
-      - "Cardfight!! Vanguard Gaiden: if"
-    seasons:
-      - season: 1
-        anilist-id: 115656
   - title: "Diary of Our Days at the Breakwater"
     synonyms:
       - "Houkago Teibou Nisshi"
