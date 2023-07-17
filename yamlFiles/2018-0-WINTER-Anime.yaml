@@ -106,9 +106,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99748
-  - title: "HAKYU HOSHIN ENGI"
+  - title: "Soul Hunter (2018)"
     synonyms:
       - "Soul Hunter"
+      - "HAKYU HOSHIN ENGI"
       - "Senkai-den Houshin Engi"
       - "Hakyuu: Houshin Engi"
       - "Hakyuu Houshin Engi"
@@ -121,9 +122,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99390
-  - title: "HUGtto! Precure"
+  - title: "Hugtto! Pretty Cure"
     synonyms:
-      - "Hugtto! Pretty Cure"
+      - "HUGtto! Precure"
       - "Hug tto! Precure"
     seasons:
       - season: 1
@@ -148,9 +149,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98389
-  - title: "KOKKOKU"
+  - title: "Kokkoku"
     synonyms:
-      - "Kokkoku"
+      - "KOKKOKU"
     seasons:
       - season: 1
         anilist-id: 100332
@@ -174,8 +175,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98439
-  - title: "Ms. Koizumi Loves Ramen Noodles"
+  - title: "Ms. Koizumi Loves Ramen Noodles (2019)"
     synonyms:
+      - "Ms. Koizumi Loves Ramen Noodles"
       - "Ramen Daisuki Koizumi-san"
     seasons:
       - season: 1
@@ -206,8 +208,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97768
-  - title: "SANRIO BOYS"
+  - title: "Sanrio Boys"
     synonyms:
+      - "Sanrio Boys"
       - "Sanrio Danshi"
     seasons:
       - season: 1
@@ -218,7 +221,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98503
-  - title: "Shinkansen Henkei Robo Shinkalion"
+  - title: "Shinkansen Henkei Robo Shinkalion the Animation"
+    synonyms:
+      - "Shinkansen Henkei Robo Shinkalion"
     seasons:
       - season: 1
         anilist-id: 100620
@@ -264,9 +269,9 @@ entries:
         anilist-id: 21662
       - season: 2
         anilist-id: 99148
-  - title: "Touken Ranbu - Hanamaru"
+  - title: "Touken Ranbu: Hanamaru"
     synonyms:
-      - "Touken Ranbu: Hanamaru"
+      - "Touken Ranbu - Hanamaru"
     seasons:
       - season: 1
         anilist-id: 21741
@@ -287,4 +292,14 @@ entries:
       - season: 3
         anilist-id: 21407
       - season: 4
+        anilist-id: 99476
+  - title: "Yowamushi Pedal (2016)"
+    synonyms:
+      - "YowaPeda 3"
+      - "Yowamushi Pedal: NEW GENERATION"
+      - "Yowamushi Pedal New Generation"
+    seasons:
+      - season: 1
+        anilist-id: 21407
+      - season: 2
         anilist-id: 99476

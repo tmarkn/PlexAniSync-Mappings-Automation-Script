@@ -292,7 +292,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113950
-  - title: "Shinkansen Henkei Robo Shinkalion"
+  - title: "Shinkansen Henkei Robo Shinkalion the Animation"
+    synonyms:
+      - "Shinkansen Henkei Robo Shinkalion"
     seasons:
       - season: 1
         anilist-id: 100620

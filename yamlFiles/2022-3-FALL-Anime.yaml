@@ -325,3 +325,15 @@ entries:
         anilist-id: 99476
       - season: 5
         anilist-id: 142481
+  - title: "Yowamushi Pedal (2016)"
+    synonyms:
+      - "YowaPeda 3"
+      - "Yowamushi Pedal: NEW GENERATION"
+      - "Yowamushi Pedal New Generation"
+    seasons:
+      - season: 1
+        anilist-id: 21407
+      - season: 2
+        anilist-id: 99476
+      - season: 3
+        anilist-id: 142481

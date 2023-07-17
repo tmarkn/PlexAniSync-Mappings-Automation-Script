@@ -1767,15 +1767,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99748
-  - title: "HAKYU HOSHIN ENGI"
-    synonyms:
-      - "Hakyuu Houshin Engi"
-      - "Hakyuu: Houshin Engi"
-      - "Senkai-den Houshin Engi"
-      - "Soul Hunter"
-    seasons:
-      - season: 1
-        anilist-id: 99727
   - title: "Handyman Saitou in Another World"
     synonyms:
       - "Benriya Saitou-san, Isekai ni Iku"
@@ -1998,10 +1989,10 @@ entries:
       - season: 2
         anilist-id: 100852
         start: 14
-  - title: "HUGtto! Precure"
+  - title: "Hugtto! Pretty Cure"
     synonyms:
+      - "HUGtto! Precure"
       - "Hug tto! Precure"
-      - "Hugtto! Pretty Cure"
     seasons:
       - season: 1
         anilist-id: 100661
@@ -2492,9 +2483,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 106894
-  - title: "KOKKOKU"
+  - title: "Kokkoku"
     synonyms:
-      - "Kokkoku"
+      - "KOKKOKU"
     seasons:
       - season: 1
         anilist-id: 100332
@@ -3053,8 +3044,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101161
-  - title: "Ms. Koizumi Loves Ramen Noodles"
+  - title: "Ms. Koizumi Loves Ramen Noodles (2019)"
     synonyms:
+      - "Ms. Koizumi Loves Ramen Noodles"
       - "Ramen Daisuki Koizumi-san"
     seasons:
       - season: 1
@@ -3862,8 +3854,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 140502
-  - title: "SANRIO BOYS"
+  - title: "Sanrio Boys"
     synonyms:
+      - "Sanrio Boys"
       - "Sanrio Danshi"
     seasons:
       - season: 1
@@ -4026,7 +4019,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 140753
-  - title: "Shinkansen Henkei Robo Shinkalion"
+  - title: "Shinkansen Henkei Robo Shinkalion the Animation"
+    synonyms:
+      - "Shinkansen Henkei Robo Shinkalion"
     seasons:
       - season: 1
         anilist-id: 100620
@@ -4168,6 +4163,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 155068
+  - title: "Soul Hunter (2018)"
+    synonyms:
+      - "HAKYU HOSHIN ENGI"
+      - "Hakyuu Houshin Engi"
+      - "Hakyuu: Houshin Engi"
+      - "Senkai-den Houshin Engi"
+      - "Soul Hunter"
+    seasons:
+      - season: 1
+        anilist-id: 99727
   - title: "Space Bug"
     synonyms:
       - "The Journey Home"
@@ -5088,9 +5093,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 155070
-  - title: "Touken Ranbu - Hanamaru"
+  - title: "Touken Ranbu: Hanamaru"
     synonyms:
-      - "Touken Ranbu: Hanamaru"
+      - "Touken Ranbu - Hanamaru"
     seasons:
       - season: 1
         anilist-id: 21741
@@ -5552,6 +5557,18 @@ entries:
       - season: 4
         anilist-id: 99476
       - season: 5
+        anilist-id: 142481
+  - title: "Yowamushi Pedal (2016)"
+    synonyms:
+      - "YowaPeda 3"
+      - "Yowamushi Pedal New Generation"
+      - "Yowamushi Pedal: NEW GENERATION"
+    seasons:
+      - season: 1
+        anilist-id: 21407
+      - season: 2
+        anilist-id: 99476
+      - season: 3
         anilist-id: 142481
   - title: "YU-NO: A Girl Who Chants Love at the Bound of This World"
     synonyms:
