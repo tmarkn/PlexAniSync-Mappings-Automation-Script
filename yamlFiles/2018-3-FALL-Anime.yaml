@@ -65,9 +65,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101609
-  - title: "DAKAICHI! -I'm being harassed by the sexiest man of the year"
+  - title: "Dakaichi: I’m Being Harassed by the Sexiest Man of the Year"
     synonyms:
       - "Dakaretai Otoko 1-i ni Odosarete Imasu."
+      - "DAKAICHI! -I'm being harassed by the sexiest man of the year"
     seasons:
       - season: 1
         anilist-id: 101381
@@ -93,9 +94,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101470
-  - title: "GOBLIN SLAYER"
+  - title: "Goblin Slayer"
     synonyms:
-      - "Goblin Slayer"
+      - "GOBLIN SLAYER"
     seasons:
       - season: 1
         anilist-id: 101165
@@ -183,8 +184,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101359
-  - title: "Ms. vampire who lives in my neighborhood."
+  - title: "Ms. Vampire Who Lives in My Neighborhood."
     synonyms:
+      - "Ms. vampire who lives in my neighborhood."
       - "Tonari no Kyuuketsuki-san"
     seasons:
       - season: 1
@@ -196,9 +198,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 100382
-  - title: "RADIANT"
+  - title: "Radiant"
     synonyms:
-      - "Radiant"
+      - "RADIANT"
     seasons:
       - season: 1
         anilist-id: 101024
@@ -209,7 +211,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101291
-  - title: "RELEASE THE SPYCE"
+  - title: "Release the Spyce"
+    synonyms:
+      - "RELEASE THE SPYCE"
     seasons:
       - season: 1
         anilist-id: 101014
@@ -228,7 +232,9 @@ entries:
         anilist-id: 15119
       - season: 2
         anilist-id: 102822
-  - title: "SSSS.GRIDMAN"
+  - title: "SSSS.Gridman"
+    synonyms:
+      - "SSSS.GRIDMAN"
     seasons:
       - season: 1
         anilist-id: 99424
@@ -307,9 +313,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104103
-  - title: "ZOMBIE LAND SAGA"
+  - title: "Zombie Land Saga"
     synonyms:
-      - "Zombie Land Saga"
+      - "ZOMBIE LAND SAGA"
       - "Zombieland Saga"
     seasons:
       - season: 1

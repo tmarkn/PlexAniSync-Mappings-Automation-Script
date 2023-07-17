@@ -374,10 +374,10 @@ entries:
   #   seasons:
   #     - season: 1
   #       anilist-id: 130445
-  - title: "ZOMBIE LAND SAGA"
+  - title: "Zombie Land Saga"
     synonyms:
+      - "ZOMBIE LAND SAGA"
       - "Zombieland Saga"
-      - "Zombie Land Saga"
     seasons:
       - season: 1
         anilist-id: 103871

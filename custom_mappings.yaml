@@ -1044,8 +1044,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 130997
-  - title: "DAKAICHI! -I'm being harassed by the sexiest man of the year"
+  - title: "Dakaichi: I’m Being Harassed by the Sexiest Man of the Year"
     synonyms:
+      - "DAKAICHI! -I'm being harassed by the sexiest man of the year"
       - "Dakaretai Otoko 1-i ni Odosarete Imasu."
     seasons:
       - season: 1
@@ -1665,9 +1666,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108241
-  - title: "GOBLIN SLAYER"
+  - title: "Goblin Slayer"
     synonyms:
-      - "Goblin Slayer"
+      - "GOBLIN SLAYER"
     seasons:
       - season: 1
         anilist-id: 101165
@@ -3052,8 +3053,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98529
-  - title: "Ms. vampire who lives in my neighborhood."
+  - title: "Ms. Vampire Who Lives in My Neighborhood."
     synonyms:
+      - "Ms. vampire who lives in my neighborhood."
       - "Tonari no Kyuuketsuki-san"
     seasons:
       - season: 1
@@ -3583,9 +3585,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 126793
-  - title: "RADIANT"
+  - title: "Radiant"
     synonyms:
-      - "Radiant"
+      - "RADIANT"
     seasons:
       - season: 1
         anilist-id: 101024
@@ -3698,7 +3700,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 139587
-  - title: "RELEASE THE SPYCE"
+  - title: "Release the Spyce"
+    synonyms:
+      - "RELEASE THE SPYCE"
     seasons:
       - season: 1
         anilist-id: 101014
@@ -4211,7 +4215,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113950
-  - title: "SSSS.GRIDMAN"
+  - title: "SSSS.Gridman"
+    synonyms:
+      - "SSSS.GRIDMAN"
     seasons:
       - season: 1
         anilist-id: 99424
@@ -5667,9 +5673,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 159831
-  - title: "ZOMBIE LAND SAGA"
+  - title: "Zombie Land Saga"
     synonyms:
-      - "Zombie Land Saga"
+      - "ZOMBIE LAND SAGA"
       - "Zombieland Saga"
     seasons:
       - season: 1
