@@ -101,6 +101,9 @@ def makeEntryFromAnilistData(anilistDict: dict, id: int) -> AnilistEntry:
         if search is not None:
             season = max(int(first(search.groups())), season)
 
+    ## remove duplicate
+    alEntry.synonyms.discard(engName)
+
     ## add Romaji as synonym
     ## check if different from English name
     if romajiName != engName:
