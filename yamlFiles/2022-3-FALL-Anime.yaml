@@ -311,10 +311,9 @@ entries:
         anilist-id: 116338
       - season: 3
         anilist-id: 139092
-  - title: "Yowamushi Pedal Limit Break"
+  - title: "Yowamushi Pedal"
     synonyms:
-      - "YowaPeda 5"
-      - "Yowamushi Pedal: LIMIT BREAK"
+      - "YowaPeda"
     seasons:
       - season: 1
         anilist-id: 18179

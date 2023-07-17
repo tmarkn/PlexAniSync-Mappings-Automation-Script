@@ -83,6 +83,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 148098
+  - title: "A Place Further Than the Universe"
+    synonyms:
+      - "Sora yori mo Tooi Basho"
+      - "Sora yorimo Tooi Basho"
+      - "Uchuu Yorimo Toui Basho"
+      - "Uchuu yori mo Tooi Basho"
+      - "Yorimoi"
+    seasons:
+      - season: 1
+        anilist-id: 99426
   - title: "A3! Season Spring & Summer"
     synonyms:
       - "A3!"
@@ -143,6 +153,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104115
+  - title: "After the Rain"
+    synonyms:
+      - "Koi wa Ameagari no You ni"
+      - "KoiAme"
+      - "Love is Like after the Rain"
+    seasons:
+      - season: 1
+        anilist-id: 98385
   - title: "AFTERLOST"
     synonyms:
       - "Shoumetsu Toshi"
@@ -464,6 +482,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 126213
+  - title: "Basilisk"
+    synonyms:
+      - "Basilisk: Koga Nimpo Cho"
+      - "Basilisk: Kouga Ninpou Chou"
+      - "Basilisk: Kouga Ninpouchou"
+      - "Basilisk: The Kouga Ninja Scrolls"
+    seasons:
+      - season: 1
+        anilist-id: 67
+      - season: 2
+        anilist-id: 99569
   - title: "Battle Athletes Victory ReSTART!"
     synonyms:
       - "Battle Athletess Daiundoukai: ReSTART!"
@@ -489,6 +518,10 @@ entries:
         anilist-id: 107660
       - season: 2
         anilist-id: 114194
+  - title: "BEATLESS"
+    seasons:
+      - season: 1
+        anilist-id: 100245
   - title: "BEM"
     seasons:
       - season: 1
@@ -718,6 +751,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 100745
+  - title: "Cardcaptor Sakura"
+    synonyms:
+      - "Card Captor Sakura"
+      - "Card Captors"
+      - "Cardcaptors"
+    seasons:
+      - season: 1
+        anilist-id: 232
+      - season: 4
+        anilist-id: 97881
   - title: "Cardfight!! Vanguard"
     synonyms:
       - "Cardfight Vanguard"
@@ -865,6 +908,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104008
+  - title: "Citrus"
+    synonyms:
+      - "citrus"
+    seasons:
+      - season: 1
+        anilist-id: 97832
   - title: "Classroom for Heroes"
     synonyms:
       - "Eiyuu Kyoushitsu"
@@ -940,6 +989,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101381
+  - title: "Dame×Prince ANIME CARAVAN"
+    synonyms:
+      - "Dame x Prince Anime Caravan"
+      - "DamePri"
+      - "DamePri Anime Caravan"
+    seasons:
+      - season: 1
+        anilist-id: 99637
   - title: "Dance Dance Danseur"
     seasons:
       - season: 1
@@ -954,6 +1011,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 152802
+  - title: "DARLING in the FRANXX"
+    synonyms:
+      - "DarliFra"
+      - "Darling in the Franxx"
+      - "DitF"
+    seasons:
+      - season: 1
+        anilist-id: 99423
   - title: "Darwin's Game"
     seasons:
       - season: 1
@@ -978,6 +1043,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 132532
+  - title: "Death March to the Parallel World Rhapsody"
+    synonyms:
+      - "Death March Kara Hajimaru Isekai Kyousoukyoku"
+    seasons:
+      - season: 1
+        anilist-id: 97907
   - title: "DECA-DENCE"
     synonyms:
       - "Deca-Dence"
@@ -1283,6 +1354,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 146850
+  - title: "Fate/Extra: Last Encore"
+    synonyms:
+      - "Fate/EXTRA Last Encore"
+    seasons:
+      - season: 1
+        anilist-id: 21717
   - title: "Fate/Grand Order Absolute Demonic Front: Babylonia"
     synonyms:
       - "FGO: Babylonia"
@@ -1598,6 +1675,27 @@ entries:
       - season: 4
         anilist-id: 113538
         start: 14
+  - title: "Hakata Tonkotsu Ramens"
+    seasons:
+      - season: 1
+        anilist-id: 99483
+  - title: "Hakumei and Mikochi"
+    synonyms:
+      - "Hakumei & Mikochi"
+      - "Hakumei to Mikochi"
+      - "Kobito Hiyori"
+    seasons:
+      - season: 1
+        anilist-id: 99748
+  - title: "HAKYU HOSHIN ENGI"
+    synonyms:
+      - "Hakyuu Houshin Engi"
+      - "Hakyuu: Houshin Engi"
+      - "Senkai-den Houshin Engi"
+      - "Soul Hunter"
+    seasons:
+      - season: 1
+        anilist-id: 99727
   - title: "Handyman Saitou in Another World"
     synonyms:
       - "Benriya Saitou-san, Isekai ni Iku"
@@ -1793,6 +1891,12 @@ entries:
         anilist-id: 101004
       - season: 2
         anilist-id: 117448
+  - title: "How to Keep a Mummy"
+    synonyms:
+      - "Miira no Kaikata"
+    seasons:
+      - season: 1
+        anilist-id: 99390
   - title: "Hozuki's Coolheadedness"
     synonyms:
       - "Hoozuki no Reitetsu"
@@ -1805,6 +1909,13 @@ entries:
       - season: 2
         anilist-id: 100852
         start: 14
+  - title: "HUGtto! Precure"
+    synonyms:
+      - "Hug tto! Precure"
+      - "Hugtto! Pretty Cure"
+    seasons:
+      - season: 1
+        anilist-id: 100661
   - title: "Hyakushou Kizoku"
     seasons:
       - season: 1
@@ -2064,6 +2175,12 @@ entries:
         anilist-id: 113415
       - season: 2
         anilist-id: 145064
+  - title: "Junji Ito Collection"
+    synonyms:
+      - "Itou Junji: Collection"
+    seasons:
+      - season: 1
+        anilist-id: 99940
   - title: "Kageki Shojo!!"
     synonyms:
       - "Kageki Shoujo!!"
@@ -2147,6 +2264,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101336
+  - title: "Katana Maidens ~ Toji No Miko"
+    synonyms:
+      - "Toji no Miko"
+    seasons:
+      - season: 1
+        anilist-id: 98747
   - title: "Kedama no Gonjirou"
     seasons:
       - season: 1
@@ -2185,6 +2308,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101123
+  - title: "Killing Bites"
+    seasons:
+      - season: 1
+        anilist-id: 98389
   - title: "King of Prism: Shiny Seven Stars"
     synonyms:
       - "KING OF PRISM -Shiny Seven Stars-"
@@ -2240,6 +2367,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 106894
+  - title: "KOKKOKU"
+    synonyms:
+      - "Kokkoku"
+    seasons:
+      - season: 1
+        anilist-id: 100332
   - title: "Komi Can’t Communicate"
     synonyms:
       - "Comi san ha Comyusho desu"
@@ -2484,6 +2617,13 @@ entries:
         anilist-id: 97986
       - season: 2
         anilist-id: 114745
+  - title: "Maerchen Maedchen"
+    synonyms:
+      - "Marchen Madchen"
+      - "Märchen Mädchen"
+    seasons:
+      - season: 1
+        anilist-id: 99720
   - title: "Maesetsu! Opening Act"
     synonyms:
       - "Maesetsu!"
@@ -2667,6 +2807,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 135384
+  - title: "Mitsuboshi Colors"
+    synonyms:
+      - "3boshi"
+    seasons:
+      - season: 1
+        anilist-id: 98439
   - title: "MIX: MEISEI STORY"
     synonyms:
       - "MIX"
@@ -2749,6 +2895,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101161
+  - title: "Ms. Koizumi Loves Ramen Noodles"
+    synonyms:
+      - "Ramen Daisuki Koizumi-san"
+    seasons:
+      - season: 1
+        anilist-id: 98529
   - title: "Ms. vampire who lives in my neighborhood."
     synonyms:
       - "Tonari no Kyuuketsuki-san"
@@ -3168,6 +3320,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101168
+  - title: "Pochitto Hatsumei: Pikachin-Kit"
+    seasons:
+      - season: 1
+        anilist-id: 100910
   - title: "Pokémon"
     synonyms:
       - "Pocket Monsters"
@@ -3337,6 +3493,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 142193
+  - title: "Record of Grancrest War"
+    synonyms:
+      - "Grancrest Senki"
+    seasons:
+      - season: 1
+        anilist-id: 97768
   - title: "Redo of Healer"
     synonyms:
       - "Kaifuku Jutsushi no Yarinaoshi"
@@ -3510,6 +3672,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 140502
+  - title: "SANRIO BOYS"
+    synonyms:
+      - "Sanrio Danshi"
+    seasons:
+      - season: 1
+        anilist-id: 98217
   - title: "Sarazanmai"
     seasons:
       - season: 1
@@ -3540,6 +3708,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 131150
+  - title: "School Babysitters"
+    synonyms:
+      - "Gakuen Babysitters"
+    seasons:
+      - season: 1
+        anilist-id: 98503
   - title: "Science Fell in Love, So I Tried to Prove It"
     synonyms:
       - "RikeKoi"
@@ -3736,6 +3910,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 127549
+  - title: "Slow Start"
+    seasons:
+      - season: 1
+        anilist-id: 98693
   - title: "Smile Down the Runway"
     synonyms:
       - "Runway de Waratte"
@@ -4006,7 +4184,6 @@ entries:
     synonyms:
       - "Karakai Jouzu no Takagi-san"
       - "Skilled Teaser Takagi-san"
-      - "Takagi-san: Experta en Bromas Pesadas"
     seasons:
       - season: 1
         anilist-id: 99468
@@ -4163,6 +4340,15 @@ entries:
         anilist-id: 130592
       - season: 3
         anilist-id: 155168
+  - title: "The Disastrous Life of Saiki K."
+    synonyms:
+      - "Saiki Kusuo no Psi Nan"
+      - "Saiki Kusuo no Ψ-nan"
+    seasons:
+      - season: 1
+        anilist-id: 21804
+      - season: 2
+        anilist-id: 98034
   - title: "The Dreaming Boy is a Realist"
     synonyms:
       - "My Dreamy Realist"
@@ -4483,6 +4669,12 @@ entries:
         anilist-id: 99263
       - season: 2
         anilist-id: 111321
+  - title: "The Ryuo's Work is Never Done!"
+    synonyms:
+      - "Ryuuou no Oshigoto!"
+    seasons:
+      - season: 1
+        anilist-id: 99507
   - title: "The Saint's Magic Power is Omnipotent"
     synonyms:
       - "Seijo no Maryoku wa Bannou desu"
@@ -4510,6 +4702,14 @@ entries:
         anilist-id: 108928
       - season: 4
         anilist-id: 116752
+  - title: "The Silver Guardian"
+    synonyms:
+      - "Gin no Guardian"
+    seasons:
+      - season: 1
+        anilist-id: 21662
+      - season: 2
+        anilist-id: 99148
   - title: "The Slime Diaries"
     synonyms:
       - "Tensei Shitara Slime Datta Ken: Tensura Nikki"
@@ -4676,6 +4876,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 155070
+  - title: "Touken Ranbu - Hanamaru"
+    synonyms:
+      - "Touken Ranbu: Hanamaru"
+    seasons:
+      - season: 1
+        anilist-id: 21741
+      - season: 2
+        anilist-id: 98520
   - title: "Tousouchuu: Great Mission"
     synonyms:
       - "Run for Money: The Great Mission"
@@ -4862,6 +5070,10 @@ entries:
         anilist-id: 101348
       - season: 2
         anilist-id: 136430
+  - title: "Violet Evergarden"
+    seasons:
+      - season: 1
+        anilist-id: 21827
   - title: "VIRTUALSAN - LOOKING"
     synonyms:
       - "Virtual-san wa Miteiru"
@@ -5064,6 +5276,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 131264
+  - title: "Yo-kai Watch"
+    synonyms:
+      - "Youkai Watch"
+    seasons:
+      - season: 1
+        anilist-id: 19157
+      - season: 4
+        anilist-id: 101555
+      - season: 5
+        anilist-id: 108767
   - title: "YOHANE THE PARHELION -SUNSHINE in the MIRROR"
     synonyms:
       - "Genjitsu no Yohane: SUNSHINE in the MIRROR"
@@ -5077,18 +5299,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 100727
-  - title: "Yo-kai Watch"
-    seasons:
-      - season: 1
-        anilist-id: 19157
-      - season: 4
-        anilist-id: 101555
-      - season: 5
-        anilist-id: 108767
-  - title: "Yowamushi Pedal Limit Break"
+  - title: "Yowamushi Pedal"
     synonyms:
-      - "YowaPeda 5"
-      - "Yowamushi Pedal: LIMIT BREAK"
+      - "YowaPeda"
     seasons:
       - season: 1
         anilist-id: 18179
