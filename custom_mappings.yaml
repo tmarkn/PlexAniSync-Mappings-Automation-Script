@@ -477,7 +477,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 102927
-  - title: "BANANA FISH"
+  - title: "Banana Fish"
+    synonyms:
+      - "BANANA FISH"
     seasons:
       - season: 1
         anilist-id: 100388
@@ -1763,10 +1765,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 144092
-  - title: "HANEBADO!"
+  - title: "Hanebado!"
     synonyms:
+      - "HANEBADO!"
       - "Hanebad!"
-      - "Hanebado!"
       - "Hanebado! - The Badminton Play of Ayano Hanesaki!"
     seasons:
       - season: 1
@@ -1830,6 +1832,8 @@ entries:
       - season: 1
         anilist-id: 138459
   - title: "Hi Score Girl"
+    synonyms:
+      - "High Score Girl"
     seasons:
       - season: 1
         anilist-id: 20574
@@ -3034,9 +3038,10 @@ entries:
         anilist-id: 98565
       - season: 3
         anilist-id: 120851
-  - title: "Mr. Tonegawa: Middle Management Blues"
+  - title: "Mr. TONEGAWA Middle Management Blues"
     synonyms:
       - "Chuukan Kanriroku Tonegawa"
+      - "Mr. Tonegawa: Middle Management Blues"
     seasons:
       - season: 1
         anilist-id: 101161
@@ -4771,10 +4776,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 156854
-  - title: "The Master of Ragnarök & Blesser of Einherjar"
+  - title: "The Master of Ragnarok & Blesser of Einherjar"
     synonyms:
       - "Hyakuren no Haou to Seiyaku no Valkyria"
-      - "The Master of Ragnarok & Blesser of Einherjar"
+      - "The Master of Ragnarök & Blesser of Einherjar"
     seasons:
       - season: 1
         anilist-id: 101289
@@ -4947,9 +4952,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 151679
-  - title: "The Thousand Musketeers"
+  - title: "The Thousand Noble Musketeers"
     synonyms:
       - "Senjuushi"
+      - "The Thousand Musketeers"
     seasons:
       - season: 1
         anilist-id: 101380
