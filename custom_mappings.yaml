@@ -417,9 +417,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104159
-  - title: "B-PROJECT: Kodou*Ambitious"
+  - title: "B-Project: Kodou*Ambitious"
     synonyms:
       - "B-PROJECT"
+      - "B-PROJECT: Kodou*Ambitious"
       - "B-Project: Kodo Ambitious"
       - "B-Project: Kodou Ambitious"
     seasons:
@@ -549,9 +550,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 107876
-  - title: "Bermuda Triangle ~ Colorful Pastorale"
+  - title: "Bermuda Triangle: Colorful Pastrale"
     synonyms:
-      - "Bermuda Triangle: Colorful Pastrale"
+      - "Bermuda Triangle ~ Colorful Pastorale"
       - "Colorful Pastrale ~from Bermuda Triangle~"
     seasons:
       - season: 1
@@ -1236,7 +1237,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 105228
-  - title: "Dororo"
+  - title: "Dororo (2019)"
     seasons:
       - season: 1
         anilist-id: 101347
@@ -1345,9 +1346,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 143064
-  - title: "ENDRO!"
+  - title: "Endro~!"
     synonyms:
-      - "Endro~!"
+      - "ENDRO!"
     seasons:
       - season: 1
         anilist-id: 103301
@@ -2400,9 +2401,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 107339
-  - title: "kemurikusa."
+  - title: "Kemurikusa"
     synonyms:
-      - "Kemurikusa"
+      - "kemurikusa."
     seasons:
       - season: 1
         anilist-id: 101123
@@ -2813,8 +2814,6 @@ entries:
       - season: 1
         anilist-id: 103222
   - title: "Major 2nd"
-    synonyms:
-      - "MAJOR 2nd"
     seasons:
       - season: 1
         anilist-id: 100306
@@ -3471,8 +3470,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 142095
-  - title: "PILI Fantasy: War of Dragons"
+  - title: "Pili Fantasy War of Dragons"
     synonyms:
+      - "PILI Fantasy: War of Dragons"
       - "Pili Yingxiong Zhan Ji: Dao Shuo Yi Shu"
     seasons:
       - season: 1
@@ -3752,9 +3752,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98658
-  - title: "Rinshi!! Ekodachan"
+  - title: "Rinshi!! Ekoda-chan"
     synonyms:
-      - "Rinshi!! Ekoda-chan"
+      - "Rinshi!! Ekodachan"
     seasons:
       - season: 1
         anilist-id: 104009
@@ -4227,6 +4227,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104158
+  - title: "Star ☆ Twinkle Precure"
+    synonyms:
+      - "Star☆Twinkle Precure"
+    seasons:
+      - season: 1
+        anilist-id: 105857
   - title: "STARMYU"
     synonyms:
       - "High School Star Musical"
@@ -4245,10 +4251,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104052
-  - title: "Star☆Twinkle Precure"
-    seasons:
-      - season: 1
-        anilist-id: 105857
   - title: "Steins;Gate 0"
     synonyms:
       - "Steins Gate Zero"
@@ -5334,8 +5336,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21827
-  - title: "VIRTUALSAN - LOOKING"
+  - title: "Virtual-san Looking"
     synonyms:
+      - "VIRTUALSAN - LOOKING"
       - "Virtual-san wa Miteiru"
     seasons:
       - season: 1

@@ -1,9 +1,10 @@
 entries:
-  - title: "B-PROJECT: Kodou*Ambitious"
+  - title: "B-Project: Kodou*Ambitious"
     synonyms:
       - "B-PROJECT"
       - "B-Project: Kodo Ambitious"
       - "B-Project: Kodou Ambitious"
+      - "B-PROJECT: Kodou*Ambitious"
     seasons:
       - season: 1
         anilist-id: 21751
@@ -17,9 +18,9 @@ entries:
         anilist-id: 87435
       - season: 2
         anilist-id: 101633
-  - title: "Bermuda Triangle ~ Colorful Pastorale"
+  - title: "Bermuda Triangle: Colorful Pastrale"
     synonyms:
-      - "Bermuda Triangle: Colorful Pastrale"
+      - "Bermuda Triangle ~ Colorful Pastorale"
       - "Colorful Pastrale ~from Bermuda Triangle~"
     seasons:
       - season: 1
@@ -54,22 +55,23 @@ entries:
     seasons:
       - season: 1
         anilist-id: 103139
-  - title: "Dororo"
+  - title: "Dororo (2019)"
     seasons:
       - season: 1
         anilist-id: 101347
-  - title: "ENDRO!"
+  - title: "Endro~!"
     synonyms:
-      - "Endro~!"
+      - "ENDRO!"
     seasons:
       - season: 1
         anilist-id: 103301
-  - title: "Forest of Piano"
+  - title: "The Piano Forest"
     synonyms:
+      - "Forest of Piano"
       - "Piano Forest"
-      - "The Perfect World of Kai"
       - "Piano no Mori"
       - "Piano no Mori (TV)"
+      - "The Perfect World of Kai"
     seasons:
       - season: 1
         anilist-id: 100401
@@ -108,9 +110,9 @@ entries:
         anilist-id: 87496
       - season: 2
         anilist-id: 99624
-  - title: "kemurikusa."
+  - title: "Kemurikusa"
     synonyms:
-      - "Kemurikusa"
+      - "kemurikusa."
     seasons:
       - season: 1
         anilist-id: 101123
@@ -149,8 +151,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101379
-  - title: "PILI Fantasy: War of Dragons"
+  - title: "Pili Fantasy War of Dragons"
     synonyms:
+      - "PILI Fantasy: War of Dragons"
       - "Pili Yingxiong Zhan Ji: Dao Shuo Yi Shu"
     seasons:
       - season: 1
@@ -165,13 +168,15 @@ entries:
         anilist-id: 100526
       - season: 2
         anilist-id: 102882
-  - title: "Rinshi!! Ekodachan"
+  - title: "Rinshi!! Ekoda-chan"
     synonyms:
-      - "Rinshi!! Ekoda-chan"
+      - "Rinshi!! Ekodachan"
     seasons:
       - season: 1
         anilist-id: 104009
-  - title: "Star☆Twinkle Precure"
+  - title: "Star ☆ Twinkle Precure"
+    synonyms:
+      - "Star☆Twinkle Precure"
     seasons:
       - season: 1
         anilist-id: 105857
@@ -217,8 +222,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99263
-  - title: "VIRTUALSAN - LOOKING"
+  - title: "Virtual-san Looking"
     synonyms:
+      - "VIRTUALSAN - LOOKING"
       - "Virtual-san wa Miteiru"
     seasons:
       - season: 1
