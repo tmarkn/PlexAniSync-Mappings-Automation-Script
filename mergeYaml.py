@@ -36,7 +36,8 @@ def mergeYaml(directory: str) -> None:
                 if 'synonyms' in entry:
                     anilistEntries[baseId].synonyms |= set(entry['synonyms'])
                 ## delete title from synonyms if exists
-                anilistEntries[baseId].synonyms.discard(entry['title'])
+                anilistEntries[baseId].synonyms.add(entry['title'])
+                anilistEntries[baseId].synonyms.discard(anilistEntries[baseId]['title'])
                 ## add seasons
                 anilistEntries[baseId].seasons = newSeasons
             ## doesn't exist ## create entry
