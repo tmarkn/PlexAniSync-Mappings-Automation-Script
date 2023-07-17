@@ -12,9 +12,10 @@ entries:
         anilist-id: 21085
       - season: 3
         anilist-id: 105749
-  - title: "AFTERLOST"
+  - title: "Afterlost"
     synonyms:
       - "Shoumetsu Toshi"
+      - "AFTERLOST"
     seasons:
       - season: 1
         anilist-id: 101814
@@ -38,9 +39,9 @@ entries:
       - season: 3
         anilist-id: 104578
         start: 13
-  - title: "Bakugan: Battle Planet"
+  - title: "Bakugan"
     synonyms:
-      - "Bakugan"
+      - "Bakugan: Battle Planet"
       - "Bakugan Battle Planet"
     seasons:
       - season: 1
@@ -152,13 +153,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101386
-  - title: "Kedama no Gonjirou"
+  - title: "Kedama no Gonjiro"
+    synonyms:
+      - "Kedama no Gonjirou"
     seasons:
       - season: 1
         anilist-id: 108734
-  - title: "King of Prism: Shiny Seven Stars"
+  - title: "KING OF PRISM -Shiny Seven Stars-"
     synonyms:
-      - "KING OF PRISM -Shiny Seven Stars-"
+      - "King of Prism: Shiny Seven Stars"
     seasons:
       - season: 1
         anilist-id: 103870
@@ -193,9 +196,10 @@ entries:
         anilist-id: 101359
       - season: 2
         anilist-id: 104071
-  - title: "MIX: MEISEI STORY"
+  - title: "Mix: Meisei Story"
     synonyms:
       - "MIX"
+      - "MIX: MEISEI STORY"
     seasons:
       - season: 1
         anilist-id: 103555
@@ -206,9 +210,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108039
-  - title: "Namuamidabutsu! -UTENA-"
+  - title: "Namu Amida Butsu!: Rendai Utena"
     synonyms:
       - "Namu Amida Butsu!: Rendai UTENA"
+      - "Namuamidabutsu! -UTENA-"
     seasons:
       - season: 1
         anilist-id: 104212
@@ -243,7 +248,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101597
-  - title: "Watanuki-san Chi no"
+  - title: "Watanuki's House"
+    synonyms:
+      - "Watanuki-san Chi no"
     seasons:
       - season: 1
         anilist-id: 115142
@@ -256,13 +263,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 103900
-  - title: "Wise Man’s Grandchild"
+  - title: "Wise Man's Grandchild"
     synonyms:
       - "The Sage's Grandson"
       - "Philosopher's Grandson"
       - "Magi's Grandson"
       - "The Wise Grandson"
       - "Kenja no Mago"
+      - "Wise Man’s Grandchild"
     seasons:
       - season: 1
         anilist-id: 100112
