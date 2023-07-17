@@ -93,6 +93,20 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99426
+  - title: "A Sister's All You Need"
+    synonyms:
+      - "A Sister's All You Need."
+      - "Imosae"
+      - "Imoto sae Ireba Ii"
+      - "Imoto sae Ireba Ii."
+      - "Imotosae"
+      - "Imouto sae Ireba Ii"
+      - "Imouto sae Ireba Ii."
+      - "Imoutosae"
+      - "It'd be Good if Only Little Sister Was Here"
+    seasons:
+      - season: 1
+        anilist-id: 98596
   - title: "A3! Season Spring & Summer"
     synonyms:
       - "A3!"
@@ -262,6 +276,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101013
+  - title: "Anime-Gatari"
+    synonyms:
+      - "Anime-Gataris"
+      - "Animegataris"
+    seasons:
+      - season: 1
+        anilist-id: 98607
   - title: "Ao no Orchestra"
     synonyms:
       - "The Blue Orchestra"
@@ -575,6 +596,10 @@ entries:
         anilist-id: 140830
       - season: 2
         anilist-id: 151606
+  - title: "Black Clover"
+    seasons:
+      - season: 1
+        anilist-id: 97940
   - title: "BLACK ROCK SHOOTER DAWN FALL"
     synonyms:
       - "BRS DF"
@@ -606,6 +631,20 @@ entries:
       - season: 17
         anilist-id: 159322
         start: 14
+  - title: "BLEND-S"
+    synonyms:
+      - "Blend S"
+    seasons:
+      - season: 1
+        anilist-id: 97994
+  - title: "Blood Blockade Battlefront"
+    synonyms:
+      - "Kekkai Sensen"
+    seasons:
+      - season: 1
+        anilist-id: 20727
+      - season: 2
+        anilist-id: 97886
   - title: "Bloom Into You"
     synonyms:
       - "YagaKimi"
@@ -880,6 +919,13 @@ entries:
         anilist-id: 14397
       - season: 3
         anilist-id: 101215
+  - title: "Children of the Whales"
+    synonyms:
+      - "KujiSuna"
+      - "Kujira no Kora wa Sajou ni Utau"
+    seasons:
+      - season: 1
+        anilist-id: 98449
   - title: "Chillin’ in My 30s after Getting Fired from the Demon King’s Army"
     synonyms:
       - "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life"
@@ -914,6 +960,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97832
+  - title: "ClassicaLoid"
+    seasons:
+      - season: 1
+        anilist-id: 21250
+      - season: 2
+        anilist-id: 98546
   - title: "Classroom for Heroes"
     synonyms:
       - "Eiyuu Kyoushitsu"
@@ -931,6 +983,13 @@ entries:
         anilist-id: 98659
       - season: 2
         anilist-id: 145545
+  - title: "Code: Realize − Guardian of Rebirth"
+    synonyms:
+      - "Code: Realize ~Guardian of Rebirth~"
+      - "Code:Realize - Sousei no Himegimi"
+    seasons:
+      - season: 1
+        anilist-id: 98630
   - title: "Combatants Will Be Dispatched!"
     synonyms:
       - "Sentouin, Hakenshimasu!"
@@ -1110,6 +1169,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101227
+  - title: "Dies irae"
+    seasons:
+      - season: 1
+        anilist-id: 21555
   - title: "Digimon Adventure:"
     seasons:
       - season: 1
@@ -1256,6 +1319,10 @@ entries:
         anilist-id: 153412
       - season: 8
         anilist-id: 163256
+  - title: "DYNAMIC CHORD"
+    seasons:
+      - season: 1
+        anilist-id: 98108
   - title: "EDENS ZERO"
     seasons:
       - season: 1
@@ -1502,6 +1569,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 111323
+  - title: "GARO -VANISHING LINE-"
+    synonyms:
+      - "Vanishing Line"
+    seasons:
+      - season: 1
+        anilist-id: 99796
   - title: "GeGeGe no Kitaro (2018)"
     synonyms:
       - "GeGeGe no Kitaro"
@@ -1573,6 +1646,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 126192
+  - title: "Girls' Last Tour"
+    synonyms:
+      - "GLT"
+      - "Shoujo Shuumatsu Ryokou"
+    seasons:
+      - season: 1
+        anilist-id: 99420
   - title: "Girls’ Frontline"
     synonyms:
       - "Dolls' Frontline"
@@ -1815,6 +1895,15 @@ entries:
         anilist-id: 114446
       - season: 2
         anilist-id: 131149
+  - title: "Himouto! Umaru-chan"
+    synonyms:
+      - "Beautiful Little Sister! Umaru-chan"
+      - "My Two-Faced Little Sister"
+    seasons:
+      - season: 1
+        anilist-id: 20987
+      - season: 2
+        anilist-id: 98572
   - title: "HINAMATSURI"
     synonyms:
       - "Hinamatsuri"
@@ -2061,6 +2150,10 @@ entries:
         anilist-id: 21879
       - season: 2
         anilist-id: 104077
+  - title: "Infini-T Force"
+    seasons:
+      - season: 1
+        anilist-id: 21756
   - title: "Infinite Dendrogram"
     seasons:
       - season: 1
@@ -2078,6 +2171,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 110270
+  - title: "INUYASHIKI LAST HERO"
+    synonyms:
+      - "Inuyashiki"
+    seasons:
+      - season: 1
+        anilist-id: 97922
   - title: "Ippon! again"
     synonyms:
       - "\"Ippon\" again!"
@@ -2175,12 +2274,23 @@ entries:
         anilist-id: 113415
       - season: 2
         anilist-id: 145064
+  - title: "Juni Taisen: Zodiac War"
+    synonyms:
+      - "JUNI TAISEN：ZODIAC WAR"
+      - "Juuni Taisen"
+    seasons:
+      - season: 1
+        anilist-id: 98443
   - title: "Junji Ito Collection"
     synonyms:
       - "Itou Junji: Collection"
     seasons:
       - season: 1
         anilist-id: 99940
+  - title: "Just Because!"
+    seasons:
+      - season: 1
+        anilist-id: 98820
   - title: "Kageki Shojo!!"
     synonyms:
       - "Kageki Shoujo!!"
@@ -2318,6 +2428,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 103870
+  - title: "King's Game The Animation"
+    synonyms:
+      - "King's Game"
+      - "Ousama Game"
+      - "Ousama Game The Animation"
+    seasons:
+      - season: 1
+        anilist-id: 99698
   - title: "KING's RAID: Successors of the Will"
     synonyms:
       - "King's Raid: Ishi wo Tsugumonotachi"
@@ -2334,6 +2452,13 @@ entries:
         anilist-id: 113108
       - season: 4
         anilist-id: 140350
+  - title: "Kino's Journey: The Beautiful World"
+    synonyms:
+      - "Kino no Tabi -the Beautiful World- the Animated Series"
+      - "Kino's Journey -the Beautiful World- the Animated Series"
+    seasons:
+      - season: 1
+        anilist-id: 98448
   - title: "Kirakira Happy★Hirake! Cocotama"
     synonyms:
       - "Kira Kira Happy ★ Hirake! Cocotama"
@@ -2392,6 +2517,13 @@ entries:
         anilist-id: 103302
       - season: 2
         anilist-id: 108891
+  - title: "KONOHANA KITAN"
+    synonyms:
+      - "Konohana Kitan"
+      - "fox spirit tales"
+    seasons:
+      - season: 1
+        anilist-id: 98506
   - title: "KONOSUBA -An Explosion on This Wonderful World!"
     synonyms:
       - "Kono Subarashii Sekai ni Bakuen wo!"
@@ -2421,6 +2553,17 @@ entries:
         anilist-id: 98444
       - season: 2
         anilist-id: 104459
+  - title: "Land of the Lustrous"
+    synonyms:
+      - "Country of Jewels"
+      - "Gem Kingdom"
+      - "Houseki no Kuni"
+      - "Jewelry Kingdom"
+      - "Kingdom of Gems"
+      - "Kingdom of Jewelry"
+    seasons:
+      - season: 1
+        anilist-id: 98707
   - title: "Lapis Re:LiGHTs"
     seasons:
       - season: 1
@@ -2570,6 +2713,12 @@ entries:
         anilist-id: 113970
       - season: 2
         anilist-id: 133891
+  - title: "Love Live! Sunshine!!"
+    seasons:
+      - season: 1
+        anilist-id: 21584
+      - season: 2
+        anilist-id: 98349
   - title: "Love Live! Superstar!!"
     seasons:
       - season: 1
@@ -2696,6 +2845,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 139369
+  - title: "March comes in like a lion"
+    synonyms:
+      - "3-gatsu no Lion"
+      - "Sangatsu no Lion"
+    seasons:
+      - season: 1
+        anilist-id: 21366
+      - season: 2
+        anilist-id: 98478
   - title: "MARS RED"
     seasons:
       - season: 1
@@ -2961,6 +3119,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 132405
+  - title: "My Girlfriend is Shobitch"
+    synonyms:
+      - "Boku no Kanojo ga Majime Sugiru Shoujo Bitch na Ken"
+      - "My Girlfriend Is a Virgin Who Takes Being Slutty Too Seriously"
+      - "My girlfriend is faithful virgin bitch"
+      - "This girlfriend is too much to handle!"
+    seasons:
+      - season: 1
+        anilist-id: 98951
   - title: "My Happy Marriage"
     synonyms:
       - "WataKon"
@@ -3240,6 +3407,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112667
+  - title: "Our love has always been 10 centimeters apart."
+    synonyms:
+      - "Itsudatte Bokura no Koi wa 10 cm Datta."
+    seasons:
+      - season: 1
+        anilist-id: 98977
   - title: "Outburst Dreamer Boys (TV)"
     synonyms:
       - "Chuubyou Gekihatsu Boy (TV)"
@@ -3499,6 +3672,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97768
+  - title: "Recovery of an MMO Junkie"
+    synonyms:
+      - "Net-juu no Susume"
+      - "Neto-juu no Susume"
+      - "Netoju"
+      - "Netojuu no Susume"
+      - "Recommendation of The Internet Enhancement"
+      - "Recommendation of the Wonderful Virtual Life"
+    seasons:
+      - season: 1
+        anilist-id: 99726
   - title: "Redo of Healer"
     synonyms:
       - "Kaifuku Jutsushi no Yarinaoshi"
@@ -3580,6 +3764,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 105928
+  - title: "RoboMasters: The Animated Series"
+    synonyms:
+      - "ROBOMASTERS THE ANIMATED SERIES"
+    seasons:
+      - season: 1
+        anilist-id: 98526
   - title: "Rokudo's Bad Girls"
     synonyms:
       - "Rokudou no Akujo-tachi"
@@ -3736,6 +3926,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 126790
+  - title: "SENGOKU NIGHT BLOOD"
+    synonyms:
+      - "Sengoku Night Blood"
+    seasons:
+      - season: 1
+        anilist-id: 98603
   - title: "Senran Kagura"
     synonyms:
       - "Senran Kagura: Ninja Flash!"
@@ -4514,6 +4710,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 146975
+  - title: "THE iDOLM@STER: SideM"
+    synonyms:
+      - "THE IDOLM@STER Side M"
+      - "The Idolm@ster SideM"
+      - "The Idolmaster Side M"
+    seasons:
+      - season: 1
+        anilist-id: 98310
   - title: "The Irregular at Magic High School"
     synonyms:
       - "Mahouka Koukou no Rettousei"
@@ -4781,6 +4985,14 @@ entries:
         anilist-id: 99557
       - season: 3
         anilist-id: 119806
+  - title: "Time Bokan 24"
+    synonyms:
+      - "Time Bokan Twenty Four"
+    seasons:
+      - season: 1
+        anilist-id: 21755
+      - season: 2
+        anilist-id: 98521
   - title: "To the Abandoned Sacred Beasts"
     synonyms:
       - "Katsute Kami Datta Kemono-tachi e"
@@ -4947,7 +5159,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 125206
-  - title: "TSUKIPRO THE ANIMATION"
+  - title: "TsukiPro the Animation"
+    synonyms:
+      - "TSUKIPRO THE ANIMATION"
     seasons:
       - season: 1
         anilist-id: 97904
@@ -4972,6 +5186,13 @@ entries:
         anilist-id: 100402
       - season: 2
         anilist-id: 153841
+  - title: "Two Car"
+    synonyms:
+      - "TWOCAR"
+      - "Tsuuka"
+    seasons:
+      - season: 1
+        anilist-id: 99672
   - title: "Uchitama?! Have you seen my Tama?"
     synonyms:
       - "Uchitama?! Uchi no Tama Shirimasenka?"
@@ -5017,6 +5238,19 @@ entries:
     seasons:
       - season: 1
         anilist-id: 154969
+  - title: "UQ Holder!"
+    synonyms:
+      - "UQ Holder! Magister Negi Magi! 2"
+      - "UQ Holder!: Mahou Sensei Negima! 2"
+    seasons:
+      - season: 1
+        anilist-id: 21855
+  - title: "Urahara"
+    synonyms:
+      - "URAHARA"
+    seasons:
+      - season: 1
+        anilist-id: 98513
   - title: "Urusei Yatsura (2022)"
     synonyms:
       - "Urusei Yatsura: All Stars"
@@ -5100,6 +5334,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 136119
+  - title: "Wake Up, Girls!"
+    seasons:
+      - season: 1
+        anilist-id: 19023
+      - season: 2
+        anilist-id: 97933
   - title: "Wandering Witch: The Journey of Elaina"
     synonyms:
       - "Majo no Tabitabi"
@@ -5320,16 +5560,26 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97995
-  - title: "Yuki Yuna is a Hero: The Hero Chapter"
+  - title: "Yuki Yuna is a Hero"
     synonyms:
-      - "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"
+      - "Yuuki Yuuna wa Yuusha de Aru"
     seasons:
       - season: 1
         anilist-id: 20800
       - season: 2
+        anilist-id: 100791
+      - season: 2
         anilist-id: 97769
+        start: 7
       - season: 3
         anilist-id: 122292
+  - title: "Yuki Yuna is a Hero: The Washio Sumi Chapter"
+    synonyms:
+      - "WaSuYu"
+      - "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou"
+    seasons:
+      - season: 1
+        anilist-id: 100791
   - title: "YUREI DECO"
     synonyms:
       - "You0 DECO"

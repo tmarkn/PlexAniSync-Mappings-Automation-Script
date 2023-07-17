@@ -165,7 +165,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 125206
-  - title: "TSUKIPRO THE ANIMATION"
+  - title: "TsukiPro the Animation"
+    synonyms:
+      - "TSUKIPRO THE ANIMATION"
     seasons:
       - season: 1
         anilist-id: 97904

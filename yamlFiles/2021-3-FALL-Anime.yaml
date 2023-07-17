@@ -296,13 +296,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 131264
-  - title: "Yuki Yuna is a Hero: The Hero Chapter"
+  - title: "Yuki Yuna is a Hero"
     synonyms:
-      - "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"
+      - "Yuuki Yuuna wa Yuusha de Aru"
     seasons:
       - season: 1
         anilist-id: 20800
       - season: 2
+        anilist-id: 100791
+      - season: 2
         anilist-id: 97769
+        start: 7
       - season: 3
         anilist-id: 122292
