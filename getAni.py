@@ -40,7 +40,7 @@ class AnilistEntry:
             season = self.seasons[seasonId]
             string += f'      - season: {season.seasonNum}\n'
             string += f'        anilist-id: {season.id}\n'
-            if season.start > 1:
+            if season.start != 1:
                 string += f'        start: {season.start}\n'
         
         return string

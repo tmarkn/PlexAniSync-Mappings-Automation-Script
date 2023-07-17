@@ -178,6 +178,7 @@ entries:
         start: 12
       - season: 2
         anilist-id: 146065
+        start: 0
   - title: "My Happy Marriage"
     synonyms:
       - "WataKon"
