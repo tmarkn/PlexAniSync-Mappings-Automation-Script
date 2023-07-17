@@ -11,8 +11,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 100668
-  - title: "ASTRA LOST IN SPACE"
+  - title: "Astra Lost in Space"
     synonyms:
+      - "ASTRA LOST IN SPACE"
       - "Kanata no Astra"
     seasons:
       - season: 1
@@ -90,20 +91,21 @@ entries:
     seasons:
       - season: 1
         anilist-id: 105310
-  - title: "given"
+  - title: "Given"
     synonyms:
-      - "Given"
+      - "given"
     seasons:
       - season: 1
         anilist-id: 108430
-  - title: "GRANBELM"
+  - title: "Granbelm"
     synonyms:
-      - "Granbelm"
+      - "GRANBELM"
     seasons:
       - season: 1
         anilist-id: 108147
-  - title: "Hensuki: Are you willing to fall in love with a pervert, as long as she’s a cutie?"
+  - title: "Hensuki: Are you willing to fall in love with a pervert, as long as she's a cutie?"
     synonyms:
+      - "Hensuki: Are you willing to fall in love with a pervert, as long as she’s a cutie?"
       - "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?"
       - "Kawaiikereba Hentai demo Suki ni Natte Kuremasu ka?"
       - "Would you even fall in love with a pervert as long as it's a cutie?"
@@ -147,8 +149,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 106894
-  - title: "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note"
+  - title: "Lord El-Melloi II Case Files Rail Zeppelin Grace Note"
     synonyms:
+      - "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note"
       - "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note"
     seasons:
       - season: 1
@@ -174,10 +177,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 103048
-  - title: "STARMYU"
+  - title: "High School Star Musical"
     synonyms:
       - "Star Mu"
-      - "High School Star Musical"
+      - "STARMYU"
     seasons:
       - season: 1
         anilist-id: 21118
