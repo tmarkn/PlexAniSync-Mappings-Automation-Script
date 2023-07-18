@@ -1,8 +1,8 @@
 entries:
-  - title: "86 EIGHTY-SIX"
+  - title: "86: Eighty Six"
     synonyms:
       - "86--EIGHTY-SIX"
-      - "86: Eighty Six"
+      - "86 EIGHTY-SIX"
     seasons:
       - season: 1
         anilist-id: 116589
@@ -95,8 +95,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116588
-  - title: "DON'T TOY WITH ME, MISS NAGATORO"
+  - title: "Don't Toy With Me, Miss Nagatoro"
     synonyms:
+      - "DON'T TOY WITH ME, MISS NAGATORO"
       - "Ijiranaide, Nagatoro-san"
     seasons:
       - season: 1
@@ -120,7 +121,9 @@ entries:
         anilist-id: 118630
       - season: 5
         anilist-id: 130584
-  - title: "EDENS ZERO"
+  - title: "Edens Zero"
+    synonyms:
+      - "EDENS ZERO"
     seasons:
       - season: 1
         anilist-id: 119683
@@ -150,25 +153,26 @@ entries:
         anilist-id: 111762
       - season: 3
         anilist-id: 124194
-  - title: "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!"
+  - title: "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier Than Real Life!"
     synonyms:
-      - "What If the Ultimate in Fully Immersive VR RPGs Was a Crappier Game Than Reality Itself"
+      - "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!"
       - "Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara"
+      - "What If the Ultimate in Fully Immersive VR RPGs Was a Crappier Game Than Reality Itself"
     seasons:
       - season: 1
         anilist-id: 126791
   - title: "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway"
     synonyms:
+      - "Hige wo Soru. Soshite Joshikousei wo Hirou."
       - "Higehiro"
       - "I Shaved My Beard Then Picked Up a High School Girl."
-      - "Hige wo Soru. Soshite Joshikousei wo Hirou."
     seasons:
       - season: 1
         anilist-id: 114232
   - title: "How NOT to Summon a Demon Lord"
     synonyms:
-      - "The King of Darkness Another World Story"
       - "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
+      - "The King of Darkness Another World Story"
     seasons:
       - season: 1
         anilist-id: 101004
@@ -176,14 +180,15 @@ entries:
         anilist-id: 117448
   - title: "I've Been Killing Slimes for 300 Years and Maxed Out My Level"
     synonyms:
-      - "Tanpa Sadar Levelku Mentok Setelah Membasmi Slime Selama 300 Tahun"
       - "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita"
+      - "Tanpa Sadar Levelku Mentok Setelah Membasmi Slime Selama 300 Tahun"
     seasons:
       - season: 1
         anilist-id: 112608
-  - title: "Kaiketsu Zorori"
+  - title: "Zorori the Naughty Hero"
     synonyms:
       - "Incredible Zorori"
+      - "Kaiketsu Zorori"
     seasons:
       - season: 1
         anilist-id: 3638
@@ -193,11 +198,15 @@ entries:
         anilist-id: 116793
       - season: 4
         anilist-id: 126835
-  - title: "MARS RED"
+  - title: "Mars Red"
+    synonyms:
+      - "MARS RED"
     seasons:
       - season: 1
         anilist-id: 115183
-  - title: "MAZICA PARTY"
+  - title: "Mazica Party"
+    synonyms:
+      - "MAZICA PARTY"
     seasons:
       - season: 1
         anilist-id: 130512
@@ -244,11 +253,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128547
-  - title: "Osamake: Romcom Where The Childhood Friend Won't Lose"
+  - title: "Osamake: Romcom Where the Childhood Friend Won't Lose"
     synonyms:
-      - "Osananajimi ga Zettai ni Makenai Love Comedy"
       - "OsaMake"
+      - "Osamake: Romcom Where The Childhood Friend Won't Lose"
       - "Osananajimi ga Zettai ni Makenai Love Come"
+      - "Osananajimi ga Zettai ni Makenai Love Comedy"
     seasons:
       - season: 1
         anilist-id: 124675
@@ -271,24 +281,29 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113428
-  - title: "SEVEN KNIGHTS REVOLUTION: Hero Successor"
+  - title: "Seven Knights Revolution: Hero Successor"
     synonyms:
       - "Seven Knights Revolution: Eiyuu no Keishousha"
+      - "SEVEN KNIGHTS REVOLUTION: Hero Successor"
     seasons:
       - season: 1
         anilist-id: 129386
-  - title: "SHADOWS HOUSE"
+  - title: "Shadows House"
     synonyms:
       - "Shadow House"
-      - "Shadows House"
+      - "SHADOWS HOUSE"
     seasons:
       - season: 1
         anilist-id: 125038
-  - title: "SHAMAN KING (2021)"
+  - title: "Shaman King (2021)"
+    synonyms:
+      - "SHAMAN KING (2021)"
     seasons:
       - season: 1
         anilist-id: 119675
-  - title: "SSSS.DYNAZENON"
+  - title: "SSSS.Dynazenon"
+    synonyms:
+      - "SSSS.DYNAZENON"
     seasons:
       - season: 1
         anilist-id: 113950
@@ -311,17 +326,18 @@ entries:
     seasons:
       - season: 1
         anilist-id: 123802
-  - title: "The Slime Diaries"
+  - title: "The Slime Diaries: That Time I Got Reincarnated as a Slime"
     synonyms:
-      - "The Slime Diaries: That Time I Got Reincarnated as a Slime"
       - "Tensei Shitara Slime Datta Ken: Tensura Nikki"
+      - "The Slime Diaries"
     seasons:
       - season: 1
         anilist-id: 116741
-  - title: "The World Ends with You The Animation"
+  - title: "The World Ends With You: The Animation"
     synonyms:
       - "Subaseka"
       - "Subarashiki Kono Sekai The Animation"
+      - "The World Ends with You The Animation"
     seasons:
       - season: 1
         anilist-id: 120376
@@ -354,8 +370,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 120120
-  - title: "Vivy -Fluorite Eye's Song-"
+  - title: "Vivy: Fluorite Eye's Song"
     synonyms:
+      - "Vivy -Fluorite Eye's Song-"
       - "Vivy: Fluorite Eye’s Song"
     seasons:
       - season: 1

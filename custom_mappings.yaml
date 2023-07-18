@@ -25,11 +25,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 150909
-  - title: "86 EIGHTY-SIX"
+  - title: "86: Eighty Six"
     synonyms:
       - "86"
+      - "86 EIGHTY-SIX"
       - "86--EIGHTY-SIX"
-      - "86: Eighty Six"
     seasons:
       - season: 1
         anilist-id: 116589
@@ -1215,8 +1215,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 103139
-  - title: "DON'T TOY WITH ME, MISS NAGATORO"
+  - title: "Don't Toy With Me, Miss Nagatoro"
     synonyms:
+      - "DON'T TOY WITH ME, MISS NAGATORO"
       - "Ijiranaide, Nagatoro-san"
     seasons:
       - season: 1
@@ -1333,7 +1334,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98108
-  - title: "EDENS ZERO"
+  - title: "Edens Zero"
+    synonyms:
+      - "EDENS ZERO"
     seasons:
       - season: 1
         anilist-id: 119683
@@ -1521,8 +1524,9 @@ entries:
         anilist-id: 111762
       - season: 3
         anilist-id: 124194
-  - title: "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!"
+  - title: "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier Than Real Life!"
     synonyms:
+      - "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!"
       - "Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara"
       - "What If the Ultimate in Fully Immersive VR RPGs Was a Crappier Game Than Reality Itself"
     seasons:
@@ -2871,7 +2875,9 @@ entries:
         anilist-id: 21366
       - season: 2
         anilist-id: 98478
-  - title: "MARS RED"
+  - title: "Mars Red"
+    synonyms:
+      - "MARS RED"
     seasons:
       - season: 1
         anilist-id: 115183
@@ -2895,7 +2901,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 151801
-  - title: "MAZICA PARTY"
+  - title: "Mazica Party"
+    synonyms:
+      - "MAZICA PARTY"
     seasons:
       - season: 1
         anilist-id: 130512
@@ -3383,9 +3391,10 @@ entries:
       - season: 1
         anilist-id: 146637
         start: 13
-  - title: "Osamake: Romcom Where The Childhood Friend Won't Lose"
+  - title: "Osamake: Romcom Where the Childhood Friend Won't Lose"
     synonyms:
       - "OsaMake"
+      - "Osamake: Romcom Where The Childhood Friend Won't Lose"
       - "Osananajimi ga Zettai ni Makenai Love Come"
       - "Osananajimi ga Zettai ni Makenai Love Comedy"
     seasons:
@@ -3987,9 +3996,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112293
-  - title: "SEVEN KNIGHTS REVOLUTION: Hero Successor"
+  - title: "Seven Knights Revolution: Hero Successor"
     synonyms:
       - "Seven Knights Revolution: Eiyuu no Keishousha"
+      - "SEVEN KNIGHTS REVOLUTION: Hero Successor"
     seasons:
       - season: 1
         anilist-id: 129386
@@ -4005,10 +4015,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113570
-  - title: "SHADOWS HOUSE"
+  - title: "Shadows House"
     synonyms:
       - "Shadow House"
-      - "Shadows House"
+      - "SHADOWS HOUSE"
     seasons:
       - season: 1
         anilist-id: 125038
@@ -4022,7 +4032,9 @@ entries:
         anilist-id: 140085
       - season: 3
         anilist-id: 163136
-  - title: "SHAMAN KING (2021)"
+  - title: "Shaman King (2021)"
+    synonyms:
+      - "SHAMAN KING (2021)"
     seasons:
       - season: 1
         anilist-id: 119675
@@ -4246,7 +4258,9 @@ entries:
       - season: 1
         anilist-id: 142838
         start: 13
-  - title: "SSSS.DYNAZENON"
+  - title: "SSSS.Dynazenon"
+    synonyms:
+      - "SSSS.DYNAZENON"
     seasons:
       - season: 1
         anilist-id: 113950
@@ -4968,10 +4982,10 @@ entries:
         anilist-id: 21662
       - season: 2
         anilist-id: 99148
-  - title: "The Slime Diaries"
+  - title: "The Slime Diaries: That Time I Got Reincarnated as a Slime"
     synonyms:
       - "Tensei Shitara Slime Datta Ken: Tensura Nikki"
-      - "The Slime Diaries: That Time I Got Reincarnated as a Slime"
+      - "The Slime Diaries"
     seasons:
       - season: 1
         anilist-id: 116741
@@ -5002,10 +5016,11 @@ entries:
         anilist-id: 118103
       - season: 2
         anilist-id: 142914
-  - title: "The World Ends with You The Animation"
+  - title: "The World Ends With You: The Animation"
     synonyms:
       - "Subarashiki Kono Sekai The Animation"
       - "Subaseka"
+      - "The World Ends with You The Animation"
     seasons:
       - season: 1
         anilist-id: 120376
@@ -5378,8 +5393,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 131584
-  - title: "Vivy -Fluorite Eye's Song-"
+  - title: "Vivy: Fluorite Eye's Song"
     synonyms:
+      - "Vivy -Fluorite Eye's Song-"
       - "Vivy: Fluorite Eye’s Song"
     seasons:
       - season: 1
