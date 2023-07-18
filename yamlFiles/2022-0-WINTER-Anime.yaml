@@ -1,9 +1,10 @@
 entries:
-  - title: "Akebi’s Sailor Uniform"
+  - title: "Akebi's Sailor Uniform"
     synonyms:
+      - "Akebi-chan no Sailor Fuku"
       - "Akebi-chan no Serafuku"
       - "Akebi's School Uniform"
-      - "Akebi-chan no Sailor Fuku"
+      - "Akebi’s Sailor Uniform"
     seasons:
       - season: 1
         anilist-id: 131548
@@ -51,11 +52,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 125682
-  - title: "Delicious Party Pretty Cure"
+  - title: "Delicious Party♡Pretty Cure"
     synonyms:
       - "DeliPa"
       - "DePaPre"
       - "DeliPre"
+      - "Delicious Party Pretty Cure"
       - "Delicious Party♡Precure"
     seasons:
       - season: 1
@@ -83,9 +85,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112719
-  - title: "Girls’ Frontline"
+  - title: "Girls' Frontline (2022)"
     synonyms:
       - "Dolls' Frontline"
+      - "Girls' Frontline"
+      - "Girls’ Frontline"
     seasons:
       - season: 1
         anilist-id: 128828
@@ -120,10 +124,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 127050
-  - title: "Miss KUROITSU from the Monster Development Department"
+  - title: "Miss Kuroitsu From the Monster Development Department"
     synonyms:
-      - "Kuroitsu-san from the Monster Development Department"
       - "Kaijin Kaihatsubu no Kuroitsu-san"
+      - "Kuroitsu-san from the Monster Development Department"
+      - "Miss KUROITSU from the Monster Development Department"
     seasons:
       - season: 1
         anilist-id: 136428
@@ -135,17 +140,22 @@ entries:
     seasons:
       - season: 1
         anilist-id: 132405
-  - title: "Ninjala"
+  - title: "Ninjala (2022)"
+    synonyms:
+      - "Ninjala"
     seasons:
       - season: 1
         anilist-id: 142274
-  - title: "ORIENT"
+  - title: "Orient"
+    synonyms:
+      - "ORIENT"
     seasons:
       - season: 1
         anilist-id: 128034
-  - title: "Police in a Pod"
+  - title: "Police in a Pod (2022)"
     synonyms:
       - "Hakozume: Kouban Joshi no Gyakushuu"
+      - "Police in a Pod"
     seasons:
       - season: 1
         anilist-id: 137312
@@ -176,8 +186,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 130591
-  - title: "Saiyuki RELOAD: ZEROIN"
+  - title: "Saiyuki Reload -Zeroin-"
     synonyms:
+      - "Saiyuki RELOAD: ZEROIN"
       - "Saiyuuki RELOAD: ZEROIN"
     seasons:
       - season: 1
@@ -235,9 +246,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129190
-  - title: "The Strongest Sage with the Weakest Crest"
+  - title: "The Strongest Sage With the Weakest Crest"
     synonyms:
       - "Shikkakumon no Saikyou Kenja"
+      - "The Strongest Sage with the Weakest Crest"
     seasons:
       - season: 1
         anilist-id: 129191
