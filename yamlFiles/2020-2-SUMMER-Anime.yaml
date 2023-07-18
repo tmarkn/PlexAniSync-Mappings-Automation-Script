@@ -1,7 +1,7 @@
 entries:
-  - title: "DECA-DENCE"
+  - title: "Deca-Dence"
     synonyms:
-      - "Deca-Dence"
+      - "DECA-DENCE"
     seasons:
       - season: 1
         anilist-id: 110353
@@ -13,9 +13,9 @@ entries:
         anilist-id: 105310
       - season: 2
         anilist-id: 114236
-  - title: "GIBIATE"
+  - title: "Gibiate"
     synonyms:
-      - "Gibiate"
+      - "GIBIATE"
     seasons:
       - season: 1
         anilist-id: 110446
@@ -62,12 +62,13 @@ entries:
         anilist-id: 108478
       - season: 2
         anilist-id: 112803
-  - title: "Re:ZERO -Starting Life in Another World-"
+  - title: "Re: ZERO, Starting Life in Another World"
     synonyms:
-      - "Re: Life in a different world from zero"
-      - "ReZero"
       - "Re Zero"
+      - "ReZero"
+      - "Re: Life in a different world from zero"
       - "Re:Zero kara Hajimeru Isekai Seikatsu"
+      - "Re:ZERO -Starting Life in Another World-"
     seasons:
       - season: 1
         anilist-id: 21355
@@ -109,11 +110,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116006
-  - title: "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants"
+  - title: "The Misfit of Demon King Academy"
     synonyms:
       - "Maou Gakuin no Futekigousha"
-      - "The Misfit of Demon King Academy"
       - "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
+      - "The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants"
+      - "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants"
     seasons:
       - season: 1
         anilist-id: 112301
