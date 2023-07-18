@@ -245,6 +245,19 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128872
+  - title: "Aikatsu Stars!"
+    seasons:
+      - season: 1
+        anilist-id: 21648
+      - season: 2
+        anilist-id: 98542
+  - title: "Akashic Records of Bastard Magic Instructor"
+    synonyms:
+      - "RokuAka"
+      - "Rokudenashi Majutsu Koushi to Akashic Records"
+    seasons:
+      - season: 1
+        anilist-id: 21700
   - title: "Akebi's Sailor Uniform"
     synonyms:
       - "Akebi's School Uniform"
@@ -265,6 +278,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116566
+  - title: "Alice & Zoroku"
+    synonyms:
+      - "Alice and Zouroku"
+      - "Alice to Zouroku"
+    seasons:
+      - season: 1
+        anilist-id: 97821
   - title: "Alice Gear Aegis Expansion"
     synonyms:
       - "alice gear aegis Expansion"
@@ -335,6 +355,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98607
+  - title: "Anonymous Noise"
+    synonyms:
+      - "Fukumenkei Noise"
+    seasons:
+      - season: 1
+        anilist-id: 21773
   - title: "Aoashi"
     seasons:
       - season: 1
@@ -367,6 +393,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 140660
+  - title: "Armed Girl's Machiavellism"
+    synonyms:
+      - "Busou Shoujo Machiavellianism"
+    seasons:
+      - season: 1
+        anilist-id: 21851
   - title: "ARP Backstage Pass"
     seasons:
       - season: 1
@@ -381,6 +413,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101505
+  - title: "As the Moon, So Beautiful"
+    synonyms:
+      - "Tsuki ga Kirei"
+      - "Tsukigakirei"
+    seasons:
+      - season: 1
+        anilist-id: 98202
   - title: "Ascendance of a Bookworm"
     synonyms:
       - "Ascendance of a Bookworm: I'll do anything to become a librarian"
@@ -432,6 +471,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 162893
+  - title: "Atom: The Beginning"
+    seasons:
+      - season: 1
+        anilist-id: 21830
   - title: "Attack on Titan"
     synonyms:
       - "AoT"
@@ -615,6 +658,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104102
+  - title: "Berserk (2016)"
+    synonyms:
+      - "Berserk"
+    seasons:
+      - season: 1
+        anilist-id: 21560
+      - season: 2
+        anilist-id: 97643
   - title: "Berserk: The Golden Age Arc – Memorial Edition"
     synonyms:
       - "Berserk: Ougon Jidai-hen - MEMORIAL EDITION"
@@ -756,6 +807,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101283
+  - title: "Boruto: Naruto Next Generations"
+    synonyms:
+      - "BORUTO: NARUTO NEXT GENERATIONS"
+    seasons:
+      - season: 1
+        anilist-id: 97938
   - title: "Bottom-Tier Character Tomozaki"
     synonyms:
       - "Jaku-Chara Tomozaki-kun"
@@ -1056,6 +1113,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98205
+  - title: "Clockwork Planet"
+    seasons:
+      - season: 1
+        anilist-id: 21563
   - title: "Code: Realize − Guardian of Rebirth"
     synonyms:
       - "Code: Realize ~Guardian of Rebirth~"
@@ -1398,6 +1459,8 @@ entries:
       - season: 1
         anilist-id: 114302
   - title: "Duel Masters (2017)"
+    synonyms:
+      - "Duel Masters Versus"
     seasons:
       - season: 1
         anilist-id: 98378
@@ -1469,6 +1532,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21512
+  - title: "Eromanga Sensei"
+    synonyms:
+      - "Ero Manga Sensei"
+    seasons:
+      - season: 1
+        anilist-id: 21685
   - title: "Eternity: Sweet Love Story"
     synonyms:
       - "Eternity: Shinya no Nurekoi Channel♡"
@@ -1584,6 +1653,14 @@ entries:
         anilist-id: 21746
       - season: 3
         anilist-id: 21748
+  - title: "Folktales from Japan"
+    synonyms:
+      - "Furusato Saisei: Nippon no Mukashi Banashi"
+    seasons:
+      - season: 1
+        anilist-id: 13163
+      - season: 6
+        anilist-id: 98751
   - title: "Food Wars!"
     synonyms:
       - "Food Wars! The First Plate"
@@ -1602,6 +1679,13 @@ entries:
         anilist-id: 109963
       - season: 5
         anilist-id: 114043
+  - title: "Frame Arms Girl"
+    synonyms:
+      - "F.A. Girl"
+      - "Frame Arms Girls"
+    seasons:
+      - season: 1
+        anilist-id: 97874
   - title: "Free!"
     synonyms:
       - "Free! -Iwatobi Swim Club-"
@@ -1838,6 +1922,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 103735
+  - title: "Grimoire of Zero"
+    synonyms:
+      - "Zero kara Hajimeru Mahou no Sho"
+    seasons:
+      - season: 1
+        anilist-id: 97682
   - title: "Gundam Build Divers"
     seasons:
       - season: 1
@@ -2064,6 +2154,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21738
+  - title: "Hinako Note"
+    seasons:
+      - season: 1
+        anilist-id: 87517
   - title: "Hinamatsuri"
     synonyms:
       - "HINAMATSURI"
@@ -2239,6 +2333,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 145815
+  - title: "ID-0"
+    seasons:
+      - season: 1
+        anilist-id: 21894
   - title: "ID: INVADED"
     seasons:
       - season: 1
@@ -2399,6 +2497,15 @@ entries:
       - season: 4
         anilist-id: 155211
         start: 12
+  - title: "Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria"
+    synonyms:
+      - "Danmachi Sword Oratoria"
+      - "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria"
+      - "Is It Wrong to Hope to Meet a Girl in a Dungeon? On the Side: Sword Oratoria"
+      - "Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side"
+    seasons:
+      - season: 1
+        anilist-id: 21676
   - title: "Is the Order a Rabbit?"
     synonyms:
       - "Gochiusa"
@@ -2477,6 +2584,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98820
+  - title: "Kabukibu!"
+    seasons:
+      - season: 1
+        anilist-id: 87500
+  - title: "KADO: The Right Answer"
+    synonyms:
+      - "Seikaisuru Kado"
+    seasons:
+      - season: 1
+        anilist-id: 21452
   - title: "Kageki Shojo!!"
     synonyms:
       - "Kageki Shoujo!!"
@@ -2937,6 +3054,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 127050
+  - title: "Love Tyrant"
+    synonyms:
+      - "Renai Boukun"
+    seasons:
+      - season: 1
+        anilist-id: 21517
   - title: "Lucifer and the Biscuit Hammer"
     synonyms:
       - "Hoshi no Samidare"
@@ -3546,6 +3669,23 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104212
+  - title: "Natsume's Book of Friends"
+    synonyms:
+      - "Natsume Yujincho"
+      - "Natsume Yuujinchou"
+    seasons:
+      - season: 1
+        anilist-id: 4081
+      - season: 2
+        anilist-id: 5300
+      - season: 3
+        anilist-id: 10379
+      - season: 4
+        anilist-id: 11665
+      - season: 5
+        anilist-id: 21710
+      - season: 6
+        anilist-id: 97983
   - title: "Nekopara"
     seasons:
       - season: 1
@@ -3888,6 +4028,19 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98505
+  - title: "PriPara"
+    synonyms:
+      - "Idol Time PriPara"
+      - "PuriPara"
+    seasons:
+      - season: 1
+        anilist-id: 20742
+      - season: 2
+        anilist-id: 20985
+      - season: 3
+        anilist-id: 21559
+      - season: 4
+        anilist-id: 98107
   - title: "Psycho-Pass"
     synonyms:
       - "PSYCHO-PASS"
@@ -3913,6 +4066,16 @@ entries:
         anilist-id: 101024
       - season: 2
         anilist-id: 108040
+  - title: "Rage of Bahamut"
+    synonyms:
+      - "Rage of Bahamut: GENESIS"
+      - "Shingeki no Bahamut"
+      - "Shingeki no Bahamut: GENESIS"
+    seasons:
+      - season: 1
+        anilist-id: 20590
+      - season: 2
+        anilist-id: 21184
   - title: "Ranking of Kings"
     synonyms:
       - "King Ranking"
@@ -3956,6 +4119,10 @@ entries:
       - season: 2
         anilist-id: 119661
         start: 14
+  - title: "Re:CREATORS"
+    seasons:
+      - season: 1
+        anilist-id: 97980
   - title: "Re:Stage! Dream Days"
     synonyms:
       - "Re:Stage! Dream Days♪"
@@ -4081,6 +4248,24 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104679
+  - title: "Rilu Rilu Fairilu: Yousei no Door"
+    seasons:
+      - season: 1
+        anilist-id: 21553
+      - season: 2
+        anilist-id: 98421
+      - season: 3
+        anilist-id: 101985
+  - title: "Rin-ne"
+    synonyms:
+      - "Kyoukai no Rinne"
+    seasons:
+      - season: 1
+        anilist-id: 20953
+      - season: 2
+        anilist-id: 21357
+      - season: 3
+        anilist-id: 97670
   - title: "Rinshi!! Ekoda-chan"
     synonyms:
       - "Rinshi!! Ekodachan"
@@ -4163,6 +4348,21 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128715
+  - title: "Saekano: How to Raise a Boring Girlfriend"
+    synonyms:
+      - "Saekano"
+      - "Saenai Heroine no Sodatekata"
+    seasons:
+      - season: 1
+        anilist-id: 20657
+      - season: 2
+        anilist-id: 21180
+  - title: "Sagrada Reset"
+    synonyms:
+      - "Sakurada Reset"
+    seasons:
+      - season: 1
+        anilist-id: 97660
   - title: "Saint Cecilia and Pastor Lawrence"
     synonyms:
       - "Shiro Seijo to Kuro Bokushi"
@@ -4199,6 +4399,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108987
+  - title: "Sakura Quest"
+    seasons:
+      - season: 1
+        anilist-id: 97903
   - title: "Sakura Wars: The Animation"
     synonyms:
       - "New Sakura Wars"
@@ -4306,6 +4510,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129386
+  - title: "Seven Mortal Sins"
+    synonyms:
+      - "sin: Nanatsu no Taizai"
+      - "Sin: The 7 Deadly Sins"
+    seasons:
+      - season: 1
+        anilist-id: 20705
   - title: "Seven Senses of the Re'Union"
     synonyms:
       - "Shichisei no Subaru"
@@ -4908,6 +5119,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 120608
+  - title: "The Eccentric Family"
+    synonyms:
+      - "Uchoten Kazoku"
+      - "Uchouten Kazoku"
+    seasons:
+      - season: 1
+        anilist-id: 17909
+      - season: 2
+        anilist-id: 97642
   - title: "The Eminence in Shadow"
     synonyms:
       - "Kage no Jitsuryokusha ni Naritakute!"
@@ -5069,6 +5289,12 @@ entries:
         anilist-id: 20458
       - season: 2
         anilist-id: 112300
+  - title: "The Laughing Salesman"
+    synonyms:
+      - "Warau Salesman New"
+    seasons:
+      - season: 1
+        anilist-id: 98239
   - title: "The Legend of Heroes: Trails of Cold Steel – Northern War"
     synonyms:
       - "Eiyuu Densetsu: Sen no Kiseki - Northern War"
@@ -5239,6 +5465,13 @@ entries:
         anilist-id: 99263
       - season: 2
         anilist-id: 111321
+  - title: "The Royal Tutor"
+    synonyms:
+      - "Oushitsu Kyoushi Haine"
+      - "Oushitsu Kyoushi Heine"
+    seasons:
+      - season: 1
+        anilist-id: 97932
   - title: "The Ryuo's Work is Never Done!"
     synonyms:
       - "Ryuuou no Oshigoto!"
@@ -5287,6 +5520,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116741
+  - title: "The Snack World"
+    synonyms:
+      - "SNACK WORLD"
+    seasons:
+      - season: 1
+        anilist-id: 98297
   - title: "The Strongest Sage With the Weakest Crest"
     synonyms:
       - "Shikkakumon no Saikyou Kenja"
@@ -5420,6 +5659,12 @@ entries:
         anilist-id: 120120
       - season: 2
         anilist-id: 142853
+  - title: "Tomica Hyper Rescue Drive Head Kidō Kyūkyū Keisatsu"
+    synonyms:
+      - "Tomica Hyper Rescue Drive Head Kidou Kyuukyuu Keisatsu"
+    seasons:
+      - season: 1
+        anilist-id: 98077
   - title: "Tomica Kizuna Gattai Earth Granner"
     synonyms:
       - "Tomica Bond Combination: Earth Granner"
@@ -5552,6 +5797,10 @@ entries:
         anilist-id: 100402
       - season: 2
         anilist-id: 153841
+  - title: "Twin Angel Break"
+    seasons:
+      - season: 1
+        anilist-id: 21865
   - title: "Two Car"
     synonyms:
       - "Tsuuka"
@@ -5870,6 +6119,15 @@ entries:
         anilist-id: 114087
       - season: 3
         anilist-id: 127400
+  - title: "WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?"
+    synonyms:
+      - "Do you have what THE END? Are you busy? Shall you save xxx?"
+      - "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?"
+      - "Sukasuka"
+      - "WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?"
+    seasons:
+      - season: 1
+        anilist-id: 21860
   - title: "Wotakoi: Love is Hard for Otaku"
     synonyms:
       - "Love is Hard for an Otaku"
@@ -5970,6 +6228,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 142842
+  - title: "Yu-Gi-Oh! VRAINS"
+    synonyms:
+      - "Yu☆Gi☆Oh! VRAINS"
+    seasons:
+      - season: 1
+        anilist-id: 98231
   - title: "Yu-Gi-Oh!: Sevens"
     synonyms:
       - "Yu☆Gi☆Oh! SEVENS"

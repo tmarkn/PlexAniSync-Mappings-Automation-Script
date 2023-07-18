@@ -250,6 +250,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98658
+  - title: "Rilu Rilu Fairilu: Yousei no Door"
+    seasons:
+      - season: 1
+        anilist-id: 21553
+      - season: 2
+        anilist-id: 98421
+      - season: 3
+        anilist-id: 101985
   - title: "Seven Senses of the Re'Union"
     synonyms:
       - "Shichisei no Subaru"
