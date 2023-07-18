@@ -502,10 +502,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 163571
-  - title: "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside"
+  - title: "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside"
     synonyms:
       - "Banished from the brave man's group, I decided to lead a slow life in the back country."
       - "Banished from the Heroes' Party, I Decided to Live a Quiet Life in the Countryside"
+      - "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside"
       - "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita"
     seasons:
       - season: 1
@@ -711,10 +712,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 155907
-  - title: "BUILD-DIVIDE -#000000- CODE BLACK"
+  - title: "Build-Divide"
     synonyms:
       - "Build Divide"
       - "Build Divide: Code Black"
+      - "BUILD-DIVIDE -#000000- CODE BLACK"
     seasons:
       - season: 1
         anilist-id: 132525
@@ -1122,8 +1124,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 110353
-  - title: "Deep Insanity THE LOST CHILD"
+  - title: "Deep Insanity: The Lost Child"
     synonyms:
+      - "Deep Insanity THE LOST CHILD"
       - "Deep Insanity: THE LOST CHILD"
     seasons:
       - season: 1
@@ -1733,9 +1736,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101036
-  - title: "Gunma Chan"
+  - title: "Gunma-chan"
     synonyms:
-      - "Gunma-chan"
+      - "Gunma Chan"
       - "GUNMACHAN"
     seasons:
       - season: 1
@@ -2517,9 +2520,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 100332
-  - title: "Komi Can’t Communicate"
+  - title: "Komi Can't Communicate"
     synonyms:
       - "Comi san ha Comyusho desu"
+      - "Komi Can’t Communicate"
       - "Komi-san wa, Comyushou desu."
       - "Komi-san wa, Komyushou desu."
     seasons:
@@ -2919,7 +2923,9 @@ entries:
         anilist-id: 100298
       - season: 2
         anilist-id: 113359
-  - title: "Megaton-kyuu Musashi"
+  - title: "Megaton Musashi"
+    synonyms:
+      - "Megaton-kyuu Musashi"
     seasons:
       - season: 1
         anilist-id: 87502
@@ -3128,7 +3134,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101309
-  - title: "MUTEKING THE Dancing HERO"
+  - title: "Muteking the Dancing Hero"
+    synonyms:
+      - "MUTEKING THE Dancing HERO"
     seasons:
       - season: 1
         anilist-id: 109745
@@ -3835,7 +3843,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 130319
-  - title: "RUMBLE GARANNDOLL"
+  - title: "Rumble Garanndoll"
     synonyms:
       - "Gyakuten Sekai no Denchi Shoujo"
     seasons:
@@ -4419,7 +4427,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 127412
-  - title: "takt op.Destiny"
+  - title: "Takt op.Destiny"
+    synonyms:
+      - "takt op.Destiny"
     seasons:
       - season: 1
         anilist-id: 131565
@@ -5394,9 +5404,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 106433
-  - title: "VISUAL PRISON"
+  - title: "Visual Prison"
     synonyms:
-      - "Visual Prison"
+      - "VISUAL PRISON"
     seasons:
       - season: 1
         anilist-id: 131584
@@ -5597,13 +5607,11 @@ entries:
       - "Hanyou no Yashahime"
     seasons:
       - season: 1
-        anilist-id: 118399
-  - title: "Yashahime: Princess Half-Demon - The Second Act"
-    synonyms:
-      - "Hanyou no Yashahime: Ni no Shou"
-    seasons:
-      - season: 1
         anilist-id: 131264
+        start: 25
+      - season: 1
+        anilist-id: 118399
+        start: 194
   - title: "Yo-kai Watch"
     synonyms:
       - "Youkai Watch"
