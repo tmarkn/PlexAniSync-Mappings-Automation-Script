@@ -185,19 +185,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112608
-  - title: "Zorori the Naughty Hero"
-    synonyms:
-      - "Incredible Zorori"
-      - "Kaiketsu Zorori"
-    seasons:
-      - season: 1
-        anilist-id: 3638
-      - season: 2
-        anilist-id: 2707
-      - season: 3
-        anilist-id: 116793
-      - season: 4
-        anilist-id: 126835
   - title: "Mars Red"
     synonyms:
       - "MARS RED"
@@ -301,12 +288,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 119675
-  - title: "SSSS.Dynazenon"
-    synonyms:
-      - "SSSS.DYNAZENON"
-    seasons:
-      - season: 1
-        anilist-id: 113950
   - title: "Shinkansen Henkei Robo Shinkalion the Animation"
     synonyms:
       - "Shinkansen Henkei Robo Shinkalion"
@@ -315,6 +296,12 @@ entries:
         anilist-id: 100620
       - season: 2
         anilist-id: 128737
+  - title: "SSSS.Dynazenon"
+    synonyms:
+      - "SSSS.DYNAZENON"
+    seasons:
+      - season: 1
+        anilist-id: 113950
   - title: "Super Cub"
     seasons:
       - season: 1
@@ -400,3 +387,16 @@ entries:
         anilist-id: 103871
       - season: 2
         anilist-id: 110733
+  - title: "Zorori the Naughty Hero"
+    synonyms:
+      - "Incredible Zorori"
+      - "Kaiketsu Zorori"
+    seasons:
+      - season: 1
+        anilist-id: 3638
+      - season: 2
+        anilist-id: 2707
+      - season: 3
+        anilist-id: 116793
+      - season: 4
+        anilist-id: 126835

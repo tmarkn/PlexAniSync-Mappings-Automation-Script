@@ -6,14 +6,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 126047
-  - title: "D_CIDE TRAUMEREI THE ANIMATION"
+  - title: "D_Cide Traumerei the Animation"
+    synonyms:
+      - "D_CIDE TRAUMEREI THE ANIMATION"
     seasons:
       - season: 1
         anilist-id: 130997
-  - title: "Drug Store in Another World - The Slow Life of a Cheat Pharmacist"
+  - title: "Drug Store in Another World: The Slow Life of a Cheat Pharmacist"
     synonyms:
       - "Cheat Pharmicist's Slow Life: Making a Drug Store in Another World"
       - "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore"
+      - "Drug Store in Another World - The Slow Life of a Cheat Pharmacist"
     seasons:
       - season: 1
         anilist-id: 114302
@@ -23,11 +26,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 122052
-  - title: "Getter Robo"
+  - title: "Getter Robo Arc"
     synonyms:
       - "Getta Robo"
-      - "Space Robot"
       - "Getta Robot"
+      - "Getter Robo"
+      - "Space Robot"
     seasons:
       - season: 1
         anilist-id: 3579
@@ -41,6 +45,18 @@ entries:
     seasons:
       - season: 1
         anilist-id: 126192
+  - title: "Higurashi: When They Cry"
+    synonyms:
+      - "Higurashi no Naku Koro ni (2020)"
+      - "Higurashi no Naku Koro ni Gou"
+      - "Higurashi: When They Cry - GOU"
+      - "Higurashi: When They Cry - NEW"
+      - "When the Cicadas Cry"
+    seasons:
+      - season: 1
+        anilist-id: 114446
+      - season: 2
+        anilist-id: 131149
   - title: "How a Realist Hero Rebuilt the Kingdom"
     synonyms:
       - "Genjitsushugisha no Oukokukaizouki"
@@ -102,25 +118,28 @@ entries:
         anilist-id: 21776
       - season: 2
         anilist-id: 107717
-  - title: "Mother of the Goddess’ Dormitory"
+  - title: "Mother of the Goddess' Dormitory"
     synonyms:
       - "Megami-ryou no Ryoubo-kun."
+      - "Mother of the Goddess’ Dormitory"
     seasons:
       - season: 1
         anilist-id: 117989
   - title: "My Next Life as a Villainess: All Routes Lead to Doom!"
     synonyms:
-      - "I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags.."
+      - "Bakarina"
       - "Hamefura"
       - "Hamehura"
-      - "Bakarina"
+      - "I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags.."
       - "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…"
     seasons:
       - season: 1
         anilist-id: 104647
       - season: 2
         anilist-id: 120209
-  - title: "NIGHT HEAD 2041"
+  - title: "Night Head 2041"
+    synonyms:
+      - "NIGHT HEAD 2041"
     seasons:
       - season: 2041
         anilist-id: 125868
@@ -128,11 +147,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 122441
-  - title: "Pretty All Friends Selection"
-    seasons:
-      - season: 1
-        anilist-id: 136206
-  - title: "RE-MAIN"
+  # This entry isn't in thetvdb
+  # - title: "Pretty All Friends Selection"
+  #   seasons:
+  #     - season: 1
+  #       anilist-id: 136206
+  - title: "Re-Main"
+    synonyms:
+      - "RE-MAIN"
     seasons:
       - season: 1
         anilist-id: 130549
@@ -159,9 +181,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 132126
-  - title: "TSUKIMICHI -Moonlit Fantasy-"
+  - title: "Tsukimichi -Moonlit Fantasy-"
     synonyms:
       - "Tsuki ga Michibiku Isekai Douchuu"
+      - "TSUKIMICHI -Moonlit Fantasy-"
     seasons:
       - season: 1
         anilist-id: 125206
@@ -185,6 +208,15 @@ entries:
       - season: 2
         anilist-id: 116742
         start: 13
+  - title: "The Aquatope on White Sand"
+    synonyms:
+      - "Aquatope of White Sand"
+      - "Shiroi Suna no Aquatope"
+      - "The aquatope on white sand"
+      - "The two girls met in the ruins of damaged dream"
+    seasons:
+      - season: 1
+        anilist-id: 128545
   - title: "The Case Study of Vanitas"
     synonyms:
       - "Vanitas no Karte"
@@ -231,23 +263,3 @@ entries:
     seasons:
       - season: 1
         anilist-id: 122434
-  - title: "The aquatope on white sand"
-    synonyms:
-      - "Aquatope of White Sand"
-      - "The two girls met in the ruins of damaged dream"
-      - "Shiroi Suna no Aquatope"
-    seasons:
-      - season: 1
-        anilist-id: 128545
-  - title: "Higurashi: When They Cry - GOU"
-    synonyms:
-      - "Higurashi: When They Cry"
-      - "When the Cicadas Cry"
-      - "Higurashi: When They Cry - NEW"
-      - "Higurashi no Naku Koro ni (2020)"
-      - "Higurashi no Naku Koro ni Gou"
-    seasons:
-      - season: 1
-        anilist-id: 114446
-      - season: 2
-        anilist-id: 131149

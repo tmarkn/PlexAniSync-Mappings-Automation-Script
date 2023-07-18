@@ -77,12 +77,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 105156
-  - title: "Rifle Is Beautiful"
-    synonyms:
-      - "Chidori RSC"
-    seasons:
-      - season: 1
-        anilist-id: 104679
   - title: "Chihayafuru"
     synonyms:
       - "Chihayafull"
@@ -273,6 +267,12 @@ entries:
         anilist-id: 101024
       - season: 2
         anilist-id: 108040
+  - title: "Rifle Is Beautiful"
+    synonyms:
+      - "Chidori RSC"
+    seasons:
+      - season: 1
+        anilist-id: 104679
   - title: "Special 7: Special Crime Investigation Unit"
     synonyms:
       - "Special Crime Investigation Unit Special 7"

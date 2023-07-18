@@ -237,13 +237,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 107871
-  - title: "SING \"YESTERDAY\" FOR ME"
-    synonyms:
-      - "Sing Yesterday for Me"
-      - "Yesterday wo Utatte"
-    seasons:
-      - season: 1
-        anilist-id: 109020
   - title: "Sakura Wars: The Animation"
     synonyms:
       - "New Sakura Wars"
@@ -269,6 +262,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 110458
+  - title: "SING \"YESTERDAY\" FOR ME"
+    synonyms:
+      - "Sing Yesterday for Me"
+      - "Yesterday wo Utatte"
+    seasons:
+      - season: 1
+        anilist-id: 109020
   - title: "TAMAYOMI: The Baseball Girls"
     synonyms:
       - "Tamayomi"

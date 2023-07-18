@@ -31,14 +31,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 114307
-  - title: "Beastars"
-    synonyms:
-      - "BEASTARS"
-    seasons:
-      - season: 1
-        anilist-id: 107660
-      - season: 2
-        anilist-id: 114194
   - title: "Bakugan"
     synonyms:
       - "Bakugan: Battle Planet"
@@ -50,6 +42,14 @@ entries:
         anilist-id: 116415
       - season: 3
         anilist-id: 131096
+  - title: "Beastars"
+    synonyms:
+      - "BEASTARS"
+    seasons:
+      - season: 1
+        anilist-id: 107660
+      - season: 2
+        anilist-id: 114194
   - title: "Bottom-Tier Character Tomozaki"
     synonyms:
       - "Jaku-Chara Tomozaki-kun"
@@ -139,12 +139,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 117067
-  - title: "LBX Girls"
-    synonyms:
-      - "Soukou Musume Senki"
-    seasons:
-      - season: 1
-        anilist-id: 119123
   - title: "Laid-Back Camp"
     synonyms:
       - "Yurucamp"
@@ -154,6 +148,12 @@ entries:
         anilist-id: 98444
       - season: 2
         anilist-id: 104459
+  - title: "LBX Girls"
+    synonyms:
+      - "Soukou Musume Senki"
+    seasons:
+      - season: 1
+        anilist-id: 119123
   - title: "Log Horizon"
     seasons:
       - season: 1
@@ -206,13 +206,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113425
-  - title: "SK8 the Infinity"
-    synonyms:
-      - "SK Eight"
-      - "SK∞"
-    seasons:
-      - season: 1
-        anilist-id: 124153
   - title: "Scar on the Praeter"
     synonyms:
       - "PROJECT SCARD: Praeter no Kizu"
@@ -224,6 +217,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113476
+  - title: "SK8 the Infinity"
+    synonyms:
+      - "SK Eight"
+      - "SK∞"
+    seasons:
+      - season: 1
+        anilist-id: 124153
   - title: "Skate-Leading☆Stars"
     synonyms:
       - "Skate-Leading Stars"

@@ -224,13 +224,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98951
-  - title: "UQ Holder!"
-    synonyms:
-      - "UQ Holder! Magister Negi Magi! 2"
-      - "UQ Holder!: Mahou Sensei Negima! 2"
-    seasons:
-      - season: 1
-        anilist-id: 21855
   - title: "Mr. Osomatsu"
     synonyms:
       - "Osomatsu-san"
@@ -305,6 +298,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99672
+  - title: "UQ Holder!"
+    synonyms:
+      - "UQ Holder! Magister Negi Magi! 2"
+      - "UQ Holder!: Mahou Sensei Negima! 2"
+    seasons:
+      - season: 1
+        anilist-id: 21855
   - title: "Urahara"
     synonyms:
       - "URAHARA"
@@ -328,10 +328,4 @@ entries:
       - season: 2
         anilist-id: 97769
         start: 7
-  - title: "Yuki Yuna is a Hero: The Washio Sumi Chapter"
-    synonyms:
-      - "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou"
-      - "WaSuYu"
-    seasons:
-      - season: 1
-        anilist-id: 100791
+

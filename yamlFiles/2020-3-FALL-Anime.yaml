@@ -89,6 +89,16 @@ entries:
       - season: 4
         anilist-id: 113538
         start: 14
+  - title: "Higurashi: When They Cry"
+    synonyms:
+      - "Higurashi no Naku Koro ni (2020)"
+      - "Higurashi no Naku Koro ni Gou"
+      - "Higurashi: When They Cry - GOU"
+      - "Higurashi: When They Cry - NEW"
+      - "When the Cicadas Cry"
+    seasons:
+      - season: 1
+        anilist-id: 114446
   - title: "HYPNOSISMIC -Division Rap Battle- Rhyme Anima"
     synonyms:
       - "Hypnosis Mic: Division Rap Battle - Rhyme Anima"
@@ -108,12 +118,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 111324
-  - title: "Yashahime: Princess Half-Demon"
-    synonyms:
-      - "Hanyou no Yashahime"
-    seasons:
-      - season: 1
-        anilist-id: 118399
   - title: "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
     synonyms:
       - "Danmachi"
@@ -171,6 +175,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113970
+  - title: "Maesetsu!"
+    synonyms:
+      - "Maesetsu! Opening Act"
+    seasons:
+      - season: 1
+        anilist-id: 110632
   - title: "Magatsu Wahrheit: Zuerst"
     synonyms:
       - "MAGATSU WAHRHEIT"
@@ -178,24 +188,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 117755
-  - title: "Maesetsu!"
-    synonyms:
-      - "Maesetsu! Opening Act"
-    seasons:
-      - season: 1
-        anilist-id: 110632
   - title: "Moriarty the Patriot"
     synonyms:
       - "Yuukoku no Moriarty"
     seasons:
       - season: 1
         anilist-id: 114124
-  - title: "Noblesse"
-    synonyms:
-      - "NOBLESSE"
-    seasons:
-      - season: 1
-        anilist-id: 116005
   - title: "Mr. Osomatsu"
     synonyms:
       - "Osomatsu-san"
@@ -206,6 +204,12 @@ entries:
         anilist-id: 98565
       - season: 3
         anilist-id: 120851
+  - title: "Noblesse"
+    synonyms:
+      - "NOBLESSE"
+    seasons:
+      - season: 1
+        anilist-id: 116005
   - title: "Our Last Crusade or the Rise of a New World"
     synonyms:
       - "Kimisen"
@@ -232,22 +236,6 @@ entries:
         anilist-id: 6381
       - season: 3
         anilist-id: 103119
-  - title: "TONIKAWA: Over The Moon For You"
-    synonyms:
-      - "Fly Me to the Moon"
-      - "Tonikaku Cawaii"
-      - "Tonikaku Kawaii"
-    seasons:
-      - season: 1
-        anilist-id: 116267
-  - title: "TSUKIUTA. The Animation"
-    synonyms:
-      - "Tsukiuta. THE ANIMATION"
-    seasons:
-      - season: 1
-        anilist-id: 20950
-      - season: 2
-        anilist-id: 105244
   - title: "Talentless Nana"
     synonyms:
       - "Munou na Nana"
@@ -275,6 +263,22 @@ entries:
         anilist-id: 20458
       - season: 2
         anilist-id: 112300
+  - title: "TONIKAWA: Over The Moon For You"
+    synonyms:
+      - "Fly Me to the Moon"
+      - "Tonikaku Cawaii"
+      - "Tonikaku Kawaii"
+    seasons:
+      - season: 1
+        anilist-id: 116267
+  - title: "TSUKIUTA. The Animation"
+    synonyms:
+      - "Tsukiuta. THE ANIMATION"
+    seasons:
+      - season: 1
+        anilist-id: 20950
+      - season: 2
+        anilist-id: 105244
   - title: "Wandering Witch: The Journey of Elaina"
     synonyms:
       - "MajoTabi"
@@ -289,13 +293,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116173
-  - title: "Higurashi: When They Cry"
+  - title: "Yashahime: Princess Half-Demon"
     synonyms:
-      - "Higurashi no Naku Koro ni (2020)"
-      - "Higurashi no Naku Koro ni Gou"
-      - "Higurashi: When They Cry - GOU"
-      - "Higurashi: When They Cry - NEW"
-      - "When the Cicadas Cry"
+      - "Hanyou no Yashahime"
     seasons:
       - season: 1
-        anilist-id: 114446
+        anilist-id: 118399

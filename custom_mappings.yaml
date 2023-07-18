@@ -1043,7 +1043,9 @@ entries:
         anilist-id: 115069
       - season: 2
         anilist-id: 147216
-  - title: "D_CIDE TRAUMEREI THE ANIMATION"
+  - title: "D_Cide Traumerei the Animation"
+    synonyms:
+      - "D_CIDE TRAUMEREI THE ANIMATION"
     seasons:
       - season: 1
         anilist-id: 130997
@@ -1305,10 +1307,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108713
-  - title: "Drug Store in Another World - The Slow Life of a Cheat Pharmacist"
+  - title: "Drug Store in Another World: The Slow Life of a Cheat Pharmacist"
     synonyms:
       - "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore"
       - "Cheat Pharmicist's Slow Life: Making a Drug Store in Another World"
+      - "Drug Store in Another World - The Slow Life of a Cheat Pharmacist"
     seasons:
       - season: 1
         anilist-id: 114302
@@ -1602,10 +1605,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 114402
-  - title: "Getter Robo"
+  - title: "Getter Robo Arc"
     synonyms:
       - "Getta Robo"
       - "Getta Robot"
+      - "Getter Robo"
       - "Space Robot"
     seasons:
       - season: 1
@@ -3050,9 +3054,10 @@ entries:
         anilist-id: 114124
       - season: 2
         anilist-id: 124858
-  - title: "Mother of the Goddess’ Dormitory"
+  - title: "Mother of the Goddess' Dormitory"
     synonyms:
       - "Megami-ryou no Ryoubo-kun."
+      - "Mother of the Goddess’ Dormitory"
     seasons:
       - season: 1
         anilist-id: 117989
@@ -3298,7 +3303,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 145665
-  - title: "NIGHT HEAD 2041"
+  - title: "Night Head 2041"
+    synonyms:
+      - "NIGHT HEAD 2041"
     seasons:
       - season: 2041
         anilist-id: 125868
@@ -3587,10 +3594,6 @@ entries:
         anilist-id: 98549
       - season: 2
         anilist-id: 143086
-  - title: "Pretty All Friends Selection"
-    seasons:
-      - season: 1
-        anilist-id: 136206
   - title: "Pretty Boy Detective Club"
     synonyms:
       - "Bishounen Series"
@@ -3657,7 +3660,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 142701
-  - title: "RE-MAIN"
+  - title: "Re-Main"
+    synonyms:
+      - "RE-MAIN"
     seasons:
       - season: 1
         anilist-id: 130549
@@ -4506,10 +4511,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 143338
-  - title: "The aquatope on white sand"
+  - title: "The Aquatope on White Sand"
     synonyms:
       - "Aquatope of White Sand"
       - "Shiroi Suna no Aquatope"
+      - "The aquatope on white sand"
       - "The two girls met in the ruins of damaged dream"
     seasons:
       - season: 1
@@ -5225,9 +5231,10 @@ entries:
         anilist-id: 97625
       - season: 2
         anilist-id: 108266
-  - title: "TSUKIMICHI -Moonlit Fantasy-"
+  - title: "Tsukimichi -Moonlit Fantasy-"
     synonyms:
       - "Tsuki ga Michibiku Isekai Douchuu"
+      - "TSUKIMICHI -Moonlit Fantasy-"
     seasons:
       - season: 1
         anilist-id: 125206
@@ -5672,13 +5679,6 @@ entries:
         start: 7
       - season: 3
         anilist-id: 122292
-  - title: "Yuki Yuna is a Hero: The Washio Sumi Chapter"
-    synonyms:
-      - "WaSuYu"
-      - "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou"
-    seasons:
-      - season: 1
-        anilist-id: 100791
   - title: "YUREI DECO"
     synonyms:
       - "You0 DECO"

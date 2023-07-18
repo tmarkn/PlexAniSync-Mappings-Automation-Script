@@ -112,6 +112,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 107961
+  - title: "High School Star Musical"
+    synonyms:
+      - "Star Mu"
+      - "STARMYU"
+    seasons:
+      - season: 1
+        anilist-id: 21118
+      - season: 2
+        anilist-id: 97820
+      - season: 3
+        anilist-id: 100280
   - title: "How Heavy Are the Dumbbells You Lift?"
     synonyms:
       - "Dumbbell Nan Kilo Moteru?"
@@ -177,17 +188,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 103048
-  - title: "High School Star Musical"
-    synonyms:
-      - "Star Mu"
-      - "STARMYU"
-    seasons:
-      - season: 1
-        anilist-id: 21118
-      - season: 2
-        anilist-id: 97820
-      - season: 3
-        anilist-id: 100280
   - title: "Superb Song of the Valkyries: Symphogear"
     synonyms:
       - "Senki Zesshou Symphogear"

@@ -106,16 +106,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99748
-  - title: "Soul Hunter (2018)"
-    synonyms:
-      - "Soul Hunter"
-      - "HAKYU HOSHIN ENGI"
-      - "Senkai-den Houshin Engi"
-      - "Hakyuu: Houshin Engi"
-      - "Hakyuu Houshin Engi"
-    seasons:
-      - season: 1
-        anilist-id: 99727
   - title: "How to Keep a Mummy"
     synonyms:
       - "Miira no Kaikata"
@@ -231,6 +221,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98693
+  - title: "Soul Hunter (2018)"
+    synonyms:
+      - "Soul Hunter"
+      - "HAKYU HOSHIN ENGI"
+      - "Senkai-den Houshin Engi"
+      - "Hakyuu: Houshin Engi"
+      - "Hakyuu Houshin Engi"
+    seasons:
+      - season: 1
+        anilist-id: 99727
   - title: "Teasing Master Takagi-san"
     synonyms:
       - "Karakai Jouzu no Takagi-san"

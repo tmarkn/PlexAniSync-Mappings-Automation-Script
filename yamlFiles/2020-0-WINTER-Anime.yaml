@@ -44,13 +44,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108092
-  - title: "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
-    synonyms:
-      - "bofuri"
-      - "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
-    seasons:
-      - season: 1
-        anilist-id: 106479
   - title: "BanG Dream!"
     synonyms:
       - "Bandori"
@@ -61,6 +54,13 @@ entries:
         anilist-id: 101633
       - season: 3
         anilist-id: 101634
+  - title: "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
+    synonyms:
+      - "bofuri"
+      - "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
+    seasons:
+      - season: 1
+        anilist-id: 106479
   - title: "Darwin's Game"
     seasons:
       - season: 1
@@ -141,10 +141,24 @@ entries:
     seasons:
       - season: 1
         anilist-id: 106863
+  - title: "Number 24"
+    synonyms:
+      - "number 24"
+      - "number24"
+    seasons:
+      - season: 1
+        anilist-id: 108628
   - title: "Oda Cinnamon Nobunaga"
     seasons:
       - season: 1
         anilist-id: 110613
+  - title: "pet"
+    synonyms: 
+      - "Pet"
+      - "pet (2020)"
+    seasons:
+      - season: 1
+        anilist-id: 101350
   - title: "Plunderer"
     seasons:
       - season: 1
@@ -207,17 +221,3 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113472
-  - title: "Number 24"
-    synonyms:
-      - "number 24"
-      - "number24"
-    seasons:
-      - season: 1
-        anilist-id: 108628
-  - title: "pet"
-    synonyms: 
-      - "Pet"
-      - "pet (2020)"
-    seasons:
-      - season: 1
-        anilist-id: 101350
