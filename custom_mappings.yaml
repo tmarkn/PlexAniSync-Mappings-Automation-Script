@@ -87,8 +87,8 @@ entries:
     synonyms:
       - "Sora yori mo Tooi Basho"
       - "Sora yorimo Tooi Basho"
-      - "Uchuu Yorimo Toui Basho"
       - "Uchuu yori mo Tooi Basho"
+      - "Uchuu Yorimo Toui Basho"
       - "Yorimoi"
     seasons:
       - season: 1
@@ -147,14 +147,15 @@ entries:
         anilist-id: 105246
   - title: "Adachi and Shimamura"
     synonyms:
-      - "AdaShima"
       - "Adachi to Shimamura"
+      - "AdaShima"
     seasons:
       - season: 1
         anilist-id: 109287
-  - title: "Africa Salaryman"
+  - title: "Africa no Salaryman"
     synonyms:
       - "Africa no Salaryman (TV)"
+      - "Africa Salaryman"
       - "African Office Worker"
       - "Businessman in Africa"
     seasons:
@@ -261,8 +262,8 @@ entries:
         anilist-id: 100532
   - title: "Angels of Death"
     synonyms:
-      - "Angel Slaughter"
       - "Angel of Massacre"
+      - "Angel Slaughter"
       - "Satsuriku no Tenshi"
     seasons:
       - season: 1
@@ -353,10 +354,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101001
-  - title: "ASSASSINS PRIDE"
+  - title: "Assassins Pride"
     synonyms:
       - "Assassin's Pride"
-      - "Assassins Pride"
+      - "ASSASSINS PRIDE"
     seasons:
       - season: 1
         anilist-id: 104722
@@ -413,25 +414,26 @@ entries:
     seasons:
       - season: 1
         anilist-id: 142849
-  - title: "AZUR LANE"
+  - title: "Azur Lane"
     synonyms:
-      - "Azur Lane"
+      - "AZUR LANE"
     seasons:
       - season: 1
         anilist-id: 104159
   - title: "B-Project: Kodou*Ambitious"
     synonyms:
       - "B-PROJECT"
-      - "B-PROJECT: Kodou*Ambitious"
       - "B-Project: Kodo Ambitious"
       - "B-Project: Kodou Ambitious"
+      - "B-PROJECT: Kodou*Ambitious"
     seasons:
       - season: 1
         anilist-id: 21751
       - season: 2
         anilist-id: 100186
-  - title: "BABYLON"
+  - title: "Babylon (2019)"
     synonyms:
+      - "BABYLON"
       - "Babylon"
     seasons:
       - season: 1
@@ -502,8 +504,8 @@ entries:
         anilist-id: 163571
   - title: "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside"
     synonyms:
-      - "Banished from the Heroes' Party, I Decided to Live a Quiet Life in the Countryside"
       - "Banished from the brave man's group, I decided to lead a slow life in the back country."
+      - "Banished from the Heroes' Party, I Decided to Live a Quiet Life in the Countryside"
       - "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita"
     seasons:
       - season: 1
@@ -538,7 +540,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 150695
-  - title: "BEASTARS"
+  - title: "Beastars"
+    synonyms:
+      - "BEASTARS"
     seasons:
       - season: 1
         anilist-id: 107660
@@ -607,9 +611,9 @@ entries:
         anilist-id: 97940
   - title: "BLACK ROCK SHOOTER DAWN FALL"
     synonyms:
-      - "BRS DF"
       - "Black Rock Shooter: Apokalipsa"
       - "Black★★Rock Shooter: DAWN FALL"
+      - "BRS DF"
     seasons:
       - season: 1
         anilist-id: 139303
@@ -683,8 +687,8 @@ entries:
         anilist-id: 130003
   - title: "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
     synonyms:
-      - "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
       - "bofuri"
+      - "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
     seasons:
       - season: 1
         anilist-id: 106479
@@ -869,8 +873,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101281
-  - title: "Case File nº221: Kabukicho"
+  - title: "Case File Nº221: Kabukicho"
     synonyms:
+      - "Case File nº221: Kabukicho"
       - "Kabukichou Sherlock"
     seasons:
       - season: 1
@@ -908,12 +913,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 127230
-  - title: "Chidori RSC"
-    synonyms:
-      - "Rifle Is Beautiful"
-    seasons:
-      - season: 1
-        anilist-id: 104679
   - title: "Chihayafuru"
     synonyms:
       - "Chihayafull"
@@ -926,8 +925,8 @@ entries:
         anilist-id: 101215
   - title: "Children of the Whales"
     synonyms:
-      - "KujiSuna"
       - "Kujira no Kora wa Sajou ni Utau"
+      - "KujiSuna"
     seasons:
       - season: 1
         anilist-id: 98449
@@ -1128,10 +1127,10 @@ entries:
         anilist-id: 136947
   - title: "Delicious Party Pretty Cure"
     synonyms:
-      - "DePaPre"
+      - "Delicious Party♡Precure"
       - "DeliPa"
       - "DeliPre"
-      - "Delicious Party♡Precure"
+      - "DePaPre"
     seasons:
       - season: 1
         anilist-id: 142080
@@ -1436,8 +1435,8 @@ entries:
         anilist-id: 21717
   - title: "Fate/Grand Order Absolute Demonic Front: Babylonia"
     synonyms:
-      - "FGO: Babylonia"
       - "Fate/Grand Order: Zettai Majuu Sensen Babylonia"
+      - "FGO: Babylonia"
     seasons:
       - season: 1
         anilist-id: 103275
@@ -1636,8 +1635,8 @@ entries:
         start: 13
   - title: "Girlfriend, Girlfriend"
     synonyms:
-      - "KanoKano"
       - "Kanojo mo Kanojo"
+      - "KanoKano"
       - "She is also my Girlfriend"
     seasons:
       - season: 1
@@ -1693,9 +1692,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108147
-  - title: "Granblue Fantasy: The Animation"
+  - title: "Granblue Fantasy The Animation"
     synonyms:
       - "GRANBLUE FANTASY The Animation"
+      - "Granblue Fantasy: The Animation"
     seasons:
       - season: 1
         anilist-id: 21361
@@ -1719,8 +1719,8 @@ entries:
         anilist-id: 101036
   - title: "Gunma Chan"
     synonyms:
-      - "GUNMACHAN"
       - "Gunma-chan"
+      - "GUNMACHAN"
     seasons:
       - season: 1
         anilist-id: 133510
@@ -1771,8 +1771,8 @@ entries:
         anilist-id: 144092
   - title: "Hanebado!"
     synonyms:
-      - "HANEBADO!"
       - "Hanebad!"
+      - "HANEBADO!"
       - "Hanebado! - The Badminton Play of Ayano Hanesaki!"
     seasons:
       - season: 1
@@ -1868,17 +1868,18 @@ entries:
         anilist-id: 20745
       - season: 4
         anilist-id: 97767
-  - title: "High School Prodigies Have It Easy Even In Another World"
+  - title: "High School Prodigies Have It Easy Even in Another World!"
     synonyms:
-      - "CHOYOYU!"
       - "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!"
+      - "CHOYOYU!"
+      - "High School Prodigies Have It Easy Even In Another World"
     seasons:
       - season: 1
         anilist-id: 108388
   - title: "High School Star Musical"
     synonyms:
-      - "STARMYU"
       - "Star Mu"
+      - "STARMYU"
     seasons:
       - season: 1
         anilist-id: 21118
@@ -2003,8 +2004,8 @@ entries:
         start: 14
   - title: "Hugtto! Pretty Cure"
     synonyms:
-      - "HUGtto! Precure"
       - "Hug tto! Precure"
+      - "HUGtto! Precure"
     seasons:
       - season: 1
         anilist-id: 100661
@@ -2524,8 +2525,8 @@ entries:
         anilist-id: 108891
   - title: "KONOHANA KITAN"
     synonyms:
-      - "Konohana Kitan"
       - "fox spirit tales"
+      - "Konohana Kitan"
     seasons:
       - season: 1
         anilist-id: 98506
@@ -3128,9 +3129,9 @@ entries:
         anilist-id: 157295
   - title: "My Dress-Up Darling"
     synonyms:
+      - "kisekoi"
       - "Sono Bisque Doll wa Koi wo Suru"
       - "Sono Kisekae Ningyou wa Koi wo suru"
-      - "kisekoi"
     seasons:
       - season: 1
         anilist-id: 132405
@@ -3327,8 +3328,8 @@ entries:
         anilist-id: 108628
   - title: "O Maidens in Your Savage Season"
     synonyms:
-      - "AraOto"
       - "Araburu Kisetsu no Otome-domo yo."
+      - "AraOto"
     seasons:
       - season: 1
         anilist-id: 105932
@@ -3344,8 +3345,8 @@ entries:
         anilist-id: 128547
   - title: "One-Punch Man"
     synonyms:
-      - "OPM"
       - "One Punch Man"
+      - "OPM"
       - "Wanpanman"
     seasons:
       - season: 1
@@ -3429,9 +3430,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98977
-  - title: "Outburst Dreamer Boys (TV)"
+  - title: "Outburst Dreamer Boys"
     synonyms:
+      - "Chuubyou Gekihatsu Boy"
       - "Chuubyou Gekihatsu Boy (TV)"
+      - "Outburst Dreamer Boys (TV)"
       - "Young Disease Outburst Boy"
     seasons:
       - season: 1
@@ -3560,9 +3563,9 @@ entries:
         anilist-id: 137312
   - title: "Pop Team Epic"
     synonyms:
-      - "PTE"
       - "Poptepipic"
       - "Poputepipikku"
+      - "PTE"
     seasons:
       - season: 1
         anilist-id: 98549
@@ -3591,7 +3594,9 @@ entries:
         anilist-id: 107871
       - season: 2
         anilist-id: 122808
-  - title: "PSYCHO-PASS"
+  - title: "Psycho-Pass"
+    synonyms:
+      - "PSYCHO-PASS"
     seasons:
       - season: 1
         anilist-id: 13601
@@ -3773,6 +3778,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98658
+  - title: "Rifle Is Beautiful"
+    synonyms:
+      - "Chidori RSC"
+    seasons:
+      - season: 1
+        anilist-id: 104679
   - title: "Rinshi!! Ekoda-chan"
     synonyms:
       - "Rinshi!! Ekodachan"
@@ -3907,8 +3918,8 @@ entries:
         anilist-id: 152765
   - title: "Scar on the Praeter"
     synonyms:
-      - "PROJECT SCARD: Praeter no Kizu"
       - "Praeter no Kizu"
+      - "PROJECT SCARD: Praeter no Kizu"
     seasons:
       - season: 1
         anilist-id: 123785
@@ -3926,8 +3937,8 @@ entries:
         anilist-id: 98503
   - title: "Science Fell in Love, So I Tried to Prove It"
     synonyms:
-      - "RikeKoi"
       - "Rikei ga Koi ni Ochita no de Shoumei shitemita."
+      - "RikeKoi"
     seasons:
       - season: 1
         anilist-id: 107067
@@ -4119,8 +4130,8 @@ entries:
     synonyms:
       - "Maou Jou de Oyasumi"
       - "Maou-jou de Oyasumi"
-      - "MaouYasu"
       - "Maoujou de Oyasumi"
+      - "MaouYasu"
     seasons:
       - season: 1
         anilist-id: 111428
@@ -4263,9 +4274,9 @@ entries:
         anilist-id: 104052
   - title: "Steins;Gate 0"
     synonyms:
+      - "s;g0"
       - "Steins Gate Zero"
       - "Steins;Gate Zero"
-      - "s;g0"
     seasons:
       - season: 1
         anilist-id: 21127
@@ -4445,8 +4456,8 @@ entries:
         anilist-id: 132071
   - title: "That Time I Got Reincarnated as a Slime"
     synonyms:
-      - "TenSura"
       - "Tensei Shitara Slime Datta Ken"
+      - "TenSura"
     seasons:
       - season: 1
         anilist-id: 101280
@@ -4772,9 +4783,9 @@ entries:
         anilist-id: 146962
   - title: "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady"
     synonyms:
+      - "Tensei Oujo to Tensai Reijou no Mahou Kakumei"
       - "TenTen"
       - "TenTen Kakumei"
-      - "Tensei Oujo to Tensai Reijou no Mahou Kakumei"
     seasons:
       - season: 1
         anilist-id: 153629
@@ -5112,9 +5123,9 @@ entries:
   - title: "TONIKAWA: Over The Moon For You ~Uniform~"
     synonyms:
       - "Fly Me to the Moon"
-      - "TONIKAWA: Over The Moon For You - Uniform"
       - "Tonikaku Kawaii"
       - "Tonikaku Kawaii: Seifuku"
+      - "TONIKAWA: Over The Moon For You - Uniform"
     seasons:
       - season: 1
         anilist-id: 141212
@@ -5151,9 +5162,9 @@ entries:
         anilist-id: 115230
   - title: "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs"
     synonyms:
+      - "mobseka"
       - "Otome Game Sekai wa Mob ni Kibishii Sekai desu"
       - "Otomege Sekai wa Mob ni Kibishii Sekai desu"
-      - "mobseka"
     seasons:
       - season: 1
         anilist-id: 142074
@@ -5226,8 +5237,8 @@ entries:
         anilist-id: 153841
   - title: "Two Car"
     synonyms:
-      - "TWOCAR"
       - "Tsuuka"
+      - "TWOCAR"
     seasons:
       - season: 1
         anilist-id: 99672
@@ -5348,8 +5359,8 @@ entries:
         anilist-id: 21827
   - title: "Virtual-san Looking"
     synonyms:
-      - "VIRTUALSAN - LOOKING"
       - "Virtual-san wa Miteiru"
+      - "VIRTUALSAN - LOOKING"
     seasons:
       - season: 1
         anilist-id: 106433
@@ -5494,8 +5505,8 @@ entries:
         anilist-id: 116944
   - title: "WONDER EGG PRIORITY"
     synonyms:
-      - "WonEgg"
       - "Wonder Egg Priority"
+      - "WonEgg"
     seasons:
       - season: 1
         anilist-id: 124845
@@ -5515,8 +5526,8 @@ entries:
         anilist-id: 127400
   - title: "Wotakoi: Love is Hard for Otaku"
     synonyms:
-      - "Love is Hard for Nerds"
       - "Love is Hard for an Otaku"
+      - "Love is Hard for Nerds"
       - "Otaku ni Koi wa Muzukashii"
       - "WotaKoi"
       - "Wotaku ni Koi wa Muzukashii"
@@ -5597,9 +5608,9 @@ entries:
         anilist-id: 142481
   - title: "Yowamushi Pedal (2016)"
     synonyms:
-      - "YowaPeda 3"
       - "Yowamushi Pedal New Generation"
       - "Yowamushi Pedal: NEW GENERATION"
+      - "YowaPeda 3"
     seasons:
       - season: 1
         anilist-id: 21407
@@ -5643,8 +5654,8 @@ entries:
         anilist-id: 145468
   - title: "Yuri Is My Job!"
     synonyms:
-      - "WataYuri"
       - "Watashi no Yuri wa Oshigoto desu!"
+      - "WataYuri"
     seasons:
       - season: 1
         anilist-id: 149028

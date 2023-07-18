@@ -5,11 +5,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 105246
-  - title: "Africa Salaryman"
+  - title: "Africa no Salaryman"
     synonyms:
-      - "Businessman in Africa"
-      - "African Office Worker"
       - "Africa no Salaryman (TV)"
+      - "Africa Salaryman"
+      - "African Office Worker"
+      - "Businessman in Africa"
     seasons:
       - season: 1
         anilist-id: 110867
@@ -35,31 +36,35 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108268
-  - title: "ASSASSINS PRIDE"
+  - title: "Assassins Pride"
     synonyms:
       - "Assassin's Pride"
-      - "Assassins Pride"
+      - "ASSASSINS PRIDE"
     seasons:
       - season: 1
         anilist-id: 104722
-  - title: "AZUR LANE"
+  - title: "Azur Lane"
     synonyms:
-      - "Azur Lane"
+      - "AZUR LANE"
     seasons:
       - season: 1
         anilist-id: 104159
-  - title: "BABYLON"
+  - title: "Babylon (2019)"
     synonyms:
       - "Babylon"
+      - "BABYLON"
     seasons:
       - season: 1
         anilist-id: 101349
-  - title: "BEASTARS"
+  - title: "Beastars"
+    synonyms:
+      - "BEASTARS"
     seasons:
       - season: 1
         anilist-id: 107660
-  - title: "Case File nº221: Kabukicho"
+  - title: "Case File Nº221: Kabukicho"
     synonyms:
+      - "Case File nº221: Kabukicho"
       - "Kabukichou Sherlock"
     seasons:
       - season: 1
@@ -72,9 +77,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 105156
-  - title: "Chidori RSC"
+  - title: "Rifle Is Beautiful"
     synonyms:
-      - "Rifle Is Beautiful"
+      - "Chidori RSC"
     seasons:
       - season: 1
         anilist-id: 104679
@@ -127,24 +132,28 @@ entries:
         start: 13
       - season: 4
         anilist-id: 109963
-  - title: "Granblue Fantasy: The Animation"
+  - title: "Granblue Fantasy The Animation"
     synonyms:
       - "GRANBLUE FANTASY The Animation"
+      - "Granblue Fantasy: The Animation"
     seasons:
       - season: 1
         anilist-id: 21361
       - season: 2
         anilist-id: 107346
   - title: "Hi Score Girl"
+    synonyms:
+      - "High Score Girl"
     seasons:
       - season: 1
         anilist-id: 20574
       - season: 2
         anilist-id: 108581
-  - title: "High School Prodigies Have It Easy Even In Another World"
+  - title: "High School Prodigies Have It Easy Even in Another World!"
     synonyms:
       - "CHOYOYU!"
       - "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!"
+      - "High School Prodigies Have It Easy Even In Another World"
     seasons:
       - season: 1
         anilist-id: 108388
@@ -202,9 +211,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104464
-  - title: "Outburst Dreamer Boys (TV)"
+  - title: "Outburst Dreamer Boys"
     synonyms:
+      - "Chuubyou Gekihatsu Boy"
       - "Chuubyou Gekihatsu Boy (TV)"
+      - "Outburst Dreamer Boys (TV)"
       - "Young Disease Outburst Boy"
     seasons:
       - season: 1
@@ -244,7 +255,9 @@ entries:
         anilist-id: 97634
       - season: 19
         anilist-id: 112153
-  - title: "PSYCHO-PASS"
+  - title: "Psycho-Pass"
+    synonyms:
+      - "PSYCHO-PASS"
     seasons:
       - season: 1
         anilist-id: 13601
