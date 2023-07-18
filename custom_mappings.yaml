@@ -1,4 +1,13 @@
 entries:
+  - title: " The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far"
+    synonyms:
+      - "Chronicles of an Aristocrat Reborn in Another World"
+      - "Noble New World Adventures"
+      - "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito"
+      - "The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far"
+    seasons:
+      - season: 1
+        anilist-id: 153332
   - title: "100 Sleeping Princes & the Kingdom of Dreams"
     synonyms:
       - "Yume Oukoku to Nemureru 100-nin no Ouji-sama"
@@ -235,9 +244,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116566
-  - title: "alice gear aegis Expansion"
+  - title: "Alice Gear Aegis Expansion"
     synonyms:
-      - "Alice Gear Aegis Expansion"
+      - "alice gear aegis Expansion"
     seasons:
       - season: 1
         anilist-id: 144188
@@ -287,12 +296,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98607
-  - title: "Ao no Orchestra"
-    synonyms:
-      - "The Blue Orchestra"
-    seasons:
-      - season: 1
-        anilist-id: 147369
   - title: "Aoashi"
     seasons:
       - season: 1
@@ -1846,12 +1849,20 @@ entries:
     seasons:
       - season: 1
         anilist-id: 117696
+  - title: "Heavenly Delusion"
+    synonyms:
+      - "Tengoku Daimakyo"
+      - "Tengoku Daimakyou"
+    seasons:
+      - season: 1
+        anilist-id: 155783
   - title: "Helck"
     seasons:
       - season: 1
         anilist-id: 145140
-  - title: "Hell’s Paradise"
+  - title: "Hell's Paradise"
     synonyms:
+      - "Hell’s Paradise"
       - "Jigokuraku"
     seasons:
       - season: 1
@@ -2065,9 +2076,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113652
-  - title: "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too"
+  - title: "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too"
     synonyms:
       - "I Got a Cheat Ability in a Different World, and Became Extraordinary Even in the Real World"
+      - "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too"
       - "Isekai de Cheat Nouryoku Ote ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru"
       - "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta"
     seasons:
@@ -2168,8 +2180,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 146233
-  - title: "In Another World With My Smartphone"
+  - title: "In Another World with My Smartphone"
     synonyms:
+      - "In Another World With My Smartphone"
       - "Isekai wa Smartphone to Tomo ni."
       - "Isesuma"
     seasons:
@@ -2218,8 +2231,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 107420
-  - title: "Insomniacs after school"
+  - title: "Insomniacs After School"
     synonyms:
+      - "Insomniacs after school"
       - "Insomniaques"
       - "Kimi wa Houkago Insomnia"
     seasons:
@@ -2580,9 +2594,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98506
-  - title: "KONOSUBA -An Explosion on This Wonderful World!"
+  - title: "KonoSuba – An Explosion on This Wonderful World!"
     synonyms:
       - "Kono Subarashii Sekai ni Bakuen wo!"
+      - "KONOSUBA -An Explosion on This Wonderful World!"
     seasons:
       - season: 1
         anilist-id: 150075
@@ -2939,9 +2954,10 @@ entries:
         anilist-id: 21857
       - season: 2
         anilist-id: 146953
-  - title: "MASHLE: MAGIC AND MUSCLES"
+  - title: "Mashle: Magic and Muscles"
     synonyms:
       - "MASHLE"
+      - "MASHLE: MAGIC AND MUSCLES"
     seasons:
       - season: 1
         anilist-id: 151801
@@ -3247,9 +3263,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129192
-  - title: "My Love Story with Yamada-kun at Lv999"
+  - title: "My Love Story With Yamada-kun at Lv999"
     synonyms:
       - "Loving Yamada at LV999!"
+      - "My Love Story with Yamada-kun at Lv999"
       - "My Lv999 Love for Yamada-kun"
       - "Yamada-kun to Lv999 no Koi wo Suru"
     seasons:
@@ -3434,7 +3451,9 @@ entries:
         anilist-id: 21087
       - season: 2
         anilist-id: 97668
-  - title: "Opus.COLORs"
+  - title: "Opus Colors"
+    synonyms:
+      - "Opus.COLORs"
     seasons:
       - season: 1
         anilist-id: 146678
@@ -3462,10 +3481,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 124675
-  - title: "Oshi No Ko"
+  - title: "Oshi no Ko"
     synonyms:
       - "[Oshi no Ko]"
       - "[Oshi no Ko] Mother and Children"
+      - "Oshi No Ko"
     seasons:
       - season: 1
         anilist-id: 150672
@@ -3898,6 +3918,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 131878
+  - title: "Run for the Money: The Great Mission"
+    synonyms:
+      - "Run for Money: The Great Mission"
+      - "Tosochu"
+      - "Tousouchuu: Great Mission"
+      - "Tousouchuu: The Great Mission"
+    seasons:
+      - season: 1
+        anilist-id: 159560
   - title: "Run with the Wind"
     synonyms:
       - "Kaze ga Tsuyoku Fuiteiru"
@@ -4348,12 +4377,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21127
-  - title: "Stella of the Theater: World Dai Star"
-    synonyms:
-      - "World Dai Star"
-    seasons:
-      - season: 1
-        anilist-id: 157765
   - title: "Strike Witches"
     synonyms:
       - "Strike Witches TV"
@@ -4502,13 +4525,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 141062
-  - title: "Tengoku Daimakyo"
-    synonyms:
-      - "Heavenly Delusion"
-      - "Tengoku Daimakyou"
-    seasons:
-      - season: 1
-        anilist-id: 155783
   - title: "TenPuru"
     synonyms:
       - "No one can live on loneliness"
@@ -4572,18 +4588,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128545
-  - title: "The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far"
+  - title: "The Blue Orchestra"
     synonyms:
-      - "Chronicles of an Aristocrat Reborn in Another World"
-      - "Die Parallelwelt-Chroniken des Aristokraten"
-      - "Noble New World Adventures"
-      - "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito"
+      - "Ao no Orchestra"
     seasons:
       - season: 1
-        anilist-id: 153332
+        anilist-id: 147369
   - title: "The Café Terrace and Its Goddesses"
     synonyms:
+      - "Megami no Cafe Terrace"
       - "Megami no Café Terrace"
+      - "The Cafe Terrace and Its Goddesses"
     seasons:
       - season: 1
         anilist-id: 154412
@@ -4816,9 +4831,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 122434
-  - title: "THE IDOLM@STER CINDERELLA GIRLS U149"
+  - title: "THE iDOLM@STER Cinderella Girls U149"
     synonyms:
       - "PROJECT U149"
+      - "THE IDOLM@STER CINDERELLA GIRLS U149"
       - "THE iDOLM@STER Cinderella Girls: U149"
     seasons:
       - season: 1
@@ -4880,7 +4896,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 149326
-  - title: "THE MARGINAL SERVICE"
+  - title: "The Marginal Service"
     seasons:
       - season: 1
         anilist-id: 156854
@@ -5207,20 +5223,20 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116267
-  - title: "TONIKAWA: Over The Moon For You ~Uniform~"
+  - title: "TONIKAWA: Over The Moon For You"
     synonyms:
       - "Fly Me to the Moon"
+      - "Tonikaku Cawaii"
       - "Tonikaku Kawaii"
-      - "Tonikaku Kawaii: Seifuku"
-      - "TONIKAWA: Over The Moon For You - Uniform"
     seasons:
       - season: 1
         anilist-id: 141212
       - season: 2
         anilist-id: 141208
-  - title: "TOO CUTE CRISIS"
+  - title: "Too Cute Crisis"
     synonyms:
       - "Kawaisugi Crisis"
+      - "TOO CUTE CRISIS"
     seasons:
       - season: 1
         anilist-id: 155070
@@ -5232,14 +5248,6 @@ entries:
         anilist-id: 21741
       - season: 2
         anilist-id: 98520
-  - title: "Tousouchuu: Great Mission"
-    synonyms:
-      - "Run for Money: The Great Mission"
-      - "Tosochu"
-      - "Tousouchuu: The Great Mission"
-    seasons:
-      - season: 1
-        anilist-id: 159560
   - title: "Tower of God"
     synonyms:
       - "Kami no Tou"
@@ -5575,12 +5583,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128223
-  - title: "Why Raeliana Ended Up at the Duke’s Mansion"
+  - title: "Why Raeliana Ended Up at the Duke's Mansion"
     synonyms:
-      - "Geunyeoga Gongjagjeolo Gaya Haessdeon Sajeong"
       - "Kanojo ga Koushaku-tei ni Itta Riyuu"
-      - "Raeliana: Warum sie die Verlobte des Dukes wurde"
       - "The Reason Why Raeliana Ended up at the Duke's Mansion"
+      - "Why Raeliana Ended Up at the Duke’s Mansion"
     seasons:
       - season: 1
         anilist-id: 151847
@@ -5615,6 +5622,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108629
+  - title: "World Dai Star"
+    synonyms:
+      - "Stella of the Theater: World Dai Star"
+    seasons:
+      - season: 1
+        anilist-id: 157765
   - title: "World Trigger"
     seasons:
       - season: 1
