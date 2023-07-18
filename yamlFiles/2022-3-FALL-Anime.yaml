@@ -6,27 +6,23 @@ entries:
     seasons:
       - season: 1
         anilist-id: 151379
-  - title: "Arknights: PRELUDE TO DAWN"
+  - title: "Arknights" 
     synonyms:
+      - "Arknights: PRELUDE TO DAWN"
       - "Arknights: Reimei Zensou"
     seasons:
       - season: 1
         anilist-id: 140660
-  - title: "BLUELOCK"
-    synonyms:
-      - "Blue Lock"
-    seasons:
-      - season: 1
-        anilist-id: 137822
   - title: "Beast Tamer"
     synonyms:
       - "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
     seasons:
       - season: 1
         anilist-id: 150695
-  - title: "Berserk: The Golden Age Arc - Memorial Edition"
+  - title: "Berserk: The Golden Age Arc – Memorial Edition"
     synonyms:
       - "Berserk: Ougon Jidai-hen - MEMORIAL EDITION"
+      - "Berserk: The Golden Age Arc - Memorial Edition"
     seasons:
       - season: 1
         anilist-id: 155011
@@ -45,9 +41,15 @@ entries:
         anilist-id: 269
       - season: 17
         anilist-id: 116674
-  - title: "BOCCHI THE ROCK!"
+  - title: "Blue Lock"
     synonyms:
-      - "Bocchi the Rock!"
+      - "BLUELOCK"
+    seasons:
+      - season: 1
+        anilist-id: 137822
+  - title: "Bocchi the Rock!"
+    synonyms:
+      - "BOCCHI THE ROCK!"
     seasons:
       - season: 1
         anilist-id: 130003
@@ -61,11 +63,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 131516
-  - title: "Encouragement of Climb: Next Summit"
+  - title: "Encouragement of Climb"
     synonyms:
-      - "Yama no Susume: Next Summit"
+      - "Yama no Susume"
     seasons:
       - season: 1
+        anilist-id: 14355
+      - season: 2
+        anilist-id: 20485
+      - season: 3
+        anilist-id: 98866
+      - season: 4
         anilist-id: 131182
   - title: "Golden Kamuy"
     synonyms:
@@ -125,8 +133,9 @@ entries:
         anilist-id: 20553
       - season: 2
         anilist-id: 21294
-  - title: "LOVE FLOPS"
+  - title: "Love Flops"
     synonyms:
+      - "LOVE FLOPS"
       - "Renai Furoppusu"
       - "Renai Flops"
     seasons:
@@ -158,7 +167,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 139369
-  - title: "Megaton-kyuu Musashi"
+  - title: "Megaton Musashi"
+    synonyms:
+      - "Megaton-kyuu Musashi"
     seasons:
       - season: 1
         anilist-id: 87502
@@ -178,10 +189,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 139274
-  - title: "More than a Married Couple, but Not Lovers."
+  - title: "More Than a Married Couple, But Not Lovers"
     synonyms:
-      - "More than a Couple, Less than Lovers."
       - "Fuufu Ijou, Koibito Miman."
+      - "More than a Couple, Less than Lovers"
+      - "More than a Couple, Less than Lovers."
+      - "More than a Married Couple, but Not Lovers"
+      - "More Than a Married Couple, But Not Lovers."
+      - "More than a Married Couple, but Not Lovers."
     seasons:
       - season: 1
         anilist-id: 141949
@@ -282,8 +297,9 @@ entries:
         anilist-id: 114535
       - season: 2
         anilist-id: 138565
-  - title: "Urusei Yatsura (2022)"
+  - title: "Urusei Yatsura"
     synonyms:
+      - "Urusei Yatsura (2022)"
       - "Urusei Yatsura: All Stars"
     seasons:
       - season: 1
@@ -296,7 +312,9 @@ entries:
         anilist-id: 115113
       - season: 2
         anilist-id: 124395
-  - title: "VAZZROCK THE ANIMATION"
+  - title: "Vazzrock the Animation"
+    synonyms:
+      - "VAZZROCK THE ANIMATION"
     seasons:
       - season: 1
         anilist-id: 125910

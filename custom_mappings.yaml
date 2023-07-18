@@ -318,8 +318,9 @@ entries:
         anilist-id: 100668
       - season: 2
         anilist-id: 112323
-  - title: "Arknights: PRELUDE TO DAWN"
+  - title: "Arknights"
     synonyms:
+      - "Arknights: PRELUDE TO DAWN"
       - "Arknights: Reimei Zensou"
     seasons:
       - season: 1
@@ -566,9 +567,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104102
-  - title: "Berserk: The Golden Age Arc - Memorial Edition"
+  - title: "Berserk: The Golden Age Arc – Memorial Edition"
     synonyms:
       - "Berserk: Ougon Jidai-hen - MEMORIAL EDITION"
+      - "Berserk: The Golden Age Arc - Memorial Edition"
     seasons:
       - season: 1
         anilist-id: 155011
@@ -666,27 +668,27 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101573
+  - title: "Blue Lock"
+    synonyms:
+      - "BLUELOCK"
+    seasons:
+      - season: 1
+        anilist-id: 137822
   - title: "Blue Reflection Ray"
     synonyms:
       - "BLUE REFLECTION RAY"
     seasons:
       - season: 1
         anilist-id: 129814
-  - title: "BLUELOCK"
-    synonyms:
-      - "Blue Lock"
-    seasons:
-      - season: 1
-        anilist-id: 137822
   - title: "Boarding School Juliet"
     synonyms:
       - "Kishuku Gakkou no Juliet"
     seasons:
       - season: 1
         anilist-id: 101310
-  - title: "BOCCHI THE ROCK!"
+  - title: "Bocchi the Rock!"
     synonyms:
-      - "Bocchi the Rock!"
+      - "BOCCHI THE ROCK!"
     seasons:
       - season: 1
         anilist-id: 130003
@@ -1354,11 +1356,17 @@ entries:
         anilist-id: 119683
       - season: 2
         anilist-id: 144932
-  - title: "Encouragement of Climb: Next Summit"
+  - title: "Encouragement of Climb"
     synonyms:
-      - "Yama no Susume: Next Summit"
+      - "Yama no Susume"
     seasons:
       - season: 1
+        anilist-id: 14355
+      - season: 2
+        anilist-id: 20485
+      - season: 3
+        anilist-id: 98866
+      - season: 4
         anilist-id: 131182
   - title: "Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte"
     synonyms:
@@ -2732,8 +2740,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 137633
-  - title: "LOVE FLOPS"
+  - title: "Love Flops"
     synonyms:
+      - "LOVE FLOPS"
       - "Renai Flops"
       - "Renai Furoppusu"
     seasons:
@@ -3056,10 +3065,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113286
-  - title: "More than a Married Couple, but Not Lovers."
+  - title: "More Than a Married Couple, But Not Lovers"
     synonyms:
       - "Fuufu Ijou, Koibito Miman."
+      - "More than a Couple, Less than Lovers"
       - "More than a Couple, Less than Lovers."
+      - "More than a Married Couple, but Not Lovers"
+      - "More Than a Married Couple, But Not Lovers."
+      - "More than a Married Couple, but Not Lovers."
     seasons:
       - season: 1
         anilist-id: 141949
@@ -5369,8 +5382,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98513
-  - title: "Urusei Yatsura (2022)"
+  - title: "Urusei Yatsura"
     synonyms:
+      - "Urusei Yatsura (2022)"
       - "Urusei Yatsura: All Stars"
     seasons:
       - season: 1
@@ -5405,7 +5419,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 109321
-  - title: "VAZZROCK THE ANIMATION"
+  - title: "Vazzrock the Animation"
+    synonyms:
+      - "VAZZROCK THE ANIMATION"
     seasons:
       - season: 1
         anilist-id: 125910
