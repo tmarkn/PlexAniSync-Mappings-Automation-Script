@@ -1,8 +1,8 @@
 entries:
-  - title: "APPARE-RANMAN!"
+  - title: "Appare-Ranman!"
     synonyms:
       - "Appare Ranman!"
-      - "Appare-Ranman!"
+      - "APPARE-RANMAN!"
     seasons:
       - season: 1
         anilist-id: 112444
@@ -89,7 +89,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 109019
-  - title: "Digimon Adventure:"
+  - title: "Digimon Adventure: (2020)"
+    synonyms:
+      - "Digimon Adventure:"
     seasons:
       - season: 1
         anilist-id: 114811
@@ -167,21 +169,13 @@ entries:
         anilist-id: 101921
       - season: 2
         anilist-id: 112641
-  - title: "Kaiketsu Zorori"
-    synonyms:
-      - "Incredible Zorori"
-    seasons:
-      - season: 1
-        anilist-id: 3638
-      - season: 2
-        anilist-id: 2707
-      - season: 3
-        anilist-id: 116793
   - title: "Kakushigoto"
     seasons:
       - season: 1
         anilist-id: 113311
-  - title: "Kingdom"
+  - title: "Kingdom (2012)"
+    synonyms:
+      - "Kingdom"
     seasons:
       - season: 1
         anilist-id: 12031
@@ -205,7 +199,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 109856
-  - title: "MAJOR 2nd"
+  - title: "Major 2nd"
+    synonyms:
+      - "MAJOR 2nd"
     seasons:
       - season: 1
         anilist-id: 100306
@@ -248,9 +244,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 109020
-  - title: "Sakura Wars the Animation"
+  - title: "Sakura Wars: The Animation"
     synonyms:
       - "New Sakura Wars"
+      - "Sakura Wars the Animation"
       - "Shin Sakura Taisen the Animation"
     seasons:
       - season: 1
@@ -265,8 +262,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112325
-  - title: "Shironeko Project ZERO CHRONICLE"
+  - title: "Shironeko Project: Zero Chronicle"
     synonyms:
+      - "Shironeko Project ZERO CHRONICLE"
       - "Shironeko Project: ZERO CHRONICLE"
     seasons:
       - season: 1
@@ -283,17 +281,19 @@ entries:
     seasons:
       - season: 1
         anilist-id: 106319
-  - title: "The Millionaire Detective - Balance: UNLIMITED"
+  - title: "The Millionaire Detective – Balance: UNLIMITED"
     synonyms:
       - "Fugou Keiji: Balance:UNLIMITED"
+      - "The Millionaire Detective - Balance: UNLIMITED"
     seasons:
       - season: 1
         anilist-id: 114888
-  - title: "Tomica Kizuna Mode Combine Earth Granner"
+  - title: "Tomica Kizuna Gattai Earth Granner"
     synonyms:
       - "Tomica Bond Combination: Earth Granner"
       - "Tomica Kizuna Gattai: Earth Granner"
       - "Tomika Kizuna Gattai: Earth Granner"
+      - "Tomica Kizuna Mode Combine Earth Granner"
     seasons:
       - season: 1
         anilist-id: 114717
@@ -308,13 +308,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97625
-      - season: 1
+      - season: 2
         anilist-id: 108266
-  - title: "Watanuki-san Chi no"
+  - title: "Watanuki's House"
+    synonyms:
+      - "Watanuki-san Chi no"
     seasons:
       - season: 1
         anilist-id: 115142
-      - season: 1
+      - season: 2
         anilist-id: 115654
   - title: "Wave, Listen to Me!"
     synonyms:
@@ -323,13 +325,27 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112353
-  - title: "Woodpecker Detective’s Office"
+  - title: "Woodpecker Detective's Office"
     synonyms:
       - "Kitsutsuki Tantei Dokoro"
+      - "Woodpecker Detective’s Office"
     seasons:
       - season: 1
         anilist-id: 108629
-  - title: "Yu☆Gi☆Oh! SEVENS"
+  - title: "Yu-Gi-Oh!: Sevens"
+    synonyms:
+      - "Yu☆Gi☆Oh! SEVENS"
     seasons:
       - season: 1
         anilist-id: 114072
+  - title: "Zorori the Naughty Hero"
+    synonyms:
+      - "Incredible Zorori"
+      - "Kaiketsu Zorori"
+    seasons:
+      - season: 1
+        anilist-id: 3638
+      - season: 2
+        anilist-id: 2707
+      - season: 3
+        anilist-id: 116793
