@@ -1,6 +1,7 @@
 entries:
-  - title: "5-Oku-nen Button"
+  - title: "500,000,000-nen Button"
     synonyms:
+      - "5-Oku-nen Button"
       - "500 Million Year Button"
       - "Minna no Tonio-chan"
     seasons:
@@ -167,8 +168,9 @@ entries:
         anilist-id: 97986
       - season: 2
         anilist-id: 114745
-  - title: "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!"
+  - title: "My Isekai Life"
     synonyms:
+      - "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!"
       - "Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita"
     seasons:
       - season: 1
@@ -183,7 +185,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 136934
-  - title: "ORIENT"
+  - title: "Orient"
+    synonyms:
+      - "ORIENT"
     seasons:
       - season: 1
         anilist-id: 128034
@@ -219,12 +223,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 144509
-  - title: "RWBY: Ice Queendom"
-    synonyms:
-      - "RWBY: Hyousetsu Teikoku"
-    seasons:
-      - season: 1
-        anilist-id: 146668
   - title: "Rent-a-Girlfriend"
     synonyms:
       - "I'd like to Borrow a Girlfriend"
@@ -235,27 +233,35 @@ entries:
         anilist-id: 113813
       - season: 2
         anilist-id: 124410
-  - title: "SHADOWS HOUSE"
+  - title: "RWBY: Ice Queendom"
+    synonyms:
+      - "RWBY: Hyousetsu Teikoku"
+    seasons:
+      - season: 1
+        anilist-id: 146668
+  - title: "Shadows House"
     synonyms:
       - "Shadow House"
-      - "Shadows House"
+      - "SHADOWS HOUSE"
     seasons:
       - season: 1
         anilist-id: 125038
       - season: 2
         anilist-id: 139093
-  - title: "SHINEPOST"
-    synonyms:
-      - "SHINE POST"
-    seasons:
-      - season: 1
-        anilist-id: 140753
-  - title: "Shine on! Bakumatsu Bad Boys"
+  - title: "Shine on! Bakumatsu Bad Boys!"
     synonyms:
       - "Bucchigire!"
+      - "Shine on! Bakumatsu Bad Boys"
     seasons:
       - season: 1
         anilist-id: 146650
+  - title: "Shine Post"
+    synonyms:
+      - "SHINE POST"
+      - "SHINEPOST"
+    seasons:
+      - season: 1
+        anilist-id: 140753
   - title: "Shoot! Goal to the Future"
     seasons:
       - season: 1
@@ -266,29 +272,27 @@ entries:
     seasons:
       - season: 1
         anilist-id: 149874
-  - title: "TEPPEN!!!!!!!!!!!!!!! Laughing 'til You Cry"
+  - title: "Teppen!!!!!!!!!!!!!!! Laughing 'til You Cry"
     synonyms:
+      - "Teppen"
       - "Teppen!!!!!!!!!!!!!!!"
+      - "TEPPEN!!!!!!!!!!!!!!! Laughing 'til You Cry"
     seasons:
       - season: 1
         anilist-id: 143417
-  - title: "TOKYO MEW MEW NEW"
-    synonyms:
-      - "Tokyo Mew Mew New~♡"
-    seasons:
-      - season: 1
-        anilist-id: 117196
-  - title: "The Devil is a Part-Timer!"
+  - title: "The Devil Is a Part-Timer!"
     synonyms:
       - "Hataraku Maou-sama!"
+      - "The Devil is a Part-Timer!"
     seasons:
       - season: 1
         anilist-id: 15809
       - season: 2
         anilist-id: 130592
-  - title: "The Maid I Hired Recently is Mysterious"
+  - title: "The Maid I Hired Recently Is Mysterious"
     synonyms:
       - "Saikin Yatotta Maid ga Ayashii"
+      - "The Maid I Hired Recently is Mysterious"
     seasons:
       - season: 1
         anilist-id: 149326
@@ -305,18 +309,28 @@ entries:
     seasons:
       - season: 1
         anilist-id: 138882
+  - title: "Tokyo Mew Mew New"
+    synonyms:
+      - "TOKYO MEW MEW NEW"
+      - "Tokyo Mew Mew New~♡"
+    seasons:
+      - season: 1
+        anilist-id: 117196
   - title: "Uncle from Another World"
     synonyms:
-      - "Ojisan in Another World"
       - "Isekai Oji-san"
+      - "Ojisan in Another World"
+      - "Uncle from Another World"
     seasons:
       - season: 1
         anilist-id: 135806
-  - title: "Utawarerumono Mask of Truth"
-    synonyms:
-      - "Utawarerumono: Futari no Hakuoro"
+  - title: "Utawarerumono"
     seasons:
       - season: 1
+        anilist-id: 856
+      - season: 2
+        anilist-id: 21218
+      - season: 3
         anilist-id: 112640
   - title: "Vermeil in Gold"
     synonyms:

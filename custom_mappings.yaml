@@ -18,8 +18,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99807
-  - title: "5-Oku-nen Button"
+  - title: "500,000,000-nen Button"
     synonyms:
+      - "5-Oku-nen Button"
       - "500 Million Year Button"
       - "Minna no Tonio-chan"
     seasons:
@@ -3209,8 +3210,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 151189
-  - title: "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!"
+  - title: "My Isekai Life"
     synonyms:
+      - "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!"
       - "Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita"
     seasons:
       - season: 1
@@ -4096,15 +4098,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 105119
-  - title: "Shine on! Bakumatsu Bad Boys"
+  - title: "Shine on! Bakumatsu Bad Boys!"
     synonyms:
       - "Bucchigire!"
+      - "Shine on! Bakumatsu Bad Boys"
     seasons:
       - season: 1
         anilist-id: 146650
-  - title: "SHINEPOST"
+  - title: "Shine Post"
     synonyms:
       - "SHINE POST"
+      - "SHINEPOST"
     seasons:
       - season: 1
         anilist-id: 140753
@@ -4495,9 +4499,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 160447
-  - title: "TEPPEN!!!!!!!!!!!!!!! Laughing 'til You Cry"
+  - title: "Teppen!!!!!!!!!!!!!!! Laughing 'til You Cry"
     synonyms:
+      - "Teppen"
       - "Teppen!!!!!!!!!!!!!!!"
+      - "TEPPEN!!!!!!!!!!!!!!! Laughing 'til You Cry"
     seasons:
       - season: 1
         anilist-id: 143417
@@ -4614,9 +4620,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128712
-  - title: "The Devil is a Part-Timer!"
+  - title: "The Devil Is a Part-Timer!"
     synonyms:
       - "Hataraku Maou-sama!"
+      - "The Devil is a Part-Timer!"
     seasons:
       - season: 1
         anilist-id: 15809
@@ -4847,9 +4854,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104253
-  - title: "The Maid I Hired Recently is Mysterious"
+  - title: "The Maid I Hired Recently Is Mysterious"
     synonyms:
       - "Saikin Yatotta Maid ga Ayashii"
+      - "The Maid I Hired Recently is Mysterious"
     seasons:
       - season: 1
         anilist-id: 149326
@@ -5140,8 +5148,9 @@ entries:
       - season: 3
         anilist-id: 102351
         start: 13
-  - title: "TOKYO MEW MEW NEW"
+  - title: "Tokyo Mew Mew New"
     synonyms:
+      - "TOKYO MEW MEW NEW"
       - "Tokyo Mew Mew New~♡"
     seasons:
       - season: 1
@@ -5333,6 +5342,7 @@ entries:
     synonyms:
       - "Isekai Oji-san"
       - "Ojisan in Another World"
+      - "Uncle from Another World"
     seasons:
       - season: 1
         anilist-id: 135806
@@ -5365,11 +5375,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 143277
-  - title: "Utawarerumono Mask of Truth"
-    synonyms:
-      - "Utawarerumono: Futari no Hakuoro"
+  - title: "Utawarerumono"
     seasons:
       - season: 1
+        anilist-id: 856
+      - season: 2
+        anilist-id: 21218
+      - season: 3
         anilist-id: 112640
   - title: "Uzaki-chan Wants to Hang Out!"
     synonyms:
