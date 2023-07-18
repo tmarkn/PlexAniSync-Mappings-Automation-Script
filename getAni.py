@@ -30,8 +30,11 @@ class AnilistEntry:
         string = f'  - title: "{title}"\n'
         ## synonyms
         if len(self.synonyms):
+            ## sort
+            synonyms = sorted(self.synonyms, key=lambda x: x.casefold())
+            ## write string
             string += '    synonyms:\n'
-            for syn in self.synonyms:
+            for syn in synonyms:
                 synonym = syn.replace('"', '\\"')
                 string += f'      - "{synonym}"\n'
         # seasons
@@ -86,6 +89,12 @@ def makeEntryFromAnilistData(anilistDict: dict, id: int) -> AnilistEntry:
 
     ## create new entry 
     alEntry = AnilistEntry(engName)
+
+    ## remove unicode ’ (\u2019) and replace with ' apostrophe
+    if '’' in engName:
+        alEntry.synonyms.add(engName)
+        engName = engName.replace('’', "'")
+        alEntry.title = engName
 
     ## find synoynms
     synList = entry['synonyms']

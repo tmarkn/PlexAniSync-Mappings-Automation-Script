@@ -51,20 +51,13 @@ def mergeYaml(directory: str) -> None:
                 anilistEntries[baseId] = newEntry
 
     anilist = []
-    ## sort Entry components
+    ## sort seasons of titles
     for title in anilistEntries:
         alEntry = anilistEntries[title]
 
-        ## sort seasons of titles
         newSeasons = {k:v for k, v in sorted(alEntry.seasons.items(), key=lambda x:(x[1].seasonNum, x[1].start, x[1].id))}
 
         alEntry.seasons = newSeasons
-
-        ## sort synonyms
-        newSynonyms = sorted(alEntry.synonyms, key=lambda x: x)
-
-        alEntry.synonyms = newSynonyms
-
         anilist.append(alEntry)
 
     ## sort entire Titles
