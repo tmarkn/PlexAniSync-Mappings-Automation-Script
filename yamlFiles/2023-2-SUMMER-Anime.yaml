@@ -121,21 +121,18 @@ entries:
     seasons:
       - season: 1
         anilist-id: 163132
-  - title: "Hyakushou Kizoku"
-    seasons:
-      - season: 1
-        anilist-id: 155971
-  - title: "JUJUTSU KAISEN"
+  - title: "Jujutsu Kaisen"
     synonyms:
       - "JJK"
-      - "Jujutsu Kaisen"
+      - "JUJUTSU KAISEN"
     seasons:
       - season: 1
         anilist-id: 113415
       - season: 2
         anilist-id: 145064
-  - title: "Level 1 Demon Lord and One Room Hero"
+  - title: "Level 1 Demon Lord & One Room Hero"
     synonyms:
+      - "Level 1 Demon Lord and One Room Hero"
       - "Lv1 Demon Lord and One Room Hero"
       - "Lv1 Maou to One Room Yuusha"
     seasons:
@@ -149,9 +146,9 @@ entries:
         anilist-id: 131863
   - title: "Malevolent Spirits: Mononogatari"
     synonyms:
+      - "Malevolent Spirits"
       - "Mono no Gatari"
       - "Mononogatari"
-      - "Malevolent Spirits"
     seasons:
       - season: 1
         anilist-id: 141785
@@ -188,16 +185,17 @@ entries:
         anilist-id: 147103
   - title: "My Tiny Senpai"
     synonyms:
-      - "Story of a Small Senior in My Company"
       - "My Company's Small Senpai"
       - "My Tiny Senpai From Work"
+      - "Story of a Small Senior in My Company"
       - "Uchi no Kaisha no Chiisai Senpai no Hanashi"
     seasons:
       - season: 1
         anilist-id: 155730
-  - title: "My Unique Skill Makes Me OP even at Level 1"
+  - title: "My Unique Skill Makes Me OP Even at Level 1"
     synonyms:
       - "Level 1 dakedo Unique Skill de Saikyou desu"
+      - "My Unique Skill Makes Me OP even at Level 1"
     seasons:
       - season: 1
         anilist-id: 148465
@@ -217,8 +215,8 @@ entries:
   - title: "Rent-a-Girlfriend"
     synonyms:
       - "I'd like to Borrow a Girlfriend"
-      - "Kanokari"
       - "Kanojo, Okarishimasu"
+      - "Kanokari"
     seasons:
       - season: 1
         anilist-id: 113813
@@ -226,21 +224,23 @@ entries:
         anilist-id: 124410
       - season: 3
         anilist-id: 154745
-  - title: "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
+  - title: "Rurouni Kenshin (2023)"
     synonyms:
-      - "Rurouni Kenshin (2023)"
+      - "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
     seasons:
       - season: 1
         anilist-id: 142877
-  - title: "SYNDUALITY Noir"
+  - title: "Synduality Noir"
+    synonyms:
+      - "SYNDUALITY Noir"
     seasons:
       - season: 1
         anilist-id: 154643
   - title: "Saint Cecilia and Pastor Lawrence"
     synonyms:
+      - "Shiro Seijo to Kuro Bokushi"
       - "The White Holy Woman and the Black Priest"
       - "White Saint and Black Pastor"
-      - "Shiro Seijo to Kuro Bokushi"
     seasons:
       - season: 1
         anilist-id: 150972
@@ -276,15 +276,16 @@ entries:
         anilist-id: 153339
   - title: "TenPuru"
     synonyms:
-      - "TenPuru -No One Can Live on Loneliness-"
       - "No one can live on loneliness"
       - "Temple"
+      - "TenPuru -No One Can Live on Loneliness-"
     seasons:
       - season: 1
         anilist-id: 160447
-  - title: "The Devil is a Part-Timer!"
+  - title: "The Devil Is a Part-Timer!"
     synonyms:
       - "Hataraku Maou-sama!"
+      - "The Devil is a Part-Timer!"
     seasons:
       - season: 1
         anilist-id: 15809
@@ -292,9 +293,10 @@ entries:
         anilist-id: 130592
       - season: 3
         anilist-id: 155168
-  - title: "The Dreaming Boy is a Realist"
+  - title: "The Dreaming Boy Is a Realist"
     synonyms:
       - "My Dreamy Realist"
+      - "The Dreaming Boy is a Realist"
       - "Yumemiru Danshi wa Genjitsushugisha"
     seasons:
       - season: 1
@@ -327,10 +329,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 155418
-  - title: "The Masterful Cat is Depressed Again Today"
+  - title: "The Masterful Cat Is Depressed Again Today"
     synonyms:
       - "DekiNeko"
       - "Dekiru Neko wa Kyou mo Yuuutsu"
+      - "The Masterful Cat is Depressed Again Today"
     seasons:
       - season: 1
         anilist-id: 149883
@@ -346,10 +349,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 162983
-  - title: "YOHANE THE PARHELION -SUNSHINE in the MIRROR"
+  - title: "Yohane the Parhelion -SUNSHINE in the MIRROR-"
     synonyms:
-      - "YOHANE THE PARHELION -SUNSHINE in the MIRROR-"
       - "Genjitsu no Yohane: SUNSHINE in the MIRROR"
+      - "YOHANE THE PARHELION -SUNSHINE in the MIRROR"
+      - "YOHANE THE PARHELION -SUNSHINE in the MIRROR-"
     seasons:
       - season: 1
         anilist-id: 151513

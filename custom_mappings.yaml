@@ -2066,10 +2066,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 100661
-  - title: "Hyakushou Kizoku"
-    seasons:
-      - season: 1
-        anilist-id: 155971
   - title: "HYPNOSISMIC -Division Rap Battle- Rhyme Anima"
     synonyms:
       - "Hypnosis Mic: Division Rap Battle - Rhyme Anima"
@@ -2698,8 +2694,9 @@ entries:
         anilist-id: 124032
       - season: 4
         anilist-id: 148970
-  - title: "Level 1 Demon Lord and One Room Hero"
+  - title: "Level 1 Demon Lord & One Room Hero"
     synonyms:
+      - "Level 1 Demon Lord and One Room Hero"
       - "Lv1 Demon Lord and One Room Hero"
       - "Lv1 Maou to One Room Yuusha"
     seasons:
@@ -3347,9 +3344,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 155730
-  - title: "My Unique Skill Makes Me OP even at Level 1"
+  - title: "My Unique Skill Makes Me OP Even at Level 1"
     synonyms:
       - "Level 1 dakedo Unique Skill de Saikyou desu"
+      - "My Unique Skill Makes Me OP even at Level 1"
     seasons:
       - season: 1
         anilist-id: 148465
@@ -3934,9 +3932,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101903
-  - title: "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
+  - title: "Rurouni Kenshin (2023)"
     synonyms:
-      - "Rurouni Kenshin (2023)"
+      - "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
     seasons:
       - season: 1
         anilist-id: 142877
@@ -4470,7 +4468,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 100183
-  - title: "SYNDUALITY Noir"
+  - title: "Synduality Noir"
+    synonyms:
+      - "SYNDUALITY Noir"
     seasons:
       - season: 1
         anilist-id: 154643
@@ -4673,9 +4673,10 @@ entries:
         anilist-id: 21804
       - season: 2
         anilist-id: 98034
-  - title: "The Dreaming Boy is a Realist"
+  - title: "The Dreaming Boy Is a Realist"
     synonyms:
       - "My Dreamy Realist"
+      - "The Dreaming Boy is a Realist"
       - "Yumemiru Danshi wa Genjitsushugisha"
     seasons:
       - season: 1
@@ -4907,10 +4908,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101289
-  - title: "The Masterful Cat is Depressed Again Today"
+  - title: "The Masterful Cat Is Depressed Again Today"
     synonyms:
       - "DekiNeko"
       - "Dekiru Neko wa Kyou mo Yuuutsu"
+      - "The Masterful Cat is Depressed Again Today"
     seasons:
       - season: 1
         anilist-id: 149883
@@ -5689,9 +5691,10 @@ entries:
         anilist-id: 101555
       - season: 5
         anilist-id: 108767
-  - title: "YOHANE THE PARHELION -SUNSHINE in the MIRROR"
+  - title: "Yohane the Parhelion -SUNSHINE in the MIRROR-"
     synonyms:
       - "Genjitsu no Yohane: SUNSHINE in the MIRROR"
+      - "YOHANE THE PARHELION -SUNSHINE in the MIRROR"
       - "YOHANE THE PARHELION -SUNSHINE in the MIRROR-"
     seasons:
       - season: 1
