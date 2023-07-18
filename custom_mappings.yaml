@@ -361,9 +361,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104722
-  - title: "Assault Lily BOUQUET"
+  - title: "Assault Lily: BOUQUET"
     synonyms:
-      - "Assault Lily: BOUQUET"
+      - "Assault Lily BOUQUET"
     seasons:
       - season: 1
         anilist-id: 112479
@@ -1033,9 +1033,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 100814
-  - title: "D4DJ First Mix"
+  - title: "D4DJ"
     synonyms:
-      - "D4DJ"
+      - "D4DJ First Mix"
       - "Dig Delight Direct Drive DJ"
     seasons:
       - season: 1
@@ -1367,7 +1367,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21512
-  - title: "Eternity: Shinya no Nurekoi Channel♡"
+  - title: "Eternity: Sweet Love Story"
+    synonyms:
+      - "Eternity: Shinya no Nurekoi Channel♡"
     seasons:
       - season: 1
         anilist-id: 121645
@@ -1890,11 +1892,11 @@ entries:
         anilist-id: 97820
       - season: 3
         anilist-id: 100280
-  - title: "Higurashi: When They Cry - GOU"
+  - title: "Higurashi: When They Cry"
     synonyms:
       - "Higurashi no Naku Koro ni (2020)"
       - "Higurashi no Naku Koro ni Gou"
-      - "Higurashi: When They Cry"
+      - "Higurashi: When They Cry - GOU"
       - "Higurashi: When They Cry - NEW"
       - "When the Cicadas Cry"
     seasons:
@@ -2104,7 +2106,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104391
-  - title: "Ikebukuro West Gate Park"
+  - title: "Ikebukuro West Gate Park (2020)"
+    synonyms:
+      - "Ikebukuro West Gate Park"
     seasons:
       - season: 1
         anilist-id: 111324
@@ -2229,10 +2233,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20517
-      - season: 1
-        anilist-id: 104198
       - season: 2
         anilist-id: 21034
+      - season: 3
+        anilist-id: 104198
   - title: "Isekai Cheat Magician"
     seasons:
       - season: 1
@@ -2243,9 +2247,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21712
-  - title: "Iwakakeru -Sport Climbing Girls-"
+  - title: "Iwa Kakeru! Sport Climbing Girls"
     synonyms:
       - "Iwa Kakeru!: Sport Climbing Girls"
+      - "Iwakakeru -Sport Climbing Girls-"
     seasons:
       - season: 1
         anilist-id: 117757
@@ -2272,10 +2277,10 @@ entries:
         anilist-id: 21450
       - season: 5
         anilist-id: 102883
-  - title: "JUJUTSU KAISEN"
+  - title: "Jujutsu Kaisen"
     synonyms:
       - "JJK"
-      - "Jujutsu Kaisen"
+      - "JUJUTSU KAISEN"
     seasons:
       - season: 1
         anilist-id: 113415
@@ -2433,9 +2438,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99698
-  - title: "KING's RAID: Successors of the Will"
+  - title: "King's Raid: Successors of the Will"
     synonyms:
       - "King's Raid: Ishi wo Tsugumonotachi"
+      - "KING's RAID: Successors of the Will"
     seasons:
       - season: 1
         anilist-id: 118376
@@ -2774,14 +2780,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99720
-  - title: "Maesetsu! Opening Act"
+  - title: "Maesetsu!"
     synonyms:
-      - "Maesetsu!"
+      - "Maesetsu! Opening Act"
     seasons:
       - season: 1
         anilist-id: 110632
-  - title: "MAGATSU WAHRHEIT"
+  - title: "Magatsu Wahrheit: Zuerst"
     synonyms:
+      - "MAGATSU WAHRHEIT"
       - "Magatsu Wahrheit: ZUERST"
     seasons:
       - season: 1

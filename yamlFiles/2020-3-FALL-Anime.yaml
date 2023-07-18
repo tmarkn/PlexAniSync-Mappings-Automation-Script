@@ -1,10 +1,10 @@
 entries:
-  - title: "A3! Season Spring & Summer"
+  - title: "A3!"
     synonyms:
-      - "A3!"
-      - "Act! Addict! Actors!"
       - "A3! Act! Addict! Actors!"
+      - "A3! Season Spring & Summer"
       - "A3! SEASON SPRING ＆ SUMMER"
+      - "Act! Addict! Actors!"
     seasons:
       - season: 1
         anilist-id: 107651
@@ -21,9 +21,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116566
-  - title: "Assault Lily BOUQUET"
+  - title: "Assault Lily: BOUQUET"
     synonyms:
-      - "Assault Lily: BOUQUET"
+      - "Assault Lily BOUQUET"
     seasons:
       - season: 1
         anilist-id: 112479
@@ -36,9 +36,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 115740
-  - title: "D4DJ First Mix"
+  - title: "D4DJ"
     synonyms:
-      - "D4DJ"
+      - "D4DJ First Mix"
       - "Dig Delight Direct Drive DJ"
     seasons:
       - season: 1
@@ -56,7 +56,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108713
-  - title: "Eternity: Shinya no Nurekoi Channel♡"
+  - title: "Eternity: Sweet Love Story"
+    synonyms: 
+      - "Eternity: Shinya no Nurekoi Channel♡"
     seasons:
       - season: 1
         anilist-id: 121645
@@ -70,10 +72,11 @@ entries:
         anilist-id: 102977
       - season: 3
         anilist-id: 110355
-  - title: "HAIKYU!!"
+  - title: "Haikyu!!"
     synonyms:
       - "High Kyuu!!"
       - "Haikyuu!!"
+      - "HAIKYU!!"
     seasons:
       - season: 1
         anilist-id: 20464
@@ -99,7 +102,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116242
-  - title: "Ikebukuro West Gate Park"
+  - title: "Ikebukuro West Gate Park (2020)"
+    synonyms:
+      - "Ikebukuro West Gate Park"
     seasons:
       - season: 1
         anilist-id: 111324
@@ -130,24 +135,26 @@ entries:
         anilist-id: 20517
       - season: 2
         anilist-id: 21034
-      - season: 1
+      - season: 3
         anilist-id: 104198
-  - title: "Iwakakeru -Sport Climbing Girls-"
+  - title: "Iwa Kakeru! Sport Climbing Girls"
     synonyms:
+      - "Iwakakeru -Sport Climbing Girls-"
       - "Iwa Kakeru!: Sport Climbing Girls"
     seasons:
       - season: 1
         anilist-id: 117757
-  - title: "JUJUTSU KAISEN"
+  - title: "Jujutsu Kaisen"
     synonyms:
       - "JJK"
-      - "Jujutsu Kaisen"
+      - "JUJUTSU KAISEN"
     seasons:
       - season: 1
         anilist-id: 113415
-  - title: "KING's RAID: Successors of the Will"
+  - title: "King's Raid: Successors of the Will"
     synonyms:
       - "King's Raid: Ishi wo Tsugumonotachi"
+      - "KING's RAID: Successors of the Will"
     seasons:
       - season: 1
         anilist-id: 118376
@@ -164,15 +171,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113970
-  - title: "MAGATSU WAHRHEIT"
+  - title: "Magatsu Wahrheit: Zuerst"
     synonyms:
+      - "MAGATSU WAHRHEIT"
       - "Magatsu Wahrheit: ZUERST"
     seasons:
       - season: 1
         anilist-id: 117755
-  - title: "Maesetsu! Opening Act"
+  - title: "Maesetsu!"
     synonyms:
-      - "Maesetsu!"
+      - "Maesetsu! Opening Act"
     seasons:
       - season: 1
         anilist-id: 110632
@@ -281,13 +289,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 116173
-  - title: "Higurashi: When They Cry - GOU"
+  - title: "Higurashi: When They Cry"
     synonyms:
-      - "Higurashi: When They Cry"
-      - "When the Cicadas Cry"
-      - "Higurashi: When They Cry - NEW"
       - "Higurashi no Naku Koro ni (2020)"
       - "Higurashi no Naku Koro ni Gou"
+      - "Higurashi: When They Cry - GOU"
+      - "Higurashi: When They Cry - NEW"
+      - "When the Cicadas Cry"
     seasons:
       - season: 1
         anilist-id: 114446
