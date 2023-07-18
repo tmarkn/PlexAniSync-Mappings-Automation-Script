@@ -14,10 +14,10 @@ entries:
       - season: 1
         anilist-id: 143203
         start: 14
-  - title: "Aharen-san wa Hakarenai"
+  - title: "Aharen Is Indecipherable"
     synonyms:
-      - "Aharen Is Indecipherable"
       - "Aharen Is Unfathomable"
+      - "Aharen-san wa Hakarenai"
     seasons:
       - season: 1
         anilist-id: 137281
@@ -36,24 +36,27 @@ entries:
         anilist-id: 113693
       - season: 3
         anilist-id: 121176
-  - title: "BIRDIE WING -Golf Girls' Story-"
+  - title: "Birdie Wing -Golf Girls' Story-"
     synonyms:
+      - "BIRDIE WING -Golf Girls' Story-"
       - "BIRDIE WING: Golf Girls' Story"
     seasons:
       - season: 1
         anilist-id: 140830
-  - title: "BLACK ROCK SHOOTER DAWN FALL"
+  - title: "Black Rock Shooter: Dawn Fall"
     synonyms:
       - "BRS DF"
+      - "BLACK ROCK SHOOTER DAWN FALL"
       - "Black Rock Shooter: Apokalipsa"
       - "Black★★Rock Shooter: DAWN FALL"
     seasons:
       - season: 1
         anilist-id: 139303
-  - title: "BUILD-DIVIDE -#000000- CODE BLACK"
+  - title: "Build-Divide"
     synonyms:
       - "Build Divide"
       - "Build Divide: Code Black"
+      - "BUILD-DIVIDE -#000000- CODE BLACK"
     seasons:
       - season: 1
         anilist-id: 132525
@@ -79,8 +82,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 132532
-  - title: "Don’t Hurt Me, My Healer!"
+  - title: "Don't Hurt Me, My Healer!"
     synonyms:
+      - "Don’t Hurt Me, My Healer!"
       - "Kono Healer, Mendokusai"
     seasons:
       - season: 1
@@ -143,19 +147,9 @@ entries:
         anilist-id: 112641
       - season: 3
         anilist-id: 125367
-  - title: "Kaiketsu Zorori"
+  - title: "Kingdom (2012)"
     synonyms:
-      - "Incredible Zorori"
-    seasons:
-      - season: 1
-        anilist-id: 3638
-      - season: 2
-        anilist-id: 2707
-      - season: 3
-        anilist-id: 116793
-      - season: 4
-        anilist-id: 126835
-  - title: "Kingdom"
+      - "Kingdom"
     seasons:
       - season: 1
         anilist-id: 12031
@@ -165,9 +159,10 @@ entries:
         anilist-id: 113108
       - season: 4
         anilist-id: 140350
-  - title: "Komi Can’t Communicate"
+  - title: "Komi Can't Communicate"
     synonyms:
       - "Comi san ha Comyusho desu"
+      - "Komi Can’t Communicate"
       - "Komi-san wa, Comyushou desu."
       - "Komi-san wa, Komyushou desu."
     seasons:
@@ -193,7 +188,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 132010
-  - title: "Love All Play"
+  - title: "Love All Play (2022)"
+    synonyms: 
+      - "Love All Play"
     seasons:
       - season: 1
         anilist-id: 137633
@@ -224,6 +221,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 135384
+  - title: "New Battle Vixens"
+    synonyms:
+      - "Shin Ikki Tousen"
+      - "Shin Ikkitousen"
+    seasons:
+      - season: 1
+        anilist-id: 136303
   - title: "RPG Real Estate"
     synonyms:
       - "RPG Fudousan"
@@ -259,12 +263,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 127911
-  - title: "Shin Ikki Tousen"
-    synonyms:
-      - "Shin Ikkitousen"
-    seasons:
-      - season: 1
-        anilist-id: 136303
   - title: "Skeleton Knight in Another World"
     synonyms:
       - "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu"
@@ -275,6 +273,7 @@ entries:
     synonyms:
       - "Summertime Render"
       - "Summer Time Render"
+      - "Summertime Rendering"
     seasons:
       - season: 1
         anilist-id: 129201
@@ -330,10 +329,23 @@ entries:
     seasons:
       - season: 1
         anilist-id: 141774
-  - title: "Yu☆Gi☆Oh! Go Rush!!"
+  - title: "Yu-Gi-Oh! Go Rush!!"
     synonyms:
       - "Yugioh! Go Rush!!"
-      - "Yu-Gi-Oh! Go Rush!!"
+      - "Yu☆Gi☆Oh! Go Rush!!"
     seasons:
       - season: 1
         anilist-id: 142842
+  - title: "Zorori the Naughty Hero"
+    synonyms:
+      - "Incredible Zorori"
+      - "Kaiketsu Zorori"
+    seasons:
+      - season: 1
+        anilist-id: 3638
+      - season: 2
+        anilist-id: 2707
+      - season: 3
+        anilist-id: 116793
+      - season: 4
+        anilist-id: 126835

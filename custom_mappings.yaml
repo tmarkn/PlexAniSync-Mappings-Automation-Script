@@ -189,10 +189,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101631
-  - title: "Aharen-san wa Hakarenai"
+  - title: "Aharen Is Indecipherable"
     synonyms:
-      - "Aharen Is Indecipherable"
       - "Aharen Is Unfathomable"
+      - "Aharen-san wa Hakarenai"
     seasons:
       - season: 1
         anilist-id: 137281
@@ -599,8 +599,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 144533
-  - title: "BIRDIE WING -Golf Girls' Story-"
+  - title: "Birdie Wing -Golf Girls' Story-"
     synonyms:
+      - "BIRDIE WING -Golf Girls' Story-"
       - "BIRDIE WING: Golf Girls' Story"
     seasons:
       - season: 1
@@ -611,8 +612,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97940
-  - title: "BLACK ROCK SHOOTER DAWN FALL"
+  - title: "Black Rock Shooter: Dawn Fall"
     synonyms:
+      - "BLACK ROCK SHOOTER DAWN FALL"
       - "Black Rock Shooter: Apokalipsa"
       - "Black★★Rock Shooter: DAWN FALL"
       - "BRS DF"
@@ -1222,6 +1224,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 103139
+  - title: "Don't Hurt Me, My Healer!"
+    synonyms:
+      - "Don’t Hurt Me, My Healer!"
+      - "Kono Healer, Mendokusai"
+    seasons:
+      - season: 1
+        anilist-id: 132351
   - title: "Don't Toy With Me, Miss Nagatoro"
     synonyms:
       - "DON'T TOY WITH ME, MISS NAGATORO"
@@ -1231,12 +1240,6 @@ entries:
         anilist-id: 120697
       - season: 2
         anilist-id: 140596
-  - title: "Don’t Hurt Me, My Healer!"
-    synonyms:
-      - "Kono Healer, Mendokusai"
-    seasons:
-      - season: 1
-        anilist-id: 132351
   - title: "DOREIKU The Animation"
     synonyms:
       - "Dorei-ku The Animation"
@@ -2722,7 +2725,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 132010
-  - title: "Love All Play"
+  - title: "Love All Play (2022)"
+    synonyms:
+      - "Love All Play"
     seasons:
       - season: 1
         anilist-id: 137633
@@ -3310,6 +3315,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 106863
+  - title: "New Battle Vixens"
+    synonyms:
+      - "Shin Ikki Tousen"
+      - "Shin Ikkitousen"
+    seasons:
+      - season: 1
+        anilist-id: 136303
   - title: "NieR:Automata Ver1.1a"
     synonyms:
       - "NieR Automata Ver1.1a"
@@ -4084,12 +4096,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 105119
-  - title: "Shin Ikki Tousen"
-    synonyms:
-      - "Shin Ikkitousen"
-    seasons:
-      - season: 1
-        anilist-id: 136303
   - title: "Shine on! Bakumatsu Bad Boys"
     synonyms:
       - "Bucchigire!"
@@ -4348,6 +4354,7 @@ entries:
     synonyms:
       - "Summer Time Render"
       - "Summertime Render"
+      - "Summertime Rendering"
     seasons:
       - season: 1
         anilist-id: 129201
@@ -5673,6 +5680,13 @@ entries:
         anilist-id: 99476
       - season: 3
         anilist-id: 142481
+  - title: "Yu-Gi-Oh! Go Rush!!"
+    synonyms:
+      - "Yugioh! Go Rush!!"
+      - "Yu☆Gi☆Oh! Go Rush!!"
+    seasons:
+      - season: 1
+        anilist-id: 142842
   - title: "Yu-Gi-Oh!: Sevens"
     synonyms:
       - "Yu☆Gi☆Oh! SEVENS"
@@ -5721,13 +5735,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 100483
-  - title: "Yu☆Gi☆Oh! Go Rush!!"
-    synonyms:
-      - "Yu-Gi-Oh! Go Rush!!"
-      - "Yugioh! Go Rush!!"
-    seasons:
-      - season: 1
-        anilist-id: 142842
   - title: "Z/X: Code Reunion"
     synonyms:
       - "Z/X: Code reunion"
