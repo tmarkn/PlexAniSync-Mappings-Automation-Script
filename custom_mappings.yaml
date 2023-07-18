@@ -11,9 +11,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113231
-  - title: "22/7 (nanabun no nijyuuni)"
+  - title: "22/7"
     synonyms:
-      - "22/7"
+      - "22/7 (nanabun no nijyuuni)"
       - "Nanabun no Nijyuuni"
     seasons:
       - season: 1
@@ -107,10 +107,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98596
-  - title: "A3! Season Spring & Summer"
+  - title: "A3!"
     synonyms:
-      - "A3!"
       - "A3! Act! Addict! Actors!"
+      - "A3! Season Spring & Summer"
       - "A3! SEASON SPRING ＆ SUMMER"
       - "Act! Addict! Actors!"
     seasons:
@@ -1735,8 +1735,9 @@ entries:
         anilist-id: 98479
       - season: 2
         anilist-id: 102974
-  - title: "HAIKYU!!"
+  - title: "Haikyu!!"
     synonyms:
+      - "HAIKYU!!"
       - "Haikyuu!!"
       - "High Kyuu!!"
     seasons:
@@ -3471,9 +3472,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99693
-  - title: "Pet"
+  - title: "pet"
     synonyms:
-      - "pet"
+      - "Pet"
+      - "pet (2020)"
     seasons:
       - season: 1
         anilist-id: 101350
@@ -4181,9 +4183,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 132126
-  - title: "Sorcerous Stabber Orphen"
+  - title: "Sorcerous Stabber Orphen (2020)"
     synonyms:
       - "Majutsushi Orphen Hagure Tabi"
+      - "Sorcerous Stabber Orphen"
     seasons:
       - season: 1
         anilist-id: 101367
@@ -5057,9 +5060,10 @@ entries:
         anilist-id: 114535
       - season: 2
         anilist-id: 138565
-  - title: "Toilet-bound Hanako-kun"
+  - title: "Toilet-Bound Hanako-kun"
     synonyms:
       - "Jibaku Shounen Hanako-kun"
+      - "Toilet-bound Hanako-kun"
     seasons:
       - season: 1
         anilist-id: 108463
