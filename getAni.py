@@ -31,7 +31,7 @@ class AnilistEntry:
         ## synonyms
         if len(self.synonyms):
             ## sort
-            synonyms = sorted(self.synonyms, key=lambda x: x.casefold())
+            synonyms = sorted(self.synonyms, key=lambda x: (x.casefold(), x))
             ## write string
             string += '    synonyms:\n'
             for syn in synonyms:
