@@ -145,6 +145,13 @@ entries:
         anilist-id: 107651
       - season: 2
         anilist-id: 111145
+  - title: "ACCA: 13-Territory Inspection Dept."
+    synonyms:
+      - "ACCA: 13-ku Kansatsu-ka"
+      - "ACCA: Jusan-ku Kansatsu-ka"
+    seasons:
+      - season: 1
+        anilist-id: 21823
   - title: "Ace Attorney"
     synonyms:
       - "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!"
@@ -274,6 +281,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 151379
+  - title: "Akiba's Trip the Animation"
+    synonyms:
+      - "Akiba's Trip: The Animation"
+    seasons:
+      - season: 1
+        anilist-id: 97636
   - title: "Akudama Drive"
     seasons:
       - season: 1
@@ -767,6 +780,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101573
+  - title: "Blue Exorcist"
+    synonyms:
+      - "Ao no Exorcist"
+      - "Ao no Futsumashi"
+    seasons:
+      - season: 1
+        anilist-id: 9919
+      - season: 2
+        anilist-id: 21861
   - title: "Blue Lock"
     synonyms:
       - "BLUELOCK"
@@ -1019,6 +1041,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 125867
+  - title: "Chain Chronicle: The Light Of Haecceitas"
+    synonyms:
+      - "Chain Chronicle - The Light of Haecceitas -"
+      - "Chain Chronicle: Haecceitas no Hikari"
+    seasons:
+      - season: 1
+        anilist-id: 20986
   - title: "Chainsaw Man"
     seasons:
       - season: 1
@@ -1066,6 +1095,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97939
+  - title: "ChäoS;Child"
+    synonyms:
+      - "Chaos;Child"
+    seasons:
+      - season: 1
+        anilist-id: 21126
   - title: "Cinderella Nine"
     synonyms:
       - "Hachigatsu no Cinderella Nine"
@@ -1748,6 +1783,17 @@ entries:
         anilist-id: 101385
       - season: 6
         anilist-id: 102005
+  - title: "Fuuka"
+    seasons:
+      - season: 1
+        anilist-id: 21887
+  - title: "Gabriel DropOut"
+    synonyms:
+      - "GabDro"
+      - "Gabriel Dropout"
+    seasons:
+      - season: 1
+        anilist-id: 21878
   - title: "Gakuen Basara: Samurai High School"
     synonyms:
       - "Gakuen BASARA"
@@ -1979,6 +2025,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99748
+  - title: "Hand Shakers"
+    seasons:
+      - season: 1
+        anilist-id: 21731
   - title: "Handyman Saitou in Another World"
     synonyms:
       - "Benriya Saitou-san, Isekai ni Iku"
@@ -2341,6 +2391,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 110350
+  - title: "Idol Incidents"
+    synonyms:
+      - "Idol Jihen"
+    seasons:
+      - season: 1
+        anilist-id: 97618
   - title: "IDOLiSH7"
     seasons:
       - season: 1
@@ -2453,6 +2509,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 110270
+  - title: "Interviews with Monster Girls"
+    synonyms:
+      - "Demi-chan wa Kataritai"
+    seasons:
+      - season: 1
+        anilist-id: 97592
   - title: "INUYASHIKI LAST HERO"
     synonyms:
       - "Inuyashiki"
@@ -2766,6 +2828,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 102604
+  - title: "Kirakira☆Precure A La Mode"
+    synonyms:
+      - "KIRA KIRA☆PRETTY CURE A LA MODE"
+      - "Kirakira Pretty Cure a la Mode"
+      - "Kirakira☆Precure a la Mode"
+    seasons:
+      - season: 1
+        anilist-id: 98059
   - title: "Kiratto Pri☆chan"
     synonyms:
       - "Kiratto Pri☆Chan"
@@ -2840,6 +2910,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 150075
+  - title: "KonoSuba – God's blessing on this wonderful world!!"
+    synonyms:
+      - "Kono Subarashii Sekai ni Shukufuku wo!"
+      - "Kono Subarashii Sekai ni Syukufuku wo!"
+      - "Konosuba"
+      - "KONOSUBA -God's blessing on this wonderful world!"
+    seasons:
+      - season: 1
+        anilist-id: 21202
+      - season: 2
+        anilist-id: 21699
   - title: "Kubo Won't Let Me Be Invisible"
     synonyms:
       - "Kubo-san wa Mob wo Yurusanai"
@@ -2970,6 +3051,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 109856
+  - title: "Little Witch Academia"
+    synonyms:
+      - "Little Witch Academia (TV)"
+      - "LWA (TV)"
+    seasons:
+      - season: 1
+        anilist-id: 21858
   - title: "Log Horizon"
     seasons:
       - season: 1
@@ -3194,6 +3282,13 @@ entries:
         anilist-id: 21366
       - season: 2
         anilist-id: 98478
+  - title: "MARGINAL #4 The Animation"
+    synonyms:
+      - "MARGINAL #4 the Animation"
+      - "MARGINAL#4: KISS kara Tsukuru Big Bang"
+    seasons:
+      - season: 1
+        anilist-id: 21645
   - title: "Mars Red"
     synonyms:
       - "MARS RED"
@@ -3283,6 +3378,12 @@ entries:
         anilist-id: 101359
       - season: 2
         anilist-id: 104071
+  - title: "Minami Kamakura High School Girls Cycling Club"
+    synonyms:
+      - "Minami Kamakura Koukou Joshi Jitensha-Bu"
+    seasons:
+      - season: 1
+        anilist-id: 21298
   - title: "Miss Caretaker of Sunohara-sou"
     synonyms:
       - "Sunoharasou no Kanrinin-san"
@@ -3785,6 +3886,12 @@ entries:
         anilist-id: 21087
       - season: 2
         anilist-id: 97668
+  - title: "Onihei"
+    synonyms:
+      - "ONIHEI"
+    seasons:
+      - season: 1
+        anilist-id: 97590
   - title: "Opus Colors"
     synonyms:
       - "Opus.COLORs"
@@ -4242,6 +4349,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98658
+  - title: "Rewrite"
+    seasons:
+      - season: 1
+        anilist-id: 21382
+      - season: 2
+        anilist-id: 97665
   - title: "Rifle Is Beautiful"
     synonyms:
       - "Chidori RSC"
@@ -4357,6 +4470,12 @@ entries:
         anilist-id: 20657
       - season: 2
         anilist-id: 21180
+  - title: "Saga of Tanya the Evil"
+    synonyms:
+      - "Youjo Senki"
+    seasons:
+      - season: 1
+        anilist-id: 21613
   - title: "Sagrada Reset"
     synonyms:
       - "Sakurada Reset"
@@ -4460,6 +4579,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98503
+  - title: "Schoolgirl Strikers: Animation Channel"
+    synonyms:
+      - "Schoolgirl Strikers Animation Channel"
+    seasons:
+      - season: 1
+        anilist-id: 97776
   - title: "Science Fell in Love, So I Tried to Prove It"
     synonyms:
       - "Rikei ga Koi ni Ochita no de Shoumei shitemita."
@@ -4469,12 +4594,22 @@ entries:
         anilist-id: 107067
       - season: 2
         anilist-id: 125124
+  - title: "Scum's Wish"
+    synonyms:
+      - "Kuzu no Honkai"
+    seasons:
+      - season: 1
+        anilist-id: 21701
   - title: "Seirei Gensouki: Spirit Chronicles"
     synonyms:
       - "Seirei Gensouki"
     seasons:
       - season: 1
         anilist-id: 126546
+  - title: "Seiren"
+    seasons:
+      - season: 1
+        anilist-id: 97730
   - title: "Selection Project"
     synonyms:
       - "SELECTION PROJECT"
@@ -4619,6 +4754,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113476
+  - title: "Showa Genroku Rakugo Shinju"
+    synonyms:
+      - "Descending Stories: Showa Genroku Rakugo Shinju"
+      - "Shouwa Genroku Rakugo Shinjuu"
+    seasons:
+      - season: 1
+        anilist-id: 20972
+      - season: 2
+        anilist-id: 21733
   - title: "SING \"YESTERDAY\" FOR ME"
     synonyms:
       - "Sing Yesterday for Me"
@@ -4741,6 +4885,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108554
+  - title: "Spirit Blade Mountain"
+    synonyms:
+      - "Ling Jian Shan"
+      - "Lingjianshan"
+      - "Reikenzan: Hoshikuzu-tachi no Utage"
+    seasons:
+      - season: 1
+        anilist-id: 21497
+      - season: 2
+        anilist-id: 21744
   - title: "Spy Classroom"
     synonyms:
       - "Spy Kyoushitsu"
@@ -4842,6 +4996,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112818
+  - title: "Super Lovers"
+    synonyms:
+      - "SUPER LOVERS"
+    seasons:
+      - season: 1
+        anilist-id: 21177
+      - season: 2
+        anilist-id: 21836
   - title: "Superb Song of the Valkyries: Symphogear"
     synonyms:
       - "Senki Zesshou Symphogear"
@@ -4925,6 +5087,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 117343
+  - title: "Tales of Zestiria the X"
+    synonyms:
+      - "Tales of Zestiria the Cross"
+    seasons:
+      - season: 1
+        anilist-id: 21221
+      - season: 1
+        anilist-id: 97645
+        start: 14
   - title: "TAMAYOMI: The Baseball Girls"
     synonyms:
       - "Tamayomi"
@@ -5867,6 +6038,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98513
+  - title: "Urara Meirochou"
+    synonyms:
+      - "uramei"
+      - "Urara Meirocho"
+    seasons:
+      - season: 1
+        anilist-id: 21696
   - title: "Urusei Yatsura"
     synonyms:
       - "Urusei Yatsura (2022)"
@@ -6326,3 +6504,9 @@ entries:
         anilist-id: 116793
       - season: 4
         anilist-id: 126835
+  - title: "ēlDLIVE"
+    synonyms:
+      - "elDLIVE"
+    seasons:
+      - season: 1
+        anilist-id: 21677
