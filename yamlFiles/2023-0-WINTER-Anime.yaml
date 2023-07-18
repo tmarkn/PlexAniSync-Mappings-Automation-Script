@@ -258,11 +258,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 157883
-  - title: "Sorcerous Stabber Orphen: Chaos in Urbanrama"
+  - title: "Sorcerous Stabber Orphen (2020)"
     synonyms:
-      - "Majutsushi Orphen Hagure Tabi: Urbanrama-hen"
+      - "Majutsushi Orphen Hagure Tabi"
+      - "Sorcerous Stabber Orphen"
     seasons:
       - season: 1
+        anilist-id: 101367
+      - season: 2
+        anilist-id: 117085
+      - season: 3
         anilist-id: 155068
   - title: "Spy Classroom"
     synonyms:

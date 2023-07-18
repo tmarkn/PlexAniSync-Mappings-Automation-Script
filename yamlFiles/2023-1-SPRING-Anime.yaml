@@ -267,19 +267,18 @@ entries:
     seasons:
       - season: 1
         anilist-id: 141911
-  - title: "Sorcerous Stabber Orphen"
+  - title: "Sorcerous Stabber Orphen (2020)"
     synonyms:
       - "Majutsushi Orphen Hagure Tabi"
+      - "Sorcerous Stabber Orphen"
     seasons:
       - season: 1
         anilist-id: 101367
       - season: 2
-        anilist-id: 115651
-      - season: 3
         anilist-id: 117085
-      - season: 4
+      - season: 3
         anilist-id: 155068
-      - season: 5
+      - season: 4
         anilist-id: 163417
   - title: "Stella of the Theater: World Dai Star"
     synonyms:

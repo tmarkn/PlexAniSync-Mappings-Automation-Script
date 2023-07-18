@@ -438,9 +438,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101349
-  - title: "BACK ARROW"
+  - title: "Back Arrow"
     synonyms:
-      - "Back Arrow"
+      - "BACK ARROW"
     seasons:
       - season: 1
         anilist-id: 114307
@@ -896,8 +896,9 @@ entries:
         anilist-id: 100977
       - season: 2
         anilist-id: 108631
-  - title: "Cells at Work! CODE BLACK"
+  - title: "Cells at Work! Code Black"
     synonyms:
+      - "Cells at Work! CODE BLACK"
       - "Hataraku Saibou BLACK"
     seasons:
       - season: 1
@@ -1250,8 +1251,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101318
-  - title: "Dr. Ramune -Mysterious Disease Specialist-"
+  - title: "Dr. Ramune: Mysterious Disease Specialist"
     synonyms:
+      - "Dr. Ramune -Mysterious Disease Specialist-"
       - "Kai Byoui Ramune"
     seasons:
       - season: 1
@@ -1373,7 +1375,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 121645
-  - title: "EX-ARM"
+  - title: "Ex-Arm"
+    synonyms:
+      - "EX-ARM"
     seasons:
       - season: 1
         anilist-id: 106503
@@ -1808,8 +1812,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112748
-  - title: "Heaven’s Design Team"
+  - title: "Heaven's Design Team"
     synonyms:
+      - "Heaven’s Design Team"
       - "Tenchi Souzou Design-bu"
       - "Tendebu"
     seasons:
@@ -2254,8 +2259,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 117757
-  - title: "I★CHU"
+  - title: "I★Chu: Halfway Through the Idol"
     synonyms:
+      - "I★CHU"
       - "I★CHU: HALFWAY THROUGH THE IDOL"
     seasons:
       - season: 1
@@ -4112,9 +4118,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 124153
-  - title: "Skate-Leading Stars"
+  - title: "Skate-Leading☆Stars"
     synonyms:
-      - "Skate-Leading☆Stars"
+      - "Skate-Leading Stars"
     seasons:
       - season: 1
         anilist-id: 113585
@@ -4193,19 +4199,11 @@ entries:
       - season: 1
         anilist-id: 101367
       - season: 2
-        anilist-id: 115651
-      - season: 3
         anilist-id: 117085
+      - season: 3
+        anilist-id: 155068
       - season: 4
-        anilist-id: 155068
-      - season: 5
         anilist-id: 163417
-  - title: "Sorcerous Stabber Orphen: Chaos in Urbanrama"
-    synonyms:
-      - "Majutsushi Orphen Hagure Tabi: Urbanrama-hen"
-    seasons:
-      - season: 1
-        anilist-id: 155068
   - title: "Soul Hunter (2018)"
     synonyms:
       - "HAKYU HOSHIN ENGI"
@@ -4348,8 +4346,9 @@ entries:
         anilist-id: 21672
       - season: 5
         anilist-id: 21673
-  - title: "Suppose a Kid from the Last Dungeon Boonies moved to a starter town?"
+  - title: "Suppose a Kid From the Last Dungeon Boonies Moved to a Starter Town?"
     synonyms:
+      - "Suppose a Kid from the Last Dungeon Boonies moved to a starter town?"
       - "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari"
     seasons:
       - season: 1
@@ -5439,8 +5438,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 102680
-  - title: "WAVE!! -Let's go surfing!!- (TV)"
+  - title: "WAVE!!: Let's Go Surfing!!"
     synonyms:
+      - "WAVE!! -Let's go surfing!!- (TV)"
       - "WAVE!! Surfing Yappe!! (TV)"
     seasons:
       - season: 1
@@ -5508,13 +5508,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 100112
-  - title: "WIXOSS DIVA(A)LIVE"
+  - title: "Wixoss Diva(A)Live"
+    synonyms:
+      - "WIXOSS DIVA(A)LIVE"
     seasons:
       - season: 1
         anilist-id: 116944
-  - title: "WONDER EGG PRIORITY"
+  - title: "Wonder Egg Priority"
     synonyms:
-      - "Wonder Egg Priority"
+      - "WONDER EGG PRIORITY"
       - "WonEgg"
     seasons:
       - season: 1
