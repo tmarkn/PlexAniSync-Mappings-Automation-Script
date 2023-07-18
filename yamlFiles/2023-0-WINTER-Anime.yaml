@@ -28,17 +28,22 @@ entries:
         anilist-id: 103223
       - season: 4
         anilist-id: 141249
-  - title: "By the Grace of the Gods 2"
+  - title: "By the Grace of the Gods"
     synonyms:
-      - "Kami-tachi ni Hirowareta Otoko 2"
-      - "Kamitachi ni Hirowareta Otoko 2"
+      - "Kami-tachi ni Hirowareta Otoko"
+      - "Kamihiro"
+      - "Kamitachi ni Hirowareta Otoko"
+      - "The man picked up by the gods"
     seasons:
       - season: 1
+        anilist-id: 115740
+      - season: 2
         anilist-id: 135102
-  - title: "Campfire Cooking in Another World with my Absurd Skill"
+  - title: "Campfire Cooking in Another World With My Absurd Skills"
     synonyms:
-      - "Regarding the Display of an Outrageous Skill Which Has Incredible Powers"
+      - "Campfire Cooking in Another World with my Absurd Skill"
       - "Gourmet Adventure of Legendary Tamer"
+      - "Regarding the Display of an Outrageous Skill Which Has Incredible Powers"
       - "Tondemo Skill de Isekai Hourou Meshi"
     seasons:
       - season: 1
@@ -95,23 +100,25 @@ entries:
         anilist-id: 139212
       - season: 4
         anilist-id: 139213
-  - title: "Chillin’ in My 30s after Getting Fired from the Demon King’s Army"
+  - title: "Chillin' in My 30s after Getting Fired from the Demon King's Army"
     synonyms:
+      - "Chillin’ in My 30s after Getting Fired from the Demon King’s Army"
       - "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life"
     seasons:
       - season: 1
         anilist-id: 152523
-  - title: "D4DJ First Mix"
+  - title: "D4DJ"
     synonyms:
-      - "D4DJ"
+      - "D4DJ First Mix"
       - "Dig Delight Direct Drive DJ"
     seasons:
       - season: 1
         anilist-id: 115069
       - season: 2
         anilist-id: 147216
-  - title: "DON'T TOY WITH ME, MISS NAGATORO"
+  - title: "Don't Toy With Me, Miss Nagatoro"
     synonyms:
+      - "DON'T TOY WITH ME, MISS NAGATORO"
       - "Ijiranaide, Nagatoro-san"
     seasons:
       - season: 1
@@ -124,34 +131,54 @@ entries:
     seasons:
       - season: 1
         anilist-id: 143064
-  - title: "FLAGLIA"
-    synonyms:
-      - "FLAGLIA: Natsuyasumi No Monogatari"
-    seasons:
-      - season: 1
-        anilist-id: 155997
   - title: "Farming Life in Another World"
     synonyms:
       - "Isekai Nonbiri Nouka"
     seasons:
       - season: 1
         anilist-id: 146850
-  - title: "GIANT BEASTS OF ARS"
+  - title: "FLAGLIA : Story of Summer Vacation"
+    synonyms:
+      - "FLAGLIA"
+      - "FLAGLIA: Natsuyasumi No Monogatari"
+    seasons:
+      - season: 1
+        anilist-id: 155997
+  - title: "Giant Beasts of Ars"
     synonyms:
       - "Ars no Kyojuu"
+      - "GIANT BEASTS OF ARS"
     seasons:
       - season: 1
         anilist-id: 155089
-  - title: "HIGH CARD"
-    seasons:
-      - season: 1
-        anilist-id: 135778
   - title: "Handyman Saitou in Another World"
     synonyms:
       - "Benriya Saitou-san, Isekai ni Iku"
     seasons:
       - season: 1
         anilist-id: 144092
+  - title: "High Card"
+    synonyms:
+      - "HIGH CARD"
+    seasons:
+      - season: 1
+        anilist-id: 135778
+  - title: "Hirogaru Sky! Precure"
+    synonyms:
+      - "Hirogaru Sky! Pretty Cure"
+      - "Soaring Sky! Precure"
+      - "Soaring Sky! Pretty Cure"
+    seasons:
+      - season: 1
+        anilist-id: 157883
+  - title: "I'm Now Your Sister!"
+    synonyms:
+      - "Onii-chan is Done For!"
+      - "Onii-chan wa Oshimai!"
+      - "ONIMAI: I'm Now Your Sister!"
+    seasons:
+      - season: 1
+        anilist-id: 147864
   - title: "In/Spectre"
     synonyms:
       - "Kyokou Suiri"
@@ -209,24 +236,19 @@ entries:
     seasons:
       - season: 1
         anilist-id: 145665
-  - title: "Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World"
+  - title: "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World"
     synonyms:
       - "Apparently, Disillusioned Adventurers Will Save the World"
+      - "Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World"
       - "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"
     seasons:
       - season: 1
         anilist-id: 137909
-  - title: "ONIMAI: I'm Now Your Sister!"
+  - title: "Pokémon: Aim to Be a Pokémon Master"
     synonyms:
-      - "Onii-chan is Done For!"
-      - "Onii-chan wa Oshimai!"
-    seasons:
-      - season: 1
-        anilist-id: 147864
-  - title: "Pokémon: Aim to be a Pokémon Master"
-    synonyms:
-      - "Pokémon Ultimate Journeys: The Series Part 4"
       - "Pocket Monsters: Mezase Pokémon Master"
+      - "Pokémon Ultimate Journeys: The Series Part 4"
+      - "Pokémon: Aim to be a Pokémon Master"
     seasons:
       - season: 1
         anilist-id: 158870
@@ -250,14 +272,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 152765
-  - title: "Soaring Sky! Pretty Cure"
-    synonyms:
-      - "Hirogaru Sky! Pretty Cure"
-      - "Soaring Sky! Precure"
-      - "Hirogaru Sky! Precure"
-    seasons:
-      - season: 1
-        anilist-id: 157883
   - title: "Sorcerous Stabber Orphen (2020)"
     synonyms:
       - "Majutsushi Orphen Hagure Tabi"
@@ -280,12 +294,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 139821
-  - title: "TRIGUN STAMPEDE"
-    seasons:
-      - season: 1
-        anilist-id: 151040
-  - title: "Technoroid OVERMIND"
+  - title: "Technoroid: Overmind"
     synonyms:
+      - "Technoroid OVERMIND"
       - "TECHNOROID: OVERMIND"
     seasons:
       - season: 1
@@ -322,10 +333,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 148116
-  - title: "The Legend of Heroes: Trails of Cold Steel - Northern War"
+  - title: "The Legend of Heroes: Trails of Cold Steel – Northern War"
     synonyms:
       - "Eiyuu Densetsu: Sen no Kiseki - Northern War"
       - "The Legend of Heroes: Sen no Kiseki - Northern War"
+      - "The Legend of Heroes: Trails of Cold Steel - Northern War"
     seasons:
       - season: 1
         anilist-id: 130696
@@ -337,11 +349,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 153629
-  - title: "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants" 
+  - title: "The Misfit of Demon King Academy"
     synonyms:
       - "Maou Gakuin no Futekigousha"
-      - "The Misfit of Demon King Academy"
       - "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
+      - "The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants"
+      - "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants"
     seasons:
       - season: 1
         anilist-id: 112301
@@ -353,6 +366,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 144553
+  - title: "The Tale of the Outcasts"
+    synonyms:
+      - "Nokemono-tachi no Yoru"
+      - "The tale of outcasts"
+    seasons:
+      - season: 1
+        anilist-id: 151679
   - title: "The Vampire Dies in No Time"
     synonyms:
       - "Kyuuketsuki Sugu Shinu"
@@ -361,12 +381,6 @@ entries:
         anilist-id: 118103
       - season: 2
         anilist-id: 142914
-  - title: "The tale of outcasts"
-    synonyms:
-      - "Nokemono-tachi no Yoru"
-    seasons:
-      - season: 1
-        anilist-id: 151679
   - title: "Tokyo Revengers"
     seasons:
       - season: 1
@@ -380,6 +394,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 151806
+  - title: "TRIGUN STAMPEDE"
+    seasons:
+      - season: 1
+        anilist-id: 151040
   - title: "Tsurune"
     synonyms:
       - "Tsurune: Dangerous Shoot"

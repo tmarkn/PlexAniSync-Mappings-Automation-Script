@@ -774,12 +774,7 @@ entries:
     seasons:
       - season: 1
         anilist-id: 115740
-  - title: "By the Grace of the Gods 2"
-    synonyms:
-      - "Kami-tachi ni Hirowareta Otoko 2"
-      - "Kamitachi ni Hirowareta Otoko 2"
-    seasons:
-      - season: 1
+      - season: 2
         anilist-id: 135102
   - title: "Caligula"
     synonyms:
@@ -795,8 +790,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 141391
-  - title: "Campfire Cooking in Another World with my Absurd Skill"
+  - title: "Campfire Cooking in Another World With My Absurd Skills"
     synonyms:
+      - "Campfire Cooking in Another World with my Absurd Skill"
       - "Gourmet Adventure of Legendary Tamer"
       - "Regarding the Display of an Outrageous Skill Which Has Incredible Powers"
       - "Tondemo Skill de Isekai Hourou Meshi"
@@ -939,8 +935,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98449
-  - title: "Chillin’ in My 30s after Getting Fired from the Demon King’s Army"
+  - title: "Chillin' in My 30s after Getting Fired from the Demon King's Army"
     synonyms:
+      - "Chillin’ in My 30s after Getting Fired from the Demon King’s Army"
       - "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life"
     seasons:
       - season: 1
@@ -1485,8 +1482,9 @@ entries:
         anilist-id: 105310
       - season: 2
         anilist-id: 114236
-  - title: "FLAGLIA"
+  - title: "FLAGLIA : Story of Summer Vacation"
     synonyms:
+      - "FLAGLIA"
       - "FLAGLIA: Natsuyasumi No Monogatari"
     seasons:
       - season: 1
@@ -1633,9 +1631,10 @@ entries:
         anilist-id: 3579
       - season: 2
         anilist-id: 125640
-  - title: "GIANT BEASTS OF ARS"
+  - title: "Giant Beasts of Ars"
     synonyms:
       - "Ars no Kyojuu"
+      - "GIANT BEASTS OF ARS"
     seasons:
       - season: 1
         anilist-id: 155089
@@ -1889,7 +1888,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 114232
-  - title: "HIGH CARD"
+  - title: "High Card"
+    synonyms:
+      - "HIGH CARD"
     seasons:
       - season: 1
         anilist-id: 135778
@@ -1957,6 +1958,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 100990
+  - title: "Hirogaru Sky! Precure"
+    synonyms:
+      - "Hirogaru Sky! Pretty Cure"
+      - "Soaring Sky! Precure"
+      - "Soaring Sky! Pretty Cure"
+    seasons:
+      - season: 1
+        anilist-id: 157883
   - title: "Hitoribocchi no Marumaruseikatsu"
     synonyms:
       - "Bocchi Seikatsu"
@@ -2064,6 +2073,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 153845
+  - title: "I'm Now Your Sister!"
+    synonyms:
+      - "Onii-chan is Done For!"
+      - "Onii-chan wa Oshimai!"
+      - "ONIMAI: I'm Now Your Sister!"
+    seasons:
+      - season: 1
+        anilist-id: 147864
   - title: "I'm Quitting Heroing"
     synonyms:
       - "Yamemasu Tsugi No Shokuba Ha Mao Jo"
@@ -3349,10 +3366,11 @@ entries:
     seasons:
       - season: 2041
         anilist-id: 125868
-  - title: "Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World"
+  - title: "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World"
     synonyms:
       - "Apparently, Disillusioned Adventurers Will Save the World"
       - "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu"
+      - "Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World"
     seasons:
       - season: 1
         anilist-id: 137909
@@ -3416,13 +3434,6 @@ entries:
         anilist-id: 21087
       - season: 2
         anilist-id: 97668
-  - title: "ONIMAI: I'm Now Your Sister!"
-    synonyms:
-      - "Onii-chan is Done For!"
-      - "Onii-chan wa Oshimai!"
-    seasons:
-      - season: 1
-        anilist-id: 147864
   - title: "Opus.COLORs"
     seasons:
       - season: 1
@@ -3615,10 +3626,11 @@ entries:
         anilist-id: 112153
       - season: 20
         anilist-id: 158871
-  - title: "Pokémon: Aim to be a Pokémon Master"
+  - title: "Pokémon: Aim to Be a Pokémon Master"
     synonyms:
       - "Pocket Monsters: Mezase Pokémon Master"
       - "Pokémon Ultimate Journeys: The Series Part 4"
+      - "Pokémon: Aim to be a Pokémon Master"
     seasons:
       - season: 1
         anilist-id: 158870
@@ -4231,14 +4243,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 103632
-  - title: "Soaring Sky! Pretty Cure"
-    synonyms:
-      - "Hirogaru Sky! Precure"
-      - "Hirogaru Sky! Pretty Cure"
-      - "Soaring Sky! Precure"
-    seasons:
-      - season: 1
-        anilist-id: 157883
   - title: "Somali and the Forest Spirit"
     synonyms:
       - "Somali to Mori no Kamisama"
@@ -4491,8 +4495,9 @@ entries:
         anilist-id: 107068
       - season: 3
         anilist-id: 138424
-  - title: "Technoroid OVERMIND"
+  - title: "Technoroid: Overmind"
     synonyms:
+      - "Technoroid OVERMIND"
       - "TECHNOROID: OVERMIND"
     seasons:
       - season: 1
@@ -4834,10 +4839,11 @@ entries:
         anilist-id: 20458
       - season: 2
         anilist-id: 112300
-  - title: "The Legend of Heroes: Trails of Cold Steel - Northern War"
+  - title: "The Legend of Heroes: Trails of Cold Steel – Northern War"
     synonyms:
       - "Eiyuu Densetsu: Sen no Kiseki - Northern War"
       - "The Legend of Heroes: Sen no Kiseki - Northern War"
+      - "The Legend of Heroes: Trails of Cold Steel - Northern War"
     seasons:
       - season: 1
         anilist-id: 130696
@@ -5051,9 +5057,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129191
-  - title: "The tale of outcasts"
+  - title: "The Tale of the Outcasts"
     synonyms:
       - "Nokemono-tachi no Yoru"
+      - "The tale of outcasts"
     seasons:
       - season: 1
         anilist-id: 151679
