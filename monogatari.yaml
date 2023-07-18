@@ -1,0 +1,37 @@
+# This is the DVD order for the series
+entries:
+  - title: "Monogatari"
+    synonyms:
+      - "Bakemonogatari"
+      - "Monogatari Series"
+    seasons:
+      - season: 1
+        anilist-id: 5081 # Bakemonogatari
+      - season: 2
+        anilist-id: 11597 # Nisemonogatari
+      - season: 3
+        anilist-id: 15689 # Nekomonogatari (Kuro)
+      - season: 4
+        anilist-id: 20593 # Hanamonogatari
+      - season: 5
+        anilist-id: 17074 # Monogatari Series: Second Season
+      - season: 6
+        anilist-id: 20918 # Tsukimonogatari
+      - season: 7
+        anilist-id: 21262 # Owarimonogatari
+        start: 3
+      - season: 7
+        anilist-id: 21745 # Owarimonogatari Second Season (Ge)
+        start: 14
+      - season: 8
+        anilist-id: 21520 # Koyomimonogatari
+      - season: 9
+        anilist-id: 9260 # Kizumonogatari I: Tekketsu-hen
+      - season: 9
+        anilist-id: 21399 # Kizumonogatari II: Nekketsu-hen
+        start: 2
+      - season: 9
+        anilist-id: 21400 # Kizumonogatari III: Reiketsu-hen
+        start: 3
+      - season: 10
+        anilist-id: 100815 # Zoku Owarimonogatari

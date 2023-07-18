@@ -14,6 +14,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97604
+  - title: "18if"
+    seasons:
+      - season: 1
+        anilist-id: 98512
   - title: "2.43: Seiin High School Boys Volleyball Team"
     synonyms:
       - "2.43: Seiin Koukou Danshi Volley-bu"
@@ -35,6 +39,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 150909
+  - title: "7O3X Fastest Finger First"
+    synonyms:
+      - "Fastest Finger First"
+      - "Nana Maru San Batsu"
+    seasons:
+      - season: 1
+        anilist-id: 97979
   - title: "86: Eighty Six"
     synonyms:
       - "86"
@@ -46,6 +57,12 @@ entries:
       - season: 1
         anilist-id: 131586
         start: 12
+  - title: "A Centaur's Life"
+    synonyms:
+      - "Centaur no Nayami"
+    seasons:
+      - season: 1
+        anilist-id: 98519
   - title: "A Certain Magical Index"
     synonyms:
       - "Toaru Majutsu no Index"
@@ -149,6 +166,10 @@ entries:
         anilist-id: 21085
       - season: 3
         anilist-id: 105749
+  - title: "Action Heroine Cheer Fruits"
+    seasons:
+      - season: 1
+        anilist-id: 98149
   - title: "Actors: Songs Connection"
     synonyms:
       - "ACTORS: Songs Connection"
@@ -250,6 +271,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 144188
+  - title: "Altair: A Record of Battles"
+    synonyms:
+      - "Altair: Registro de Batalhas"
+      - "Project Altair"
+      - "Shoukoku no Altair"
+      - "The Stratocracy of Altair"
+    seasons:
+      - season: 1
+        anilist-id: 97984
   - title: "Am I Actually the Strongest?"
     synonyms:
       - "Jitsu wa Ore, Saikyou Deshita?"
@@ -271,6 +301,15 @@ entries:
         anilist-id: 21406
       - season: 2
         anilist-id: 100532
+  - title: "Angel's 3Piece!"
+    synonyms:
+      - "Tenshi no 3 Piece!"
+      - "Tenshi no 3-piece"
+      - "Tenshi no 3P!"
+      - "Tenshi no Three Piece!"
+    seasons:
+      - season: 1
+        anilist-id: 97683
   - title: "Angels of Death"
     synonyms:
       - "Angel of Massacre"
@@ -541,6 +580,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 126047
+  - title: "Battle Girl High School: Battle Girl Project"
+    synonyms:
+      - "Battle Girl High School"
+    seasons:
+      - season: 1
+        anilist-id: 21787
   - title: "Beast Tamer"
     synonyms:
       - "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
@@ -957,6 +1002,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99366
+  - title: "Chronos Ruler"
+    synonyms:
+      - "CHRONOS RULER"
+      - "Jikan no Shihaisha"
+    seasons:
+      - season: 1
+        anilist-id: 97939
   - title: "Cinderella Nine"
     synonyms:
       - "Hachigatsu no Cinderella Nine"
@@ -996,6 +1048,14 @@ entries:
         anilist-id: 98659
       - season: 2
         anilist-id: 145545
+  - title: "Clean Freak! Aoyama-kun"
+    synonyms:
+      - "Clean Freak! Aoyama kun"
+      - "Cleanliness Boy! Aoyama-kun"
+      - "Keppeki Danshi! Aoyama-kun"
+    seasons:
+      - season: 1
+        anilist-id: 98205
   - title: "Code: Realize − Guardian of Rebirth"
     synonyms:
       - "Code: Realize ~Guardian of Rebirth~"
@@ -1020,6 +1080,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101609
+  - title: "Convenience Store Boyfriends"
+    synonyms:
+      - "Convenience Store Boy Friends"
+      - "Konbini Kareshi"
+    seasons:
+      - season: 1
+        anilist-id: 98631
   - title: "Cop Craft"
     synonyms:
       - "Cop Craft: Dragnet Mirage Reloaded"
@@ -1205,6 +1272,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104750
+  - title: "DIVE!!"
+    seasons:
+      - season: 1
+        anilist-id: 97921
   - title: "Do It Yourself!!"
     synonyms:
       - "DIY!!"
@@ -1356,6 +1427,12 @@ entries:
         anilist-id: 119683
       - season: 2
         anilist-id: 144932
+  - title: "Elegant Yokai Apartment Life"
+    synonyms:
+      - "Youkai Apartment no Yuuga na Nichijou"
+    seasons:
+      - season: 1
+        anilist-id: 98501
   - title: "Encouragement of Climb"
     synonyms:
       - "Yama no Susume"
@@ -1458,6 +1535,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 146850
+  - title: "Fate/Apocrypha"
+    seasons:
+      - season: 1
+        anilist-id: 98035
   - title: "Fate/Extra: Last Encore"
     synonyms:
       - "Fate/EXTRA Last Encore"
@@ -1597,6 +1678,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 111323
+  - title: "Gamers!"
+    synonyms:
+      - "GAMERS!"
+      - "Gamers! Keita Amano and youth continue"
+    seasons:
+      - season: 1
+        anilist-id: 97766
   - title: "GARO -VANISHING LINE-"
     synonyms:
       - "Vanishing Line"
@@ -1860,6 +1948,19 @@ entries:
     seasons:
       - season: 1
         anilist-id: 145140
+  - title: "Hell Girl"
+    synonyms:
+      - "Jigoku Shojo"
+      - "Jigoku Shoujo"
+    seasons:
+      - season: 1
+        anilist-id: 228
+      - season: 2
+        anilist-id: 1594
+      - season: 3
+        anilist-id: 3713
+      - season: 4
+        anilist-id: 98379
   - title: "Hell's Paradise"
     synonyms:
       - "Hell’s Paradise"
@@ -1957,6 +2058,12 @@ entries:
         anilist-id: 20987
       - season: 2
         anilist-id: 98572
+  - title: "Hina Logic - from Luck & Logic"
+    synonyms:
+      - "Hina Logi: from Luck & Logic"
+    seasons:
+      - season: 1
+        anilist-id: 21738
   - title: "Hinamatsuri"
     synonyms:
       - "HINAMATSURI"
@@ -1985,6 +2092,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101386
+  - title: "Hitorijime My Hero"
+    synonyms:
+      - "My Very Own Hero"
+    seasons:
+      - season: 1
+        anilist-id: 87494
   - title: "Holmes of Kyoto"
     synonyms:
       - "Kyoto Teramachi Sanjou no Holmes"
@@ -2180,6 +2293,7 @@ entries:
     synonyms:
       - "In Another World With My Smartphone"
       - "Isekai wa Smartphone to Tomo ni."
+      - "IseSuma"
       - "Isesuma"
     seasons:
       - season: 1
@@ -2391,7 +2505,6 @@ entries:
   - title: "Kakegurui"
     synonyms:
       - "Kakegurui - Compulsive Gambler"
-      - "Kakegurui: Das Leben ist ein Spiel"
     seasons:
       - season: 1
         anilist-id: 98314
@@ -2440,6 +2553,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98747
+  - title: "Katsugeki Touken Ranbu"
+    synonyms:
+      - "Katsugeki TOUKEN RANBU"
+    seasons:
+      - season: 1
+        anilist-id: 21742
   - title: "Kedama no Gonjiro"
     synonyms:
       - "Kedama no Gonjirou"
@@ -2551,6 +2670,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 156896
+  - title: "Knight's & Magic"
+    synonyms:
+      - "Knight's and Magic"
+      - "Naitsuma"
+    seasons:
+      - season: 1
+        anilist-id: 97663
   - title: "Kochoki"
     synonyms:
       - "Kochoki: Wakaki Nobunaga"
@@ -2756,6 +2882,13 @@ entries:
         anilist-id: 21772
       - season: 2
         anilist-id: 98473
+  - title: "Love & Lies"
+    synonyms:
+      - "Koi to Uso"
+      - "LOVE and LIES"
+    seasons:
+      - season: 1
+        anilist-id: 98320
   - title: "Love After World Domination"
     synonyms:
       - "Koi wa Sekai Seifuku no Ato de"
@@ -2870,6 +3003,13 @@ entries:
         anilist-id: 117002
       - season: 3
         anilist-id: 136080
+  - title: "Magical Circle Guru Guru"
+    synonyms:
+      - "MAGICAL CIRCLE GURU-GURU"
+      - "Mahoujin Guru Guru (2017)"
+    seasons:
+      - season: 1
+        anilist-id: 98144
   - title: "Magical Destroyers"
     synonyms:
       - "Magical Girl Destroyers"
@@ -3089,6 +3229,45 @@ entries:
         anilist-id: 139274
       - season: 2
         anilist-id: 155158
+  - title: "Monogatari"
+    synonyms:
+      - "Bakemonogatari"
+      - "Monogatari Series"
+    seasons:
+      - season: 0
+        anilist-id: 9260
+        start: 2
+      - season: 0
+        anilist-id: 15689
+        start: 3
+      - season: 0
+        anilist-id: 20593
+        start: 10
+      - season: 0
+        anilist-id: 20918
+        start: 15
+      - season: 0
+        anilist-id: 21399
+        start: 19
+      - season: 0
+        anilist-id: 21400
+        start: 20
+      - season: 0
+        anilist-id: 21520
+        start: 21
+      - season: 0
+        anilist-id: 100815
+        start: 33
+      - season: 1
+        anilist-id: 5081
+      - season: 2
+        anilist-id: 11597
+      - season: 3
+        anilist-id: 17074
+      - season: 4
+        anilist-id: 21262
+      - season: 5
+        anilist-id: 21745
   - title: "Monster Girl Doctor"
     synonyms:
       - "Monster Musume no Oisha-san"
@@ -3216,6 +3395,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 132405
+  - title: "My First Girlfriend is a Gal"
+    synonyms:
+      - "First-Time Gal"
+      - "Hajimete no Gal"
+      - "Hajimete no Gyaru"
+      - "My First Gal"
+    seasons:
+      - season: 1
+        anilist-id: 97863
   - title: "My Girlfriend is Shobitch"
     synonyms:
       - "Boku no Kanojo ga Majime Sugiru Shoujo Bitch na Ken"
@@ -3369,6 +3557,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 136303
+  - title: "New Game!"
+    synonyms:
+      - "NEW GAME!"
+    seasons:
+      - season: 1
+        anilist-id: 21455
+      - season: 2
+        anilist-id: 98292
   - title: "NieR:Automata Ver1.1a"
     synonyms:
       - "NieR Automata Ver1.1a"
@@ -3688,6 +3884,10 @@ entries:
         anilist-id: 107871
       - season: 2
         anilist-id: 122808
+  - title: "Princess Principal"
+    seasons:
+      - season: 1
+        anilist-id: 98505
   - title: "Psycho-Pass"
     synonyms:
       - "PSYCHO-PASS"
@@ -3971,6 +4171,19 @@ entries:
     seasons:
       - season: 1
         anilist-id: 150972
+  - title: "Saiyuki"
+    synonyms:
+      - "Gensou Maden Saiyuuki"
+      - "Gensoumaden Saiyuki"
+    seasons:
+      - season: 1
+        anilist-id: 129
+      - season: 2
+        anilist-id: 130
+      - season: 3
+        anilist-id: 131
+      - season: 4
+        anilist-id: 87498
   - title: "Saiyuki Reload -Zeroin-"
     synonyms:
       - "Saiyuki RELOAD: ZEROIN"
@@ -5006,6 +5219,12 @@ entries:
         anilist-id: 103572
       - season: 2
         anilist-id: 109261
+  - title: "The Reflection"
+    synonyms:
+      - "THE REFLECTION WAVE ONE"
+    seasons:
+      - season: 1
+        anilist-id: 21461
   - title: "The Reincarnation of the Strongest Exorcist in Another World"
     synonyms:
       - "Saikyou Onmyouji no Isekai Tenseiki"
@@ -5436,6 +5655,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 109321
+  - title: "Vatican Miracle Examiner"
+    synonyms:
+      - "Bachikan Kiseki Chousaka"
+      - "Vatican Kiseki Chousakan"
+    seasons:
+      - season: 1
+        anilist-id: 97855
   - title: "Vazzrock the Animation"
     synonyms:
       - "VAZZROCK THE ANIMATION"
@@ -5577,6 +5803,12 @@ entries:
         anilist-id: 116338
       - season: 3
         anilist-id: 139092
+  - title: "Welcome to the Ballroom"
+    synonyms:
+      - "Ballroom e Youkoso"
+    seasons:
+      - season: 1
+        anilist-id: 98005
   - title: "When Will Ayumu Make His Move?"
     synonyms:
       - "Even so, Ayumu draws closer to the endgame"
