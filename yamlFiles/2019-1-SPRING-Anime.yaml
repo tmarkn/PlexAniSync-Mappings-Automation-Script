@@ -280,6 +280,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 19157
+      - season: 2
+        anilist-id: 19157
+      - season: 3
+        anilist-id: 19157
       - season: 4
         anilist-id: 101555
       - season: 5

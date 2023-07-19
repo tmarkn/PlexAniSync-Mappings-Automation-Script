@@ -24,22 +24,26 @@ def mergeYaml(directory: str) -> None:
             ## seasons
             newSeasons = {}
             for season in entry['seasons']:
+                ## look for start value
                 start = 1
                 if 'start' in season:
                     start = season['start']
+                ## make new season entry
                 seaEntry = SeasonEntry(season['anilist-id'], season['season'], start=start)
-                newSeasons[season['anilist-id']] = seaEntry
+                ## add to season dictionary
+                ## dictionary entry uses (seasonNum, anilist-id) as the key
+                ## this is for anilist entries that span multiple seasons as one
+                newSeasons[(season['season'], season['anilist-id'])] = seaEntry
             
             ## already exists
             if baseId in anilistEntries:
                 ## synonyms
                 if 'synonyms' in entry:
                     anilistEntries[baseId].synonyms |= set(entry['synonyms'])
-                ## delete title from synonyms if exists
+                ## combine synonyms
                 anilistEntries[baseId].synonyms.add(entry['title'])
-                anilistEntries[baseId].synonyms.discard(anilistEntries[baseId].title)
                 ## add seasons
-                anilistEntries[baseId].seasons = newSeasons
+                anilistEntries[baseId].seasons |= newSeasons
             ## doesn't exist ## create entry
             else:
                 ## synonymns
@@ -54,9 +58,11 @@ def mergeYaml(directory: str) -> None:
     ## sort seasons of titles
     for title in anilistEntries:
         alEntry = anilistEntries[title]
-
+        ## discard duplicate title in synonyms
+        alEntry.synonyms.discard(alEntry.title)
+        ## sort seasons
         newSeasons = {k:v for k, v in sorted(alEntry.seasons.items(), key=lambda x:(x[1].seasonNum, x[1].start, x[1].id))}
-
+        ## replace and append
         alEntry.seasons = newSeasons
         anilist.append(alEntry)
 

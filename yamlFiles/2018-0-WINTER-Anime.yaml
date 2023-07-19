@@ -82,6 +82,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 918
+      - season: 2
+        anilist-id: 918
+      - season: 3
+        anilist-id: 918
+      - season: 4
+        anilist-id: 918
       - season: 5
         anilist-id: 9969
       - season: 6

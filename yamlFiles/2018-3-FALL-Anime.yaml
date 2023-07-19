@@ -84,7 +84,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 6702
+      - season: 2
+        anilist-id: 6702
+      - season: 3
+        anilist-id: 6702
+      - season: 4
+        anilist-id: 6702
       - season: 5
+        anilist-id: 20626
+      - season: 6
+        anilist-id: 20626
+      - season: 7
         anilist-id: 20626
       - season: 8
         anilist-id: 99749

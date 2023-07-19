@@ -754,6 +754,36 @@ entries:
     seasons:
       - season: 1
         anilist-id: 269
+      - season: 2
+        anilist-id: 269
+      - season: 3
+        anilist-id: 269
+      - season: 4
+        anilist-id: 269
+      - season: 5
+        anilist-id: 269
+      - season: 6
+        anilist-id: 269
+      - season: 7
+        anilist-id: 269
+      - season: 8
+        anilist-id: 269
+      - season: 9
+        anilist-id: 269
+      - season: 10
+        anilist-id: 269
+      - season: 11
+        anilist-id: 269
+      - season: 12
+        anilist-id: 269
+      - season: 13
+        anilist-id: 269
+      - season: 14
+        anilist-id: 269
+      - season: 15
+        anilist-id: 269
+      - season: 16
+        anilist-id: 269
       - season: 17
         anilist-id: 116674
       - season: 17
@@ -1611,7 +1641,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 6702
+      - season: 2
+        anilist-id: 6702
+      - season: 3
+        anilist-id: 6702
+      - season: 4
+        anilist-id: 6702
       - season: 5
+        anilist-id: 20626
+      - season: 6
+        anilist-id: 20626
+      - season: 7
         anilist-id: 20626
       - season: 8
         anilist-id: 99749
@@ -1693,6 +1733,14 @@ entries:
       - "Furusato Saisei: Nippon no Mukashi Banashi"
     seasons:
       - season: 1
+        anilist-id: 13163
+      - season: 2
+        anilist-id: 13163
+      - season: 3
+        anilist-id: 13163
+      - season: 4
+        anilist-id: 13163
+      - season: 5
         anilist-id: 13163
       - season: 6
         anilist-id: 98751
@@ -1870,6 +1918,12 @@ entries:
       - "Gin Tama"
     seasons:
       - season: 1
+        anilist-id: 918
+      - season: 2
+        anilist-id: 918
+      - season: 3
+        anilist-id: 918
+      - season: 4
         anilist-id: 918
       - season: 5
         anilist-id: 9969
@@ -4063,9 +4117,29 @@ entries:
     seasons:
       - season: 1
         anilist-id: 527
+      - season: 2
+        anilist-id: 527
+      - season: 3
+        anilist-id: 527
+      - season: 4
+        anilist-id: 527
+      - season: 5
+        anilist-id: 527
       - season: 6
         anilist-id: 1564
+      - season: 7
+        anilist-id: 1564
+      - season: 8
+        anilist-id: 1564
+      - season: 9
+        anilist-id: 1564
       - season: 10
+        anilist-id: 1565
+      - season: 11
+        anilist-id: 1565
+      - season: 12
+        anilist-id: 1565
+      - season: 13
         anilist-id: 1565
       - season: 14
         anilist-id: 9107
@@ -4538,7 +4612,6 @@ entries:
         anilist-id: 140502
   - title: "Sanrio Boys"
     synonyms:
-      - "Sanrio Boys"
       - "Sanrio Danshi"
     seasons:
       - season: 1
@@ -6011,7 +6084,6 @@ entries:
     synonyms:
       - "Isekai Oji-san"
       - "Ojisan in Another World"
-      - "Uncle from Another World"
     seasons:
       - season: 1
         anilist-id: 135806
@@ -6354,6 +6426,10 @@ entries:
       - "Youkai Watch"
     seasons:
       - season: 1
+        anilist-id: 19157
+      - season: 2
+        anilist-id: 19157
+      - season: 3
         anilist-id: 19157
       - season: 4
         anilist-id: 101555
