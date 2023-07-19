@@ -1,6 +1,6 @@
 # PlexAniSync-Mappings Automation Script
 
-This is a web-scraping script for [custom-mappings](https://github.com/RickDB/PlexAniSync#custom-anime-mapping "custom-mappings") for the [PlexAniSync](https://github.com/RickDB/PlexAniSync "PlexAniSync") plex addon for [Anilist.co](https://anilist.co). Since there were no other automated tools to create custom mappings, I decided to create my own so I would not need to start from scratch every season.
+This is a Python script for [custom-mappings](https://github.com/RickDB/PlexAniSync#custom-anime-mapping "custom-mappings") for the [PlexAniSync](https://github.com/RickDB/PlexAniSync "PlexAniSync") plex addon for [Anilist.co](https://anilist.co). Since there were no other automated tools to create custom mappings, I decided to create my own so I would not need to start from scratch every season.
 
 The script is not 100% accurate with mappings and each mapping may need to be adjusted. This is meant to be a baseline to start from.
 
