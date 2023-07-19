@@ -440,10 +440,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108268
-      - season: 2
+      - season: 1
         anilist-id: 113693
-      - season: 3
+        start: 15
+      - season: 1
         anilist-id: 121176
+        start: 27
   - title: "Asobi Asobase - workshop of fun -"
     synonyms:
       - "Asobi Asobase"
@@ -2668,12 +2670,18 @@ entries:
         anilist-id: 14719
       - season: 2
         anilist-id: 20474
-      - season: 3
+      - season: 2
         anilist-id: 20799
-      - season: 4
+        start: 25
+      - season: 3
         anilist-id: 21450
-      - season: 5
+      - season: 4
         anilist-id: 102883
+      - season: 5
+        anilist-id: 131942
+      - season: 5
+        anilist-id: 146722
+        start: 13
   - title: "Jujutsu Kaisen"
     synonyms:
       - "JJK"
@@ -5283,8 +5291,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 131646
-      - season: 2
+      - season: 1
         anilist-id: 135136
+        start: 13
   - title: "The Dangers in My Heart"
     synonyms:
       - "Boku no Kokoro no Yabai Yatsu"

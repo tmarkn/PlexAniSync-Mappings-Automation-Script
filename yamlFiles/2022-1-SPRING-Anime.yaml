@@ -32,10 +32,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108268
-      - season: 2
+      - season: 1
         anilist-id: 113693
-      - season: 3
+        start: 15
+      - season: 1
         anilist-id: 121176
+        start: 27
   - title: "Birdie Wing -Golf Girls' Story-"
     synonyms:
       - "BIRDIE WING -Golf Girls' Story-"

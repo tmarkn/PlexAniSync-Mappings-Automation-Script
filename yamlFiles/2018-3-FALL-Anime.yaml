@@ -164,11 +164,12 @@ entries:
         anilist-id: 14719
       - season: 2
         anilist-id: 20474
-      - season: 3
+      - season: 2
         anilist-id: 20799
-      - season: 4
+        start: 25
+      - season: 3
         anilist-id: 21450
-      - season: 5
+      - season: 4
         anilist-id: 102883
   - title: "Karakuri Circus"
     seasons:

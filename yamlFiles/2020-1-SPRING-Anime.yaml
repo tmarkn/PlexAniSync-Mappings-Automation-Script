@@ -23,8 +23,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108268
-      - season: 2
+      - season: 1
         anilist-id: 113693
+        start: 15
   - title: "Bakugan"
     synonyms:
       - "Bakugan: Battle Planet"

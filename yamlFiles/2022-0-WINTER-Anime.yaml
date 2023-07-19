@@ -238,8 +238,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 131646
-      - season: 2
+      - season: 1
         anilist-id: 135136
+        start: 13
   - title: "The Genius Prince's Guide to Raising a Nation Out of Debt"
     synonyms:
       - "Tensai Ouji no Akaji Kokka Saisei Jutsu"

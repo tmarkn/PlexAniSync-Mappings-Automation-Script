@@ -136,6 +136,30 @@ entries:
         anilist-id: 112124
       - season: 4
         anilist-id: 129196
+  - title: "JoJo's Bizarre Adventure (2012)"
+    synonyms:
+      - "JoJo no Kimyou na Bouken (TV)"
+      - "JoJo's Bizarre Adventure: Phantom Blood"
+      - "JoJo's Bizarre Adventure: Battle Tendency"
+      - "JoJo no Kimyou na Bouken (TV)"
+      - "JoJo no Kimyou na Bouken: Sentou Chouryuu"
+    seasons:
+      - season: 1
+        anilist-id: 14719
+      - season: 2
+        anilist-id: 20474
+      - season: 2
+        anilist-id: 20799
+        start: 25
+      - season: 3
+        anilist-id: 21450
+      - season: 4
+        anilist-id: 102883
+      - season: 5
+        anilist-id: 131942
+      - season: 5
+        anilist-id: 146722
+        start: 13
   - title: "League of Nations Air Force Aviation Magic Band Luminous Witches"
     synonyms:
       - "Ongakutai Witches"
