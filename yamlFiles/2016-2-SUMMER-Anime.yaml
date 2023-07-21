@@ -1,0 +1,246 @@
+entries:
+  - title: "91 Days"
+    synonyms:
+      - "91Days"
+    seasons:
+      - season: 1
+        anilist-id: 21711
+  - title: "Active Raid"
+    synonyms:
+      - "Active Raid: Kidou Kyoushuushitsu Dai Hakkei"
+    seasons:
+      - season: 1
+        anilist-id: 21417
+      - season: 2
+        anilist-id: 21534
+  - title: "Alderamin on the Sky"
+    synonyms:
+      - "Nejimaki Seirei Senki: Tenkyou no Alderamin"
+    seasons:
+      - season: 1
+        anilist-id: 21410
+  - title: "Amanchu!"
+    seasons:
+      - season: 1
+        anilist-id: 21406
+  - title: "Ange Vierge"
+    seasons:
+      - season: 1
+        anilist-id: 21439
+  - title: "B-Project: Kodou*Ambitious"
+    synonyms:
+      - "B-PROJECT"
+      - "B-Project: Kodo Ambitious"
+      - "B-Project: Kodou Ambitious"
+      - "B-PROJECT: Kodou*Ambitious"
+    seasons:
+      - season: 1
+        anilist-id: 21751
+  - title: "Battery"
+    synonyms:
+      - "BATTERY the animation"
+    seasons:
+      - season: 1
+        anilist-id: 21702
+  - title: "Berserk (2016)"
+    synonyms:
+      - "Berserk"
+    seasons:
+      - season: 1
+        anilist-id: 21560
+  - title: "Cheer Boys!!"
+    synonyms:
+      - "Cheer Danshi!!"
+    seasons:
+      - season: 1
+        anilist-id: 21713
+  - title: "Cute High Earth Defense Club LOVE!"
+    synonyms:
+      - "Binan Koukou Chikyuu Bouei-bu LOVE!"
+    seasons:
+      - season: 1
+        anilist-id: 20877
+      - season: 2
+        anilist-id: 21293
+  - title: "D.Gray-man Hallow"
+    seasons:
+      - season: 1
+        anilist-id: 21558
+        start: 104
+  - title: "Danganronpa 3: The End of Hope's Peak Academy Side: Despair"
+    synonyms:
+      - "Danganronpa 3: The End of Hope's Peak High School - Despair Arc"
+      - "Danganronpa 3: The End of Hope’s Peak High School - Despair Arc"
+      - "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen"
+    seasons:
+      - season: 1
+        anilist-id: 21825
+  - title: "Danganronpa: The Animation"
+    synonyms:
+      - "Danganronpa: Academy of Hope and High School Students of Despair THE ANIMATION"
+      - "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation"
+    seasons:
+      - season: 1
+        anilist-id: 16592
+      - season: 2
+        anilist-id: 21509
+  - title: "DAYS"
+    seasons:
+      - season: 1
+        anilist-id: 21578
+  - title: "Fate/kaleid liner Prisma Illya"
+    seasons:
+      - season: 1
+        anilist-id: 14829
+      - season: 2
+        anilist-id: 20467
+      - season: 3
+        anilist-id: 20845
+      - season: 4
+        anilist-id: 21379
+  - title: "First Love Monster"
+    synonyms:
+      - "Hatsukoi Monster"
+    seasons:
+      - season: 1
+        anilist-id: 21242
+  - title: "Food Wars!"
+    synonyms:
+      - "Food Wars! The First Plate"
+      - "Shokugeki no Souma"
+    seasons:
+      - season: 1
+        anilist-id: 20923
+      - season: 2
+        anilist-id: 21518
+  - title: "Handa-kun"
+    seasons:
+      - season: 1
+        anilist-id: 21626
+  - title: "Hybrid x Heart Magias Academy Ataraxia"
+    synonyms:
+      - "Masou Gakuen HxH"
+    seasons:
+      - season: 1
+        anilist-id: 21378
+  - title: "Love Live! Sunshine!!"
+    seasons:
+      - season: 1
+        anilist-id: 21584
+  - title: "Mob Psycho 100"
+    seasons:
+      - season: 1
+        anilist-id: 21507
+  - title: "New Game!"
+    synonyms:
+      - "NEW GAME!"
+    seasons:
+      - season: 1
+        anilist-id: 21455
+  - title: "Orange"
+    synonyms:
+      - "orange"
+    seasons:
+      - season: 1
+        anilist-id: 21647
+  - title: "Puzzle & Dragons Cross"
+    synonyms:
+      - "PAD X"
+      - "Puzzle & Dragons X"
+      - "Puzzle and Dragons Cross"
+    seasons:
+      - season: 1
+        anilist-id: 21644
+  - title: "Qualidea Code"
+    seasons:
+      - season: 1
+        anilist-id: 21557
+  - title: "Regalia: The Three Sacred Stars"
+    seasons:
+      - season: 1
+        anilist-id: 21707
+  - title: "Rewrite"
+    seasons:
+      - season: 1
+        anilist-id: 21382
+  - title: "Sca-red Rider XechS"
+    synonyms:
+      - "Scared Rider XechS"
+    seasons:
+      - season: 1
+        anilist-id: 21747
+  - title: "Servamp"
+    synonyms:
+      - "SERVAMP"
+    seasons:
+      - season: 1
+        anilist-id: 21269
+  - title: "Sweetness & Lightning"
+    synonyms:
+      - "Amaama to Inazuma"
+      - "Sweetness and Lightning"
+    seasons:
+      - season: 1
+        anilist-id: 21659
+  - title: "Taboo Tattoo"
+    seasons:
+      - season: 1
+        anilist-id: 21031
+  - title: "Tales of Zestiria the X"
+    synonyms:
+      - "Tales of Zestiria the Cross"
+    seasons:
+      - season: 1
+        anilist-id: 21221
+  - title: "The Heroic Legend of Arslan (2015)"
+    synonyms:
+      - "Arslan Senki (TV)"
+      - "The Heroic Legend of Arslan"
+    seasons:
+      - season: 1
+        anilist-id: 20935
+      - season: 2
+        anilist-id: 21424
+  - title: "The Morose Mononokean"
+    synonyms:
+      - "Fukigen na Mononokean"
+    seasons:
+      - season: 1
+        anilist-id: 21643
+  - title: "The Seven Deadly Sins: Signs of Holy War"
+    synonyms:
+      - "Nanatsu no Taizai: Seisen no Shirushi"
+      - "The Seven Deadly Sins: Signs of A Holy War"
+    seasons:
+      - season: 1
+        anilist-id: 21385
+        start: 25
+  - title: "This Art Club Has a Problem!"
+    synonyms:
+      - "Kono Bijutsu-bu ni wa Mondai ga Aru!"
+      - "Konobi"
+    seasons:
+      - season: 1
+        anilist-id: 21457
+  - title: "Thunderbolt Fantasy"
+    synonyms:
+      - "Thunderbolt Fantasy: Sword Seekers"
+      - "Thunderbolt Fantasy: Sword Travels in the East"
+      - "Thunderbolt Fantasy: Touriken Yuuki"
+    seasons:
+      - season: 1
+        anilist-id: 98143
+  - title: "Time Travel Girl"
+    synonyms:
+      - "Mariwaka"
+      - "Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi"
+    seasons:
+      - season: 1
+        anilist-id: 21824
+  - title: "Tsukiuta. The Animation"
+    synonyms:
+      - "TSUKIUTA. The Animation"
+      - "Tsukiuta. THE ANIMATION"
+    seasons:
+      - season: 1
+        anilist-id: 20950

@@ -37,11 +37,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99131
-  - title: "Cute High Earth Defense Club HAPPY KISS!"
+  - title: "Cute High Earth Defense Club LOVE!"
     synonyms:
-      - "Binan Koukou Chikyuu Bouei-bu HAPPY KISS!"
+      - "Binan Koukou Chikyuu Bouei-bu LOVE!"
     seasons:
       - season: 1
+        anilist-id: 20877
+      - season: 2
+        anilist-id: 21293
+      - season: 3
         anilist-id: 101046
   - title: "Cutie Honey Universe"
     synonyms:
