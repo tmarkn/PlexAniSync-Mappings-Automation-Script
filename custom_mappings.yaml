@@ -221,6 +221,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101814
+  - title: "Age 12"
+    synonyms:
+      - "12-Sai."
+      - "12-sai.: Chiccha na Mune no Tokimeki"
+    seasons:
+      - season: 1
+        anilist-id: 21609
+      - season: 2
+        anilist-id: 21839
   - title: "Aguu: Genius Dolls"
     synonyms:
       - "Aguu: Tensai Ningyou"
@@ -258,6 +267,15 @@ entries:
         anilist-id: 21648
       - season: 2
         anilist-id: 98542
+  - title: "Ajin"
+    synonyms:
+      - "AJIN: Demi-Human"
+      - "AJIN: Semihumano"
+    seasons:
+      - season: 1
+        anilist-id: 21341
+      - season: 2
+        anilist-id: 21799
   - title: "Akashic Records of Bastard Magic Instructor"
     synonyms:
       - "RokuAka"
@@ -304,6 +322,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 144188
+  - title: "All Out!!"
+    synonyms:
+      - "ALL OUT!!"
+    seasons:
+      - season: 1
+        anilist-id: 21349
   - title: "Altair: A Record of Battles"
     synonyms:
       - "Altair: Registro de Batalhas"
@@ -644,6 +668,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21787
+  - title: "BBK/BRNK"
+    synonyms:
+      - "Bubuki Buranki"
+    seasons:
+      - season: 1
+        anilist-id: 21471
+      - season: 2
+        anilist-id: 21740
   - title: "Beast Tamer"
     synonyms:
       - "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
@@ -873,6 +905,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112443
+  - title: "Brave Witches"
+    seasons:
+      - season: 1
+        anilist-id: 20454
   - title: "Buddy Daddies"
     seasons:
       - season: 1
@@ -1396,6 +1432,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 137309
+  - title: "Digimon Universe App Monsters"
+    synonyms:
+      - "Digimon Universe: Appli Monsters"
+    seasons:
+      - season: 1
+        anilist-id: 21820
   - title: "Dimension High School"
     seasons:
       - season: 1
@@ -1499,6 +1541,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 114099
+  - title: "Drifters (2016)"
+    synonyms:
+      - "DRIFTERS"
+    seasons:
+      - season: 1
+        anilist-id: 21123
   - title: "Dropkick on My Devil!"
     synonyms:
       - "Drop Kick on My Devil!"
@@ -1730,6 +1778,12 @@ entries:
         anilist-id: 21746
       - season: 3
         anilist-id: 21748
+  - title: "Flip Flappers"
+    synonyms:
+      - "FLIP FLAPPERS"
+    seasons:
+      - season: 1
+        anilist-id: 21714
   - title: "Folktales from Japan"
     synonyms:
       - "Furusato Saisei: Nippon no Mukashi Banashi"
@@ -1950,6 +2004,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 126192
+  - title: "Girlish Number"
+    synonyms:
+      - "Gi(a)rlish Number"
+    seasons:
+      - season: 1
+        anilist-id: 21627
   - title: "Girls' Frontline (2022)"
     synonyms:
       - "Dolls' Frontline"
@@ -2180,6 +2240,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 138459
+  - title: "Heybot!"
+    seasons:
+      - season: 1
+        anilist-id: 21848
   - title: "Hi Score Girl"
     synonyms:
       - "High Score Girl"
@@ -2453,6 +2517,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97618
+  - title: "Idol Memories"
+    seasons:
+      - season: 1
+        anilist-id: 21872
   - title: "IDOLiSH7"
     seasons:
       - season: 1
@@ -2652,6 +2720,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 117757
+  - title: "Izetta, The Last Witch"
+    synonyms:
+      - "Izetta: The Last Witch"
+      - "Shuumatsu no Izetta"
+    seasons:
+      - season: 1
+        anilist-id: 21838
   - title: "I★Chu: Halfway Through the Idol"
     synonyms:
       - "I★CHU"
@@ -2743,6 +2818,18 @@ entries:
     seasons:
       - season: 1
         anilist-id: 144144
+  - title: "Kaitou Joker"
+    synonyms:
+      - "Mysterious Joker"
+    seasons:
+      - season: 1
+        anilist-id: 20818
+      - season: 2
+        anilist-id: 21004
+      - season: 3
+        anilist-id: 21427
+      - season: 4
+        anilist-id: 21859
   - title: "Kakegurui"
     synonyms:
       - "Kakegurui - Compulsive Gambler"
@@ -2814,6 +2901,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 109298
+  - title: "Keijo!!!!!!!!"
+    synonyms:
+      - "Hip Whip Girl"
+      - "Keijo"
+    seasons:
+      - season: 1
+        anilist-id: 21639
   - title: "Kemono Friends"
     seasons:
       - season: 1
@@ -2908,6 +3002,14 @@ entries:
         anilist-id: 108625
       - season: 3
         anilist-id: 113990
+  - title: "Kiss Him, Not Me"
+    synonyms:
+      - "WataMote"
+      - "Watashi ga Motete Dousunda"
+      - "WatashiMote"
+    seasons:
+      - season: 1
+        anilist-id: 21686
   - title: "Kiyo in Kyoto: From the Maiko House"
     synonyms:
       - "Maiko-san Chi no Makanai-san"
@@ -3128,6 +3230,10 @@ entries:
         anilist-id: 20671
       - season: 3
         anilist-id: 114862
+  - title: "Long Riders!"
+    seasons:
+      - season: 1
+        anilist-id: 21171
   - title: "Lord El-Melloi II Case Files Rail Zeppelin Grace Note"
     synonyms:
       - "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note"
@@ -3276,6 +3382,12 @@ entries:
         anilist-id: 117002
       - season: 3
         anilist-id: 136080
+  - title: "Magic of Stella"
+    synonyms:
+      - "Stella no Mahou"
+    seasons:
+      - season: 1
+        anilist-id: 21597
   - title: "Magical Circle Guru Guru"
     synonyms:
       - "MAGICAL CIRCLE GURU-GURU"
@@ -3297,6 +3409,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 100715
+  - title: "Magical Girl Raising Project"
+    synonyms:
+      - "Mahou Shoujo Ikusei Keikaku"
+    seasons:
+      - season: 1
+        anilist-id: 21340
   - title: "Magical Girl Site"
     synonyms:
       - "MAGICAL GIRL SITE"
@@ -3310,6 +3428,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 103222
+  - title: "Magic★Kyun! Renaissance"
+    synonyms:
+      - "Magic-Kyun! Renaissance"
+      - "Magic-kyun! Renaissance"
+    seasons:
+      - season: 1
+        anilist-id: 21850
   - title: "Major 2nd"
     synonyms:
       - "MAJOR 2nd"
@@ -3378,6 +3503,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 151801
+  - title: "Matoi The Sacred Slayer"
+    synonyms:
+      - "Matoi the Sacred Slayer"
+      - "Soushin Shoujo Matoi"
+    seasons:
+      - season: 1
+        anilist-id: 21873
   - title: "Mazica Party"
     synonyms:
       - "MAZICA PARTY"
@@ -3499,6 +3631,17 @@ entries:
         anilist-id: 101338
       - season: 3
         anilist-id: 140439
+  - title: "Mobile Suit Gundam: Iron-Blooded Orphans"
+    synonyms:
+      - "G-Tekketsu"
+      - "Gundam IBO"
+      - "Kidou Senshi Gundam: Tekketsu no Orphans"
+      - "Mobile Suit GUNDAM Iron Blooded Orphans"
+    seasons:
+      - season: 1
+        anilist-id: 21268
+      - season: 2
+        anilist-id: 21749
   - title: "Mobile Suit Gundam: The Origin - Advent of the Red Comet"
     synonyms:
       - "Kidou Senshi Gundam: THE ORIGIN - Zenya Akai Suisei"
@@ -3560,6 +3703,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113286
+  - title: "Monster Hunter Stories: Ride On"
+    synonyms:
+      - "Monster Hunter Stories: RIDE ON"
+    seasons:
+      - season: 1
+        anilist-id: 21363
   - title: "More Than a Married Couple, But Not Lovers"
     synonyms:
       - "Fuufu Ijou, Koibito Miman."
@@ -3832,6 +3981,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104212
+  - title: "Nanbaka"
+    synonyms:
+      - "Nambaka"
+      - "NANBAKA"
+    seasons:
+      - season: 1
+        anilist-id: 21051
+      - season: 2
+        anilist-id: 97875
   - title: "Natsume's Book of Friends"
     synonyms:
       - "Natsume Yujincho"
@@ -3928,6 +4086,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 105932
+  - title: "Occultic;Nine"
+    seasons:
+      - season: 1
+        anilist-id: 21708
   - title: "Oda Cinnamon Nobunaga"
     seasons:
       - season: 1
@@ -4118,6 +4280,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 100910
+  - title: "Poco's Udon World"
+    synonyms:
+      - "Udon no Kuni no Kiniro Kemari"
+    seasons:
+      - season: 1
+        anilist-id: 21631
   - title: "Pokémon"
     synonyms:
       - "Pocket Monsters"
@@ -4675,6 +4843,12 @@ entries:
         anilist-id: 107067
       - season: 2
         anilist-id: 125124
+  - title: "Scorching Ping Pong Girls"
+    synonyms:
+      - "Shakunetsu no Takkyuu Musume"
+    seasons:
+      - season: 1
+        anilist-id: 21715
   - title: "Scum's Wish"
     synonyms:
       - "Kuzu no Honkai"
@@ -4827,6 +5001,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 141775
+  - title: "Show By Rock!!"
+    synonyms:
+      - "SHOW BY ROCK!!"
+    seasons:
+      - season: 1
+        anilist-id: 20843
+      - season: 2
+        anilist-id: 21476
   - title: "Show by Rock!! Mashumairesh!!"
     seasons:
       - season: 1
@@ -4953,6 +5135,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99727
+  - title: "Sound! Euphonium"
+    synonyms:
+      - "Hibike! Euphonium"
+    seasons:
+      - season: 1
+        anilist-id: 20912
+      - season: 2
+        anilist-id: 21460
   - title: "Space Bug"
     synonyms:
       - "The Journey Home"
@@ -5460,6 +5650,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 132456
+  - title: "The Great Passage"
+    synonyms:
+      - "Fune wo Amu"
+    seasons:
+      - season: 1
+        anilist-id: 21703
   - title: "The Greatest Demon Lord Is Reborn as a Typical Nobody"
     synonyms:
       - "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru"
@@ -5847,6 +6043,10 @@ entries:
         anilist-id: 99557
       - season: 3
         anilist-id: 119806
+  - title: "Tiger Mask W"
+    seasons:
+      - season: 1
+        anilist-id: 21682
   - title: "Time Bokan 24"
     synonyms:
       - "Time Bokan Twenty Four"
@@ -5988,6 +6188,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 139804
+  - title: "Trickster"
+    synonyms:
+      - "TRICKSTER: Edogawa Ranpo \"Shounen Tantei-dan\" yori"
+    seasons:
+      - season: 1
+        anilist-id: 21832
   - title: "TRIGUN STAMPEDE"
     seasons:
       - season: 1
@@ -6133,6 +6339,20 @@ entries:
     seasons:
       - season: 1
         anilist-id: 143277
+  - title: "Uta no Prince Sama"
+    synonyms:
+      - "Uta no Prince-sama: Maji Love 1000%"
+      - "Uta no☆Prince-sama♪ Maji LOVE 1000%"
+      - "UtaPri"
+    seasons:
+      - season: 1
+        anilist-id: 10321
+      - season: 2
+        anilist-id: 12711
+      - season: 3
+        anilist-id: 20662
+      - season: 4
+        anilist-id: 21260
   - title: "Utawarerumono"
     seasons:
       - season: 1
@@ -6208,6 +6428,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 131584
+  - title: "ViVid Strike!"
+    seasons:
+      - season: 1
+        anilist-id: 21871
   - title: "Vivy: Fluorite Eye's Song"
     synonyms:
       - "Vivy -Fluorite Eye's Song-"
@@ -6397,6 +6621,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99578
+  - title: "WWW.WORKING!!"
+    synonyms:
+      - "WWW.WAGNARIA!!"
+    seasons:
+      - season: 1
+        anilist-id: 21764
   - title: "Xuan Yuan Sword Luminary"
     synonyms:
       - "Ken En Ken: Aoki Kagayaki"
@@ -6537,6 +6767,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 149028
+  - title: "Yuri!!! on Ice"
+    synonyms:
+      - "Yuri!!! on ICE"
+      - "Yuuri!!! on ICE"
+    seasons:
+      - season: 1
+        anilist-id: 21709
   - title: "Yuuna and the Haunted Hot Springs"
     synonyms:
       - "Yuragi-sou no Yuuna-san"

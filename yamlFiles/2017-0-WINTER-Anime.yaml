@@ -143,6 +143,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21776
+  - title: "Nanbaka"
+    synonyms:
+      - "Nambaka"
+      - "NANBAKA"
+    seasons:
+      - season: 1
+        anilist-id: 21051
+      - season: 2
+        anilist-id: 97875
   - title: "Onihei"
     synonyms:
       - "ONIHEI"
