@@ -439,6 +439,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 134732
+  - title: "AOKANA: Four Rhythm Across the Blue"
+    synonyms:
+      - "Ao no Kanata no Four Rhythm"
+      - "AoKana"
+    seasons:
+      - season: 1
+        anilist-id: 21319
   - title: "Appare-Ranman!"
     synonyms:
       - "Appare Ranman!"
@@ -514,6 +521,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101001
+  - title: "Assassination Classroom"
+    synonyms:
+      - "Ansatsu Kyoushitsu"
+    seasons:
+      - season: 1
+        anilist-id: 20755
+      - season: 2
+        anilist-id: 21170
   - title: "Assassins Pride"
     synonyms:
       - "Assassin's Pride"
@@ -1374,6 +1389,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 130997
+  - title: "Dagashi Kashi"
+    seasons:
+      - season: 1
+        anilist-id: 21365
+      - season: 2
+        anilist-id: 99734
   - title: "Dakaichi: I’m Being Harassed by the Sexiest Man of the Year"
     synonyms:
       - "DAKAICHI! -I'm being harassed by the sexiest man of the year"
@@ -1549,10 +1570,18 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104750
+  - title: "Dimension W"
+    seasons:
+      - season: 1
+        anilist-id: 21256
   - title: "DIVE!!"
     seasons:
       - season: 1
         anilist-id: 97921
+  - title: "Divine Gate"
+    seasons:
+      - season: 1
+        anilist-id: 21380
   - title: "Do It Yourself!!"
     synonyms:
       - "DIY!!"
@@ -1726,6 +1755,20 @@ entries:
         anilist-id: 153412
       - season: 8
         anilist-id: 163256
+  - title: "Durarara!!"
+    synonyms:
+      - "DRRR!!"
+    seasons:
+      - season: 1
+        anilist-id: 6746
+      - season: 2
+        anilist-id: 20652
+      - season: 2
+        anilist-id: 20879
+        start: 13
+      - season: 2
+        anilist-id: 20880
+        start: 25
   - title: "DYNAMIC CHORD"
     seasons:
       - season: 1
@@ -1784,6 +1827,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21512
+  - title: "Erased"
+    synonyms:
+      - "Boku dake ga Inai Machi"
+      - "Bokumachi"
+      - "ERASED"
+    seasons:
+      - season: 1
+        anilist-id: 21234
   - title: "Eromanga Sensei"
     synonyms:
       - "Ero Manga Sensei"
@@ -2082,6 +2133,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99796
+  - title: "GATE"
+    synonyms:
+      - "Gate"
+      - "GATE: Jieitai Kanochi nite, Kaku Tatakaeri"
+    seasons:
+      - season: 1
+        anilist-id: 20994
+      - season: 1
+        anilist-id: 21364
+        start: 13
   - title: "GeGeGe no Kitaro (2018)"
     synonyms:
       - "GeGeGe no Kitaro"
@@ -2167,6 +2228,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21627
+  - title: "Girls Beyond the Wasteland"
+    synonyms:
+      - "Girls beyond the youth KOYA"
+      - "Shokomeza"
+      - "Shoujo-tachi wa Kouya wo Mezasu"
+    seasons:
+      - season: 1
+        anilist-id: 21444
   - title: "Girls' Frontline (2022)"
     synonyms:
       - "Dolls' Frontline"
@@ -2235,6 +2304,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 100922
+  - title: "Grimgar of Fantasy and Ash"
+    synonyms:
+      - "Ashes and Illusions"
+      - "Grimgar"
+      - "Hai to Gensou no Grimgar"
+    seasons:
+      - season: 1
+        anilist-id: 21428
   - title: "Grimm's Notes The Animation"
     synonyms:
       - "Grimms Notes The Animation"
@@ -2326,6 +2403,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101351
+  - title: "Haruchika – Haruta & Chika"
+    synonyms:
+      - "Haruchika - Haruta & Chika"
+      - "Haruchika: Haruta to Chika wa Seishun Suru"
+    seasons:
+      - season: 1
+        anilist-id: 21213
   - title: "Harukana Receive"
     seasons:
       - season: 1
@@ -3535,6 +3619,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 144323
+  - title: "Luck & Logic"
+    seasons:
+      - season: 1
+        anilist-id: 21482
   - title: "Lupin III"
     synonyms:
       - "Lupin the 3rd"
@@ -3660,6 +3748,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21850
+  - title: "Maho Girls Precure!"
+    synonyms:
+      - "MahoPuri"
+      - "Mahoutsukai Precure!"
+      - "Witchy PreCure!"
+      - "Witchy Pretty Cure"
+    seasons:
+      - season: 1
+        anilist-id: 21506
   - title: "Major 2nd"
     synonyms:
       - "MAJOR 2nd"
@@ -4207,6 +4304,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 148465
+  - title: "Myriad Colors Phantom World"
+    synonyms:
+      - "Musaigen no Phantom World"
+    seasons:
+      - season: 1
+        anilist-id: 21306
   - title: "Namu Amida Butsu!: Rendai Utena"
     synonyms:
       - "Namu Amida Butsu!: Rendai UTENA"
@@ -4305,6 +4408,13 @@ entries:
         anilist-id: 20694
       - season: 3
         anilist-id: 109403
+  - title: "Norn9: Norn + Nonette"
+    synonyms:
+      - "Norn9"
+      - "NORN9: Norn + Nonet"
+    seasons:
+      - season: 1
+        anilist-id: 20643
   - title: "Number 24"
     synonyms:
       - "number 24"
@@ -4312,6 +4422,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108628
+  - title: "Nurse Witch Komugi R"
+    synonyms:
+      - "Nurse Witch KOMUGI R"
+      - "Nurse Witch Komugi-chan R"
+    seasons:
+      - season: 1
+        anilist-id: 21440
   - title: "O Maidens in Your Savage Season"
     synonyms:
       - "Araburu Kisetsu no Otome-domo yo."
@@ -4452,6 +4569,13 @@ entries:
         anilist-id: 101474
       - season: 4
         anilist-id: 133844
+  - title: "Pandora in the Crimson Shell"
+    synonyms:
+      - "Koukaku no Pandora"
+      - "Pandora in the Crimson Shell Ghost Urn"
+    seasons:
+      - season: 1
+        anilist-id: 21511
   - title: "Parallel World Pharmacy"
     synonyms:
       - "Isekai Yakkyoku"
@@ -4485,6 +4609,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 108358
+  - title: "Phantasy Star Online 2: The Animation"
+    synonyms:
+      - "Phantasy Star Online 2 The Animation"
+      - "PSO2 The Animation"
+    seasons:
+      - season: 1
+        anilist-id: 21264
   - title: "Phantom in the Twilight"
     seasons:
       - season: 1
@@ -4612,6 +4743,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 144509
+  - title: "Prince of Stride: Alternative"
+    seasons:
+      - season: 1
+        anilist-id: 21330
   - title: "Princess Connect! Re:Dive"
     synonyms:
       - "Priconne"
@@ -5105,6 +5240,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97776
+  - title: "Schwarzesmarken"
+    synonyms:
+      - "Muv-Luv Alternative: Schwarzesmarken"
+      - "Schwarzes Marken"
+    seasons:
+      - season: 1
+        anilist-id: 21201
   - title: "Science Fell in Love, So I Tried to Prove It"
     synonyms:
       - "Rikei ga Koi ni Ochita no de Shoumei shitemita."
@@ -5379,6 +5521,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 149874
+  - title: "Snow White with the Red Hair"
+    synonyms:
+      - "Akagami no Shirayuki-hime"
+    seasons:
+      - season: 1
+        anilist-id: 21058
+      - season: 1
+        anilist-id: 21258
+        start: 13
   - title: "So I'm a Spider, So What?"
     synonyms:
       - "Kumo desu ga, Nani ka?"
@@ -6676,6 +6827,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 162983
+  - title: "Undefeated Bahamut Chronicle"
+    synonyms:
+      - "Saijaku Muhai no Bahamut"
+    seasons:
+      - season: 1
+        anilist-id: 21188
   - title: "UniteUp!"
     seasons:
       - season: 1

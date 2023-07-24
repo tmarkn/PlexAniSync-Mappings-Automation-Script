@@ -1,0 +1,209 @@
+entries:
+  - title: "Active Raid"
+    synonyms:
+      - "Active Raid: Kidou Kyoushuushitsu Dai Hakkei"
+    seasons:
+      - season: 1
+        anilist-id: 21417
+  - title: "Ajin"
+    synonyms:
+      - "AJIN: Demi-Human"
+      - "AJIN: Semihumano"
+    seasons:
+      - season: 1
+        anilist-id: 21341
+  - title: "AOKANA: Four Rhythm Across the Blue"
+    synonyms:
+      - "Ao no Kanata no Four Rhythm"
+      - "AoKana"
+    seasons:
+      - season: 1
+        anilist-id: 21319
+  - title: "Assassination Classroom"
+    synonyms:
+      - "Ansatsu Kyoushitsu"
+    seasons:
+      - season: 1
+        anilist-id: 20755
+      - season: 2
+        anilist-id: 21170
+  # This entry isn't in thetvdb
+  # - title: "Bary-san no Shokoku Manyuuki"
+  #   seasons:
+  #     - season: 1
+  #       anilist-id: 115200
+  - title: "BBK/BRNK"
+    synonyms:
+      - "Bubuki Buranki"
+    seasons:
+      - season: 1
+        anilist-id: 21471
+  - title: "Dagashi Kashi"
+    seasons:
+      - season: 1
+        anilist-id: 21365
+  - title: "Dimension W"
+    seasons:
+      - season: 1
+        anilist-id: 21256
+  - title: "Divine Gate"
+    seasons:
+      - season: 1
+        anilist-id: 21380
+  - title: "Durarara!!"
+    synonyms:
+      - "DRRR!!"
+    seasons:
+      - season: 1
+        anilist-id: 6746
+      - season: 2
+        anilist-id: 20652
+      - season: 2
+        anilist-id: 20879
+        start: 13
+      - season: 2
+        anilist-id: 20880
+        start: 25
+  - title: "Erased"
+    synonyms:
+      - "Boku dake ga Inai Machi"
+      - "Bokumachi"
+      - "ERASED"
+    seasons:
+      - season: 1
+        anilist-id: 21234
+  - title: "GATE"
+    synonyms:
+      - "Gate"
+      - "GATE: Jieitai Kanochi nite, Kaku Tatakaeri"
+    seasons:
+      - season: 1
+        anilist-id: 20994
+      - season: 1
+        anilist-id: 21364
+        start: 13
+  - title: "Girls Beyond the Wasteland"
+    synonyms:
+      - "Girls beyond the youth KOYA"
+      - "Shokomeza"
+      - "Shoujo-tachi wa Kouya wo Mezasu"
+    seasons:
+      - season: 1
+        anilist-id: 21444
+  - title: "Grimgar of Fantasy and Ash"
+    synonyms:
+      - "Ashes and Illusions"
+      - "Grimgar"
+      - "Hai to Gensou no Grimgar"
+    seasons:
+      - season: 1
+        anilist-id: 21428
+  - title: "Haruchika – Haruta & Chika"
+    synonyms:
+      - "Haruchika - Haruta & Chika"
+      - "Haruchika: Haruta to Chika wa Seishun Suru"
+    seasons:
+      - season: 1
+        anilist-id: 21213
+  - title: "KonoSuba – God's blessing on this wonderful world!!"
+    synonyms:
+      - "Kono Subarashii Sekai ni Shukufuku wo!"
+      - "Kono Subarashii Sekai ni Syukufuku wo!"
+      - "Konosuba"
+      - "KONOSUBA -God's blessing on this wonderful world!"
+    seasons:
+      - season: 1
+        anilist-id: 21202
+  - title: "Luck & Logic"
+    seasons:
+      - season: 1
+        anilist-id: 21482
+  - title: "Maho Girls Precure!"
+    synonyms:
+      - "MahoPuri"
+      - "Mahoutsukai Precure!"
+      - "Witchy PreCure!"
+      - "Witchy Pretty Cure"
+    seasons:
+      - season: 1
+        anilist-id: 21506
+  - title: "Myriad Colors Phantom World"
+    synonyms:
+      - "Musaigen no Phantom World"
+    seasons:
+      - season: 1
+        anilist-id: 21306
+  - title: "Norn9: Norn + Nonette"
+    synonyms:
+      - "Norn9"
+      - "NORN9: Norn + Nonet"
+    seasons:
+      - season: 1
+        anilist-id: 20643
+  - title: "Nurse Witch Komugi R"
+    synonyms:
+      - "Nurse Witch KOMUGI R"
+      - "Nurse Witch Komugi-chan R"
+    seasons:
+      - season: 1
+        anilist-id: 21440
+  - title: "Pandora in the Crimson Shell"
+    synonyms:
+      - "Koukaku no Pandora"
+      - "Pandora in the Crimson Shell Ghost Urn"
+    seasons:
+      - season: 1
+        anilist-id: 21511
+  - title: "Phantasy Star Online 2: The Animation"
+    synonyms:
+      - "Phantasy Star Online 2 The Animation"
+      - "Phantasy Star Online 2: The Animation"
+      - "PSO2 The Animation"
+    seasons:
+      - season: 1
+        anilist-id: 21264
+  - title: "Prince of Stride: Alternative"
+    seasons:
+      - season: 1
+        anilist-id: 21330
+  - title: "Rilu Rilu Fairilu: Yousei no Door"
+    seasons:
+      - season: 1
+        anilist-id: 21553
+  - title: "Schwarzesmarken"
+    synonyms:
+      - "Muv-Luv Alternative: Schwarzesmarken"
+      - "Schwarzes Marken"
+    seasons:
+      - season: 1
+        anilist-id: 21201
+  - title: "Showa Genroku Rakugo Shinju"
+    synonyms:
+      - "Descending Stories: Showa Genroku Rakugo Shinju"
+      - "Shouwa Genroku Rakugo Shinjuu"
+    seasons:
+      - season: 1
+        anilist-id: 20972
+  - title: "Snow White with the Red Hair"
+    synonyms:
+      - "Akagami no Shirayuki-hime"
+    seasons:
+      - season: 1
+        anilist-id: 21058
+      - season: 1
+        anilist-id: 21258
+        start: 13
+  - title: "Spirit Blade Mountain"
+    synonyms:
+      - "Ling Jian Shan"
+      - "Lingjianshan"
+      - "Reikenzan: Hoshikuzu-tachi no Utage"
+    seasons:
+      - season: 1
+        anilist-id: 21497
+  - title: "Undefeated Bahamut Chronicle"
+    synonyms:
+      - "Saijaku Muhai no Bahamut"
+    seasons:
+      - season: 1
+        anilist-id: 21188

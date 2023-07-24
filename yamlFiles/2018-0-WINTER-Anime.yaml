@@ -64,6 +64,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99423
+  - title: "Dagashi Kashi"
+    seasons:
+      - season: 1
+        anilist-id: 21365
+      - season: 2
+        anilist-id: 99734
   - title: "Death March to the Parallel World Rhapsody"
     synonyms:
       - "Death March Kara Hajimaru Isekai Kyousoukyoku"
