@@ -26,6 +26,31 @@ entries:
         anilist-id: 140660
       - season: 2
         anilist-id: 158895
+  - title: "Attack on Titan"
+    synonyms:
+      - "AoT"
+      - "Shingeki no Kyojin"
+    seasons:
+      - season: 1
+        anilist-id: 16498
+      - season: 2
+        anilist-id: 20958
+      - season: 3
+        anilist-id: 99147
+      - season: 3
+        anilist-id: 104578
+        start: 13
+      - season: 4
+        anilist-id: 110277
+      - season: 4
+        anilist-id: 131681
+        start: 17
+      - season: 4
+        anilist-id: 146984
+        start: 29
+      - season: 4
+        anilist-id: 162314
+        start: 30
   - title: "B-Project: Kodou*Ambitious"
     synonyms:
       - "B-PROJECT"
