@@ -8,6 +8,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 153332
+  - title: "'Tis Time for \"Torture,\" Princess"
+    synonyms:
+      - "Hime-sama, \"Goumon\" no Jikan desu"
+    seasons:
+      - season: 1
+        anilist-id: 166522
   - title: "100 Sleeping Princes & the Kingdom of Dreams"
     synonyms:
       - "Yume Oukoku to Nemureru 100-nin no Ouji-sama"
@@ -52,6 +58,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97979
+  - title: "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!"
+    synonyms:
+      - "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru"
+    seasons:
+      - season: 1
+        anilist-id: 168374
   - title: "86: Eighty Six"
     synonyms:
       - "86"
@@ -144,6 +156,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 161364
+  - title: "A Sign of Affection"
+    synonyms:
+      - "Yubisaki to Renren"
+    seasons:
+      - season: 1
+        anilist-id: 166794
   - title: "A Sister's All You Need"
     synonyms:
       - "A Sister's All You Need."
@@ -722,6 +740,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 126213
+      - season: 2
+        anilist-id: 156131
   - title: "Basilisk"
     synonyms:
       - "Basilisk: Koga Nimpo Cho"
@@ -958,6 +978,8 @@ entries:
         anilist-id: 9919
       - season: 2
         anilist-id: 21861
+      - season: 3
+        anilist-id: 158931
   - title: "Blue Lock"
     synonyms:
       - "BLUELOCK"
@@ -1010,10 +1032,25 @@ entries:
     seasons:
       - season: 1
         anilist-id: 112443
+      - season: 2
+        anilist-id: 143866
+  - title: "Brave Bang Bravern!"
+    synonyms:
+      - "Bang Brave Bang Bravern"
+      - "Yuuki Bakuhatsu Bang Bravern "
+    seasons:
+      - season: 1
+        anilist-id: 165598
   - title: "Brave Witches"
     seasons:
       - season: 1
         anilist-id: 20454
+  - title: "Bucchigiri?!"
+    synonyms:
+      - "BUCCHIGIRI?!"
+    seasons:
+      - season: 1
+        anilist-id: 165254
   - title: "Buddy Daddies"
     seasons:
       - season: 1
@@ -1183,6 +1220,8 @@ entries:
         anilist-id: 139213
       - season: 5
         anilist-id: 150970
+      - season: 6
+        anilist-id: 164204
   - title: "Carole & Tuesday"
     synonyms:
       - "C&T"
@@ -1240,6 +1279,16 @@ entries:
     seasons:
       - season: 1
         anilist-id: 20986
+  - title: "Chained Soldier"
+    synonyms:
+      - "Demon Slave"
+      - "Mabotai"
+      - "Mato Seihei no Slave"
+      - "Slave of the Hell Soldiers"
+      - "Slave of the Magic Capital's Elite Troops"
+    seasons:
+      - season: 1
+        anilist-id: 141821
   - title: "Chainsaw Man"
     seasons:
       - season: 1
@@ -1250,6 +1299,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21713
+  - title: "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (2024)"
+    synonyms:
+      - "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii"
+      - "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!"
+    seasons:
+      - season: 1
+        anilist-id: 167087
   - title: "Chihayafuru"
     synonyms:
       - "Chihayafull"
@@ -1338,6 +1394,8 @@ entries:
         anilist-id: 98659
       - season: 2
         anilist-id: 145545
+      - season: 3
+        anilist-id: 146066
   - title: "Clean Freak! Aoyama-kun"
     synonyms:
       - "Clean Freak! Aoyama kun"
@@ -1547,6 +1605,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 136947
+  - title: "Delicious in Dungeon"
+    synonyms:
+      - "Dungeon Food"
+      - "Dungeon Meal"
+      - "Dungeon Meshi"
+    seasons:
+      - season: 1
+        anilist-id: 153518
   - title: "Delicious Party♡Pretty Cure"
     synonyms:
       - "Delicious Party Pretty Cure"
@@ -1557,6 +1623,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 142080
+  - title: "Delusional Monthly Magazine"
+    synonyms:
+      - "Gekkan Mousou Kagaku"
+      - "Monthly MOSO-Science"
+    seasons:
+      - season: 1
+        anilist-id: 169418
   - title: "Demon Lord, Retry!"
     synonyms:
       - "Maou-sama, Retry!"
@@ -1648,6 +1721,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 104723
+  - title: "Doctor Elise: The Royal Lady with the Lamp"
+    synonyms:
+      - "Gekai Elise"
+      - "Oegwauisa Elise"
+      - "Surgeon Elise"
+    seasons:
+      - season: 1
+        anilist-id: 162144
   - title: "Dog Signal"
     synonyms:
       - " "
@@ -2444,6 +2525,15 @@ entries:
         anilist-id: 98479
       - season: 2
         anilist-id: 102974
+  - title: "Gushing Over Magical Girls"
+    synonyms:
+      - "I Admire Magical Girls, and..."
+      - "Looking up to Magical Girls"
+      - "Mahoako"
+      - "Mahou Shoujo ni Akogarete"
+    seasons:
+      - season: 1
+        anilist-id: 162780
   - title: "Haikyu!!"
     synonyms:
       - "HAIKYU!!"
@@ -2615,6 +2705,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 135778
+      - season: 2
+        anilist-id: 163151
   - title: "High School D×D"
     synonyms:
       - "High School DxD"
@@ -2717,6 +2809,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 87494
+  - title: "Hokkaido Gals Are Super Adorable!"
+    synonyms:
+      - "Dosakoi"
+      - "Dosanko Gal wa Namaramenkoi"
+      - "Dosanko Gyaru Is Mega Cute"
+      - "Dosanko Gyaru wa Namaramenkoi"
+    seasons:
+      - season: 1
+        anilist-id: 155963
   - title: "Holmes of Kyoto"
     synonyms:
       - "Kyoto Teramachi Sanjou no Holmes"
@@ -3093,6 +3194,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101547
+  - title: "Ishura"
+    synonyms:
+      - "ISHURA"
+    seasons:
+      - season: 1
+        anilist-id: 161476
   - title: "ISLAND"
     synonyms:
       - "Island"
@@ -3375,6 +3482,8 @@ entries:
         anilist-id: 113108
       - season: 4
         anilist-id: 140350
+      - season: 5
+        anilist-id: 155227
   - title: "Kino's Journey: The Beautiful World"
     synonyms:
       - "Kino no Tabi -the Beautiful World- the Animated Series"
@@ -3948,6 +4057,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 151801
+      - season: 2
+        anilist-id: 166610
   - title: "Matoi The Sacred Slayer"
     synonyms:
       - "Matoi the Sacred Slayer"
@@ -3977,6 +4088,10 @@ entries:
         anilist-id: 87502
       - season: 2
         anilist-id: 142541
+  - title: "Meiji Gekken: 1874"
+    seasons:
+      - season: 1
+        anilist-id: 171144
   - title: "Meiji Tokyo Renka"
     synonyms:
       - "Meikoi"
@@ -3989,6 +4104,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101125
+  - title: "Metallic Rouge"
+    seasons:
+      - season: 1
+        anilist-id: 162985
   - title: "Mewkledreamy"
     seasons:
       - season: 1
@@ -4225,6 +4344,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101161
+  - title: "Mr. Villain's Day Off"
+    synonyms:
+      - "Kyuujitsu no Warumono-san"
+      - "Villain-san's Day Off"
+    seasons:
+      - season: 1
+        anilist-id: 162002
   - title: "Ms. Koizumi Loves Ramen Noodles (2019)"
     synonyms:
       - "Ms. Koizumi Loves Ramen Noodles"
@@ -4349,6 +4475,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 151189
+  - title: "My Instant Death Ability is Overpowered"
+    synonyms:
+      - "My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!"
+      - "Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga."
+    seasons:
+      - season: 1
+        anilist-id: 158028
   - title: "My Isekai Life"
     synonyms:
       - "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!"
@@ -4882,6 +5015,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 137312
+  - title: "Pon no Michi"
+    seasons:
+      - season: 1
+        anilist-id: 165314
   - title: "Pop Team Epic"
     synonyms:
       - "Poptepipic"
@@ -5380,6 +5517,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 126288
+  - title: "Sasaki and Peeps"
+    synonyms:
+      - "Sasaki to Pii-chan"
+      - "SasaPi"
+    seasons:
+      - season: 1
+        anilist-id: 152682
   - title: "Saving 80,000 Gold in Another World for My Retirement"
     synonyms:
       - "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu"
@@ -5469,6 +5613,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98603
+  - title: "Sengoku Youko"
+    seasons:
+      - season: 1
+        anilist-id: 168194
   - title: "Senran Kagura"
     synonyms:
       - "Senran Kagura: Ninja Flash!"
@@ -5539,6 +5687,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 119675
+      - season: 2
+        anilist-id: 147850
   - title: "Shangri-La Frontier"
     synonyms:
       - "ShanFro"
@@ -5711,6 +5861,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 149874
+  - title: "Snack Basue"
+    seasons:
+      - season: 1
+        anilist-id: 166093
   - title: "Snow White with the Red Hair"
     synonyms:
       - "Akagami no Shirayuki-hime"
@@ -5726,6 +5880,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 103632
+  - title: "Solo Leveling"
+    synonyms:
+      - "Na Honjaman Level Up"
+      - "Ore dake Level Up na Ken"
+    seasons:
+      - season: 1
+        anilist-id: 151807
   - title: "Somali and the Forest Spirit"
     synonyms:
       - "Somali to Mori no Kamisama"
@@ -5971,6 +6132,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 154643
+      - season: 1
+        anilist-id: 169559
+        start: 13
   - title: "Taboo Tattoo"
     seasons:
       - season: 1
@@ -6002,6 +6166,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 117343
+  - title: "Tales of Wedding Rings"
+    synonyms:
+      - "Kekkon Yubiwa Monogatari"
+    seasons:
+      - season: 1
+        anilist-id: 160389
   - title: "Tales of Zestiria the X"
     synonyms:
       - "Tales of Zestiria the Cross"
@@ -6180,6 +6350,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 153152
+      - season: 2
+        anilist-id: 166216
   - title: "The Dawn of the Witch"
     synonyms:
       - "Mahoutsukai Reimeiki"
@@ -6202,6 +6374,12 @@ entries:
         anilist-id: 107490
       - season: 2
         anilist-id: 123330
+  - title: "The Demon Prince of Momochi House"
+    synonyms:
+      - "Momochi-san Chi no Ayakashi Ouji"
+    seasons:
+      - season: 1
+        anilist-id: 167146
   - title: "The Detective Is Already Dead"
     synonyms:
       - "Tanmoshi"
@@ -6295,6 +6473,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 125869
+      - season: 2
+        anilist-id: 162842
+  - title: "The Foolish Angel Dances with the Devil"
+    synonyms:
+      - "Oroka na Tenshi wa Akuma to Odoru"
+      - "Stupid angel dances with the devil"
+    seasons:
+      - season: 1
+        anilist-id: 164244
   - title: "The Fruit of Evolution: Before I Knew It, My Life Had It Made"
     synonyms:
       - "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei"
@@ -6724,6 +6911,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129191
+  - title: "The Strongest Tank's Labyrinth Raids"
+    synonyms:
+      - "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou Sareru"
+      - "The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party-"
+    seasons:
+      - season: 1
+        anilist-id: 169935
   - title: "The Tale of the Outcasts"
     synonyms:
       - "Nokemono-tachi no Yoru"
@@ -6752,6 +6946,18 @@ entries:
     seasons:
       - season: 1
         anilist-id: 159808
+  - title: "The Weakest Tamer Began a Journey to Pick Up Trash"
+    synonyms:
+      - "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita."
+    seasons:
+      - season: 1
+        anilist-id: 156891
+  - title: "The Witch and the Beast"
+    synonyms:
+      - "Majo to Yajuu"
+    seasons:
+      - season: 1
+        anilist-id: 153818
   - title: "The World Ends With You: The Animation"
     synonyms:
       - "Subarashiki Kono Sekai The Animation"
@@ -6767,6 +6973,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 129898
+  - title: "The Wrong Way To Use Healing Magic"
+    synonyms:
+      - "Chiyu Mahou no Machigatta Tsukaikata"
+      - "Penggunaan Sihir Penyembuh yang Keliru"
+      - "The Wrong Way to Use Healing Magic"
+    seasons:
+      - season: 1
+        anilist-id: 137908
   - title: "The Yakuza's Guide to Babysitting"
     synonyms:
       - "Kumichou Musume to Sewagakari"
@@ -6997,6 +7211,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 125206
+      - season: 2
+        anilist-id: 139518
   - title: "TsukiPro the Animation"
     synonyms:
       - "TSUKIPRO THE ANIMATION"
@@ -7132,6 +7348,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 143277
+      - season: 2
+        anilist-id: 155645
   - title: "Ushio and Tora (2015)"
     synonyms:
       - "Ushio and Tora"
@@ -7207,6 +7425,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 146210
+  - title: "Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord"
+    synonyms:
+      - "Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen"
+    seasons:
+      - season: 1
+        anilist-id: 163076
   - title: "Vinland Saga"
     synonyms:
       - "VINLAND SAGA"
@@ -7385,6 +7609,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 124845
+  - title: "Wonderful Precure!"
+    seasons:
+      - season: 1
+        anilist-id: 171030
   - title: "Woodpecker Detective's Office"
     synonyms:
       - "Kitsutsuki Tantei Dokoro"
