@@ -1,13 +1,4 @@
 entries:
-  - title: " The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far"
-    synonyms:
-      - "Chronicles of an Aristocrat Reborn in Another World"
-      - "Noble New World Adventures"
-      - "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito"
-      - "The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far"
-    seasons:
-      - season: 1
-        anilist-id: 153332
   - title: "'Tis Time for \"Torture,\" Princess"
     synonyms:
       - "Hime-sama, \"Goumon\" no Jikan desu"
@@ -6506,6 +6497,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128545
+  - title: "The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far"
+    synonyms:
+      - "Chronicles of an Aristocrat Reborn in Another World"
+      - "Noble New World Adventures"
+      - "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito"
+      - "The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far"
+    seasons:
+      - season: 1
+        anilist-id: 153332
   - title: "The Asterisk War: The Academy City on the Water"
     synonyms:
       - "Academy Battle City Asterisk"
