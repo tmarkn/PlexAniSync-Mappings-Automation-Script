@@ -1,0 +1,108 @@
+entries:
+  - title: "Amagami SS"
+    seasons:
+      - season: 1
+        anilist-id: 8676
+      - season: 2
+        anilist-id: 11235
+  - title: "Battle Spirits: Burning Soul"
+    seasons:
+      - season: 1
+        anilist-id: 21020
+  - title: "ChäoS;HEAd"
+    synonyms:
+      - "ChaoS;HEAd"
+    seasons:
+      - season: 1
+        anilist-id: 4975
+  - title: "D.Gray-man"
+    synonyms:
+      - "D. Gray-man"
+      - "D. Grey-man"
+    seasons:
+      - season: 1
+        anilist-id: 1482
+      - season: 2
+        anilist-id: 1482
+  - title: "Initial D"
+    synonyms:
+      - "Inisharu Di"
+      - "Initial D 1st Stage"
+    seasons:
+      - season: 1
+        anilist-id: 185
+      - season: 2
+        anilist-id: 186
+      - season: 3
+        anilist-id: 187
+      - season: 4
+        anilist-id: 18
+      - season: 5
+        anilist-id: 15059
+      - season: 6
+        anilist-id: 19613
+  - title: "Love Live!"
+    synonyms:
+      - "Love Live! School Idol Project"
+      - "Love Live! School idol project"
+    seasons:
+      - season: 1
+        anilist-id: 15051
+      - season: 2
+        anilist-id: 19111
+  - title: "Major"
+    seasons:
+      - season: 1
+        anilist-id: 627
+      - season: 2
+        anilist-id: 558
+      - season: 3
+        anilist-id: 1842
+      - season: 4
+        anilist-id: 3226
+      - season: 5
+        anilist-id: 5028
+      - season: 6
+        anilist-id: 7655
+  - title: "Selector Infected Wixoss"
+    synonyms:
+      - "selector infected WIXOSS"
+    seasons:
+      - season: 1
+        anilist-id: 20615
+      - season: 2
+        anilist-id: 20714
+  - title: "Suzuka"
+    seasons:
+      - season: 1
+        anilist-id: 390
+
+  - title: "Monogatari"
+    synonyms:
+      - "Bakemonogatari"
+      - "Monogatari Series"
+    seasons:
+      - season: 0
+        anilist-id: 9260 # Kizumonogatari I: Tekketsu-hen
+        start: 2
+      - season: 0
+        anilist-id: 15689 # Nekomonogatari (Kuro)
+        start: 3
+      - season: 0
+        anilist-id: 20593 # Hanamonogatari
+        start: 10
+      - season: 0
+        anilist-id: 20918 # Tsukimonogatari
+        start: 15
+      - season: 0
+        anilist-id: 21399 # Kizumonogatari II: Nekketsu-hen
+        start: 19
+      - season: 0
+        anilist-id: 21400 # Kizumonogatari III: Reiketsu-hen
+        start: 20
+      - season: 0
+        anilist-id: 21520 # Koyomimonogatari
+        start: 21
+      - season: 0
+        anilist-id: 100815 # Zoku Owarimonogatari
+        start: 33
