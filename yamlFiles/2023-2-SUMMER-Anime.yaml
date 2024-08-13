@@ -117,20 +117,6 @@ entries:
       - season: 15
         anilist-id: 150970
         start: 26
-  - title: "Cardfight!! Vanguard overDress"
-    synonyms:
-      - "Cardfight!! Vanguard: overDress"
-    seasons:
-      - season: 1
-        anilist-id: 121962
-      - season: 2
-        anilist-id: 128827
-      - season: 3
-        anilist-id: 139212
-      - season: 4
-        anilist-id: 139213
-      - season: 5
-        anilist-id: 150970
   - title: "Classroom for Heroes"
     synonyms:
       - "Eiyuu Kyoushitsu"

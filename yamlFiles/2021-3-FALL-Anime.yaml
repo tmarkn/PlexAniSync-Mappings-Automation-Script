@@ -74,14 +74,6 @@ entries:
       - season: 14
         anilist-id: 128827
         start: 13
-  - title: "Cardfight!! Vanguard overDress"
-    synonyms:
-      - "Cardfight!! Vanguard: overDress"
-    seasons:
-      - season: 1
-        anilist-id: 121962
-      - season: 2
-        anilist-id: 128827
   - title: "Deep Insanity: The Lost Child"
     synonyms:
       - "Deep Insanity THE LOST CHILD"

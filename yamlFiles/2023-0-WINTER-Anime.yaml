@@ -110,18 +110,6 @@ entries:
       - season: 15
         anilist-id: 139213
         start: 14
-  - title: "Cardfight!! Vanguard overDress"
-    synonyms:
-      - "Cardfight!! Vanguard: overDress"
-    seasons:
-      - season: 1
-        anilist-id: 121962
-      - season: 2
-        anilist-id: 128827
-      - season: 3
-        anilist-id: 139212
-      - season: 4
-        anilist-id: 139213
   - title: "Chillin' in My 30s after Getting Fired from the Demon King's Army"
     synonyms:
       - "Chillin’ in My 30s after Getting Fired from the Demon King’s Army"
