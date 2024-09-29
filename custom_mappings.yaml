@@ -312,6 +312,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98385
+  - title: "After-school Hanako-kun"
+    synonyms:
+      - "Houkago Shounen Hanako-kun"
+      - "Toilet-bound Hanako-kun Anime Project Restart"
+    seasons:
+      - season: 1
+        anilist-id: 159074
+      - season: 2
+        anilist-id: 170893
   - title: "Afterlost"
     synonyms:
       - "AFTERLOST"
@@ -5077,6 +5086,7 @@ entries:
   - title: "Nina the Starry Bride"
     synonyms:
       - "Hoshi Furu Oukoku no Nina"
+      - "Hoshifuru Oukoku no Nina"
     seasons:
       - season: 1
         anilist-id: 171038
@@ -5856,9 +5866,7 @@ entries:
         anilist-id: 160442
   - title: "Ron Kamonohashi: Deranged Detective"
     synonyms:
-      - "El misterio prohibido de Ron Kamonohashi"
       - "Kamonohashi Ron no Kindan Suiri"
-      - "Meisterdetektiv Ron Kamonohashi"
       - "Ron Kamonohashi's Forbidden Deductions"
     seasons:
       - season: 1

@@ -17,6 +17,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 161364
+  - title: "After-school Hanako-kun"
+    synonyms:
+      - "Houkago Shounen Hanako-kun"
+      - "Toilet-bound Hanako-kun Anime Project Restart"
+    seasons:
+      - season: 1
+        anilist-id: 159074
   - title: "Arknights"
     synonyms:
       - "Arknights: PRELUDE TO DAWN"

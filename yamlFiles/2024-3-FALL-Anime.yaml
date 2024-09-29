@@ -19,6 +19,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 157965
+  - title: "After-school Hanako-kun"
+    synonyms:
+      - "Houkago Shounen Hanako-kun"
+    seasons:
+      - season: 1
+        anilist-id: 159074
+      - season: 2
+        anilist-id: 170893
   - title: "Arifureta: From Commonplace to World's Strongest"
     synonyms:
       - "Arifureta Shokugyou de Sekai Saikyou"
@@ -298,6 +306,7 @@ entries:
   - title: "Nina the Starry Bride"
     synonyms:
       - "Hoshi Furu Oukoku no Nina"
+      - "Hoshifuru Oukoku no Nina"
     seasons:
       - season: 1
         anilist-id: 171038
@@ -335,9 +344,7 @@ entries:
         anilist-id: 163134
   - title: "Ron Kamonohashi's Forbidden Deductions"
     synonyms:
-      - "El misterio prohibido de Ron Kamonohashi"
       - "Kamonohashi Ron no Kindan Suiri"
-      - "Meisterdetektiv Ron Kamonohashi"
       - "Ron Kamonohashi: Deranged Detective"
     seasons:
       - season: 1
