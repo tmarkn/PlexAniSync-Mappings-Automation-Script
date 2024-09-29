@@ -2469,6 +2469,12 @@ entries:
         anilist-id: 101385
       - season: 6
         anilist-id: 102005
+  - title: "Future Folktales"
+    synonyms:
+      - "Asatir: Mirai no Mukashibanashi"
+    seasons:
+      - season: 1
+        anilist-id: 117096
   - title: "Fuuka"
     seasons:
       - season: 1
@@ -2803,6 +2809,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 99748
+  - title: "Hamidashi Creative"
+    synonyms:
+      - "Hamidashi Creative The Animation"
+    seasons:
+      - season: 1
+        anilist-id: 169098
   - title: "Hand Shakers"
     seasons:
       - season: 1
@@ -3812,6 +3824,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 98448
+  - title: "Kinoko Inu - Mushroom Pup"
+    synonyms:
+      - "Kinoko Inu"
+      - "Kinokoinu"
+    seasons:
+      - season: 1
+        anilist-id: 177581
   - title: "Kirakira Happy★Hirake! Cocotama"
     synonyms:
       - "Kira Kira Happy ★ Hirake! Cocotama"
@@ -4083,6 +4102,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21858
+  - title: "Lockdown Zone: Level X"
+    synonyms:
+      - "Kankin Kuiki Level X"
+    seasons:
+      - season: 1
+        anilist-id: 180923
   - title: "Log Horizon"
     seasons:
       - season: 1
@@ -4091,6 +4116,12 @@ entries:
         anilist-id: 20671
       - season: 3
         anilist-id: 114862
+  - title: "Loner Life in Another World"
+    synonyms:
+      - "Hitoribocchi no Isekai Kouryaku"
+    seasons:
+      - season: 1
+        anilist-id: 173693
   - title: "Long Riders!"
     seasons:
       - season: 1
@@ -4731,6 +4762,10 @@ entries:
         anilist-id: 101340
       - season: 2
         anilist-id: 110028
+  - title: "Murder Mystery of the Dead"
+    seasons:
+      - season: 1
+        anilist-id: 181776
   - title: "Mushoku Tensei: Jobless Reincarnation"
     synonyms:
       - "Jobless Reincarnation: I Will Seriously Try If I Go To Another World"
@@ -4999,6 +5034,13 @@ entries:
         anilist-id: 97983
       - season: 7
         anilist-id: 166611
+  - title: "Negative Positive Angler"
+    synonyms:
+      - "NegaPosi Angler"
+      - "NP Angler"
+    seasons:
+      - season: 1
+        anilist-id: 179919
   - title: "Nekopara"
     seasons:
       - season: 1
@@ -5574,6 +5616,14 @@ entries:
         anilist-id: 113717
       - season: 2
         anilist-id: 153452
+  - title: "Ranma1/2 (2024)"
+    synonyms:
+      - "Ranma 1/2 (2024)"
+      - "Ranma 1/2 (New Anime)"
+      - "Ranma 1/2 (Shinsaku Anime)"
+    seasons:
+      - season: 1
+        anilist-id: 178533
   - title: "Rascal Does Not Dream of Bunny Girl Senpai"
     synonyms:
       - "AoButa"
@@ -7205,6 +7255,7 @@ entries:
     synonyms:
       - "THE iDOLM@STER SHINY COLORS"
       - "The iDOLM@STER: Shiny Colors"
+      - "The iDOLMASTER: Shiny Colors"
     seasons:
       - season: 1
         anilist-id: 162889

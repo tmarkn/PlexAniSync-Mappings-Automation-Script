@@ -157,6 +157,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 168537
+  - title: "Hamidashi Creative"
+    synonyms:
+      - "Hamidashi Creative The Animation"
+    seasons:
+      - season: 1
+        anilist-id: 169098
   - title: "How I Attended an All-Guy's Mixer"
     synonyms:
       - "Goukon ni Ittara Onna ga Inakatta Hanashi"
@@ -201,6 +207,13 @@ entries:
         anilist-id: 162984
       - season: 2
         anilist-id: 172199
+  - title: "Kinoko Inu - Mushroom Pup"
+    synonyms:
+      - "Kinoko Inu"
+      - "Kinokoinu"
+    seasons:
+      - season: 1
+        anilist-id: 177581
   - title: "Let This Grieving Soul Retire!"
     synonyms:
       - "Let This Grieving Soul Retire"
@@ -208,6 +221,18 @@ entries:
     seasons:
       - season: 1
         anilist-id: 175019
+  - title: "Lockdown Zone: Level X"
+    synonyms:
+      - "Kankin Kuiki Level X"
+    seasons:
+      - season: 1
+        anilist-id: 180923
+  - title: "Loner Life in Another World"
+    synonyms:
+      - "Hitoribocchi no Isekai Kouryaku"
+    seasons:
+      - season: 1
+        anilist-id: 173693
   - title: "Love Live! Superstar!!"
     seasons:
       - season: 1
@@ -240,6 +265,10 @@ entries:
         anilist-id: 143327
       - season: 2
         anilist-id: 171642
+  - title: "Murder Mystery of the Dead"
+    seasons:
+      - season: 1
+        anilist-id: 181776
   - title: "Natsume's Book of Friends"
     synonyms:
       - "Natsume Yujincho"
@@ -259,6 +288,13 @@ entries:
         anilist-id: 97983
       - season: 7
         anilist-id: 166611
+  - title: "Negative Positive Angler"
+    synonyms:
+      - "NegaPosi Angler"
+      - "NP Angler"
+    seasons:
+      - season: 1
+        anilist-id: 179919
   - title: "Nina the Starry Bride"
     synonyms:
       - "Hoshi Furu Oukoku no Nina"
@@ -271,6 +307,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 171400
+  - title: "Ranma1/2 (2024)"
+    synonyms:
+      - "Ranma 1/2 (2024)"
+      - "Ranma 1/2 (New Anime)"
+      - "Ranma 1/2 (Shinsaku Anime)"
+      - "Ranma1/2 (2024)"
+    seasons:
+      - season: 1
+        anilist-id: 178533
   - title: "Re: ZERO, Starting Life in Another World"
     synonyms:
       - "Re Zero"
@@ -357,6 +402,7 @@ entries:
     synonyms:
       - "THE iDOLM@STER SHINY COLORS"
       - "The iDOLM@STER: Shiny Colors"
+      - "The iDOLMASTER: Shiny Colors"
     seasons:
       - season: 1
         anilist-id: 162889
