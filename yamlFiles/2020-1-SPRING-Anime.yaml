@@ -135,6 +135,12 @@ entries:
         anilist-id: 105334
       - season: 2
         anilist-id: 111762
+  - title: "Future Folktales"
+    synonyms:
+      - "Asatir: Mirai no Mukashibanashi"
+    seasons:
+      - season: 1
+        anilist-id: 117096
   - title: "Gal & Dino"
     synonyms:
       - "GAL and Dinosaur"
