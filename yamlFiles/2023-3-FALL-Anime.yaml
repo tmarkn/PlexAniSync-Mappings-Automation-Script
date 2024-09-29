@@ -155,14 +155,6 @@ entries:
         anilist-id: 101165
       - season: 2
         anilist-id: 129188
-  - title: "GOD.app"
-    synonyms:
-      - "GOD.app"
-      - "Kamierabi"
-      - "KamiErabi GOD.app"
-    seasons:
-      - season: 1
-        anilist-id: 162984
   - title: "I Shall Survive Using Potions!"
     synonyms:
       - "Potion Tanomi de Ikinobimasu!"
@@ -184,6 +176,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 158704
+  - title: "KamiErabi GOD.app"
+    synonyms:
+      - "GOD.app"
+      - "Kamierabi"
+    seasons:
+      - season: 1
+        anilist-id: 162984
   - title: "Kawagoe Boys Sing"
     seasons:
       - season: 1
@@ -246,6 +245,7 @@ entries:
   - title: "Shangri-La Frontier"
     synonyms:
       - "ShanFro"
+      - "Shangri-La Frontier: Kusoge Hunter, Kami ge ni Idoman to su"
     seasons:
       - season: 1
         anilist-id: 151970
