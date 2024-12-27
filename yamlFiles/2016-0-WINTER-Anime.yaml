@@ -118,15 +118,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21482
-  - title: "Maho Girls Precure!"
-    synonyms:
-      - "MahoPuri"
-      - "Mahoutsukai Precure!"
-      - "Witchy PreCure!"
-      - "Witchy Pretty Cure"
-    seasons:
-      - season: 1
-        anilist-id: 21506
   - title: "Myriad Colors Phantom World"
     synonyms:
       - "Musaigen no Phantom World"
@@ -207,3 +198,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21188
+  - title: "Witchy Precure!"
+    synonyms:
+      - "Maho Girls Precure!"
+      - "MahoPuri"
+      - "Mahoutsukai Precure!"
+      - "Witchy Pretty Cure"
+    seasons:
+      - season: 1
+        anilist-id: 21506
