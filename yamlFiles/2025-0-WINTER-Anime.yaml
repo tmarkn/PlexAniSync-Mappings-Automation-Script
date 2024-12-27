@@ -1,0 +1,380 @@
+entries:
+  - title: "Ameku Takao's Detective Karte"
+    synonyms:
+      - "Ameku M.D.: Doctor Detective"
+      - "Ameku Takao no Suiri Karte"
+      - "Ameku Takao no Suiri Karute"
+    seasons:
+      - season: 1
+        anilist-id: 176642
+  - title: "Anyway, I'm Falling in Love with You"
+    synonyms:
+      - "Douse, Koishite Shimaunda."
+    seasons:
+      - season: 1
+        anilist-id: 175409
+  - title: "Aquarion: Myth of Emotions"
+    synonyms:
+      - "Sousei no Aquarion: Myth of Emotions"
+    seasons:
+      - season: 1
+        anilist-id: 162921
+  - title: "Baban Baban Ban Vampire"
+    synonyms:
+      - "Babanba Banban Vampire"
+    seasons:
+      - season: 1
+        anilist-id: 175422
+  - title: "BanG Dream! Ave Mujica"
+    synonyms:
+      - "Bandori"
+    seasons:
+      - season: 1
+        anilist-id: 169295
+  - title: "Beheneko: The Elf-Girl's Cat Is Secretly an S-Ranked Monster!"
+    synonyms:
+      - "BeheNeko"
+      - "I'm a \"Behemoth,\" an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl's Pet"
+      - "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu"
+    seasons:
+      - season: 1
+        anilist-id: 176158
+  - title: "Bogus Skill ＜＜Fruitmaster＞＞ ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~"
+    synonyms:
+      - "Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~"
+      - "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite"
+    seasons:
+      - season: 1
+        anilist-id: 178100
+  - title: "Cardfight!! Vanguard"
+    synonyms:
+      - "Cardfight Vanguard"
+    seasons:
+      - season: 1
+        anilist-id: 9539
+      - season: 2
+        anilist-id: 13145
+      - season: 3
+        anilist-id: 15611
+      - season: 4
+        anilist-id: 20564
+      - season: 5
+        anilist-id: 20921
+      - season: 6
+        anilist-id: 21345
+      - season: 7
+        anilist-id: 21664
+      - season: 8
+        anilist-id: 87476
+      - season: 9
+        anilist-id: 99733
+      - season: 10
+        anilist-id: 101594
+      - season: 11
+        anilist-id: 109260
+      - season: 12
+        anilist-id: 111144
+      - season: 13
+        anilist-id: 115656
+      - season: 14
+        anilist-id: 121962
+      - season: 14
+        anilist-id: 128827
+        start: 13
+      - season: 15
+        anilist-id: 139212
+      - season: 15
+        anilist-id: 139213
+        start: 14
+      - season: 15
+        anilist-id: 150970
+        start: 26
+      - season: 16
+        anilist-id: 164204
+      - season: 16
+        anilist-id: 165681
+        start: 14
+      - season: 17
+        anilist-id: 182920
+  - title: "Dr. STONE"
+    seasons:
+      - season: 1
+        anilist-id: 105333
+      - season: 1
+        anilist-id: 113936
+        start: 25
+      - season: 3
+        anilist-id: 131518
+      - season: 3
+        anilist-id: 162670
+        start: 12
+      - season: 4
+        anilist-id: 172019
+  - title: "Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest"
+    synonyms:
+      - "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest"
+      - "FuguKan"
+      - "Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru"
+    seasons:
+      - season: 1
+        anilist-id: 178548
+  - title: "Farmagia"
+    synonyms:
+      - "FARMAGIA"
+    seasons:
+      - season: 1
+        anilist-id: 178312
+  - title: "Flower and Asura"
+    synonyms:
+      - "Hana wa Saku, Shura no Gotoku"
+      - "Hanashura"
+    seasons:
+      - season: 1
+        anilist-id: 178022
+  - title: "From Bureaucrat to Villainess: Dad's Been Reincarnated!"
+    synonyms:
+      - "Akuyaku Reijou Tensei Oji-san"
+      - "The Middle-Aged Man that Reincarnated as a Villainess"
+    seasons:
+      - season: 1
+        anilist-id: 172453
+  - title: "Grisaia: Phantom Trigger The Animation (2025)"
+    synonyms:
+      - "Grisaia: Phantom Trigger THE ANIMATION (TV)"
+    seasons:
+      - season: 1
+        anilist-id: 145740
+  - title: "Headhunted to Another World: From Salaryman to Big Four!"
+    synonyms:
+      - "Salaryman Big 4"
+      - "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi"
+    seasons:
+      - season: 1
+        anilist-id: 179689
+  - title: "Honey Lemon Soda"
+    seasons:
+      - season: 1
+        anilist-id: 175443
+  - title: "I Have a Crush at Work"
+    synonyms:
+      - "KonoSuki"
+      - "Kono Kaisha ni Suki na Hito ga Imasu"
+    seasons:
+      - season: 1
+        anilist-id: 179696
+  - title: "I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths!"
+    synonyms:
+      - "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu."
+      - "After Leaving the A-Rank Party, I Aim for the Deep Part of the Labyrinth With My Former Students"
+    seasons:
+      - season: 1
+        anilist-id: 180812
+  - title: "I May Be a Guild Receptionist, But I'll Solo Any Boss to Clock Out on Time"
+    synonyms:
+      - "Girumasu"
+      - "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu"
+      - "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time"
+      - "Uketsukejou Saikyou"
+    seasons:
+      - season: 1
+        anilist-id: 167143
+  - title: "I Want to Escape from Princess Lessons"
+    synonyms:
+      - "Kisaki Kyouiku kara Nigetai Watashi"
+    seasons:
+      - season: 1
+        anilist-id: 170650
+  - title: "I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic"
+    synonyms:
+      - "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita"
+      - "BotsurakuKizoku"
+      - "I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic"
+    seasons:
+      - season: 1
+        anilist-id: 176063
+  - title: "I'm Getting Married to a Girl I Hate in My Class"
+    synonyms:
+      - "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta."
+      - "Kurakon"
+    seasons:
+      - season: 1
+        anilist-id: 178462
+  - title: "ISHURA"
+    synonyms:
+      - "Ishura"
+    seasons:
+      - season: 1
+        anilist-id: 161476
+      - season: 2
+        anilist-id: 176234
+  - title: "Kinnikuman Perfect Origin Arc"
+    synonyms:
+      - "Kinnikuman (2024)"
+      - "Kinnikuman: Kanpeki Choujin Shiso-hen"
+      - "Muscleman (New Anime)"
+    seasons:
+      - season: 1
+        anilist-id: 162796
+      - season: 2
+        anilist-id: 181886
+  - title: "Magic Maker: How to Make Magic in Another World"
+    synonyms:
+      - "Magic Maker: Isekai Mahou no Tsukurikata"
+    seasons:
+      - season: 1
+        anilist-id: 179297
+  - title: "Mashin Souzouden Wataru"
+    seasons:
+      - season: 1
+        anilist-id: 173333
+  - title: "Medaka Kuroiwa is Impervious to My Charms"
+    synonyms:
+      - "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai"
+      - "Medakawa"
+    seasons:
+      - season: 1
+        anilist-id: 177552
+  - title: "Medalist"
+    seasons:
+      - season: 1
+        anilist-id: 165171
+  - title: "Momentary Lily"
+    synonyms:
+      - "MomeLily"
+    seasons:
+      - season: 1
+        anilist-id: 177159
+  - title: "My Happy Marriage"
+    synonyms:
+      - "Meine ganz besondere Hochzeit"
+      - "Mi feliz matrimonio"
+      - "WataKon"
+      - "Watashi no Shiawase na Kekkon"
+    seasons:
+      - season: 1
+        anilist-id: 147103
+      - season: 2
+        anilist-id: 169441
+  - title: "OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Knew What She's Saying"
+    synonyms:
+      - "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru"
+    seasons:
+      - season: 1
+        anilist-id: 166699
+  - title: "Promise of Wizard"
+    synonyms:
+      - "Mahoutsukai no Yakusoku"
+      - "MahoYaku"
+    seasons:
+      - season: 1
+        anilist-id: 170916
+  - title: "Solo Leveling"
+    synonyms:
+      - "Na Honjaman Level Up"
+      - "Ore dake Level Up na Ken"
+    seasons:
+      - season: 1
+        anilist-id: 151807
+      - season: 2
+        anilist-id: 176496
+  - title: "Someday Will I Be the Greatest Alchemist?"
+    synonyms:
+      - "Izure Saikyou no Renkinjutsushi?"
+      - "Possibly the Greatest Alchemist of All Time"
+    seasons:
+      - season: 1
+        anilist-id: 177506
+  - title: "Sorairo Utility (TV)"
+    synonyms:
+      - "Sky Blue Utility"
+      - "Sorairo Utility (TV)"
+    seasons:
+      - season: 1
+        anilist-id: 174596
+  - title: "Tasokare Hotel"
+    seasons:
+      - season: 1
+        anilist-id: 178495
+  - title: "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You"
+    synonyms:
+      - "100 Kanojo"
+      - "100Kano"
+      - "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo"
+    seasons:
+      - season: 1
+        anilist-id: 162694
+      - season: 2
+        anilist-id: 172258
+  - title: "The Apothecary Diaries"
+    synonyms:
+      - "Drugstore Soliloquy"
+      - "Kusuriya no Hitorigoto"
+    seasons:
+      - season: 1
+        anilist-id: 161645
+      - season: 2
+        anilist-id: 176301
+  - title: "The Daily Life of a Middle-Aged Online Shopper in Another World"
+    synonyms:
+      - "Arafou Otoko no Isekai Tsuuhan Seikatsu"
+      - "Around 40 Otoko no Isekai Tsuuhan Seikatsu"
+    seasons:
+      - season: 1
+        anilist-id: 180292
+  - title: "THE RED RANGER Becomes an Adventurer in Another World"
+    synonyms:
+      - "Sentai Red Isekai de Boukensha ni Naru"
+      - "The Red Ranger Becomes an Adventurer in Another World"
+    seasons:
+      - season: 1
+        anilist-id: 180052
+  - title: "Toilet-Bound Hanako-kun"
+    synonyms:
+      - "Jibaku Shounen Hanako-kun"
+      - "Toilet-bound Hanako-kun"
+    seasons:
+      - season: 1
+        anilist-id: 108463
+      - season: 2
+        anilist-id: 170892
+  - title: "UniteUp!"
+    seasons:
+      - season: 1
+        anilist-id: 154969
+      - season: 2
+        anilist-id: 167742
+  - title: "Unnamed Memory"
+    seasons:
+      - season: 1
+        anilist-id: 158709
+      - season: 2
+        anilist-id: 178550
+  - title: "Welcome to Japan, Ms. Elf!"
+    synonyms:
+      - "Nihon e Youkoso Elf-san."
+    seasons:
+      - season: 1
+        anilist-id: 172439
+  - title: "Witchy Precure!"
+    synonyms:
+      - "Maho Girls Precure!"
+      - "MahoPuri"
+      - "Mahoutsukai Precure!"
+      - "Witchy Pretty Cure"
+    seasons:
+      - season: 1
+        anilist-id: 21506
+      - season: 2
+        anilist-id: 162722
+  - title: "ZENSHU"
+    synonyms:
+      - "Zenshuu."
+    seasons:
+      - season: 1
+        anilist-id: 176273
+  - title: "Übel Blatt"
+    synonyms:
+      - "Ubel Blatt"
+    seasons:
+      - season: 1
+        anilist-id: 175198
