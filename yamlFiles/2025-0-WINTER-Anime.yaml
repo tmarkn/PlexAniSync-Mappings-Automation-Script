@@ -169,6 +169,15 @@ entries:
     seasons:
       - season: 1
         anilist-id: 180812
+  - title: "I'm Living with an Otaku NEET Kunoichi!?"
+    synonyms:
+      - "I’m Living with an Otaku NEET Kunoichi!?"
+      - "NEET de Otaku na Kunoichi to Naze ka Dousei Hajimemashita"
+      - "NEET Kunoichi to Naze ka Dousei Hajimemashita"
+      - "Somehow, I Started Living With a NEET Otaku Kunoichi"
+    seasons:
+      - season: 1
+        anilist-id: 174654
   - title: "I May Be a Guild Receptionist, But I'll Solo Any Boss to Clock Out on Time"
     synonyms:
       - "Girumasu"
