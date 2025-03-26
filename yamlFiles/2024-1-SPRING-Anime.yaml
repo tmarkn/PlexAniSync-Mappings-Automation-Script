@@ -99,8 +99,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 164212
-  - title: "GO! GO! Loser Ranger!"
+  - title: "Go! Go! Loser Ranger!"
     synonyms:
+      - "GO! GO! Loser Ranger!"
       - "No Longer Rangers"
       - "Ranger Reject"
       - "Sentai Daishikkaku"
@@ -136,6 +137,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 152302
+  - title: "Himitsu no AiPri"
+    seasons:
+      - season: 1
+        anilist-id: 171080
   - title: "I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability"
     synonyms:
       - "Dainanaoji"
@@ -240,6 +245,27 @@ entries:
     seasons:
       - season: 1
         anilist-id: 167927
+  - title: "Oshiri Tantei"
+    seasons:
+      - season: 1
+        anilist-id: 100790
+      - season: 2
+        anilist-id: 132694
+      - season: 3
+        anilist-id: 132695
+      - season: 4
+        anilist-id: 132696
+      - season: 5
+        anilist-id: 132697
+      - season: 6
+        anilist-id: 179870
+      - season: 7
+        anilist-id: 179871
+      - season: 7
+        anilist-id: 179872
+        start: 9
+      - season: 8
+        anilist-id: 185644
   - title: "Prince Without a Servant: The Chronicle of Yatagarasu"
     synonyms:
       - "Karasu wa Aruji wo Erabanai"
@@ -396,9 +422,10 @@ entries:
     seasons:
       - season: 1
         anilist-id: 160181
-  - title: "Wind Breaker"
+  - title: "WIND BREAKER"
     synonyms:
-      - "WIND BREAKER"
+      - "WBK"
+      - "Wind Breaker"
     seasons:
       - season: 1
         anilist-id: 163270
