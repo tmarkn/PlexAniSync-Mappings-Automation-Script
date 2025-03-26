@@ -230,6 +230,20 @@ entries:
     seasons:
       - season: 1
         anilist-id: 136303
+  - title: "Oshiri Tantei"
+    seasons:
+      - season: 1
+        anilist-id: 100790
+      - season: 2
+        anilist-id: 132694
+      - season: 3
+        anilist-id: 132695
+      - season: 4
+        anilist-id: 132696
+      - season: 5
+        anilist-id: 132697
+      - season: 6
+        anilist-id: 179870
   - title: "RPG Real Estate"
     synonyms:
       - "RPG Fudousan"
