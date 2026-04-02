@@ -106,3 +106,8 @@ entries:
       - season: 0
         anilist-id: 100815 # Zoku Owarimonogatari
         start: 33
+
+  - title: "Oshiri Dandy the Young"
+    seasons:
+      - season: 1
+        anilist-id: 201910

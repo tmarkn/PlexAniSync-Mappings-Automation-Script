@@ -1,0 +1,399 @@
+entries:
+  - title: "A Hundred Scenes of AWAJIMA"
+    synonyms:
+      - "Awajima Hyakkei"
+      - "Scenes from Awajima"
+    seasons:
+      - season: 1
+        anilist-id: 177501
+  - title: "Ace of the Diamond"
+    synonyms:
+      - "Ace of Diamond"
+      - "Daiya no A"
+      - "Daiya no Ace"
+      - "Diamond no Ace"
+    seasons:
+      - season: 1
+        anilist-id: 18689
+      - season: 2
+        anilist-id: 21085
+      - season: 3
+        anilist-id: 105749
+      - season: 4
+        anilist-id: 177634
+  - title: "Agents of the Four Seasons"
+    synonyms:
+      - "4 Seasons"
+      - "Agents of the Four Seasons: Dance of Spring"
+      - "Shunkashuutou Daikousha: Haru no Mai"
+    seasons:
+      - season: 1
+        anilist-id: 190143
+  - title: "Akane-banashi"
+    seasons:
+      - season: 1
+        anilist-id: 196935
+  - title: "Always a Catch!"
+    synonyms:
+      - "Always a Catch!: How I Punched My Way into Marrying a Prince"
+      - "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken"
+      - "Nigetsuri"
+      - "The Fish I Missed Was Big, but the Fish I Caught Was Too Big"
+    seasons:
+      - season: 1
+        anilist-id: 201817
+  - title: "An Observation Log of My Fiancée Who Calls Herself a Villainess"
+    synonyms:
+      - "An Observation Log of My Fiancee Who Calls Herself a Villainess"
+      - "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku."
+    seasons:
+      - season: 1
+        anilist-id: 192808
+  - title: "Ascendance of a Bookworm"
+    synonyms:
+      - "Ascendance of a Bookworm: I'll do anything to become a librarian"
+      - "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
+    seasons:
+      - season: 1
+        anilist-id: 108268
+      - season: 1
+        anilist-id: 113693
+        start: 15
+      - season: 1
+        anilist-id: 121176
+        start: 27
+      - season: 1
+        anilist-id: 171110
+        start: 37
+  - title: "Botan Kamiina Fully Blossoms When Drunk"
+    synonyms:
+      - "Kamiina Botan, Yoeru Sugata wa Yuri no Hana"
+    seasons:
+      - season: 1
+        anilist-id: 187869
+  - title: "Classroom of the Elite"
+    synonyms:
+      - "Cote"
+      - "You-Zitsu"
+      - "Youjitsu"
+      - "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+    seasons:
+      - season: 1
+        anilist-id: 98659
+      - season: 2
+        anilist-id: 145545
+      - season: 3
+        anilist-id: 146066
+      - season: 4
+        anilist-id: 180745
+  - title: "Daemons of the Shadow Realm"
+    synonyms:
+      - "Yomi no Tsugai"
+      - "YomiTsuga"
+    seasons:
+      - season: 1
+        anilist-id: 195600
+  - title: "Dr. STONE"
+    seasons:
+      - season: 1
+        anilist-id: 105333
+      - season: 1
+        anilist-id: 113936
+        start: 25
+      - season: 2
+        anilist-id: 113936
+      - season: 3
+        anilist-id: 131518
+      - season: 3
+        anilist-id: 162670
+        start: 12
+      - season: 4
+        anilist-id: 172019
+      - season: 5
+        anilist-id: 199221
+        start: 25
+  - title: "Eren the Southpaw (2026)"
+    synonyms:
+      - "Eren the Southpaw"
+      - "Hidarikiki no Eren"
+    seasons:
+      - season: 1
+        anilist-id: 158036
+  - title: "Even a Replica Can Fall in Love"
+    synonyms:
+      - "Replica Datte, Koi wo Suru."
+    seasons:
+      - season: 1
+        anilist-id: 186744
+  - title: "Farming Life in Another World"
+    synonyms:
+      - "Isekai Nonbiri Nouka"
+    seasons:
+      - season: 1
+        anilist-id: 146850
+      - season: 2
+        anilist-id: 197824
+  - title: "Hokuto no Ken: Fist of the North Star"
+    synonyms:
+      - "FIST OF THE NORTH STAR: HOKUTO NO KEN"
+      - "Hokuto no Ken: FIST OF THE NORTH STAR"
+    seasons:
+      - season: 1
+        anilist-id: 169228
+  - title: "Gals Can't Be Kind to Otaku!?"
+    synonyms:
+      - "OtaGal"
+      - "Otaku ni Yasashii Gal wa Inai!?"
+    seasons:
+      - season: 1
+        anilist-id: 199588
+  - title: "GHOST CONCERT : missing Songs"
+    synonyms:
+      - "Ghost Concert: missing Songs"
+    seasons:
+      - season: 1
+        anilist-id: 201090
+  - title: "Haibara’s Teenage New Game+"
+    synonyms:
+      - "Haibara's Teenage New Game+"
+      - "Haibara-kun no Tsuyokute Seishun New Game"
+    seasons:
+      - season: 1
+        anilist-id: 195333
+  - title: "I Made Friends with the Second Prettiest Girl in My Class"
+    synonyms:
+      - "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta"
+      - "I Became Friends with the Second Cutest Girl in My Class"
+    seasons:
+      - season: 1
+        anilist-id: 169580
+  - title: "I Want to End This Love Game"
+    synonyms:
+      - "Aishiteru Game wo Owarasetai"
+      - "I Want to End this Love Game"
+    seasons:
+      - season: 1
+        anilist-id: 194393
+  - title: "Ichijyoma Mankitsu Gurashi!"
+    synonyms:
+      - "Ichijouma Mankitsu Gurashi!"
+    seasons:
+      - season: 1
+        anilist-id: 195734
+  - title: "Kill Blue"
+    synonyms:
+      - "Kill Ao"
+    seasons:
+      - season: 1
+        anilist-id: 198113
+  - title: "Kirio Fan Club"
+    synonyms:
+      - "Kirio Fanclub"
+      - "KirioFC"
+    seasons:
+      - season: 1
+        anilist-id: 181284
+  - title: "Kujima Utaeba Ie Hororo"
+    synonyms:
+      - "Kujima: Why Sing, When You Can Warble?"
+    seasons:
+      - season: 1
+        anilist-id: 177508
+  - title: "Kusunoki's Garden of Gods"
+    synonyms:
+      - "Kami no Niwatsuki Kusunoki-tei "
+    seasons:
+      - season: 1
+        anilist-id: 196029
+  - title: "LIAR GAME"
+    seasons:
+      - season: 1
+        anilist-id: 197754
+  - title: "Magical Sisters LuluttoLilly"
+    synonyms:
+      - "Magical Sisters Lulutto Lilly"
+      - "Mahou no Shimai Lulutto Lilly"
+    seasons:
+      - season: 1
+        anilist-id: 178749
+  - title: "MAO"
+    seasons:
+      - season: 1
+        anilist-id: 196012
+  - title: "MARRIAGETOXIN"
+    seasons:
+      - season: 1
+        anilist-id: 199547
+  - title: "Mission: Yozakura Family"
+    synonyms:
+      - "Yozakura-san Chi no Daisakusen"
+    seasons:
+      - season: 1
+        anilist-id: 158898
+      - season: 2
+        anilist-id: 182578
+  - title: "Mistress Kanan is Devilishly Easy"
+    synonyms:
+      - "KanaChoro"
+      - "Kanan-sama Is Easy as Hell!"
+      - "Kanan-sama wa Akumade Choroi"
+    seasons:
+      - season: 1
+        anilist-id: 190704
+  - title: "Little Mouse's Red Vest"
+    synonyms:
+      - "Nezumi-kun no Chokki (TV)"
+    seasons:
+      - season: 1
+        anilist-id: 198411
+  - title: "Petals of Reincarnation"
+    synonyms:
+      - "Reincarnation no Kaben"
+    seasons:
+      - season: 1
+        anilist-id: 179950
+  - title: "Re: ZERO, Starting Life in Another World"
+    synonyms:
+      - "Re Zero"
+      - "Re: Life in a different world from zero"
+      - "Re:ZERO -Starting Life in Another World-"
+      - "Re:Zero kara Hajimeru Isekai Seikatsu"
+      - "ReZero"
+    seasons:
+      - season: 1
+        anilist-id: 21355
+      - season: 2
+        anilist-id: 108632
+      - season: 2
+        anilist-id: 119661
+        start: 14
+      - season: 3
+        anilist-id: 163134
+      - season: 4
+        anilist-id: 189046
+  - title: "Reborn as a Vending Machine, I Now Wander the Dungeon"
+    synonyms:
+      - "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou"
+      - "Jihanki"
+    seasons:
+      - season: 1
+        anilist-id: 153360
+      - season: 2
+        anilist-id: 169440
+      - season: 3
+        anilist-id: 198939
+  - title: "Rooster Fighter"
+    synonyms:
+      - "Niwatori Fighter"
+    seasons:
+      - season: 1
+        anilist-id: 179813
+  - title: "SNOWBALL EARTH"
+    synonyms:
+      - "Snowball Earth"
+    seasons:
+      - season: 1
+        anilist-id: 196144
+  - title: "That Time I Got Reincarnated as a Slime"
+    synonyms:
+      - "Tensei Shitara Slime Datta Ken"
+      - "TenSura"
+    seasons:
+      - season: 1
+        anilist-id: 101280
+      - season: 2
+        anilist-id: 108511
+      - season: 2
+        anilist-id: 116742
+        start: 13
+      - season: 3
+        anilist-id: 156822
+      - season: 4
+        anilist-id: 182205
+  - title: "The Angel Next Door Spoils Me Rotten"
+    synonyms:
+      - "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
+    seasons:
+      - season: 1
+        anilist-id: 143338
+      - season: 2
+        anilist-id: 170019
+  - title: "The Beginning After the End"
+    synonyms:
+      - "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?"
+      - "TBATE"
+    seasons:
+      - season: 1
+        anilist-id: 183161
+      - season: 2
+        anilist-id: 194317
+  - title: "The Classroom of a Black Cat and a Witch"
+    synonyms:
+      - "Kuroneko to Majo no Kyoushitsu"
+    seasons:
+      - season: 1
+        anilist-id: 196974
+  - title: "The Klutzy Class Monitor and the Girl with the Short Skirt"
+    synonyms:
+      - "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi"
+      - "PonSuka"
+      - "The Story Between a Dumb Prefect and a High School Girl with an Inappropriate Skirt Length"
+    seasons:
+      - season: 1
+        anilist-id: 189987
+  - title: "The Most Heretical Last Boss Queen: From Villainess to Savior"
+    synonyms:
+      - "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu."
+    seasons:
+      - season: 1
+        anilist-id: 156040
+      - season: 2
+        anilist-id: 195268
+  - title: "The Ramparts of Ice"
+    synonyms:
+      - "Koori no Jouheki"
+    seasons:
+      - season: 1
+        anilist-id: 186497
+  - title: "The Warrior Princess and the Barbaric King"
+    synonyms:
+      - "Hime Kishi wa Barbaroi no Yome"
+      - "The Bride of Babaroi"
+    seasons:
+      - season: 1
+        anilist-id: 182483
+  - title: "Welcome to Demon School! Iruma-kun"
+    synonyms:
+      - "Mairimashita! Iruma-kun"
+      - "Welcome to Demon School, Iruma-kun!"
+    seasons:
+      - season: 1
+        anilist-id: 107693
+      - season: 2
+        anilist-id: 116338
+      - season: 3
+        anilist-id: 139092
+      - season: 4
+        anilist-id: 184492
+  - title: "Wistoria: Wand and Sword"
+    synonyms:
+      - "Tsue to Tsurugi no Wistoria"
+    seasons:
+      - season: 1
+        anilist-id: 174576
+      - season: 2
+        anilist-id: 182300
+  - title: "Witch Hat Atelier"
+    synonyms:
+      - "Atelier of Witch Hat"
+      - "Tongari Boushi no Atelier"
+    seasons:
+      - season: 1
+        anilist-id: 147105
+  - title: "Yowayowa Sensei"
+    synonyms:
+      - "Yowa Yowa Sensei"
+      - "YowaYowa Teacher"
+    seasons:
+      - season: 1
+        anilist-id: 185211
